@@ -1,0 +1,418 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "koala73 / worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars": "66747",
+      "stars_today": "1,295 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "bojieli / ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": "16266",
+      "stars_today": "4,624 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "tirth8205 / code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "stars": "24908",
+      "stars_today": "1,925 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "ayghri / i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "stars": "7351",
+      "stars_today": "1,866 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "earthtojake / text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "stars": "9397",
+      "stars_today": "291 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 6,
+      "title": "1jehuang / jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most intelligent agent harness for code",
+      "stars": "10517",
+      "stars_today": "843 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 7,
+      "title": "oblien / openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "stars": "6586",
+      "stars_today": "1,562 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 8,
+      "title": "AstrBotDevs / AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "stars": "37631",
+      "stars_today": "416 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "every-app / open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "stars": "6751",
+      "stars_today": "849 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 10,
+      "title": "tradesdontlie / tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "stars": "4970",
+      "stars_today": "114 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 11,
+      "title": "AlexsJones / llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "stars": "30345",
+      "stars_today": "129 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 12,
+      "title": "hyprwm / Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "stars": "37131",
+      "stars_today": "58 stars today",
+      "language": "C++"
+    },
+    {
+      "rank": 13,
+      "title": "chrislgarry / Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "stars": "70141",
+      "stars_today": "1,235 stars today",
+      "language": "Assembly"
+    },
+    {
+      "rank": 14,
+      "title": "DioxusLabs / dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "stars": "37794",
+      "stars_today": "271 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 15,
+      "title": "langchain-ai / open_deep_research",
+      "url": "https://github.com/langchain-ai/open_deep_research",
+      "description": "",
+      "stars": "12332",
+      "stars_today": "23 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?!)",
+      "url": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
+      "source_url": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
+      "tags": [
+        "devops",
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "source_url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "git --end-of-options",
+      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "source_url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "tags": [
+        "security",
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Bringing the modern web to the original iPad mini",
+      "url": "https://seg6.space/posts/resurrecting-ipad-mini",
+      "source_url": "https://seg6.space/posts/resurrecting-ipad-mini",
+      "tags": [
+        "browsers",
+        "objectivec",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Free Ink · An open ecosystem for e-readers",
+      "url": "https://freeink.org/",
+      "source_url": "https://freeink.org/",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "“No AI” Statements Are Much More Than Mere Statements",
+      "url": "https://journal.james-zhan.com/no-ai-statements/",
+      "source_url": "https://journal.james-zhan.com/no-ai-statements/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "source_url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "Linux kernel will support $ORIGIN, sort of",
+      "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+      "source_url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+      "tags": [
+        "c",
+        "linux",
+        "nix",
+        "osdev"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "95 reasons for having your own website",
+      "url": "https://bellkiosk.website/blog/reasons-to-website.html",
+      "source_url": "https://bellkiosk.website/blog/reasons-to-website.html",
+      "tags": [
+        "philosophy",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "COSMIC DE’s First Seven Months",
+      "url": "https://system76.com/blog/post/cosmic-de-first-seven-months",
+      "source_url": "https://system76.com/blog/post/cosmic-de-first-seven-months",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "Some more things about Django I've been enjoying",
+      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+      "source_url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+      "tags": [
+        "python",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Thoughts On Integers (2023)",
+      "url": "https://blog.xoria.org/integers/",
+      "source_url": "https://blog.xoria.org/integers/",
+      "tags": [
+        "plt"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "Web-based Jujutsu revset explorer & debugger",
+      "url": "https://juju.bi/tools/revset",
+      "source_url": "https://juju.bi/tools/revset",
+      "tags": [
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "432 Linux kernel CVEs published in the last 24 hours",
+      "url": "https://lore.kernel.org/linux-cve-announce/",
+      "source_url": "https://lore.kernel.org/linux-cve-announce/",
+      "tags": [
+        "linux",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "ECC and DDR5",
+      "url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
+      "source_url": "https://etbe.coker.com.au/2026/07/19/ecc-ddr5/",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "角落新声｜我的上帝模式，一名设计师创作环境的演变CG艺术实验室10:04",
+      "url": "https://sspai.com/post/112109",
+      "author": "CG艺术实验室",
+      "summary": "角落新声｜我的上帝模式，一名设计师创作环境的演变"
+    },
+    {
+      "rank": 2,
+      "title": "滤镜背后的色彩科学：LUT 是什么？从风格滤镜，到电影中的专业调色，聊聊 LUT 所代表的色彩规则。Nnnobel15:00",
+      "url": "https://sspai.com/post/111550",
+      "author": "Nnnobel",
+      "summary": "滤镜背后的色彩科学：LUT 是什么？"
+    },
+    {
+      "rank": 3,
+      "title": "派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等少数派编辑部08:30派早报",
+      "url": "https://sspai.com/post/112597",
+      "author": "少数派编辑部",
+      "summary": "派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等"
+    },
+    {
+      "rank": 4,
+      "title": "社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车Matrix机器人昨天 17:00",
+      "url": "https://sspai.com/post/112582",
+      "author": "Matrix机器人",
+      "summary": "社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车"
+    },
+    {
+      "rank": 5,
+      "title": "聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1783932697",
+      "author": "一派讨论",
+      "summary": "聊聊你在各购物平台独占的「固定回购清单」？"
+    },
+    {
+      "rank": 6,
+      "title": "装上 Fedora 的 Surface Pro：一台老设备的新可能StephenFang昨天 15:00",
+      "url": "https://sspai.com/post/112200",
+      "author": "StephenFang",
+      "summary": "装上 Fedora 的 Surface Pro：一台老设备的新可能"
+    },
+    {
+      "rank": 7,
+      "title": "App+1 | 把「从长视频截取片段」做到极致：TrimlyBleaker昨天 11:00Matrix精选",
+      "url": "https://sspai.com/post/111569",
+      "author": "Bleaker",
+      "summary": "App+1 | 把「从长视频截取片段」做到极致：Trimly"
+    },
+    {
+      "rank": 8,
+      "title": "派早报：京沪高铁与京沪铁路试点提前 60 天预约购票等少数派编辑部昨天 08:02派早报",
+      "url": "https://sspai.com/post/112565",
+      "author": "少数派编辑部",
+      "summary": "派早报：京沪高铁与京沪铁路试点提前 60 天预约购票等"
+    },
+    {
+      "rank": 9,
+      "title": "派评 | 近期值得关注的 App少数派编辑部前天 18:00",
+      "url": "https://sspai.com/post/112543",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 10,
+      "title": "角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫北鸮前天 15:05",
+      "url": "https://sspai.com/post/112453",
+      "author": "北鸮",
+      "summary": "角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫"
+    },
+    {
+      "rank": 11,
+      "title": "聊聊你手机背面的「磁吸配件」？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1783307199",
+      "author": "一派投票",
+      "summary": "聊聊你手机背面的「磁吸配件」？"
+    },
+    {
+      "rank": 12,
+      "title": "2026 年再看 iPhone 8 Plus，它还够用吗？旋转的陀螺前天 11:00视频",
+      "url": "https://sspai.com/post/112425",
+      "author": "旋转的陀螺",
+      "summary": "2026 年再看 iPhone 8 Plus，它还够用吗？"
+    }
+  ]
+}

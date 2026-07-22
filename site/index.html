@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>每日热点汇总 - 归档</title>
+<style>
+:root { --warm-bg: #faf6f1; --card-bg: #ffffff; --text-primary: #3a3a3a;
+  --text-secondary: #777; --border-light: #e8e0d8; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, "Segoe UI", "Microsoft YaHei", "PingFang SC", sans-serif;
+  background: var(--warm-bg); color: var(--text-primary);
+  line-height: 1.8; padding: 40px 20px;
+}
+.container { max-width: 600px; margin: 0 auto; }
+.header {
+  text-align: center; margin-bottom: 40px;
+  padding-bottom: 24px; border-bottom: 2px solid var(--border-light);
+}
+.header h1 { font-size: 28px; font-weight: 700; }
+.header p { font-size: 15px; color: var(--text-secondary); margin-top: 8px; }
+.date-list { list-style: none; }
+.date-list li {
+  background: var(--card-bg); border: 1px solid var(--border-light);
+  border-radius: 8px; padding: 14px 20px; margin-bottom: 10px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+}
+.date-list li a {
+  color: var(--text-primary); text-decoration: none;
+  font-size: 16px; font-weight: 600;
+}
+.date-list li a:hover { color: #4a90d9; }
+.date-list li .meta {
+  font-size: 13px; color: var(--text-secondary); margin-top: 4px;
+}
+.empty {
+  text-align: center; padding: 60px 20px;
+  color: var(--text-secondary); font-size: 15px;
+}
+.footer {
+  text-align: center; margin-top: 40px;
+  font-size: 12px; color: var(--text-secondary);
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <h1>每日热点汇总</h1>
+    <p>自动抓取 GitHub Trending / Lobsters / 少数派 + AI 摘要</p>
+  </div>
+  <ul class="date-list"><li><a href="2026-07-22.html">2026-07-22 周三</a></li></ul>
+  <div class="footer">
+    Powered by GitHub Actions · 每日 UTC 01:00 自动更新
+  </div>
+</div>
+</body>
+</html>
