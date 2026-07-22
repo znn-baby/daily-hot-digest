@@ -161,7 +161,7 @@ schedule:
 
 ```python
 payload = {
-    "model": "Qwen/Qwen2.5-7B-Instruct",  # 换成其他免费模型
+    "model": "Qwen/Qwen3.5-9B",  # 换成其他免费模型
     ...
 }
 ```
