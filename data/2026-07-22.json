@@ -5,7 +5,7 @@
       "title": "koala73 / worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "stars": "66905",
+      "stars": "67095",
       "stars_today": "1,295 stars today",
       "language": "TypeScript"
     },
@@ -14,7 +14,7 @@
       "title": "bojieli / ai-agent-book",
       "url": "https://github.com/bojieli/ai-agent-book",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": "16453",
+      "stars": "16698",
       "stars_today": "4,624 stars today",
       "language": "Python"
     },
@@ -23,7 +23,7 @@
       "title": "tirth8205 / code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "stars": "24934",
+      "stars": "24980",
       "stars_today": "1,925 stars today",
       "language": "Python"
     },
@@ -32,7 +32,7 @@
       "title": "ayghri / i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "stars": "7405",
+      "stars": "7486",
       "stars_today": "1,866 stars today",
       "language": "Python"
     },
@@ -41,7 +41,7 @@
       "title": "earthtojake / text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "A collection of agent skills for CAD, robotics and hardware design",
-      "stars": "9429",
+      "stars": "9456",
       "stars_today": "291 stars today",
       "language": "JavaScript"
     },
@@ -50,7 +50,7 @@
       "title": "1jehuang / jcode",
       "url": "https://github.com/1jehuang/jcode",
       "description": "The most intelligent agent harness for code",
-      "stars": "10538",
+      "stars": "10557",
       "stars_today": "843 stars today",
       "language": "Rust"
     },
@@ -59,7 +59,7 @@
       "title": "oblien / openship",
       "url": "https://github.com/oblien/openship",
       "description": "Self-hosted deployment platform",
-      "stars": "6623",
+      "stars": "6668",
       "stars_today": "1,562 stars today",
       "language": "TypeScript"
     },
@@ -68,7 +68,7 @@
       "title": "AstrBotDevs / AstrBot",
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "stars": "37650",
+      "stars": "37670",
       "stars_today": "416 stars today",
       "language": "Python"
     },
@@ -77,7 +77,7 @@
       "title": "every-app / open-seo",
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
-      "stars": "6766",
+      "stars": "6788",
       "stars_today": "849 stars today",
       "language": "TypeScript"
     },
@@ -86,7 +86,7 @@
       "title": "tradesdontlie / tradingview-mcp",
       "url": "https://github.com/tradesdontlie/tradingview-mcp",
       "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-      "stars": "4982",
+      "stars": "5002",
       "stars_today": "114 stars today",
       "language": "JavaScript"
     },
@@ -95,7 +95,7 @@
       "title": "AlexsJones / llmfit",
       "url": "https://github.com/AlexsJones/llmfit",
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "stars": "30358",
+      "stars": "30373",
       "stars_today": "129 stars today",
       "language": "Rust"
     },
@@ -104,7 +104,7 @@
       "title": "hyprwm / Hyprland",
       "url": "https://github.com/hyprwm/Hyprland",
       "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "stars": "37144",
+      "stars": "37153",
       "stars_today": "58 stars today",
       "language": "C++"
     },
@@ -113,7 +113,7 @@
       "title": "chrislgarry / Apollo-11",
       "url": "https://github.com/chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "stars": "70171",
+      "stars": "70207",
       "stars_today": "1,235 stars today",
       "language": "Assembly"
     },
@@ -122,7 +122,7 @@
       "title": "DioxusLabs / dioxus",
       "url": "https://github.com/DioxusLabs/dioxus",
       "description": "Fullstack app framework for web, desktop, and mobile.",
-      "stars": "37809",
+      "stars": "37825",
       "stars_today": "271 stars today",
       "language": "Rust"
     },
@@ -131,7 +131,7 @@
       "title": "langchain-ai / open_deep_research",
       "url": "https://github.com/langchain-ai/open_deep_research",
       "description": "",
-      "stars": "12347",
+      "stars": "12362",
       "stars_today": "23 stars today",
       "language": "Python"
     }
@@ -177,19 +177,6 @@
     },
     {
       "rank": 4,
-      "title": "git --end-of-options",
-      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "source_url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "tags": [
-        "security",
-        "vcs"
-      ],
-      "score": "",
-      "comments": "",
-      "author": ""
-    },
-    {
-      "rank": 5,
       "title": "Bringing the modern web to the original iPad mini",
       "url": "https://seg6.space/posts/resurrecting-ipad-mini",
       "source_url": "https://seg6.space/posts/resurrecting-ipad-mini",
@@ -197,6 +184,19 @@
         "browsers",
         "objectivec",
         "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "git --end-of-options",
+      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "source_url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "tags": [
+        "security",
+        "vcs"
       ],
       "score": "",
       "comments": "",
@@ -255,11 +255,11 @@
     },
     {
       "rank": 10,
-      "title": "95 reasons for having your own website",
-      "url": "https://bellkiosk.website/blog/reasons-to-website.html",
-      "source_url": "https://bellkiosk.website/blog/reasons-to-website.html",
+      "title": "Some more things about Django I've been enjoying",
+      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+      "source_url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
       "tags": [
-        "philosophy",
+        "python",
         "web"
       ],
       "score": "",
@@ -268,11 +268,11 @@
     },
     {
       "rank": 11,
-      "title": "Some more things about Django I've been enjoying",
-      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
-      "source_url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+      "title": "95 reasons for having your own website",
+      "url": "https://bellkiosk.website/blog/reasons-to-website.html",
+      "source_url": "https://bellkiosk.website/blog/reasons-to-website.html",
       "tags": [
-        "python",
+        "philosophy",
         "web"
       ],
       "score": "",
@@ -305,12 +305,11 @@
     },
     {
       "rank": 14,
-      "title": "432 Linux kernel CVEs published in the last 24 hours",
-      "url": "https://lore.kernel.org/linux-cve-announce/",
-      "source_url": "https://lore.kernel.org/linux-cve-announce/",
+      "title": "Rewriting the Futhark type checker",
+      "url": "https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html",
+      "source_url": "https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html",
       "tags": [
-        "linux",
-        "security"
+        "plt"
       ],
       "score": "",
       "comments": "",
@@ -318,11 +317,13 @@
     },
     {
       "rank": 15,
-      "title": "Web-based Jujutsu revset explorer & debugger",
-      "url": "https://juju.bi/tools/revset",
-      "source_url": "https://juju.bi/tools/revset",
+      "title": "An Engineer’s Guide to USB Type-C",
+      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf",
+      "source_url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf",
       "tags": [
-        "vcs"
+        "book",
+        "pdf",
+        "hardware"
       ],
       "score": "",
       "comments": "",
@@ -332,10 +333,10 @@
   "sspai": [
     {
       "rank": 1,
-      "title": "角落新声｜我的上帝模式，一名设计师创作环境的演变CG艺术实验室10:04",
-      "url": "https://sspai.com/post/112109",
-      "author": "CG艺术实验室",
-      "summary": "角落新声｜我的上帝模式，一名设计师创作环境的演变"
+      "title": "Parti：一个零门槛联机游戏平台，凭什么不需要服务器？Link256 分钟前",
+      "url": "https://sspai.com/post/112545",
+      "author": "Link25",
+      "summary": "Parti：一个零门槛联机游戏平台，凭什么不需要服务器？"
     },
     {
       "rank": 2,
@@ -346,31 +347,31 @@
     },
     {
       "rank": 3,
+      "title": "角落新声｜我的上帝模式，一名设计师创作环境的演变CG艺术实验室10:04",
+      "url": "https://sspai.com/post/112109",
+      "author": "CG艺术实验室",
+      "summary": "角落新声｜我的上帝模式，一名设计师创作环境的演变"
+    },
+    {
+      "rank": 4,
       "title": "派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等少数派编辑部08:30派早报",
       "url": "https://sspai.com/post/112597",
       "author": "少数派编辑部",
       "summary": "派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车Matrix机器人昨天 17:00",
       "url": "https://sspai.com/post/112582",
       "author": "Matrix机器人",
       "summary": "社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "装上 Fedora 的 Surface Pro：一台老设备的新可能StephenFang昨天 15:00",
       "url": "https://sspai.com/post/112200",
       "author": "StephenFang",
       "summary": "装上 Fedora 的 Surface Pro：一台老设备的新可能"
-    },
-    {
-      "rank": 6,
-      "title": "App+1 | 把「从长视频截取片段」做到极致：TrimlyBleaker昨天 11:00Matrix精选",
-      "url": "https://sspai.com/post/111569",
-      "author": "Bleaker",
-      "summary": "App+1 | 把「从长视频截取片段」做到极致：Trimly"
     },
     {
       "rank": 7,
@@ -381,31 +382,38 @@
     },
     {
       "rank": 8,
+      "title": "App+1 | 把「从长视频截取片段」做到极致：TrimlyBleaker昨天 11:00Matrix精选",
+      "url": "https://sspai.com/post/111569",
+      "author": "Bleaker",
+      "summary": "App+1 | 把「从长视频截取片段」做到极致：Trimly"
+    },
+    {
+      "rank": 9,
       "title": "派早报：京沪高铁与京沪铁路试点提前 60 天预约购票等少数派编辑部昨天 08:02派早报",
       "url": "https://sspai.com/post/112565",
       "author": "少数派编辑部",
       "summary": "派早报：京沪高铁与京沪铁路试点提前 60 天预约购票等"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "派评 | 近期值得关注的 App少数派编辑部前天 18:00",
       "url": "https://sspai.com/post/112543",
       "author": "少数派编辑部",
       "summary": "派评 | 近期值得关注的 App"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫北鸮前天 15:05",
       "url": "https://sspai.com/post/112453",
       "author": "北鸮",
       "summary": "角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫"
     },
     {
-      "rank": 11,
-      "title": "2026 年再看 iPhone 8 Plus，它还够用吗？旋转的陀螺前天 11:00视频",
-      "url": "https://sspai.com/post/112425",
-      "author": "旋转的陀螺",
-      "summary": "2026 年再看 iPhone 8 Plus，它还够用吗？"
+      "rank": 12,
+      "title": "聊聊你手机背面的「磁吸配件」？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1783307199",
+      "author": "一派投票",
+      "summary": "聊聊你手机背面的「磁吸配件」？"
     }
   ]
 }
