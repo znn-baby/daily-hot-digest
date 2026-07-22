@@ -5,7 +5,7 @@
       "title": "koala73 / worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "stars": "66747",
+      "stars": "66827",
       "stars_today": "1,295 stars today",
       "language": "TypeScript"
     },
@@ -14,7 +14,7 @@
       "title": "bojieli / ai-agent-book",
       "url": "https://github.com/bojieli/ai-agent-book",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "stars": "16266",
+      "stars": "16363",
       "stars_today": "4,624 stars today",
       "language": "Python"
     },
@@ -23,7 +23,7 @@
       "title": "tirth8205 / code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "stars": "24908",
+      "stars": "24924",
       "stars_today": "1,925 stars today",
       "language": "Python"
     },
@@ -32,7 +32,7 @@
       "title": "ayghri / i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "stars": "7351",
+      "stars": "7382",
       "stars_today": "1,866 stars today",
       "language": "Python"
     },
@@ -41,7 +41,7 @@
       "title": "earthtojake / text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "A collection of agent skills for CAD, robotics and hardware design",
-      "stars": "9397",
+      "stars": "9409",
       "stars_today": "291 stars today",
       "language": "JavaScript"
     },
@@ -50,7 +50,7 @@
       "title": "1jehuang / jcode",
       "url": "https://github.com/1jehuang/jcode",
       "description": "The most intelligent agent harness for code",
-      "stars": "10517",
+      "stars": "10534",
       "stars_today": "843 stars today",
       "language": "Rust"
     },
@@ -59,7 +59,7 @@
       "title": "oblien / openship",
       "url": "https://github.com/oblien/openship",
       "description": "Self-hosted deployment platform",
-      "stars": "6586",
+      "stars": "6603",
       "stars_today": "1,562 stars today",
       "language": "TypeScript"
     },
@@ -68,7 +68,7 @@
       "title": "AstrBotDevs / AstrBot",
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "stars": "37631",
+      "stars": "37639",
       "stars_today": "416 stars today",
       "language": "Python"
     },
@@ -77,7 +77,7 @@
       "title": "every-app / open-seo",
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
-      "stars": "6751",
+      "stars": "6760",
       "stars_today": "849 stars today",
       "language": "TypeScript"
     },
@@ -86,7 +86,7 @@
       "title": "tradesdontlie / tradingview-mcp",
       "url": "https://github.com/tradesdontlie/tradingview-mcp",
       "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-      "stars": "4970",
+      "stars": "4974",
       "stars_today": "114 stars today",
       "language": "JavaScript"
     },
@@ -95,7 +95,7 @@
       "title": "AlexsJones / llmfit",
       "url": "https://github.com/AlexsJones/llmfit",
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "stars": "30345",
+      "stars": "30351",
       "stars_today": "129 stars today",
       "language": "Rust"
     },
@@ -104,7 +104,7 @@
       "title": "hyprwm / Hyprland",
       "url": "https://github.com/hyprwm/Hyprland",
       "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "stars": "37131",
+      "stars": "37135",
       "stars_today": "58 stars today",
       "language": "C++"
     },
@@ -113,7 +113,7 @@
       "title": "chrislgarry / Apollo-11",
       "url": "https://github.com/chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "stars": "70141",
+      "stars": "70156",
       "stars_today": "1,235 stars today",
       "language": "Assembly"
     },
@@ -122,7 +122,7 @@
       "title": "DioxusLabs / dioxus",
       "url": "https://github.com/DioxusLabs/dioxus",
       "description": "Fullstack app framework for web, desktop, and mobile.",
-      "stars": "37794",
+      "stars": "37803",
       "stars_today": "271 stars today",
       "language": "Rust"
     },
@@ -131,7 +131,7 @@
       "title": "langchain-ai / open_deep_research",
       "url": "https://github.com/langchain-ai/open_deep_research",
       "description": "",
-      "stars": "12332",
+      "stars": "12338",
       "stars_today": "23 stars today",
       "language": "Python"
     }
@@ -228,6 +228,18 @@
     },
     {
       "rank": 8,
+      "title": "COSMIC DE’s First Seven Months",
+      "url": "https://system76.com/blog/post/cosmic-de-first-seven-months",
+      "source_url": "https://system76.com/blog/post/cosmic-de-first-seven-months",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
       "title": "Linux kernel will support $ORIGIN, sort of",
       "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
       "source_url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
@@ -242,25 +254,13 @@
       "author": ""
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "95 reasons for having your own website",
       "url": "https://bellkiosk.website/blog/reasons-to-website.html",
       "source_url": "https://bellkiosk.website/blog/reasons-to-website.html",
       "tags": [
         "philosophy",
         "web"
-      ],
-      "score": "",
-      "comments": "",
-      "author": ""
-    },
-    {
-      "rank": 10,
-      "title": "COSMIC DE’s First Seven Months",
-      "url": "https://system76.com/blog/post/cosmic-de-first-seven-months",
-      "source_url": "https://system76.com/blog/post/cosmic-de-first-seven-months",
-      "tags": [
-        "linux"
       ],
       "score": "",
       "comments": "",
@@ -360,24 +360,24 @@
     },
     {
       "rank": 5,
-      "title": "聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情",
-      "url": "https://sspai.com/bullet/1783932697",
-      "author": "一派讨论",
-      "summary": "聊聊你在各购物平台独占的「固定回购清单」？"
-    },
-    {
-      "rank": 6,
       "title": "装上 Fedora 的 Surface Pro：一台老设备的新可能StephenFang昨天 15:00",
       "url": "https://sspai.com/post/112200",
       "author": "StephenFang",
       "summary": "装上 Fedora 的 Surface Pro：一台老设备的新可能"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "App+1 | 把「从长视频截取片段」做到极致：TrimlyBleaker昨天 11:00Matrix精选",
       "url": "https://sspai.com/post/111569",
       "author": "Bleaker",
       "summary": "App+1 | 把「从长视频截取片段」做到极致：Trimly"
+    },
+    {
+      "rank": 7,
+      "title": "聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1783932697",
+      "author": "一派讨论",
+      "summary": "聊聊你在各购物平台独占的「固定回购清单」？"
     },
     {
       "rank": 8,
@@ -402,13 +402,6 @@
     },
     {
       "rank": 11,
-      "title": "聊聊你手机背面的「磁吸配件」？一派投票点击了解详情",
-      "url": "https://sspai.com/bullet/1783307199",
-      "author": "一派投票",
-      "summary": "聊聊你手机背面的「磁吸配件」？"
-    },
-    {
-      "rank": 12,
       "title": "2026 年再看 iPhone 8 Plus，它还够用吗？旋转的陀螺前天 11:00视频",
       "url": "https://sspai.com/post/112425",
       "author": "旋转的陀螺",
