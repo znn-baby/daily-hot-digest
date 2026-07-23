@@ -250,7 +250,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>每日热点汇总 | $date</title>
+<title>Daily Hot Digest | $date</title>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&display=swap" rel="stylesheet" />
@@ -463,7 +463,7 @@ $color_classes
 <div class="container">
     <header class="header">
         <div class="header-badge">&#10022; 晴空 &middot; 每日信号</div>
-        <h1>热点星云</h1>
+        <h1>Daily Hot Digest</h1>
         <div class="sub">$date_display &nbsp;&middot;&nbsp; <em>$item_count 条内容</em></div>
         <div class="stats-row">
             <span class="stat-item"><span class="num" data-target="$source_count">0</span><span class="label">信息源</span></span>
@@ -481,7 +481,7 @@ $sources_by_group_html
     </div>
 
     <footer class="footer">
-        <span class="heart">&#10022;</span> 由 QoderWork 自动抓取 &middot; 数据截至 $date &middot;
+        <span class="heart">&#10022;</span> Daily Hot Digest &middot; 数据截至 $date &middot;
         <a href="index.html">查看所有日期</a>
     </footer>
 </div>
@@ -498,7 +498,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>每日热点汇总 - 归档</title>
+<title>Daily Hot Digest - Archive</title>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&display=swap" rel="stylesheet" />
@@ -549,7 +549,7 @@ body {
 <canvas id="bg-canvas"></canvas>
 <div class="container">
     <div class="header">
-        <h1>热点星云</h1>
+        <h1>Daily Hot Digest</h1>
         <p>自动抓取 GitHub Trending / Lobsters / 少数派 + AI 摘要</p>
     </div>
     $date_list_html
@@ -645,36 +645,29 @@ def _generate_from_ai_summary(ai_summary: dict, date_str: str, raw_data: dict) -
   </div>
 """
 
-    # 按来源分组生成溯源索引
-    sources_by_source = {}
-    for src in sources:
-        source_name = src.get("source", "其他")
-        if source_name not in sources_by_source:
-            sources_by_source[source_name] = []
-        sources_by_source[source_name].append(src)
+    # 生成溯源索引（全局按编号排序）
+    sources_sorted = sorted(sources, key=lambda x: x.get("num", 0))
 
-    sources_html = ""
-    for source_name, items in sources_by_source.items():
-        color_key = _make_source_color_class(source_name)
-        sources_html += f"""    <div class="source-group">
-      <div class="source-group-title">{source_name}</div>
+    sources_html = """    <div class="source-group">
       <ul class="source-list">
 """
-        for item in items:
-            num = item.get("num", 0)
-            title = item.get("title", "")
-            url = item.get("url", "#")
-            desc = item.get("desc", "")
-            sources_html += (
-                f'        <li id="src{num}">'
-                f'<span class="num num-{color_key}">{num}</span>'
-                f'<a href="{url}" target="_blank">{title}</a> '
-                f'<span class="desc">— {desc}</span></li>\n'
-            )
-        sources_html += "      </ul>\n    </div>\n"
+    for item in sources_sorted:
+        num = item.get("num", 0)
+        title = item.get("title", "")
+        url = item.get("url", "#")
+        desc = item.get("desc", "")
+        source_name = item.get("source", "")
+        color_key = _make_source_color_class(source_name)
+        sources_html += (
+            f'        <li id="src{num}">'
+            f'<span class="num num-{color_key}">{num}</span>'
+            f'<a href="{url}" target="_blank">{title}</a> '
+            f'<span class="desc">— {desc}</span></li>\n'
+        )
+    sources_html += "      </ul>\n    </div>\n"
 
     # 统计
-    source_count = len(sources_by_source)
+    source_count = len(sources)
     category_count = len(categories)
     item_count = stats.get("total_items", len(sources))
 

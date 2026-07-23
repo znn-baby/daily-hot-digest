@@ -8,6 +8,10 @@ import os
 import sys
 import json
 from datetime import datetime, timezone, timedelta
+from dotenv import load_dotenv
+
+# 加载 .env 文件（本地开发用，GitHub Actions 通过环境变量注入）
+load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env"))
 
 # 项目根目录
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
