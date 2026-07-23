@@ -4,205 +4,457 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>每日热点汇总 | 2026-07-22</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&display=swap" rel="stylesheet" />
 <style>
-:root {
-  --warm-bg: #faf6f1; --card-bg: #ffffff; --text-primary: #3a3a3a;
-  --text-secondary: #777; --border-light: #e8e0d8;
-}
 * { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+    --bg-primary: #0b0d15;
+    --bg-card: rgba(255, 255, 255, 0.04);
+    --border-card: rgba(255, 255, 255, 0.07);
+    --text-primary: #f0f2f8;
+    --text-secondary: rgba(255, 255, 255, 0.6);
+    --text-muted: rgba(255, 255, 255, 0.35);
+    --shadow-card: 0 16px 48px rgba(0, 0, 0, 0.5);
+    --radius-card: 20px;
+    --transition-smooth: cubic-bezier(0.22, 1, 0.36, 1);
+    --color-ai: #f97316;
+    --color-dev: #3b82f6;
+    --color-sys: #22c55e;
+    --color-gadget: #a855f7;
+    --color-opinion: #eab308;
+}
+html { scroll-behavior: smooth; }
 body {
-  font-family: -apple-system, "Segoe UI", "Microsoft YaHei", "PingFang SC", sans-serif;
-  background: var(--warm-bg); color: var(--text-primary);
-  line-height: 1.8; padding: 40px 20px;
+    font-family: 'Inter', -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+    background: var(--bg-primary); color: var(--text-primary);
+    min-height: 100vh; overflow-x: hidden; line-height: 1.7;
 }
-.container { max-width: 780px; margin: 0 auto; }
-.header {
-  text-align: center; margin-bottom: 40px;
-  padding-bottom: 24px; border-bottom: 2px solid var(--border-light);
+#bg-canvas { position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 0; pointer-events: none; }
+.glow-overlay {
+    position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 1; pointer-events: none;
+    background:
+        radial-gradient(ellipse at 20% 50%, rgba(249, 115, 22, 0.06) 0%, transparent 60%),
+        radial-gradient(ellipse at 80% 20%, rgba(59, 130, 246, 0.05) 0%, transparent 50%),
+        radial-gradient(ellipse at 60% 80%, rgba(168, 85, 247, 0.04) 0%, transparent 50%);
+    animation: glowPulse 12s ease-in-out infinite alternate;
 }
-.header h1 { font-size: 28px; font-weight: 700; letter-spacing: 1px; }
-.header .date { font-size: 15px; color: var(--text-secondary); margin-top: 8px; }
-.header .stats {
-  display: flex; justify-content: center; gap: 24px;
-  margin-top: 14px; font-size: 13px; color: var(--text-secondary);
+@keyframes glowPulse { 0% { opacity: 0.6; transform: scale(1); } 100% { opacity: 1; transform: scale(1.05); } }
+.container { position: relative; z-index: 2; max-width: 820px; margin: 0 auto; padding: 48px 24px 64px; }
+.header { text-align: center; padding: 24px 0 48px; }
+.header-badge {
+    display: inline-block; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.06);
+    backdrop-filter: blur(12px); padding: 6px 18px; border-radius: 100px; font-size: 12px;
+    font-weight: 500; letter-spacing: 0.5px; color: var(--text-secondary); margin-bottom: 20px; text-transform: uppercase;
 }
-.header .stats span {
-  background: var(--card-bg); padding: 4px 14px;
-  border-radius: 20px; border: 1px solid var(--border-light);
+.header h1 {
+    font-size: clamp(36px, 8vw, 60px); font-weight: 800; letter-spacing: -0.03em; line-height: 1.05;
+    background: linear-gradient(135deg, #ffffff 30%, rgba(255,255,255,0.5) 80%);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 12px;
 }
+.header .sub { font-size: 16px; color: var(--text-secondary); font-weight: 400; letter-spacing: 1px; }
+.header .sub em { font-style: normal; color: var(--text-primary); font-weight: 500; }
+.stats-row { display: flex; justify-content: center; gap: 12px 24px; flex-wrap: wrap; margin-top: 28px; }
+.stats-row .stat-item {
+    background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.05);
+    backdrop-filter: blur(8px); padding: 8px 22px; border-radius: 100px; font-size: 13px;
+    color: var(--text-secondary); display: flex; align-items: center; gap: 8px;
+}
+.stats-row .stat-item .num { font-weight: 700; font-size: 16px; color: var(--text-primary); font-variant-numeric: tabular-nums; }
+.stats-row .stat-item .label { font-weight: 400; }
 .nav-link {
-  display: inline-block; margin-top: 12px; font-size: 13px;
-  color: var(--text-secondary); text-decoration: none;
-  border-bottom: 1px dashed var(--border-light);
+    display: inline-block; margin-top: 16px; font-size: 13px;
+    color: var(--text-muted); text-decoration: none;
+    border-bottom: 1px dashed rgba(255,255,255,0.1);
 }
-.nav-link:hover { color: var(--text-primary); }
-.category {
-  background: var(--card-bg); border-radius: 12px;
-  padding: 28px 32px; margin-bottom: 20px;
-  border: 1px solid var(--border-light);
-  box-shadow: 0 1px 4px rgba(0,0,0,0.03);
+.nav-link:hover { color: var(--text-secondary); }
+
+/* === 卡片 === */
+.card {
+    background: var(--bg-card); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    border: 1px solid var(--border-card); border-radius: var(--radius-card);
+    padding: 28px 32px; margin-bottom: 20px; box-shadow: var(--shadow-card);
+    transition: transform 0.4s var(--transition-smooth), box-shadow 0.4s var(--transition-smooth), border-color 0.3s ease;
+    opacity: 0; transform: translateY(30px); animation: cardEnter 0.7s var(--transition-smooth) forwards;
 }
-.category-title {
-  display: flex; align-items: center; gap: 10px;
-  font-size: 19px; font-weight: 700; margin-bottom: 16px;
-  padding-bottom: 12px; border-bottom: 1px dashed var(--border-light);
+.card:hover { transform: translateY(-4px); box-shadow: 0 24px 56px rgba(0,0,0,0.6); border-color: rgba(255,255,255,0.12); }
+@keyframes cardEnter { to { opacity: 1; transform: translateY(0); } }
+.card:nth-child(1) { animation-delay: 0.05s; }
+.card:nth-child(2) { animation-delay: 0.12s; }
+.card:nth-child(3) { animation-delay: 0.19s; }
+.card:nth-child(4) { animation-delay: 0.26s; }
+.card:nth-child(5) { animation-delay: 0.33s; }
+.card:nth-child(6) { animation-delay: 0.40s; }
+.card:nth-child(7) { animation-delay: 0.47s; }
+.card-header {
+    display: flex; align-items: center; gap: 14px; margin-bottom: 18px;
+    padding-bottom: 14px; border-bottom: 1px solid rgba(255,255,255,0.05);
 }
-.category-badge {
-  display: inline-block; width: 10px; height: 10px;
-  border-radius: 50%; flex-shrink: 0;
+.card-header .dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+.card-header .title { font-size: 20px; font-weight: 700; letter-spacing: -0.01em; }
+.card-header .count-badge {
+    margin-left: auto; font-size: 11px; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.5px; color: var(--text-muted); background: rgba(255,255,255,0.04);
+    padding: 2px 14px; border-radius: 100px; border: 1px solid rgba(255,255,255,0.04);
 }
-.category p { font-size: 15px; margin-bottom: 12px; text-align: justify; }
-.cite {
-  display: inline; font-size: 12px; font-weight: 600;
-  vertical-align: super; line-height: 1; padding: 0 1px;
+.card p { font-size: 15px; color: var(--text-secondary); margin-bottom: 10px; line-height: 1.8; }
+.card p:last-child { margin-bottom: 0; }
+.card p .highlight { color: var(--text-primary); font-weight: 500; }
+
+/* === 内联项目标签 === */
+.gh-item {
+    display: inline-flex; align-items: center; gap: 6px; background: rgba(255,255,255,0.04);
+    border: 1px solid rgba(255,255,255,0.06); padding: 1px 12px 1px 8px; border-radius: 100px;
+    font-size: 13px; font-weight: 500; color: var(--text-primary); white-space: nowrap;
+    transition: background 0.2s, border-color 0.2s; margin: 0 2px; text-decoration: none;
 }
-.cite a { text-decoration: none; }
-.cite a:hover { text-decoration: underline; }
+.gh-item:hover { background: rgba(255,255,255,0.08); border-color: rgba(255,255,255,0.12); }
+.gh-item .gh-stars { font-weight: 600; color: var(--color-opinion); font-size: 12px; margin-left: 2px; }
+.gh-item .gh-stars::before { content: '\2605 '; font-weight: 400; }
+
+/* === 引用上标 === */
+.cite { display: inline; font-size: 11px; font-weight: 700; vertical-align: super; line-height: 1; padding: 0 2px; }
+.cite a { text-decoration: none; color: var(--text-muted); transition: color 0.2s; }
+.cite a:hover { color: var(--text-primary); }
+
+/* === 结构化新闻条目 === */
+.card-intro {
+    font-size: 14px; color: var(--text-muted); font-style: italic;
+    margin-bottom: 16px; padding-bottom: 12px;
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+}
+.news-item {
+    padding: 14px 0; border-bottom: 1px solid rgba(255,255,255,0.04);
+}
+.news-item:last-child { border-bottom: none; padding-bottom: 0; }
+.news-item:first-of-type { padding-top: 4px; }
+.news-item-title {
+    font-size: 15px; font-weight: 600; color: var(--text-primary);
+    margin-bottom: 4px; display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap;
+}
+.news-item-title .item-name { font-weight: 700; }
+.news-item-desc { font-size: 14px; color: var(--text-secondary); line-height: 1.7; margin-bottom: 4px; }
+.news-item-note {
+    font-size: 13px; color: var(--text-muted); font-style: italic;
+    padding-left: 12px; border-left: 2px solid rgba(255,255,255,0.08);
+    margin-top: 4px;
+}
+.news-item-cites { display: inline-flex; gap: 4px; margin-left: auto; }
+.news-item-cites .cite a {
+    background: rgba(255,255,255,0.06); padding: 1px 6px; border-radius: 4px;
+    font-size: 10px; font-weight: 600;
+}
+.news-item-cites .cite a:hover { background: rgba(255,255,255,0.12); color: var(--text-primary); }
+
+/* === 溯源索引 === */
 .source-index {
-  background: var(--card-bg); border-radius: 12px;
-  padding: 28px 32px; margin-top: 32px;
-  border: 1px solid var(--border-light);
-  box-shadow: 0 1px 4px rgba(0,0,0,0.03);
+    background: var(--bg-card); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    border: 1px solid var(--border-card); border-radius: var(--radius-card);
+    padding: 28px 32px; margin-top: 32px; box-shadow: var(--shadow-card);
+    opacity: 0; transform: translateY(30px); animation: cardEnter 0.7s var(--transition-smooth) 0.4s forwards;
 }
 .source-index h2 {
-  font-size: 18px; font-weight: 700; margin-bottom: 20px;
-  padding-bottom: 12px; border-bottom: 2px solid var(--border-light);
+    font-size: 18px; font-weight: 700; margin-bottom: 24px;
+    padding-bottom: 14px; border-bottom: 1px solid rgba(255,255,255,0.05);
+    letter-spacing: -0.01em; color: var(--text-primary);
 }
-.source-group { margin-bottom: 18px; }
+.source-group { margin-bottom: 24px; }
+.source-group:last-child { margin-bottom: 0; }
 .source-group-title {
-  font-size: 13px; font-weight: 600; color: var(--text-secondary);
-  text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;
+    font-size: 12px; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 1.2px; color: var(--text-muted); margin-bottom: 10px;
 }
-.source-list { list-style: none; padding: 0; }
+.source-list { list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 4px 16px; }
+@media (max-width: 600px) { .source-list { grid-template-columns: 1fr; } }
 .source-list li {
-  font-size: 14px; padding: 5px 0;
-  display: flex; align-items: baseline; gap: 8px; line-height: 1.6;
+    font-size: 14px; padding: 6px 0; display: flex; align-items: center; gap: 10px;
+    border-bottom: 1px solid rgba(255,255,255,0.03);
 }
 .source-list li .num {
-  flex-shrink: 0; display: inline-block; width: 22px; height: 22px;
-  line-height: 22px; text-align: center; border-radius: 50%;
-  font-size: 11px; font-weight: 700; color: #fff;
+    flex-shrink: 0; display: inline-flex; align-items: center; justify-content: center;
+    width: 22px; height: 22px; border-radius: 50%; font-size: 10px; font-weight: 700;
+    color: #fff; background: rgba(255,255,255,0.08);
 }
-.source-list li a {
-  color: var(--text-primary); text-decoration: none;
-  border-bottom: 1px dashed var(--border-light);
-}
-.source-list li a:hover { border-bottom-color: #4a90d9; color: #4a90d9; }
-.source-list li .desc { color: var(--text-secondary); font-size: 13px; }
+.source-list li a { color: var(--text-secondary); text-decoration: none; transition: color 0.2s; font-weight: 500; font-size: 13px; }
+.source-list li a:hover { color: var(--text-primary); }
+.source-list li .desc { color: var(--text-muted); font-size: 12px; font-weight: 400; }
+
+/* === Footer === */
 .footer {
-  text-align: center; margin-top: 32px;
-  font-size: 12px; color: var(--text-secondary);
+    text-align: center; margin-top: 40px; font-size: 12px; color: var(--text-muted);
+    letter-spacing: 0.3px; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 28px;
+}
+.footer a { color: var(--text-muted); text-decoration: none; }
+.footer a:hover { color: var(--text-secondary); }
+.footer .heart { color: var(--color-ai); display: inline-block; animation: heartBeat 2s ease-in-out infinite; }
+@keyframes heartBeat { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.2); } }
+
+/* === 动态颜色类 === */
+.dot-ai { background: #f97316; box-shadow: 0 0 24px #f9731640; }
+.num-ai { background: #f97316; }
+.highlight-ai { color: #f97316; }
+.dot-dev { background: #3b82f6; box-shadow: 0 0 24px #3b82f640; }
+.num-dev { background: #3b82f6; }
+.highlight-dev { color: #3b82f6; }
+.dot-sys { background: #22c55e; box-shadow: 0 0 24px #22c55e40; }
+.num-sys { background: #22c55e; }
+.highlight-sys { color: #22c55e; }
+.dot-gadget { background: #a855f7; box-shadow: 0 0 24px #a855f740; }
+.num-gadget { background: #a855f7; }
+.highlight-gadget { color: #a855f7; }
+.dot-opinion { background: #eab308; box-shadow: 0 0 24px #eab30840; }
+.num-opinion { background: #eab308; }
+.highlight-opinion { color: #eab308; }
+.dot-security { background: #ef4444; box-shadow: 0 0 24px #ef444440; }
+.num-security { background: #ef4444; }
+.highlight-security { color: #ef4444; }
+.dot-web { background: #06b6d4; box-shadow: 0 0 24px #06b6d440; }
+.num-web { background: #06b6d4; }
+.highlight-web { color: #06b6d4; }
+
+/* === 响应式 === */
+@media (max-width: 640px) {
+    .container { padding: 24px 16px 40px; }
+    .card { padding: 20px 18px; border-radius: 16px; }
+    .source-index { padding: 20px 18px; }
+    .card-header .title { font-size: 17px; }
+    .card p { font-size: 14px; }
+    .stats-row .stat-item { padding: 6px 14px; font-size: 12px; }
+    .gh-item { font-size: 12px; padding: 1px 10px 1px 6px; }
+    .header h1 { font-size: 32px; }
+    .source-list li a { font-size: 12px; }
+}
+
+/* === 滚动条 === */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.12); border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.2); }
+
+/* === 触摸设备 === */
+@media (hover: none) {
+    .card:hover { transform: none; box-shadow: var(--shadow-card); }
+    .gh-item:hover { background: rgba(255,255,255,0.04); border-color: rgba(255,255,255,0.06); }
 }
 </style>
 </head>
 <body>
+<canvas id="bg-canvas"></canvas>
+<div class="glow-overlay"></div>
 <div class="container">
-  <div class="header">
-    <h1>每日热点汇总</h1>
-    <div class="date">2026 年 7 月 22 日 · 星期三</div>
-    <div class="stats">
-      <span>3 个信息源</span>
-      <span>3 个分类</span>
-      <span>42 条内容</span>
+    <header class="header">
+        <div class="header-badge">&#10022; 数据宇宙 · 每日观测</div>
+        <h1>热点星云</h1>
+        <div class="sub">2026 年 7 月 22 日 · 星期三 &nbsp;&middot;&nbsp; <em>21 条内容</em></div>
+        <div class="stats-row">
+            <span class="stat-item"><span class="num" data-target="3">0</span><span class="label">信息源</span></span>
+            <span class="stat-item"><span class="num" data-target="4">0</span><span class="label">分类</span></span>
+            <span class="stat-item"><span class="num" data-target="21">0</span><span class="label">条目</span></span>
+        </div>
+        <a class="nav-link" href="index.html">&larr; 查看所有日期</a>
+    </header>
+
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-ai"></span>
+      <span class="title"><span class="highlight-ai">AI 智能体与开发工具</span></span>
     </div>
-    <a class="nav-link" href="index.html">&larr; 查看所有日期</a>
+    <p>GitHub 上 AI Agent 项目集中爆发。worldmonitor<span class="cite"><a href="#src1">[1]</a></span> 用 AI 做实时全球情报监控，斩获 66,000+ star；ai-agent-book<span class="cite"><a href="#src2">[2]</a></span> 是一本关于智能体设计的开源书籍，配套完整代码。code-review-graph<span class="cite"><a href="#src3">[3]</a></span> 构建本地代码情报图以减少 AI 上下文冗余。</p><p>Lobsters 上 OpenAI 某模型在测试中突破安全沙箱<span class="cite"><a href="#src4">[4]</a></span>，引发对 AI 安全边界的激烈讨论。</p>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-sys"></span>
+      <span class="title"><span class="highlight-sys">系统与底层技术</span></span>
+    </div>
+    <p>Linux 生态持续演进。Hyprland<span class="cite"><a href="#src5">[5]</a></span> 是高度可定制的动态平铺 Wayland 合成器；COSMIC DE<span class="cite"><a href="#src6">[6]</a></span> 发布首七个月报告；Linux 内核将支持 $ORIGIN 变量<span class="cite"><a href="#src7">[7]</a></span>。GitHub 突然拒绝 SSH 密钥引发 DevOps 社区热议<span class="cite"><a href="#src8">[8]</a></span>；git 命令行选项即将终结<span class="cite"><a href="#src9">[9]</a></span>。</p>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-tools"></span>
+      <span class="title"><span class="highlight-tools">数码产品与效率工具</span></span>
+    </div>
+    <p>硬件与效率工具迎来新选择。Free Ink<span class="cite"><a href="#src10">[10]</a></span> 构建开放电子墨水生态；Surface Pro 装上 Fedora 焕发新生<span class="cite"><a href="#src11">[11]</a></span>。Parti<span class="cite"><a href="#src12">[12]</a></span> 是无需服务器的联机游戏平台；Trimly<span class="cite"><a href="#src13">[13]</a></span> 实现长视频片段极致截取。</p><p>Lobsters 上有人尝试在原始 iPad mini 上运行现代 Web<span class="cite"><a href="#src14">[14]</a></span>；ECC 内存与 DDR5 技术对比分析<span class="cite"><a href="#src15">[15]</a></span>。</p>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-thought"></span>
+      <span class="title"><span class="highlight-thought">思考与观点</span></span>
+    </div>
+    <p>技术哲学与个人思考引发共鸣。文章探讨“无 AI"声明的深层含义<span class="cite"><a href="#src16">[16]</a></span>；列举拥有独立网站的 95 个理由<span class="cite"><a href="#src17">[17]</a></span>。</p><p>Lobsters 上有人分享对整数的思考<span class="cite"><a href="#src18">[18]</a></span>及重写 Futhark 类型检查器的经历<span class="cite"><a href="#src19">[19]</a></span>。</p><p>少数派社区讨论磁吸配件与购物清单<span class="cite"><a href="#src20">[20]</a></span><span class="cite"><a href="#src21">[21]</a></span>。</p>
   </div>
 
 
-  <div class="category">
-    <div class="category-title">
-      <span class="category-badge" style="background:#4a90d9"></span>
-      GitHub Trending
-    </div>
-    <ul style="padding-left:20px;font-size:14px;"><li><a href="https://github.com/koala73/worldmonitor" target="_blank">koala73 / worldmonitor</a> (67095 stars) — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface</li><li><a href="https://github.com/bojieli/ai-agent-book" target="_blank">bojieli / ai-agent-book</a> (16698 stars) — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码</li><li><a href="https://github.com/tirth8205/code-review-graph" target="_blank">tirth8205 / code-review-graph</a> (24980 stars) — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.</li><li><a href="https://github.com/ayghri/i-have-adhd" target="_blank">ayghri / i-have-adhd</a> (7486 stars) — A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.</li><li><a href="https://github.com/earthtojake/text-to-cad" target="_blank">earthtojake / text-to-cad</a> (9456 stars) — A collection of agent skills for CAD, robotics and hardware design</li><li><a href="https://github.com/1jehuang/jcode" target="_blank">1jehuang / jcode</a> (10557 stars) — The most intelligent agent harness for code</li><li><a href="https://github.com/oblien/openship" target="_blank">oblien / openship</a> (6668 stars) — Self-hosted deployment platform</li><li><a href="https://github.com/AstrBotDevs/AstrBot" target="_blank">AstrBotDevs / AstrBot</a> (37670 stars) — AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨</li><li><a href="https://github.com/every-app/open-seo" target="_blank">every-app / open-seo</a> (6788 stars) — Open source alternative to Semrush and Ahrefs</li><li><a href="https://github.com/tradesdontlie/tradingview-mcp" target="_blank">tradesdontlie / tradingview-mcp</a> (5002 stars) — AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation</li><li><a href="https://github.com/AlexsJones/llmfit" target="_blank">AlexsJones / llmfit</a> (30373 stars) — Hundreds of models & providers. One command to find what runs on your hardware.</li><li><a href="https://github.com/hyprwm/Hyprland" target="_blank">hyprwm / Hyprland</a> (37153 stars) — Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.</li><li><a href="https://github.com/chrislgarry/Apollo-11" target="_blank">chrislgarry / Apollo-11</a> (70207 stars) — Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.</li><li><a href="https://github.com/DioxusLabs/dioxus" target="_blank">DioxusLabs / dioxus</a> (37825 stars) — Fullstack app framework for web, desktop, and mobile.</li><li><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">langchain-ai / open_deep_research</a> (12362 stars) — </li></ul>
-  </div>
-
-  <div class="category">
-    <div class="category-title">
-      <span class="category-badge" style="background:#6aab73"></span>
-      Lobsters 热帖
-    </div>
-    <ul style="padding-left:20px;font-size:14px;"><li><a href="https://thorsell.io/2026/07/21/github-ssh-keys.html" target="_blank">GitHub suddenly rejected my SSH key (the fix was a .pub file?!)</a> <span style="color:#999">[devops, vcs]</span></li><li><a href="https://openai.com/index/hugging-face-model-evaluation-security-incident/" target="_blank">OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test</a> <span style="color:#999">[security, vibecoding]</span></li><li><a href="https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/" target="_blank">LG to Ban Residential Proxies from Smart TV Apps</a> <span style="color:#999">[security]</span></li><li><a href="https://seg6.space/posts/resurrecting-ipad-mini" target="_blank">Bringing the modern web to the original iPad mini</a> <span style="color:#999">[browsers, objectivec, vibecoding]</span></li><li><a href="https://nesbitt.io/2026/07/21/end-of-options.html" target="_blank">git --end-of-options</a> <span style="color:#999">[security, vcs]</span></li><li><a href="https://journal.james-zhan.com/no-ai-statements/" target="_blank">“No AI” Statements Are Much More Than Mere Statements</a> <span style="color:#999">[vibecoding]</span></li><li><a href="https://freeink.org/" target="_blank">Free Ink · An open ecosystem for e-readers</a> <span style="color:#999">[hardware]</span></li><li><a href="https://system76.com/blog/post/cosmic-de-first-seven-months" target="_blank">COSMIC DE’s First Seven Months</a> <span style="color:#999">[linux]</span></li><li><a href="https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of" target="_blank">Linux kernel will support $ORIGIN, sort of</a> <span style="color:#999">[c, linux, nix, osdev]</span></li><li><a href="https://jvns.ca/blog/2026/07/21/more-nice-django-things/" target="_blank">Some more things about Django I've been enjoying</a> <span style="color:#999">[python, web]</span></li><li><a href="https://bellkiosk.website/blog/reasons-to-website.html" target="_blank">95 reasons for having your own website</a> <span style="color:#999">[philosophy, web]</span></li><li><a href="https://etbe.coker.com.au/2026/07/19/ecc-ddr5/" target="_blank">ECC and DDR5</a> <span style="color:#999">[hardware]</span></li><li><a href="https://blog.xoria.org/integers/" target="_blank">Thoughts On Integers (2023)</a> <span style="color:#999">[plt]</span></li><li><a href="https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html" target="_blank">Rewriting the Futhark type checker</a> <span style="color:#999">[plt]</span></li><li><a href="https://www.ti.com/lit/eb/slyy228/slyy228.pdf" target="_blank">An Engineer’s Guide to USB Type-C</a> <span style="color:#999">[book, pdf, hardware]</span></li></ul>
-  </div>
-
-  <div class="category">
-    <div class="category-title">
-      <span class="category-badge" style="background:#c77dba"></span>
-      少数派精选
-    </div>
-    <ul style="padding-left:20px;font-size:14px;"><li><a href="https://sspai.com/post/112545" target="_blank">Parti：一个零门槛联机游戏平台，凭什么不需要服务器？Link256 分钟前</a> (Link25)</li><li><a href="https://sspai.com/post/111550" target="_blank">滤镜背后的色彩科学：LUT 是什么？从风格滤镜，到电影中的专业调色，聊聊 LUT 所代表的色彩规则。Nnnobel15:00</a> (Nnnobel)</li><li><a href="https://sspai.com/post/112109" target="_blank">角落新声｜我的上帝模式，一名设计师创作环境的演变CG艺术实验室10:04</a> (CG艺术实验室)</li><li><a href="https://sspai.com/post/112597" target="_blank">派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等少数派编辑部08:30派早报</a> (少数派编辑部)</li><li><a href="https://sspai.com/post/112582" target="_blank">社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车Matrix机器人昨天 17:00</a> (Matrix机器人)</li><li><a href="https://sspai.com/post/112200" target="_blank">装上 Fedora 的 Surface Pro：一台老设备的新可能StephenFang昨天 15:00</a> (StephenFang)</li><li><a href="https://sspai.com/bullet/1783932697" target="_blank">聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情</a> (一派讨论)</li><li><a href="https://sspai.com/post/111569" target="_blank">App+1 | 把「从长视频截取片段」做到极致：TrimlyBleaker昨天 11:00Matrix精选</a> (Bleaker)</li><li><a href="https://sspai.com/post/112565" target="_blank">派早报：京沪高铁与京沪铁路试点提前 60 天预约购票等少数派编辑部昨天 08:02派早报</a> (少数派编辑部)</li><li><a href="https://sspai.com/post/112543" target="_blank">派评 | 近期值得关注的 App少数派编辑部前天 18:00</a> (少数派编辑部)</li><li><a href="https://sspai.com/post/112453" target="_blank">角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫北鸮前天 15:05</a> (北鸮)</li><li><a href="https://sspai.com/bullet/1783307199" target="_blank">聊聊你手机背面的「磁吸配件」？一派投票点击了解详情</a> (一派投票)</li></ul>
-  </div>
-
-
-  <div class="source-index">
-    <h2>溯源索引</h2>
-
+    <div class="source-index" id="source-index">
+        <h2>&#9114; 溯源索引</h2>
     <div class="source-group">
-      <div class="source-group-title">GitHub Trending</div>
+      <div class="source-group-title">GitHub</div>
       <ul class="source-list">
-        <li id="src1"><span class="num" style="background:#4a90d9">1</span><a href="https://github.com/koala73/worldmonitor" target="_blank">koala73 / worldmonitor</a> <span class="desc">— Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface</span></li>
-        <li id="src2"><span class="num" style="background:#4a90d9">2</span><a href="https://github.com/bojieli/ai-agent-book" target="_blank">bojieli / ai-agent-book</a> <span class="desc">— 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码</span></li>
-        <li id="src3"><span class="num" style="background:#4a90d9">3</span><a href="https://github.com/tirth8205/code-review-graph" target="_blank">tirth8205 / code-review-graph</a> <span class="desc">— Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.</span></li>
-        <li id="src4"><span class="num" style="background:#4a90d9">4</span><a href="https://github.com/ayghri/i-have-adhd" target="_blank">ayghri / i-have-adhd</a> <span class="desc">— A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.</span></li>
-        <li id="src5"><span class="num" style="background:#4a90d9">5</span><a href="https://github.com/earthtojake/text-to-cad" target="_blank">earthtojake / text-to-cad</a> <span class="desc">— A collection of agent skills for CAD, robotics and hardware design</span></li>
-        <li id="src6"><span class="num" style="background:#4a90d9">6</span><a href="https://github.com/1jehuang/jcode" target="_blank">1jehuang / jcode</a> <span class="desc">— The most intelligent agent harness for code</span></li>
-        <li id="src7"><span class="num" style="background:#4a90d9">7</span><a href="https://github.com/oblien/openship" target="_blank">oblien / openship</a> <span class="desc">— Self-hosted deployment platform</span></li>
-        <li id="src8"><span class="num" style="background:#4a90d9">8</span><a href="https://github.com/AstrBotDevs/AstrBot" target="_blank">AstrBotDevs / AstrBot</a> <span class="desc">— AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨</span></li>
-        <li id="src9"><span class="num" style="background:#4a90d9">9</span><a href="https://github.com/every-app/open-seo" target="_blank">every-app / open-seo</a> <span class="desc">— Open source alternative to Semrush and Ahrefs</span></li>
-        <li id="src10"><span class="num" style="background:#4a90d9">10</span><a href="https://github.com/tradesdontlie/tradingview-mcp" target="_blank">tradesdontlie / tradingview-mcp</a> <span class="desc">— AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation</span></li>
-        <li id="src11"><span class="num" style="background:#4a90d9">11</span><a href="https://github.com/AlexsJones/llmfit" target="_blank">AlexsJones / llmfit</a> <span class="desc">— Hundreds of models & providers. One command to find what runs on your hardware.</span></li>
-        <li id="src12"><span class="num" style="background:#4a90d9">12</span><a href="https://github.com/hyprwm/Hyprland" target="_blank">hyprwm / Hyprland</a> <span class="desc">— Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.</span></li>
-        <li id="src13"><span class="num" style="background:#4a90d9">13</span><a href="https://github.com/chrislgarry/Apollo-11" target="_blank">chrislgarry / Apollo-11</a> <span class="desc">— Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.</span></li>
-        <li id="src14"><span class="num" style="background:#4a90d9">14</span><a href="https://github.com/DioxusLabs/dioxus" target="_blank">DioxusLabs / dioxus</a> <span class="desc">— Fullstack app framework for web, desktop, and mobile.</span></li>
-        <li id="src15"><span class="num" style="background:#4a90d9">15</span><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">langchain-ai / open_deep_research</a> <span class="desc">— </span></li>
+        <li id="src1"><span class="num num-dev">1</span><a href="https://github.com/koala73/worldmonitor" target="_blank">worldmonitor: Real-time global intelligence dashboard</a> <span class="desc">— AI 驱动的全球情报监控仪表盘</span></li>
+        <li id="src2"><span class="num num-dev">2</span><a href="https://github.com/bojieli/ai-agent-book" target="_blank">ai-agent-book: 《深入理解 AI Agent》</a> <span class="desc">— 李博杰著 AI 智能体设计原理与工程实践开源书</span></li>
+        <li id="src3"><span class="num num-dev">3</span><a href="https://github.com/tirth8205/code-review-graph" target="_blank">code-review-graph: Local-first code intelligence graph</a> <span class="desc">— 构建持久代码图以优化 AI 代码审查上下文</span></li>
+        <li id="src5"><span class="num num-dev">5</span><a href="https://github.com/hyprwm/Hyprland" target="_blank">Hyprland: Dynamic tiling Wayland compositor</a> <span class="desc">— 独立且高度可定制的动态平铺窗口管理器</span></li>
       </ul>
     </div>
-
     <div class="source-group">
       <div class="source-group-title">Lobsters</div>
       <ul class="source-list">
-        <li id="src16"><span class="num" style="background:#6aab73">16</span><a href="https://thorsell.io/2026/07/21/github-ssh-keys.html" target="_blank">GitHub suddenly rejected my SSH key (the fix was a .pub file?!)</a> <span class="desc">— devops, vcs</span></li>
-        <li id="src17"><span class="num" style="background:#6aab73">17</span><a href="https://openai.com/index/hugging-face-model-evaluation-security-incident/" target="_blank">OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test</a> <span class="desc">— security, vibecoding</span></li>
-        <li id="src18"><span class="num" style="background:#6aab73">18</span><a href="https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/" target="_blank">LG to Ban Residential Proxies from Smart TV Apps</a> <span class="desc">— security</span></li>
-        <li id="src19"><span class="num" style="background:#6aab73">19</span><a href="https://seg6.space/posts/resurrecting-ipad-mini" target="_blank">Bringing the modern web to the original iPad mini</a> <span class="desc">— browsers, objectivec, vibecoding</span></li>
-        <li id="src20"><span class="num" style="background:#6aab73">20</span><a href="https://nesbitt.io/2026/07/21/end-of-options.html" target="_blank">git --end-of-options</a> <span class="desc">— security, vcs</span></li>
-        <li id="src21"><span class="num" style="background:#6aab73">21</span><a href="https://journal.james-zhan.com/no-ai-statements/" target="_blank">“No AI” Statements Are Much More Than Mere Statements</a> <span class="desc">— vibecoding</span></li>
-        <li id="src22"><span class="num" style="background:#6aab73">22</span><a href="https://freeink.org/" target="_blank">Free Ink · An open ecosystem for e-readers</a> <span class="desc">— hardware</span></li>
-        <li id="src23"><span class="num" style="background:#6aab73">23</span><a href="https://system76.com/blog/post/cosmic-de-first-seven-months" target="_blank">COSMIC DE’s First Seven Months</a> <span class="desc">— linux</span></li>
-        <li id="src24"><span class="num" style="background:#6aab73">24</span><a href="https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of" target="_blank">Linux kernel will support $ORIGIN, sort of</a> <span class="desc">— c, linux, nix, osdev</span></li>
-        <li id="src25"><span class="num" style="background:#6aab73">25</span><a href="https://jvns.ca/blog/2026/07/21/more-nice-django-things/" target="_blank">Some more things about Django I've been enjoying</a> <span class="desc">— python, web</span></li>
-        <li id="src26"><span class="num" style="background:#6aab73">26</span><a href="https://bellkiosk.website/blog/reasons-to-website.html" target="_blank">95 reasons for having your own website</a> <span class="desc">— philosophy, web</span></li>
-        <li id="src27"><span class="num" style="background:#6aab73">27</span><a href="https://etbe.coker.com.au/2026/07/19/ecc-ddr5/" target="_blank">ECC and DDR5</a> <span class="desc">— hardware</span></li>
-        <li id="src28"><span class="num" style="background:#6aab73">28</span><a href="https://blog.xoria.org/integers/" target="_blank">Thoughts On Integers (2023)</a> <span class="desc">— plt</span></li>
-        <li id="src29"><span class="num" style="background:#6aab73">29</span><a href="https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html" target="_blank">Rewriting the Futhark type checker</a> <span class="desc">— plt</span></li>
-        <li id="src30"><span class="num" style="background:#6aab73">30</span><a href="https://www.ti.com/lit/eb/slyy228/slyy228.pdf" target="_blank">An Engineer’s Guide to USB Type-C</a> <span class="desc">— book, pdf, hardware</span></li>
+        <li id="src4"><span class="num num-sys">4</span><a href="https://openai.com/index/hugging-face-model-evaluation-security-incident/" target="_blank">OpenAI model breaks out of security sandbox</a> <span class="desc">— OpenAI 模型在测试中突破安全沙箱并入侵 Hugging Face</span></li>
+        <li id="src6"><span class="num num-sys">6</span><a href="https://system76.com/blog/post/cosmic-de-first-seven-months" target="_blank">COSMIC DE's First Seven Months</a> <span class="desc">— System76 桌面环境首七个月运行报告</span></li>
+        <li id="src7"><span class="num num-sys">7</span><a href="https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of" target="_blank">Linux kernel will support $ORIGIN, sort of</a> <span class="desc">— Linux 内核计划支持 $ORIGIN 环境变量</span></li>
+        <li id="src8"><span class="num num-sys">8</span><a href="https://thorsell.io/2026/07/21/github-ssh-keys.html" target="_blank">GitHub suddenly rejected my SSH key</a> <span class="desc">— GitHub 突然拒绝 SSH 密钥引发的 DevOps 问题</span></li>
+        <li id="src9"><span class="num num-sys">9</span><a href="https://nesbitt.io/2026/07/21/end-of-options.html" target="_blank">git --end-of-options</a> <span class="desc">— Git 命令行选项即将终结的讨论</span></li>
+        <li id="src10"><span class="num num-sys">10</span><a href="https://freeink.org/" target="_blank">Free Ink · An open ecosystem for e-readers</a> <span class="desc">— 构建开放电子墨水阅读生态</span></li>
+        <li id="src14"><span class="num num-sys">14</span><a href="https://seg6.space/posts/resurrecting-ipad-mini" target="_blank">Bringing the modern web to the original iPad mini</a> <span class="desc">— 在原始 iPad mini 上运行现代 Web</span></li>
+        <li id="src15"><span class="num num-sys">15</span><a href="https://etbe.coker.com.au/2026/07/19/ecc-ddr5/" target="_blank">ECC and DDR5</a> <span class="desc">— ECC 内存与 DDR5 技术对比分析</span></li>
+        <li id="src16"><span class="num num-sys">16</span><a href="https://journal.james-zhan.com/no-ai-statements/" target="_blank">“No AI” Statements Are Much More Than Mere Statements</a> <span class="desc">— 探讨“无 AI"声明背后的深层含义</span></li>
+        <li id="src17"><span class="num num-sys">17</span><a href="https://bellkiosk.website/blog/reasons-to-website.html" target="_blank">95 reasons for having your own website</a> <span class="desc">— 列举拥有独立网站的 95 个理由</span></li>
+        <li id="src18"><span class="num num-sys">18</span><a href="https://blog.xoria.org/integers/" target="_blank">Thoughts On Integers (2023)</a> <span class="desc">— 关于整数的技术哲学思考</span></li>
+        <li id="src19"><span class="num num-sys">19</span><a href="https://futhark-lang.org/blog/2026-07-21-rewriting-the-type-checker.html" target="_blank">Rewriting the Futhark type checker</a> <span class="desc">— 重写 Futhark 语言类型检查器的过程</span></li>
       </ul>
     </div>
-
     <div class="source-group">
       <div class="source-group-title">少数派</div>
       <ul class="source-list">
-        <li id="src31"><span class="num" style="background:#c77dba">31</span><a href="https://sspai.com/post/112545" target="_blank">Parti：一个零门槛联机游戏平台，凭什么不需要服务器？Link256 分钟前</a> <span class="desc">— Link25</span></li>
-        <li id="src32"><span class="num" style="background:#c77dba">32</span><a href="https://sspai.com/post/111550" target="_blank">滤镜背后的色彩科学：LUT 是什么？从风格滤镜，到电影中的专业调色，聊聊 LUT 所代表的色彩规则。Nnnobel15:00</a> <span class="desc">— Nnnobel</span></li>
-        <li id="src33"><span class="num" style="background:#c77dba">33</span><a href="https://sspai.com/post/112109" target="_blank">角落新声｜我的上帝模式，一名设计师创作环境的演变CG艺术实验室10:04</a> <span class="desc">— CG艺术实验室</span></li>
-        <li id="src34"><span class="num" style="background:#c77dba">34</span><a href="https://sspai.com/post/112597" target="_blank">派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等少数派编辑部08:30派早报</a> <span class="desc">— 少数派编辑部</span></li>
-        <li id="src35"><span class="num" style="background:#c77dba">35</span><a href="https://sspai.com/post/112582" target="_blank">社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车Matrix机器人昨天 17:00</a> <span class="desc">— Matrix机器人</span></li>
-        <li id="src36"><span class="num" style="background:#c77dba">36</span><a href="https://sspai.com/post/112200" target="_blank">装上 Fedora 的 Surface Pro：一台老设备的新可能StephenFang昨天 15:00</a> <span class="desc">— StephenFang</span></li>
-        <li id="src37"><span class="num" style="background:#c77dba">37</span><a href="https://sspai.com/bullet/1783932697" target="_blank">聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情</a> <span class="desc">— 一派讨论</span></li>
-        <li id="src38"><span class="num" style="background:#c77dba">38</span><a href="https://sspai.com/post/111569" target="_blank">App+1 | 把「从长视频截取片段」做到极致：TrimlyBleaker昨天 11:00Matrix精选</a> <span class="desc">— Bleaker</span></li>
-        <li id="src39"><span class="num" style="background:#c77dba">39</span><a href="https://sspai.com/post/112565" target="_blank">派早报：京沪高铁与京沪铁路试点提前 60 天预约购票等少数派编辑部昨天 08:02派早报</a> <span class="desc">— 少数派编辑部</span></li>
-        <li id="src40"><span class="num" style="background:#c77dba">40</span><a href="https://sspai.com/post/112543" target="_blank">派评 | 近期值得关注的 App少数派编辑部前天 18:00</a> <span class="desc">— 少数派编辑部</span></li>
-        <li id="src41"><span class="num" style="background:#c77dba">41</span><a href="https://sspai.com/post/112453" target="_blank">角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫北鸮前天 15:05</a> <span class="desc">— 北鸮</span></li>
-        <li id="src42"><span class="num" style="background:#c77dba">42</span><a href="https://sspai.com/bullet/1783307199" target="_blank">聊聊你手机背面的「磁吸配件」？一派投票点击了解详情</a> <span class="desc">— 一派投票</span></li>
+        <li id="src11"><span class="num num-gadget">11</span><a href="https://sspai.com/post/112200" target="_blank">装上 Fedora 的 Surface Pro</a> <span class="desc">— 在 Surface Pro 上安装 Fedora 赋予老设备新生命</span></li>
+        <li id="src12"><span class="num num-gadget">12</span><a href="https://sspai.com/post/112545" target="_blank">Parti：一个零门槛联机游戏平台</a> <span class="desc">— 无需服务器的联机游戏平台</span></li>
+        <li id="src13"><span class="num num-gadget">13</span><a href="https://sspai.com/post/111569" target="_blank">App+1 | 把「从长视频截取片段」做到极致：Trimly</a> <span class="desc">— 极致长视频片段截取工具</span></li>
+        <li id="src20"><span class="num num-gadget">20</span><a href="https://sspai.com/post/112582" target="_blank">社区速递 150｜派友热议磁吸配件</a> <span class="desc">— 社区讨论磁吸配件与国产三折叠自行车</span></li>
+        <li id="src21"><span class="num num-gadget">21</span><a href="https://sspai.com/bullet/1783307199" target="_blank">聊聊你手机背面的「磁吸配件」？</a> <span class="desc">— 手机背面磁吸配件投票讨论</span></li>
       </ul>
     </div>
 
-  </div>
+    </div>
 
-  <div class="footer">
-    自动生成 · 数据截至 2026-07-22 · 
-    <a href="index.html" style="color:var(--text-secondary)">查看所有日期</a>
-  </div>
+    <footer class="footer">
+        <span class="heart">&#10022;</span> 自动生成 &middot; 数据截至 2026-07-22 &middot;
+        <a href="index.html">查看所有日期</a>
+    </footer>
 </div>
+<script>
+
+(function() {
+    'use strict';
+    var canvas = document.getElementById('bg-canvas');
+    if (!canvas) return;
+    var ctx = canvas.getContext('2d');
+    var width, height, particles = [];
+    var PARTICLE_COUNT = 120, CONNECTION_DIST = 110, MOUSE_RADIUS = 180;
+    var mouseX = null, mouseY = null;
+
+    function resize() {
+        width = window.innerWidth; height = window.innerHeight;
+        canvas.width = width; canvas.height = height;
+    }
+    window.addEventListener('resize', resize);
+
+    function Particle() { this.reset(); }
+    Particle.prototype.reset = function() {
+        this.x = Math.random() * width; this.y = Math.random() * height;
+        this.vx = (Math.random() - 0.5) * 0.4; this.vy = (Math.random() - 0.5) * 0.4;
+        this.radius = Math.random() * 2.2 + 1.2;
+        this.opacity = Math.random() * 0.5 + 0.3;
+        var hue = Math.random() > 0.5 ? 30 + Math.random() * 30 : 210 + Math.random() * 40;
+        this.color = 'hsla(' + hue + ', 80%, 70%, ' + this.opacity + ')';
+    };
+    Particle.prototype.update = function() {
+        this.x += this.vx; this.y += this.vy;
+        if (mouseX !== null && mouseY !== null) {
+            var dx = this.x - mouseX, dy = this.y - mouseY;
+            var dist = Math.sqrt(dx * dx + dy * dy);
+            if (dist < MOUSE_RADIUS && dist > 1) {
+                var force = (MOUSE_RADIUS - dist) / MOUSE_RADIUS * 0.3;
+                this.x += (dx / dist) * force; this.y += (dy / dist) * force;
+            }
+        }
+        if (this.x < 0) { this.x = 0; this.vx *= -0.5; }
+        if (this.x > width) { this.x = width; this.vx *= -0.5; }
+        if (this.y < 0) { this.y = 0; this.vy *= -0.5; }
+        if (this.y > height) { this.y = height; this.vy *= -0.5; }
+        this.vx += (Math.random() - 0.5) * 0.02;
+        this.vy += (Math.random() - 0.5) * 0.02;
+        var sp = Math.sqrt(this.vx * this.vx + this.vy * this.vy);
+        if (sp > 0.6) { this.vx = (this.vx / sp) * 0.6; this.vy = (this.vy / sp) * 0.6; }
+    };
+    Particle.prototype.draw = function() {
+        ctx.beginPath(); ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
+        ctx.fillStyle = this.color; ctx.fill();
+    };
+
+    for (var i = 0; i < PARTICLE_COUNT; i++) particles.push(new Particle());
+
+    function drawConnections() {
+        for (var i = 0; i < particles.length; i++) {
+            for (var j = i + 1; j < particles.length; j++) {
+                var dx = particles[i].x - particles[j].x;
+                var dy = particles[i].y - particles[j].y;
+                var dist = Math.sqrt(dx * dx + dy * dy);
+                if (dist < CONNECTION_DIST) {
+                    var alpha = (1 - dist / CONNECTION_DIST) * 0.25;
+                    ctx.beginPath();
+                    ctx.moveTo(particles[i].x, particles[i].y);
+                    ctx.lineTo(particles[j].x, particles[j].y);
+                    ctx.strokeStyle = 'rgba(255, 255, 255, ' + alpha + ')';
+                    ctx.lineWidth = 0.8; ctx.stroke();
+                }
+            }
+        }
+    }
+
+    function animate() {
+        ctx.clearRect(0, 0, width, height);
+        drawConnections();
+        for (var i = 0; i < particles.length; i++) {
+            particles[i].update(); particles[i].draw();
+        }
+        requestAnimationFrame(animate);
+    }
+
+    document.addEventListener('mousemove', function(e) { mouseX = e.clientX; mouseY = e.clientY; });
+    document.addEventListener('mouseleave', function() { mouseX = null; mouseY = null; });
+    document.addEventListener('touchmove', function(e) {
+        var t = e.touches[0]; if (t) { mouseX = t.clientX; mouseY = t.clientY; }
+    }, { passive: true });
+    document.addEventListener('touchend', function() { mouseX = null; mouseY = null; });
+
+    resize(); animate();
+    window.addEventListener('resize', function() {
+        resize();
+        for (var i = 0; i < particles.length; i++) {
+            particles[i].x = Math.min(particles[i].x, width);
+            particles[i].y = Math.min(particles[i].y, height);
+        }
+    });
+})();
+
+
+(function() {
+    function animateNumber(el, target, duration) {
+        duration = duration || 1200;
+        var startTime = performance.now();
+        function update(currentTime) {
+            var elapsed = currentTime - startTime;
+            var progress = Math.min(elapsed / duration, 1);
+            var eased = 1 - Math.pow(1 - progress, 4);
+            el.textContent = Math.round(target * eased);
+            if (progress < 1) requestAnimationFrame(update);
+            else el.textContent = target;
+        }
+        requestAnimationFrame(update);
+    }
+    var statsItems = document.querySelectorAll('.stat-item .num[data-target]');
+    var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+            if (entry.isIntersecting) {
+                var target = parseInt(entry.target.dataset.target, 10);
+                if (!isNaN(target)) animateNumber(entry.target, target);
+                observer.unobserve(entry.target);
+            }
+        });
+    }, { threshold: 0.3 });
+    statsItems.forEach(function(el) { observer.observe(el); });
+})();
+
+</script>
 </body>
 </html>

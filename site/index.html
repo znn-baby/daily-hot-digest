@@ -4,56 +4,169 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>每日热点汇总 - 归档</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&display=swap" rel="stylesheet" />
 <style>
-:root { --warm-bg: #faf6f1; --card-bg: #ffffff; --text-primary: #3a3a3a;
-  --text-secondary: #777; --border-light: #e8e0d8; }
 * { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+    --bg-primary: #0b0d15; --bg-card: rgba(255,255,255,0.04); --border-card: rgba(255,255,255,0.07);
+    --text-primary: #f0f2f8; --text-secondary: rgba(255,255,255,0.6); --text-muted: rgba(255,255,255,0.35);
+    --shadow-card: 0 16px 48px rgba(0,0,0,0.5); --radius-card: 20px;
+    --transition-smooth: cubic-bezier(0.22, 1, 0.36, 1);
+}
+html { scroll-behavior: smooth; }
 body {
-  font-family: -apple-system, "Segoe UI", "Microsoft YaHei", "PingFang SC", sans-serif;
-  background: var(--warm-bg); color: var(--text-primary);
-  line-height: 1.8; padding: 40px 20px;
+    font-family: 'Inter', -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+    background: var(--bg-primary); color: var(--text-primary);
+    min-height: 100vh; overflow-x: hidden; line-height: 1.7;
 }
-.container { max-width: 600px; margin: 0 auto; }
-.header {
-  text-align: center; margin-bottom: 40px;
-  padding-bottom: 24px; border-bottom: 2px solid var(--border-light);
+#bg-canvas { position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 0; pointer-events: none; }
+.glow-overlay {
+    position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 1; pointer-events: none;
+    background:
+        radial-gradient(ellipse at 20% 50%, rgba(249,115,22,0.06) 0%, transparent 60%),
+        radial-gradient(ellipse at 80% 20%, rgba(59,130,246,0.05) 0%, transparent 50%),
+        radial-gradient(ellipse at 60% 80%, rgba(168,85,247,0.04) 0%, transparent 50%);
+    animation: glowPulse 12s ease-in-out infinite alternate;
 }
-.header h1 { font-size: 28px; font-weight: 700; }
+@keyframes glowPulse { 0% { opacity: 0.6; transform: scale(1); } 100% { opacity: 1; transform: scale(1.05); } }
+.container { position: relative; z-index: 2; max-width: 600px; margin: 0 auto; padding: 48px 24px 64px; }
+.header { text-align: center; margin-bottom: 40px; padding-bottom: 24px; border-bottom: 1px solid rgba(255,255,255,0.06); }
+.header h1 {
+    font-size: 32px; font-weight: 800; letter-spacing: -0.02em;
+    background: linear-gradient(135deg, #ffffff 30%, rgba(255,255,255,0.5) 80%);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+}
 .header p { font-size: 15px; color: var(--text-secondary); margin-top: 8px; }
 .date-list { list-style: none; }
 .date-list li {
-  background: var(--card-bg); border: 1px solid var(--border-light);
-  border-radius: 8px; padding: 14px 20px; margin-bottom: 10px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+    background: var(--bg-card); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    border: 1px solid var(--border-card); border-radius: 12px;
+    padding: 14px 20px; margin-bottom: 10px; box-shadow: var(--shadow-card);
+    transition: transform 0.3s var(--transition-smooth), border-color 0.3s ease;
 }
+.date-list li:hover { transform: translateY(-2px); border-color: rgba(255,255,255,0.12); }
 .date-list li a {
-  color: var(--text-primary); text-decoration: none;
-  font-size: 16px; font-weight: 600;
+    color: var(--text-primary); text-decoration: none; font-size: 16px; font-weight: 600;
 }
-.date-list li a:hover { color: #4a90d9; }
-.date-list li .meta {
-  font-size: 13px; color: var(--text-secondary); margin-top: 4px;
-}
-.empty {
-  text-align: center; padding: 60px 20px;
-  color: var(--text-secondary); font-size: 15px;
-}
-.footer {
-  text-align: center; margin-top: 40px;
-  font-size: 12px; color: var(--text-secondary);
-}
+.date-list li a:hover { color: var(--color-dev, #3b82f6); }
+.empty { text-align: center; padding: 60px 20px; color: var(--text-secondary); font-size: 15px; }
+.footer { text-align: center; margin-top: 40px; font-size: 12px; color: var(--text-muted); }
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.12); border-radius: 10px; }
 </style>
 </head>
 <body>
+<canvas id="bg-canvas"></canvas>
+<div class="glow-overlay"></div>
 <div class="container">
-  <div class="header">
-    <h1>每日热点汇总</h1>
-    <p>自动抓取 GitHub Trending / Lobsters / 少数派 + AI 摘要</p>
-  </div>
-  <ul class="date-list"><li><a href="2026-07-23.html">2026-07-23 周四</a></li><li><a href="2026-07-22.html">2026-07-22 周三</a></li></ul>
-  <div class="footer">
-    Powered by GitHub Actions · 每日 UTC 01:00 自动更新
-  </div>
+    <div class="header">
+        <h1>热点星云</h1>
+        <p>自动抓取 GitHub Trending / Lobsters / 少数派 + AI 摘要</p>
+    </div>
+    <ul class="date-list"><li><a href="2026-07-22.html">2026-07-22 周三</a></li></ul>
+    <div class="footer">
+        Powered by GitHub Actions &middot; 每日 UTC 01:00 自动更新
+    </div>
 </div>
+<script>
+
+(function() {
+    'use strict';
+    var canvas = document.getElementById('bg-canvas');
+    if (!canvas) return;
+    var ctx = canvas.getContext('2d');
+    var width, height, particles = [];
+    var PARTICLE_COUNT = 60, CONNECTION_DIST = 110, MOUSE_RADIUS = 180;
+    var mouseX = null, mouseY = null;
+
+    function resize() {
+        width = window.innerWidth; height = window.innerHeight;
+        canvas.width = width; canvas.height = height;
+    }
+    window.addEventListener('resize', resize);
+
+    function Particle() { this.reset(); }
+    Particle.prototype.reset = function() {
+        this.x = Math.random() * width; this.y = Math.random() * height;
+        this.vx = (Math.random() - 0.5) * 0.4; this.vy = (Math.random() - 0.5) * 0.4;
+        this.radius = Math.random() * 2.2 + 1.2;
+        this.opacity = Math.random() * 0.5 + 0.3;
+        var hue = Math.random() > 0.5 ? 30 + Math.random() * 30 : 210 + Math.random() * 40;
+        this.color = 'hsla(' + hue + ', 80%, 70%, ' + this.opacity + ')';
+    };
+    Particle.prototype.update = function() {
+        this.x += this.vx; this.y += this.vy;
+        if (mouseX !== null && mouseY !== null) {
+            var dx = this.x - mouseX, dy = this.y - mouseY;
+            var dist = Math.sqrt(dx * dx + dy * dy);
+            if (dist < MOUSE_RADIUS && dist > 1) {
+                var force = (MOUSE_RADIUS - dist) / MOUSE_RADIUS * 0.3;
+                this.x += (dx / dist) * force; this.y += (dy / dist) * force;
+            }
+        }
+        if (this.x < 0) { this.x = 0; this.vx *= -0.5; }
+        if (this.x > width) { this.x = width; this.vx *= -0.5; }
+        if (this.y < 0) { this.y = 0; this.vy *= -0.5; }
+        if (this.y > height) { this.y = height; this.vy *= -0.5; }
+        this.vx += (Math.random() - 0.5) * 0.02;
+        this.vy += (Math.random() - 0.5) * 0.02;
+        var sp = Math.sqrt(this.vx * this.vx + this.vy * this.vy);
+        if (sp > 0.6) { this.vx = (this.vx / sp) * 0.6; this.vy = (this.vy / sp) * 0.6; }
+    };
+    Particle.prototype.draw = function() {
+        ctx.beginPath(); ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
+        ctx.fillStyle = this.color; ctx.fill();
+    };
+
+    for (var i = 0; i < PARTICLE_COUNT; i++) particles.push(new Particle());
+
+    function drawConnections() {
+        for (var i = 0; i < particles.length; i++) {
+            for (var j = i + 1; j < particles.length; j++) {
+                var dx = particles[i].x - particles[j].x;
+                var dy = particles[i].y - particles[j].y;
+                var dist = Math.sqrt(dx * dx + dy * dy);
+                if (dist < CONNECTION_DIST) {
+                    var alpha = (1 - dist / CONNECTION_DIST) * 0.25;
+                    ctx.beginPath();
+                    ctx.moveTo(particles[i].x, particles[i].y);
+                    ctx.lineTo(particles[j].x, particles[j].y);
+                    ctx.strokeStyle = 'rgba(255, 255, 255, ' + alpha + ')';
+                    ctx.lineWidth = 0.8; ctx.stroke();
+                }
+            }
+        }
+    }
+
+    function animate() {
+        ctx.clearRect(0, 0, width, height);
+        drawConnections();
+        for (var i = 0; i < particles.length; i++) {
+            particles[i].update(); particles[i].draw();
+        }
+        requestAnimationFrame(animate);
+    }
+
+    document.addEventListener('mousemove', function(e) { mouseX = e.clientX; mouseY = e.clientY; });
+    document.addEventListener('mouseleave', function() { mouseX = null; mouseY = null; });
+    document.addEventListener('touchmove', function(e) {
+        var t = e.touches[0]; if (t) { mouseX = t.clientX; mouseY = t.clientY; }
+    }, { passive: true });
+    document.addEventListener('touchend', function() { mouseX = null; mouseY = null; });
+
+    resize(); animate();
+    window.addEventListener('resize', function() {
+        resize();
+        for (var i = 0; i < particles.length; i++) {
+            particles[i].x = Math.min(particles[i].x, width);
+            particles[i].y = Math.min(particles[i].y, height);
+        }
+    });
+})();
+
+</script>
 </body>
 </html>

@@ -1,204 +1,29 @@
-"""HTML 生成模块 - 生成带溯源索引的静态页面"""
+"""HTML 生成模块 - 数据宇宙主题 · 带溯源索引的静态页面"""
 
 import os
+import re
 import json
+from string import Template
 from datetime import datetime
 
-# 分类颜色映射
+# 分类颜色映射（深色主题高饱和度色板）
 COLORS = {
-    "ai": ("#e8734a", "AI / 智能体"),
-    "dev": ("#4a90d9", "开发工具 / 工程实践"),
-    "sys": ("#6aab73", "系统与底层技术"),
-    "gadget": ("#c77dba", "数码产品 / 效率工具"),
-    "opinion": ("#d4a84b", "思考与观点"),
-    "security": ("#d9534f", "安全"),
-    "web": ("#5bc0de", "Web 开发"),
+    "ai":       ("#f97316", "AI / 智能体"),
+    "dev":      ("#3b82f6", "开发工具 / 工程实践"),
+    "sys":      ("#22c55e", "系统与底层技术"),
+    "gadget":   ("#a855f7", "数码产品 / 效率工具"),
+    "opinion":  ("#eab308", "思考与观点"),
+    "security": ("#ef4444", "安全"),
+    "web":      ("#06b6d4", "Web 开发"),
 }
 
-HTML_TEMPLATE = """<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>每日热点汇总 | {date}</title>
-<style>
-:root {{
-  --warm-bg: #faf6f1; --card-bg: #ffffff; --text-primary: #3a3a3a;
-  --text-secondary: #777; --border-light: #e8e0d8;
-}}
-* {{ margin: 0; padding: 0; box-sizing: border-box; }}
-body {{
-  font-family: -apple-system, "Segoe UI", "Microsoft YaHei", "PingFang SC", sans-serif;
-  background: var(--warm-bg); color: var(--text-primary);
-  line-height: 1.8; padding: 40px 20px;
-}}
-.container {{ max-width: 780px; margin: 0 auto; }}
-.header {{
-  text-align: center; margin-bottom: 40px;
-  padding-bottom: 24px; border-bottom: 2px solid var(--border-light);
-}}
-.header h1 {{ font-size: 28px; font-weight: 700; letter-spacing: 1px; }}
-.header .date {{ font-size: 15px; color: var(--text-secondary); margin-top: 8px; }}
-.header .stats {{
-  display: flex; justify-content: center; gap: 24px;
-  margin-top: 14px; font-size: 13px; color: var(--text-secondary);
-}}
-.header .stats span {{
-  background: var(--card-bg); padding: 4px 14px;
-  border-radius: 20px; border: 1px solid var(--border-light);
-}}
-.nav-link {{
-  display: inline-block; margin-top: 12px; font-size: 13px;
-  color: var(--text-secondary); text-decoration: none;
-  border-bottom: 1px dashed var(--border-light);
-}}
-.nav-link:hover {{ color: var(--text-primary); }}
-.category {{
-  background: var(--card-bg); border-radius: 12px;
-  padding: 28px 32px; margin-bottom: 20px;
-  border: 1px solid var(--border-light);
-  box-shadow: 0 1px 4px rgba(0,0,0,0.03);
-}}
-.category-title {{
-  display: flex; align-items: center; gap: 10px;
-  font-size: 19px; font-weight: 700; margin-bottom: 16px;
-  padding-bottom: 12px; border-bottom: 1px dashed var(--border-light);
-}}
-.category-badge {{
-  display: inline-block; width: 10px; height: 10px;
-  border-radius: 50%; flex-shrink: 0;
-}}
-.category p {{ font-size: 15px; margin-bottom: 12px; text-align: justify; }}
-.cite {{
-  display: inline; font-size: 12px; font-weight: 600;
-  vertical-align: super; line-height: 1; padding: 0 1px;
-}}
-.cite a {{ text-decoration: none; }}
-.cite a:hover {{ text-decoration: underline; }}
-.source-index {{
-  background: var(--card-bg); border-radius: 12px;
-  padding: 28px 32px; margin-top: 32px;
-  border: 1px solid var(--border-light);
-  box-shadow: 0 1px 4px rgba(0,0,0,0.03);
-}}
-.source-index h2 {{
-  font-size: 18px; font-weight: 700; margin-bottom: 20px;
-  padding-bottom: 12px; border-bottom: 2px solid var(--border-light);
-}}
-.source-group {{ margin-bottom: 18px; }}
-.source-group-title {{
-  font-size: 13px; font-weight: 600; color: var(--text-secondary);
-  text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;
-}}
-.source-list {{ list-style: none; padding: 0; }}
-.source-list li {{
-  font-size: 14px; padding: 5px 0;
-  display: flex; align-items: baseline; gap: 8px; line-height: 1.6;
-}}
-.source-list li .num {{
-  flex-shrink: 0; display: inline-block; width: 22px; height: 22px;
-  line-height: 22px; text-align: center; border-radius: 50%;
-  font-size: 11px; font-weight: 700; color: #fff;
-}}
-.source-list li a {{
-  color: var(--text-primary); text-decoration: none;
-  border-bottom: 1px dashed var(--border-light);
-}}
-.source-list li a:hover {{ border-bottom-color: #4a90d9; color: #4a90d9; }}
-.source-list li .desc {{ color: var(--text-secondary); font-size: 13px; }}
-.footer {{
-  text-align: center; margin-top: 32px;
-  font-size: 12px; color: var(--text-secondary);
-}}
-</style>
-</head>
-<body>
-<div class="container">
-  <div class="header">
-    <h1>每日热点汇总</h1>
-    <div class="date">{date_display}</div>
-    <div class="stats">
-      <span>{source_count} 个信息源</span>
-      <span>{category_count} 个分类</span>
-      <span>{item_count} 条内容</span>
-    </div>
-    <a class="nav-link" href="index.html">&larr; 查看所有日期</a>
-  </div>
-
-{categories_html}
-
-  <div class="source-index">
-    <h2>溯源索引</h2>
-{sources_by_group_html}
-  </div>
-
-  <div class="footer">
-    自动生成 · 数据截至 {date} · 
-    <a href="index.html" style="color:var(--text-secondary)">查看所有日期</a>
-  </div>
-</div>
-</body>
-</html>"""
-
-INDEX_TEMPLATE = """<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>每日热点汇总 - 归档</title>
-<style>
-:root {{ --warm-bg: #faf6f1; --card-bg: #ffffff; --text-primary: #3a3a3a;
-  --text-secondary: #777; --border-light: #e8e0d8; }}
-* {{ margin: 0; padding: 0; box-sizing: border-box; }}
-body {{
-  font-family: -apple-system, "Segoe UI", "Microsoft YaHei", "PingFang SC", sans-serif;
-  background: var(--warm-bg); color: var(--text-primary);
-  line-height: 1.8; padding: 40px 20px;
-}}
-.container {{ max-width: 600px; margin: 0 auto; }}
-.header {{
-  text-align: center; margin-bottom: 40px;
-  padding-bottom: 24px; border-bottom: 2px solid var(--border-light);
-}}
-.header h1 {{ font-size: 28px; font-weight: 700; }}
-.header p {{ font-size: 15px; color: var(--text-secondary); margin-top: 8px; }}
-.date-list {{ list-style: none; }}
-.date-list li {{
-  background: var(--card-bg); border: 1px solid var(--border-light);
-  border-radius: 8px; padding: 14px 20px; margin-bottom: 10px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.02);
-}}
-.date-list li a {{
-  color: var(--text-primary); text-decoration: none;
-  font-size: 16px; font-weight: 600;
-}}
-.date-list li a:hover {{ color: #4a90d9; }}
-.date-list li .meta {{
-  font-size: 13px; color: var(--text-secondary); margin-top: 4px;
-}}
-.empty {{
-  text-align: center; padding: 60px 20px;
-  color: var(--text-secondary); font-size: 15px;
-}}
-.footer {{
-  text-align: center; margin-top: 40px;
-  font-size: 12px; color: var(--text-secondary);
-}}
-</style>
-</head>
-<body>
-<div class="container">
-  <div class="header">
-    <h1>每日热点汇总</h1>
-    <p>自动抓取 GitHub Trending / Lobsters / 少数派 + AI 摘要</p>
-  </div>
-  {date_list_html}
-  <div class="footer">
-    Powered by GitHub Actions · 每日 UTC 01:00 自动更新
-  </div>
-</div>
-</body>
-</html>"""
+# 来源名称 -> 颜色 key 映射
+SOURCE_COLOR_MAP = {
+    "GitHub": "dev",
+    "GitHub Trending": "dev",
+    "Lobsters": "sys",
+    "少数派": "gadget",
+}
 
 
 def _get_color(color_key: str) -> str:
@@ -210,6 +35,499 @@ def _get_color_name(color_key: str) -> str:
     """获取分类中文名"""
     return COLORS.get(color_key, ("#888", color_key))[1]
 
+
+def _generate_color_classes() -> str:
+    """根据 COLORS 字典生成动态 CSS 规则"""
+    rules = []
+    for key, (hex_color, _) in COLORS.items():
+        rules.append(
+            f".dot-{key} {{ background: {hex_color}; "
+            f"box-shadow: 0 0 24px {hex_color}40; }}"
+        )
+        rules.append(f".num-{key} {{ background: {hex_color}; }}")
+        rules.append(f".highlight-{key} {{ color: {hex_color}; }}")
+    return "\n".join(rules)
+
+
+def _render_template(template_str: str, **kwargs) -> str:
+    """使用 string.Template 渲染，避免 .format() 的花括号转义问题"""
+    return Template(template_str).safe_substitute(**kwargs)
+
+
+# ============================================================
+# JavaScript 常量（作为独立字符串，便于维护）
+# ============================================================
+
+PARTICLE_JS = r"""
+(function() {
+    'use strict';
+    var canvas = document.getElementById('bg-canvas');
+    if (!canvas) return;
+    var ctx = canvas.getContext('2d');
+    var width, height, particles = [];
+    var PARTICLE_COUNT = 120, CONNECTION_DIST = 110, MOUSE_RADIUS = 180;
+    var mouseX = null, mouseY = null;
+
+    function resize() {
+        width = window.innerWidth; height = window.innerHeight;
+        canvas.width = width; canvas.height = height;
+    }
+    window.addEventListener('resize', resize);
+
+    function Particle() { this.reset(); }
+    Particle.prototype.reset = function() {
+        this.x = Math.random() * width; this.y = Math.random() * height;
+        this.vx = (Math.random() - 0.5) * 0.4; this.vy = (Math.random() - 0.5) * 0.4;
+        this.radius = Math.random() * 2.2 + 1.2;
+        this.opacity = Math.random() * 0.5 + 0.3;
+        var hue = Math.random() > 0.5 ? 30 + Math.random() * 30 : 210 + Math.random() * 40;
+        this.color = 'hsla(' + hue + ', 80%, 70%, ' + this.opacity + ')';
+    };
+    Particle.prototype.update = function() {
+        this.x += this.vx; this.y += this.vy;
+        if (mouseX !== null && mouseY !== null) {
+            var dx = this.x - mouseX, dy = this.y - mouseY;
+            var dist = Math.sqrt(dx * dx + dy * dy);
+            if (dist < MOUSE_RADIUS && dist > 1) {
+                var force = (MOUSE_RADIUS - dist) / MOUSE_RADIUS * 0.3;
+                this.x += (dx / dist) * force; this.y += (dy / dist) * force;
+            }
+        }
+        if (this.x < 0) { this.x = 0; this.vx *= -0.5; }
+        if (this.x > width) { this.x = width; this.vx *= -0.5; }
+        if (this.y < 0) { this.y = 0; this.vy *= -0.5; }
+        if (this.y > height) { this.y = height; this.vy *= -0.5; }
+        this.vx += (Math.random() - 0.5) * 0.02;
+        this.vy += (Math.random() - 0.5) * 0.02;
+        var sp = Math.sqrt(this.vx * this.vx + this.vy * this.vy);
+        if (sp > 0.6) { this.vx = (this.vx / sp) * 0.6; this.vy = (this.vy / sp) * 0.6; }
+    };
+    Particle.prototype.draw = function() {
+        ctx.beginPath(); ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
+        ctx.fillStyle = this.color; ctx.fill();
+    };
+
+    for (var i = 0; i < PARTICLE_COUNT; i++) particles.push(new Particle());
+
+    function drawConnections() {
+        for (var i = 0; i < particles.length; i++) {
+            for (var j = i + 1; j < particles.length; j++) {
+                var dx = particles[i].x - particles[j].x;
+                var dy = particles[i].y - particles[j].y;
+                var dist = Math.sqrt(dx * dx + dy * dy);
+                if (dist < CONNECTION_DIST) {
+                    var alpha = (1 - dist / CONNECTION_DIST) * 0.25;
+                    ctx.beginPath();
+                    ctx.moveTo(particles[i].x, particles[i].y);
+                    ctx.lineTo(particles[j].x, particles[j].y);
+                    ctx.strokeStyle = 'rgba(255, 255, 255, ' + alpha + ')';
+                    ctx.lineWidth = 0.8; ctx.stroke();
+                }
+            }
+        }
+    }
+
+    function animate() {
+        ctx.clearRect(0, 0, width, height);
+        drawConnections();
+        for (var i = 0; i < particles.length; i++) {
+            particles[i].update(); particles[i].draw();
+        }
+        requestAnimationFrame(animate);
+    }
+
+    document.addEventListener('mousemove', function(e) { mouseX = e.clientX; mouseY = e.clientY; });
+    document.addEventListener('mouseleave', function() { mouseX = null; mouseY = null; });
+    document.addEventListener('touchmove', function(e) {
+        var t = e.touches[0]; if (t) { mouseX = t.clientX; mouseY = t.clientY; }
+    }, { passive: true });
+    document.addEventListener('touchend', function() { mouseX = null; mouseY = null; });
+
+    resize(); animate();
+    window.addEventListener('resize', function() {
+        resize();
+        for (var i = 0; i < particles.length; i++) {
+            particles[i].x = Math.min(particles[i].x, width);
+            particles[i].y = Math.min(particles[i].y, height);
+        }
+    });
+})();
+"""
+
+COUNTER_JS = r"""
+(function() {
+    function animateNumber(el, target, duration) {
+        duration = duration || 1200;
+        var startTime = performance.now();
+        function update(currentTime) {
+            var elapsed = currentTime - startTime;
+            var progress = Math.min(elapsed / duration, 1);
+            var eased = 1 - Math.pow(1 - progress, 4);
+            el.textContent = Math.round(target * eased);
+            if (progress < 1) requestAnimationFrame(update);
+            else el.textContent = target;
+        }
+        requestAnimationFrame(update);
+    }
+    var statsItems = document.querySelectorAll('.stat-item .num[data-target]');
+    var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+            if (entry.isIntersecting) {
+                var target = parseInt(entry.target.dataset.target, 10);
+                if (!isNaN(target)) animateNumber(entry.target, target);
+                observer.unobserve(entry.target);
+            }
+        });
+    }, { threshold: 0.3 });
+    statsItems.forEach(function(el) { observer.observe(el); });
+})();
+"""
+
+
+# ============================================================
+# HTML 模板 — 数据宇宙主题
+# ============================================================
+
+HTML_TEMPLATE = """<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>每日热点汇总 | $date</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&display=swap" rel="stylesheet" />
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+    --bg-primary: #0b0d15;
+    --bg-card: rgba(255, 255, 255, 0.04);
+    --border-card: rgba(255, 255, 255, 0.07);
+    --text-primary: #f0f2f8;
+    --text-secondary: rgba(255, 255, 255, 0.6);
+    --text-muted: rgba(255, 255, 255, 0.35);
+    --shadow-card: 0 16px 48px rgba(0, 0, 0, 0.5);
+    --radius-card: 20px;
+    --transition-smooth: cubic-bezier(0.22, 1, 0.36, 1);
+    --color-ai: #f97316;
+    --color-dev: #3b82f6;
+    --color-sys: #22c55e;
+    --color-gadget: #a855f7;
+    --color-opinion: #eab308;
+}
+html { scroll-behavior: smooth; }
+body {
+    font-family: 'Inter', -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+    background: var(--bg-primary); color: var(--text-primary);
+    min-height: 100vh; overflow-x: hidden; line-height: 1.7;
+}
+#bg-canvas { position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 0; pointer-events: none; }
+.glow-overlay {
+    position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 1; pointer-events: none;
+    background:
+        radial-gradient(ellipse at 20% 50%, rgba(249, 115, 22, 0.06) 0%, transparent 60%),
+        radial-gradient(ellipse at 80% 20%, rgba(59, 130, 246, 0.05) 0%, transparent 50%),
+        radial-gradient(ellipse at 60% 80%, rgba(168, 85, 247, 0.04) 0%, transparent 50%);
+    animation: glowPulse 12s ease-in-out infinite alternate;
+}
+@keyframes glowPulse { 0% { opacity: 0.6; transform: scale(1); } 100% { opacity: 1; transform: scale(1.05); } }
+.container { position: relative; z-index: 2; max-width: 820px; margin: 0 auto; padding: 48px 24px 64px; }
+.header { text-align: center; padding: 24px 0 48px; }
+.header-badge {
+    display: inline-block; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.06);
+    backdrop-filter: blur(12px); padding: 6px 18px; border-radius: 100px; font-size: 12px;
+    font-weight: 500; letter-spacing: 0.5px; color: var(--text-secondary); margin-bottom: 20px; text-transform: uppercase;
+}
+.header h1 {
+    font-size: clamp(36px, 8vw, 60px); font-weight: 800; letter-spacing: -0.03em; line-height: 1.05;
+    background: linear-gradient(135deg, #ffffff 30%, rgba(255,255,255,0.5) 80%);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 12px;
+}
+.header .sub { font-size: 16px; color: var(--text-secondary); font-weight: 400; letter-spacing: 1px; }
+.header .sub em { font-style: normal; color: var(--text-primary); font-weight: 500; }
+.stats-row { display: flex; justify-content: center; gap: 12px 24px; flex-wrap: wrap; margin-top: 28px; }
+.stats-row .stat-item {
+    background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.05);
+    backdrop-filter: blur(8px); padding: 8px 22px; border-radius: 100px; font-size: 13px;
+    color: var(--text-secondary); display: flex; align-items: center; gap: 8px;
+}
+.stats-row .stat-item .num { font-weight: 700; font-size: 16px; color: var(--text-primary); font-variant-numeric: tabular-nums; }
+.stats-row .stat-item .label { font-weight: 400; }
+.nav-link {
+    display: inline-block; margin-top: 16px; font-size: 13px;
+    color: var(--text-muted); text-decoration: none;
+    border-bottom: 1px dashed rgba(255,255,255,0.1);
+}
+.nav-link:hover { color: var(--text-secondary); }
+
+/* === 卡片 === */
+.card {
+    background: var(--bg-card); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    border: 1px solid var(--border-card); border-radius: var(--radius-card);
+    padding: 28px 32px; margin-bottom: 20px; box-shadow: var(--shadow-card);
+    transition: transform 0.4s var(--transition-smooth), box-shadow 0.4s var(--transition-smooth), border-color 0.3s ease;
+    opacity: 0; transform: translateY(30px); animation: cardEnter 0.7s var(--transition-smooth) forwards;
+}
+.card:hover { transform: translateY(-4px); box-shadow: 0 24px 56px rgba(0,0,0,0.6); border-color: rgba(255,255,255,0.12); }
+@keyframes cardEnter { to { opacity: 1; transform: translateY(0); } }
+.card:nth-child(1) { animation-delay: 0.05s; }
+.card:nth-child(2) { animation-delay: 0.12s; }
+.card:nth-child(3) { animation-delay: 0.19s; }
+.card:nth-child(4) { animation-delay: 0.26s; }
+.card:nth-child(5) { animation-delay: 0.33s; }
+.card:nth-child(6) { animation-delay: 0.40s; }
+.card:nth-child(7) { animation-delay: 0.47s; }
+.card-header {
+    display: flex; align-items: center; gap: 14px; margin-bottom: 18px;
+    padding-bottom: 14px; border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+.card-header .dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+.card-header .title { font-size: 20px; font-weight: 700; letter-spacing: -0.01em; }
+.card-header .count-badge {
+    margin-left: auto; font-size: 11px; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.5px; color: var(--text-muted); background: rgba(255,255,255,0.04);
+    padding: 2px 14px; border-radius: 100px; border: 1px solid rgba(255,255,255,0.04);
+}
+.card p { font-size: 15px; color: var(--text-secondary); margin-bottom: 10px; line-height: 1.8; }
+.card p:last-child { margin-bottom: 0; }
+.card p .highlight { color: var(--text-primary); font-weight: 500; }
+
+/* === 内联项目标签 === */
+.gh-item {
+    display: inline-flex; align-items: center; gap: 6px; background: rgba(255,255,255,0.04);
+    border: 1px solid rgba(255,255,255,0.06); padding: 1px 12px 1px 8px; border-radius: 100px;
+    font-size: 13px; font-weight: 500; color: var(--text-primary); white-space: nowrap;
+    transition: background 0.2s, border-color 0.2s; margin: 0 2px; text-decoration: none;
+}
+.gh-item:hover { background: rgba(255,255,255,0.08); border-color: rgba(255,255,255,0.12); }
+.gh-item .gh-stars { font-weight: 600; color: var(--color-opinion); font-size: 12px; margin-left: 2px; }
+.gh-item .gh-stars::before { content: '\\2605 '; font-weight: 400; }
+
+/* === 引用上标 === */
+.cite { display: inline; font-size: 11px; font-weight: 700; vertical-align: super; line-height: 1; padding: 0 2px; }
+.cite a { text-decoration: none; color: var(--text-muted); transition: color 0.2s; }
+.cite a:hover { color: var(--text-primary); }
+
+/* === 结构化新闻条目 === */
+.card-intro {
+    font-size: 14px; color: var(--text-muted); font-style: italic;
+    margin-bottom: 16px; padding-bottom: 12px;
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+}
+.news-item {
+    padding: 14px 0; border-bottom: 1px solid rgba(255,255,255,0.04);
+}
+.news-item:last-child { border-bottom: none; padding-bottom: 0; }
+.news-item:first-of-type { padding-top: 4px; }
+.news-item-title {
+    font-size: 15px; font-weight: 600; color: var(--text-primary);
+    margin-bottom: 4px; display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap;
+}
+.news-item-title .item-name { font-weight: 700; }
+.news-item-desc { font-size: 14px; color: var(--text-secondary); line-height: 1.7; margin-bottom: 4px; }
+.news-item-note {
+    font-size: 13px; color: var(--text-muted); font-style: italic;
+    padding-left: 12px; border-left: 2px solid rgba(255,255,255,0.08);
+    margin-top: 4px;
+}
+.news-item-cites { display: inline-flex; gap: 4px; margin-left: auto; }
+.news-item-cites .cite a {
+    background: rgba(255,255,255,0.06); padding: 1px 6px; border-radius: 4px;
+    font-size: 10px; font-weight: 600;
+}
+.news-item-cites .cite a:hover { background: rgba(255,255,255,0.12); color: var(--text-primary); }
+
+/* === 溯源索引 === */
+.source-index {
+    background: var(--bg-card); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    border: 1px solid var(--border-card); border-radius: var(--radius-card);
+    padding: 28px 32px; margin-top: 32px; box-shadow: var(--shadow-card);
+    opacity: 0; transform: translateY(30px); animation: cardEnter 0.7s var(--transition-smooth) 0.4s forwards;
+}
+.source-index h2 {
+    font-size: 18px; font-weight: 700; margin-bottom: 24px;
+    padding-bottom: 14px; border-bottom: 1px solid rgba(255,255,255,0.05);
+    letter-spacing: -0.01em; color: var(--text-primary);
+}
+.source-group { margin-bottom: 24px; }
+.source-group:last-child { margin-bottom: 0; }
+.source-group-title {
+    font-size: 12px; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 1.2px; color: var(--text-muted); margin-bottom: 10px;
+}
+.source-list { list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 4px 16px; }
+@media (max-width: 600px) { .source-list { grid-template-columns: 1fr; } }
+.source-list li {
+    font-size: 14px; padding: 6px 0; display: flex; align-items: center; gap: 10px;
+    border-bottom: 1px solid rgba(255,255,255,0.03);
+}
+.source-list li .num {
+    flex-shrink: 0; display: inline-flex; align-items: center; justify-content: center;
+    width: 22px; height: 22px; border-radius: 50%; font-size: 10px; font-weight: 700;
+    color: #fff; background: rgba(255,255,255,0.08);
+}
+.source-list li a { color: var(--text-secondary); text-decoration: none; transition: color 0.2s; font-weight: 500; font-size: 13px; }
+.source-list li a:hover { color: var(--text-primary); }
+.source-list li .desc { color: var(--text-muted); font-size: 12px; font-weight: 400; }
+
+/* === Footer === */
+.footer {
+    text-align: center; margin-top: 40px; font-size: 12px; color: var(--text-muted);
+    letter-spacing: 0.3px; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 28px;
+}
+.footer a { color: var(--text-muted); text-decoration: none; }
+.footer a:hover { color: var(--text-secondary); }
+.footer .heart { color: var(--color-ai); display: inline-block; animation: heartBeat 2s ease-in-out infinite; }
+@keyframes heartBeat { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.2); } }
+
+/* === 动态颜色类 === */
+$color_classes
+
+/* === 响应式 === */
+@media (max-width: 640px) {
+    .container { padding: 24px 16px 40px; }
+    .card { padding: 20px 18px; border-radius: 16px; }
+    .source-index { padding: 20px 18px; }
+    .card-header .title { font-size: 17px; }
+    .card p { font-size: 14px; }
+    .stats-row .stat-item { padding: 6px 14px; font-size: 12px; }
+    .gh-item { font-size: 12px; padding: 1px 10px 1px 6px; }
+    .header h1 { font-size: 32px; }
+    .source-list li a { font-size: 12px; }
+}
+
+/* === 滚动条 === */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.12); border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.2); }
+
+/* === 触摸设备 === */
+@media (hover: none) {
+    .card:hover { transform: none; box-shadow: var(--shadow-card); }
+    .gh-item:hover { background: rgba(255,255,255,0.04); border-color: rgba(255,255,255,0.06); }
+}
+</style>
+</head>
+<body>
+<canvas id="bg-canvas"></canvas>
+<div class="glow-overlay"></div>
+<div class="container">
+    <header class="header">
+        <div class="header-badge">&#10022; 数据宇宙 · 每日观测</div>
+        <h1>热点星云</h1>
+        <div class="sub">$date_display &nbsp;&middot;&nbsp; <em>$item_count 条内容</em></div>
+        <div class="stats-row">
+            <span class="stat-item"><span class="num" data-target="$source_count">0</span><span class="label">信息源</span></span>
+            <span class="stat-item"><span class="num" data-target="$category_count">0</span><span class="label">分类</span></span>
+            <span class="stat-item"><span class="num" data-target="$item_count">0</span><span class="label">条目</span></span>
+        </div>
+        <a class="nav-link" href="index.html">&larr; 查看所有日期</a>
+    </header>
+
+$categories_html
+
+    <div class="source-index" id="source-index">
+        <h2>&#9114; 溯源索引</h2>
+$sources_by_group_html
+    </div>
+
+    <footer class="footer">
+        <span class="heart">&#10022;</span> 自动生成 &middot; 数据截至 $date &middot;
+        <a href="index.html">查看所有日期</a>
+    </footer>
+</div>
+<script>
+$particle_js
+$counter_js
+</script>
+</body>
+</html>"""
+
+
+INDEX_TEMPLATE = """<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>每日热点汇总 - 归档</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&display=swap" rel="stylesheet" />
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+    --bg-primary: #0b0d15; --bg-card: rgba(255,255,255,0.04); --border-card: rgba(255,255,255,0.07);
+    --text-primary: #f0f2f8; --text-secondary: rgba(255,255,255,0.6); --text-muted: rgba(255,255,255,0.35);
+    --shadow-card: 0 16px 48px rgba(0,0,0,0.5); --radius-card: 20px;
+    --transition-smooth: cubic-bezier(0.22, 1, 0.36, 1);
+}
+html { scroll-behavior: smooth; }
+body {
+    font-family: 'Inter', -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+    background: var(--bg-primary); color: var(--text-primary);
+    min-height: 100vh; overflow-x: hidden; line-height: 1.7;
+}
+#bg-canvas { position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 0; pointer-events: none; }
+.glow-overlay {
+    position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 1; pointer-events: none;
+    background:
+        radial-gradient(ellipse at 20% 50%, rgba(249,115,22,0.06) 0%, transparent 60%),
+        radial-gradient(ellipse at 80% 20%, rgba(59,130,246,0.05) 0%, transparent 50%),
+        radial-gradient(ellipse at 60% 80%, rgba(168,85,247,0.04) 0%, transparent 50%);
+    animation: glowPulse 12s ease-in-out infinite alternate;
+}
+@keyframes glowPulse { 0% { opacity: 0.6; transform: scale(1); } 100% { opacity: 1; transform: scale(1.05); } }
+.container { position: relative; z-index: 2; max-width: 600px; margin: 0 auto; padding: 48px 24px 64px; }
+.header { text-align: center; margin-bottom: 40px; padding-bottom: 24px; border-bottom: 1px solid rgba(255,255,255,0.06); }
+.header h1 {
+    font-size: 32px; font-weight: 800; letter-spacing: -0.02em;
+    background: linear-gradient(135deg, #ffffff 30%, rgba(255,255,255,0.5) 80%);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+}
+.header p { font-size: 15px; color: var(--text-secondary); margin-top: 8px; }
+.date-list { list-style: none; }
+.date-list li {
+    background: var(--bg-card); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    border: 1px solid var(--border-card); border-radius: 12px;
+    padding: 14px 20px; margin-bottom: 10px; box-shadow: var(--shadow-card);
+    transition: transform 0.3s var(--transition-smooth), border-color 0.3s ease;
+}
+.date-list li:hover { transform: translateY(-2px); border-color: rgba(255,255,255,0.12); }
+.date-list li a {
+    color: var(--text-primary); text-decoration: none; font-size: 16px; font-weight: 600;
+}
+.date-list li a:hover { color: var(--color-dev, #3b82f6); }
+.empty { text-align: center; padding: 60px 20px; color: var(--text-secondary); font-size: 15px; }
+.footer { text-align: center; margin-top: 40px; font-size: 12px; color: var(--text-muted); }
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.12); border-radius: 10px; }
+</style>
+</head>
+<body>
+<canvas id="bg-canvas"></canvas>
+<div class="glow-overlay"></div>
+<div class="container">
+    <div class="header">
+        <h1>热点星云</h1>
+        <p>自动抓取 GitHub Trending / Lobsters / 少数派 + AI 摘要</p>
+    </div>
+    $date_list_html
+    <div class="footer">
+        Powered by GitHub Actions &middot; 每日 UTC 01:00 自动更新
+    </div>
+</div>
+<script>
+$particle_js
+</script>
+</body>
+</html>"""
+
+
+# ============================================================
+# 页面生成逻辑
+# ============================================================
 
 def generate_daily_page(data: dict, ai_summary: dict | None, date_str: str) -> str:
     """
@@ -224,8 +542,26 @@ def generate_daily_page(data: dict, ai_summary: dict | None, date_str: str) -> s
         return _generate_from_raw_data(data, date_str)
 
 
+def _format_date(date_str: str) -> str:
+    """格式化日期为中文显示"""
+    try:
+        dt = datetime.strptime(date_str, "%Y-%m-%d")
+        weekdays = ["星期一", "星期二", "星期三", "星期四", "星期五", "星期六", "星期日"]
+        return f"{dt.year} 年 {dt.month} 月 {dt.day} 日 · {weekdays[dt.weekday()]}"
+    except ValueError:
+        return date_str
+
+
+def _make_source_color_class(source_name: str) -> str:
+    """根据来源名称返回 CSS 颜色 class"""
+    for key, color_key in SOURCE_COLOR_MAP.items():
+        if key in source_name:
+            return color_key
+    return "opinion"
+
+
 def _generate_from_ai_summary(ai_summary: dict, date_str: str, raw_data: dict) -> str:
-    """使用 AI 摘要生成页面"""
+    """使用 AI 摘要生成页面（段落叙述模式）"""
     categories = ai_summary.get("categories", [])
     sources = ai_summary.get("sources", [])
     stats = ai_summary.get("stats", {})
@@ -234,26 +570,39 @@ def _generate_from_ai_summary(ai_summary: dict, date_str: str, raw_data: dict) -
     categories_html = ""
     for cat in categories:
         color_key = cat.get("color", "ai")
-        color = _get_color(color_key)
         name = cat.get("name", "未分类")
         summary = cat.get("summary", "")
 
-        # 将 [N] 转换为带链接的上标
-        import re
+        # 将 [N] 转换为带链接的上标引用
         def replace_cite(match):
             num = match.group(1)
-            return (f'<span class="cite" style="color:{color}">'
-                    f'<a href="#src{num}">[{num}]</a></span>')
+            return f'<span class="cite"><a href="#src{num}">[{num}]</a></span>'
 
         summary_html = re.sub(r'\[(\d+)\]', replace_cite, summary)
 
-        categories_html += f"""
-  <div class="category">
-    <div class="category-title">
-      <span class="category-badge" style="background:{color}"></span>
-      {name}
+        # 自动在 GitHub 项目过渡到社区讨论的地方分段
+        # 检测 "Lobsters"、"少数派"、"社区" 等关键词前的位置插入换行
+        split_patterns = [
+            r'(?=Lobsters)',
+            r'(?=少数派)',
+            r'(?=社区\s*(?:今天|上|里|的))',
+            r'(?=\n)',  # 保留模型自己加的换行
+        ]
+        for pattern in split_patterns:
+            summary_html = re.sub(pattern, '\n', summary_html)
+        # 清理多余空行
+        summary_html = re.sub(r'\n{2,}', '\n', summary_html).strip()
+
+        # 按换行符拆分为多个段落
+        paragraphs = summary_html.split('\n')
+        paragraphs_html = ''.join(f'<p>{p.strip()}</p>' for p in paragraphs if p.strip())
+
+        categories_html += f"""  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-{color_key}"></span>
+      <span class="title"><span class="highlight-{color_key}">{name}</span></span>
     </div>
-    <p>{summary_html}</p>
+    {paragraphs_html}
   </div>
 """
 
@@ -267,8 +616,8 @@ def _generate_from_ai_summary(ai_summary: dict, date_str: str, raw_data: dict) -
 
     sources_html = ""
     for source_name, items in sources_by_source.items():
-        sources_html += f"""
-    <div class="source-group">
+        color_key = _make_source_color_class(source_name)
+        sources_html += f"""    <div class="source-group">
       <div class="source-group-title">{source_name}</div>
       <ul class="source-list">
 """
@@ -277,25 +626,9 @@ def _generate_from_ai_summary(ai_summary: dict, date_str: str, raw_data: dict) -
             title = item.get("title", "")
             url = item.get("url", "#")
             desc = item.get("desc", "")
-            # 根据来源确定颜色
-            color = "#888"
-            for s_name, s_items in sources_by_source.items():
-                if "GitHub" in s_name:
-                    for si in s_items:
-                        if si.get("num") == num:
-                            color = _get_color("dev")
-                elif "Lobsters" in s_name:
-                    for si in s_items:
-                        if si.get("num") == num:
-                            color = _get_color("sys")
-                elif "少数派" in s_name:
-                    for si in s_items:
-                        if si.get("num") == num:
-                            color = _get_color("gadget")
-
             sources_html += (
                 f'        <li id="src{num}">'
-                f'<span class="num" style="background:{color}">{num}</span>'
+                f'<span class="num num-{color_key}">{num}</span>'
                 f'<a href="{url}" target="_blank">{title}</a> '
                 f'<span class="desc">— {desc}</span></li>\n'
             )
@@ -306,27 +639,23 @@ def _generate_from_ai_summary(ai_summary: dict, date_str: str, raw_data: dict) -
     category_count = len(categories)
     item_count = stats.get("total_items", len(sources))
 
-    # 日期显示
-    try:
-        dt = datetime.strptime(date_str, "%Y-%m-%d")
-        weekdays = ["星期一", "星期二", "星期三", "星期四", "星期五", "星期六", "星期日"]
-        date_display = f"{dt.year} 年 {dt.month} 月 {dt.day} 日 · {weekdays[dt.weekday()]}"
-    except ValueError:
-        date_display = date_str
-
-    return HTML_TEMPLATE.format(
+    return _render_template(
+        HTML_TEMPLATE,
         date=date_str,
-        date_display=date_display,
+        date_display=_format_date(date_str),
         source_count=source_count,
         category_count=category_count,
         item_count=item_count,
         categories_html=categories_html,
         sources_by_group_html=sources_html,
+        color_classes=_generate_color_classes(),
+        particle_js=PARTICLE_JS,
+        counter_js=COUNTER_JS,
     )
 
 
 def _generate_from_raw_data(data: dict, date_str: str) -> str:
-    """无 AI 摘要时，直接用原始数据生成简洁页面"""
+    """无 AI 摘要时，直接用原始数据生成页面"""
     categories_html = ""
     source_num = 0
     all_sources = []
@@ -334,61 +663,93 @@ def _generate_from_raw_data(data: dict, date_str: str) -> str:
     # GitHub Trending
     gh_items = data.get("github_trending", [])
     if gh_items:
-        items_html = ""
+        gh_tags = ""
         for item in gh_items:
             source_num += 1
-            stars = f" ({item['stars']} stars)" if item.get("stars") else ""
-            items_html += f'<li><a href="{item["url"]}" target="_blank">{item["title"]}</a>{stars} — {item.get("description", "")}</li>'
-            all_sources.append({"num": source_num, "title": item["title"], "url": item["url"],
-                                "source": "GitHub Trending", "desc": item.get("description", "")})
-        categories_html += f"""
-  <div class="category">
-    <div class="category-title">
-      <span class="category-badge" style="background:{_get_color('dev')}"></span>
-      GitHub Trending
+            title = item["title"].replace(" / ", "/")
+            stars = item.get("stars", "")
+            stars_display = ""
+            if stars:
+                try:
+                    stars_display = format(int(stars), ",")
+                except (ValueError, TypeError):
+                    stars_display = stars
+            gh_tags += (
+                f'<a class="gh-item" href="{item["url"]}" target="_blank">'
+                f'{title}'
+                f'{"<span class=\"gh-stars\">" + stars_display + "</span>" if stars_display else ""}'
+                f'</a>\n'
+            )
+            all_sources.append({
+                "num": source_num, "title": title, "url": item["url"],
+                "source": "GitHub Trending", "desc": item.get("description", "")
+            })
+        categories_html += f"""  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-dev"></span>
+      <span class="title"><span class="highlight-dev">GitHub</span> Trending</span>
+      <span class="count-badge">{len(gh_items)} repos</span>
     </div>
-    <ul style="padding-left:20px;font-size:14px;">{items_html}</ul>
+    <p>{gh_tags}</p>
   </div>
 """
 
     # Lobsters
     lob_items = data.get("lobsters", [])
     if lob_items:
-        items_html = ""
+        lob_list = ""
         for item in lob_items:
             source_num += 1
-            tags = ", ".join(item.get("tags", []))
-            tag_str = f' <span style="color:#999">[{tags}]</span>' if tags else ""
-            items_html += f'<li><a href="{item["url"]}" target="_blank">{item["title"]}</a>{tag_str}</li>'
-            all_sources.append({"num": source_num, "title": item["title"], "url": item["url"],
-                                "source": "Lobsters", "desc": tags})
-        categories_html += f"""
-  <div class="category">
-    <div class="category-title">
-      <span class="category-badge" style="background:{_get_color('sys')}"></span>
-      Lobsters 热帖
+            tags = item.get("tags", [])
+            tag_html = " ".join(
+                f'<span style="background:rgba(255,255,255,0.06);padding:0 8px;'
+                f'border-radius:4px;font-size:12px;color:var(--text-muted);">{t}</span>'
+                for t in tags
+            )
+            lob_list += (
+                f'<li style="margin-bottom:6px;">'
+                f'<a href="{item["url"]}" target="_blank" '
+                f'style="color:var(--text-secondary);text-decoration:none;font-weight:500;">'
+                f'{item["title"]}</a> {tag_html}</li>\n'
+            )
+            all_sources.append({
+                "num": source_num, "title": item["title"], "url": item["url"],
+                "source": "Lobsters", "desc": ", ".join(tags)
+            })
+        categories_html += f"""  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-sys"></span>
+      <span class="title"><span class="highlight-sys">Lobsters</span> 热帖</span>
+      <span class="count-badge">{len(lob_items)} topics</span>
     </div>
-    <ul style="padding-left:20px;font-size:14px;">{items_html}</ul>
+    <ul style="list-style:none;padding:0;">{lob_list}</ul>
   </div>
 """
 
     # 少数派
     sspai_items = data.get("sspai", [])
     if sspai_items:
-        items_html = ""
+        sspai_list = ""
         for item in sspai_items:
             source_num += 1
-            author = f' ({item.get("author", "")})' if item.get("author") else ""
-            items_html += f'<li><a href="{item["url"]}" target="_blank">{item["title"]}</a>{author}</li>'
-            all_sources.append({"num": source_num, "title": item["title"], "url": item["url"],
-                                "source": "少数派", "desc": item.get("author", "")})
-        categories_html += f"""
-  <div class="category">
-    <div class="category-title">
-      <span class="category-badge" style="background:{_get_color('gadget')}"></span>
-      少数派精选
+            author = f' <span style="color:var(--text-muted);font-size:12px;">({item.get("author", "")})</span>' if item.get("author") else ""
+            sspai_list += (
+                f'<li style="margin-bottom:6px;">'
+                f'<a href="{item["url"]}" target="_blank" '
+                f'style="color:var(--text-secondary);text-decoration:none;font-weight:500;">'
+                f'{item["title"]}</a>{author}</li>\n'
+            )
+            all_sources.append({
+                "num": source_num, "title": item["title"], "url": item["url"],
+                "source": "少数派", "desc": item.get("author", "")
+            })
+        categories_html += f"""  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-gadget"></span>
+      <span class="title"><span class="highlight-gadget">少数派</span>精选</span>
+      <span class="count-badge">{len(sspai_items)} articles</span>
     </div>
-    <ul style="padding-left:20px;font-size:14px;">{items_html}</ul>
+    <ul style="list-style:none;padding:0;">{sspai_list}</ul>
   </div>
 """
 
@@ -402,36 +763,32 @@ def _generate_from_raw_data(data: dict, date_str: str) -> str:
 
     sources_html = ""
     for sn, items in sources_by_source.items():
-        sources_html += f"""
-    <div class="source-group">
+        color_key = _make_source_color_class(sn)
+        sources_html += f"""    <div class="source-group">
       <div class="source-group-title">{sn}</div>
       <ul class="source-list">
 """
         for item in items:
-            color = {"GitHub Trending": "#4a90d9", "Lobsters": "#6aab73", "少数派": "#c77dba"}.get(sn, "#888")
             sources_html += (
                 f'        <li id="src{item["num"]}">'
-                f'<span class="num" style="background:{color}">{item["num"]}</span>'
+                f'<span class="num num-{color_key}">{item["num"]}</span>'
                 f'<a href="{item["url"]}" target="_blank">{item["title"]}</a> '
                 f'<span class="desc">— {item["desc"]}</span></li>\n'
             )
         sources_html += "      </ul>\n    </div>\n"
 
-    try:
-        dt = datetime.strptime(date_str, "%Y-%m-%d")
-        weekdays = ["星期一", "星期二", "星期三", "星期四", "星期五", "星期六", "星期日"]
-        date_display = f"{dt.year} 年 {dt.month} 月 {dt.day} 日 · {weekdays[dt.weekday()]}"
-    except ValueError:
-        date_display = date_str
-
-    return HTML_TEMPLATE.format(
+    return _render_template(
+        HTML_TEMPLATE,
         date=date_str,
-        date_display=date_display,
+        date_display=_format_date(date_str),
         source_count=len(sources_by_source),
         category_count=3 if categories_html else 0,
         item_count=len(all_sources),
         categories_html=categories_html,
         sources_by_group_html=sources_html,
+        color_classes=_generate_color_classes(),
+        particle_js=PARTICLE_JS,
+        counter_js=COUNTER_JS,
     )
 
 
@@ -443,7 +800,6 @@ def generate_index_page(site_dir: str) -> str:
     if os.path.isdir(site_dir):
         for fname in os.listdir(site_dir):
             if fname.endswith(".html") and fname != "index.html" and len(fname) == 15:
-                # 格式: YYYY-MM-DD.html
                 date_str = fname[:-5]
                 try:
                     datetime.strptime(date_str, "%Y-%m-%d")
@@ -467,4 +823,11 @@ def generate_index_page(site_dir: str) -> str:
             list_html += f'<li><a href="{d}.html">{display}</a></li>'
         list_html += '</ul>'
 
-    return INDEX_TEMPLATE.format(date_list_html=list_html)
+    # 归档页使用精简版粒子（60个）
+    index_particle_js = PARTICLE_JS.replace("PARTICLE_COUNT = 120", "PARTICLE_COUNT = 60")
+
+    return _render_template(
+        INDEX_TEMPLATE,
+        date_list_html=list_html,
+        particle_js=index_particle_js,
+    )
