@@ -10,13 +10,13 @@
 <style>
 * { margin: 0; padding: 0; box-sizing: border-box; }
 :root {
-    --bg-primary: #0b0d15;
-    --bg-card: rgba(255, 255, 255, 0.04);
-    --border-card: rgba(255, 255, 255, 0.07);
-    --text-primary: #f0f2f8;
-    --text-secondary: rgba(255, 255, 255, 0.6);
-    --text-muted: rgba(255, 255, 255, 0.35);
-    --shadow-card: 0 16px 48px rgba(0, 0, 0, 0.5);
+    --bg-primary: #f0f4fa;
+    --bg-card: rgba(255, 255, 255, 0.55);
+    --border-card: rgba(255, 255, 255, 0.25);
+    --text-primary: #1e293b;
+    --text-secondary: #334155;
+    --text-muted: #64748b;
+    --shadow-card: 0 12px 40px rgba(0, 0, 0, 0.08);
     --radius-card: 20px;
     --transition-smooth: cubic-bezier(0.22, 1, 0.36, 1);
     --color-ai: #f97316;
@@ -32,32 +32,24 @@ body {
     min-height: 100vh; overflow-x: hidden; line-height: 1.7;
 }
 #bg-canvas { position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 0; pointer-events: none; }
-.glow-overlay {
-    position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 1; pointer-events: none;
-    background:
-        radial-gradient(ellipse at 20% 50%, rgba(249, 115, 22, 0.06) 0%, transparent 60%),
-        radial-gradient(ellipse at 80% 20%, rgba(59, 130, 246, 0.05) 0%, transparent 50%),
-        radial-gradient(ellipse at 60% 80%, rgba(168, 85, 247, 0.04) 0%, transparent 50%);
-    animation: glowPulse 12s ease-in-out infinite alternate;
-}
-@keyframes glowPulse { 0% { opacity: 0.6; transform: scale(1); } 100% { opacity: 1; transform: scale(1.05); } }
 .container { position: relative; z-index: 2; max-width: 820px; margin: 0 auto; padding: 48px 24px 64px; }
 .header { text-align: center; padding: 24px 0 48px; }
 .header-badge {
-    display: inline-block; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.06);
-    backdrop-filter: blur(12px); padding: 6px 18px; border-radius: 100px; font-size: 12px;
-    font-weight: 500; letter-spacing: 0.5px; color: var(--text-secondary); margin-bottom: 20px; text-transform: uppercase;
+    display: inline-block; background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(8px); border: 1px solid rgba(255, 255, 255, 0.4);
+    padding: 6px 18px; border-radius: 100px; font-size: 12px;
+    font-weight: 600; letter-spacing: 0.5px; color: var(--text-secondary); margin-bottom: 20px; text-transform: uppercase;
 }
 .header h1 {
-    font-size: clamp(36px, 8vw, 60px); font-weight: 800; letter-spacing: -0.03em; line-height: 1.05;
-    background: linear-gradient(135deg, #ffffff 30%, rgba(255,255,255,0.5) 80%);
-    -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 12px;
+    font-size: clamp(40px, 8vw, 68px); font-weight: 800; letter-spacing: -0.03em; line-height: 1.05;
+    color: var(--text-primary);
+    text-shadow: 0 2px 20px rgba(255, 255, 255, 0.5); margin-bottom: 12px;
 }
 .header .sub { font-size: 16px; color: var(--text-secondary); font-weight: 400; letter-spacing: 1px; }
 .header .sub em { font-style: normal; color: var(--text-primary); font-weight: 500; }
 .stats-row { display: flex; justify-content: center; gap: 12px 24px; flex-wrap: wrap; margin-top: 28px; }
 .stats-row .stat-item {
-    background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.05);
+    background: rgba(255, 255, 255, 0.3); border: 1px solid rgba(255, 255, 255, 0.3);
     backdrop-filter: blur(8px); padding: 8px 22px; border-radius: 100px; font-size: 13px;
     color: var(--text-secondary); display: flex; align-items: center; gap: 8px;
 }
@@ -78,7 +70,7 @@ body {
     transition: transform 0.4s var(--transition-smooth), box-shadow 0.4s var(--transition-smooth), border-color 0.3s ease;
     opacity: 0; transform: translateY(30px); animation: cardEnter 0.7s var(--transition-smooth) forwards;
 }
-.card:hover { transform: translateY(-4px); box-shadow: 0 24px 56px rgba(0,0,0,0.6); border-color: rgba(255,255,255,0.12); }
+.card:hover { transform: translateY(-4px); box-shadow: 0 20px 48px rgba(0, 0, 0, 0.12); border-color: rgba(255, 255, 255, 0.5); }
 @keyframes cardEnter { to { opacity: 1; transform: translateY(0); } }
 .card:nth-child(1) { animation-delay: 0.05s; }
 .card:nth-child(2) { animation-delay: 0.12s; }
@@ -89,14 +81,14 @@ body {
 .card:nth-child(7) { animation-delay: 0.47s; }
 .card-header {
     display: flex; align-items: center; gap: 14px; margin-bottom: 18px;
-    padding-bottom: 14px; border-bottom: 1px solid rgba(255,255,255,0.05);
+    padding-bottom: 14px; border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 .card-header .dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
 .card-header .title { font-size: 20px; font-weight: 700; letter-spacing: -0.01em; }
 .card-header .count-badge {
     margin-left: auto; font-size: 11px; font-weight: 600; text-transform: uppercase;
-    letter-spacing: 0.5px; color: var(--text-muted); background: rgba(255,255,255,0.04);
-    padding: 2px 14px; border-radius: 100px; border: 1px solid rgba(255,255,255,0.04);
+    letter-spacing: 0.5px; color: var(--text-muted); background: rgba(0, 0, 0, 0.04);
+    padding: 2px 14px; border-radius: 100px; border: 1px solid rgba(0, 0, 0, 0.04);
 }
 .card p { font-size: 15px; color: var(--text-secondary); margin-bottom: 10px; line-height: 1.8; }
 .card p:last-child { margin-bottom: 0; }
@@ -104,12 +96,12 @@ body {
 
 /* === 内联项目标签 === */
 .gh-item {
-    display: inline-flex; align-items: center; gap: 6px; background: rgba(255,255,255,0.04);
-    border: 1px solid rgba(255,255,255,0.06); padding: 1px 12px 1px 8px; border-radius: 100px;
+    display: inline-flex; align-items: center; gap: 6px; background: rgba(0, 0, 0, 0.04);
+    border: 1px solid rgba(0, 0, 0, 0.06); padding: 1px 12px 1px 8px; border-radius: 100px;
     font-size: 13px; font-weight: 500; color: var(--text-primary); white-space: nowrap;
     transition: background 0.2s, border-color 0.2s; margin: 0 2px; text-decoration: none;
 }
-.gh-item:hover { background: rgba(255,255,255,0.08); border-color: rgba(255,255,255,0.12); }
+.gh-item:hover { background: rgba(0, 0, 0, 0.08); border-color: rgba(0, 0, 0, 0.12); }
 .gh-item .gh-stars { font-weight: 600; color: var(--color-opinion); font-size: 12px; margin-left: 2px; }
 .gh-item .gh-stars::before { content: '\2605 '; font-weight: 400; }
 
@@ -156,7 +148,7 @@ body {
 }
 .source-index h2 {
     font-size: 18px; font-weight: 700; margin-bottom: 24px;
-    padding-bottom: 14px; border-bottom: 1px solid rgba(255,255,255,0.05);
+    padding-bottom: 14px; border-bottom: 1px solid rgba(0, 0, 0, 0.05);
     letter-spacing: -0.01em; color: var(--text-primary);
 }
 .source-group { margin-bottom: 24px; }
@@ -169,12 +161,12 @@ body {
 @media (max-width: 600px) { .source-list { grid-template-columns: 1fr; } }
 .source-list li {
     font-size: 14px; padding: 6px 0; display: flex; align-items: center; gap: 10px;
-    border-bottom: 1px solid rgba(255,255,255,0.03);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.03);
 }
 .source-list li .num {
     flex-shrink: 0; display: inline-flex; align-items: center; justify-content: center;
     width: 22px; height: 22px; border-radius: 50%; font-size: 10px; font-weight: 700;
-    color: #fff; background: rgba(255,255,255,0.08);
+    color: #fff; background: rgba(0, 0, 0, 0.2);
 }
 .source-list li a { color: var(--text-secondary); text-decoration: none; transition: color 0.2s; font-weight: 500; font-size: 13px; }
 .source-list li a:hover { color: var(--text-primary); }
@@ -183,7 +175,7 @@ body {
 /* === Footer === */
 .footer {
     text-align: center; margin-top: 40px; font-size: 12px; color: var(--text-muted);
-    letter-spacing: 0.3px; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 28px;
+    letter-spacing: 0.3px; border-top: 1px solid rgba(0, 0, 0, 0.05); padding-top: 28px;
 }
 .footer a { color: var(--text-muted); text-decoration: none; }
 .footer a:hover { color: var(--text-secondary); }
@@ -191,27 +183,27 @@ body {
 @keyframes heartBeat { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.2); } }
 
 /* === 动态颜色类 === */
-.dot-ai { background: #f97316; box-shadow: 0 0 24px #f9731640; }
-.num-ai { background: #f97316; }
-.highlight-ai { color: #f97316; }
-.dot-dev { background: #3b82f6; box-shadow: 0 0 24px #3b82f640; }
-.num-dev { background: #3b82f6; }
-.highlight-dev { color: #3b82f6; }
-.dot-sys { background: #22c55e; box-shadow: 0 0 24px #22c55e40; }
-.num-sys { background: #22c55e; }
-.highlight-sys { color: #22c55e; }
-.dot-gadget { background: #a855f7; box-shadow: 0 0 24px #a855f740; }
-.num-gadget { background: #a855f7; }
-.highlight-gadget { color: #a855f7; }
-.dot-opinion { background: #eab308; box-shadow: 0 0 24px #eab30840; }
-.num-opinion { background: #eab308; }
-.highlight-opinion { color: #eab308; }
-.dot-security { background: #ef4444; box-shadow: 0 0 24px #ef444440; }
-.num-security { background: #ef4444; }
-.highlight-security { color: #ef4444; }
-.dot-web { background: #06b6d4; box-shadow: 0 0 24px #06b6d440; }
-.num-web { background: #06b6d4; }
-.highlight-web { color: #06b6d4; }
+.dot-ai { background: var(--color-ai); }
+.num-ai { background: var(--color-ai); }
+.highlight-ai { color: var(--color-ai); }
+.dot-dev { background: var(--color-dev); }
+.num-dev { background: var(--color-dev); }
+.highlight-dev { color: var(--color-dev); }
+.dot-sys { background: var(--color-sys); }
+.num-sys { background: var(--color-sys); }
+.highlight-sys { color: var(--color-sys); }
+.dot-gadget { background: var(--color-gadget); }
+.num-gadget { background: var(--color-gadget); }
+.highlight-gadget { color: var(--color-gadget); }
+.dot-opinion { background: var(--color-opinion); }
+.num-opinion { background: var(--color-opinion); }
+.highlight-opinion { color: var(--color-opinion); }
+.dot-security { background: var(--color-security); }
+.num-security { background: var(--color-security); }
+.highlight-security { color: var(--color-security); }
+.dot-web { background: var(--color-web); }
+.num-web { background: var(--color-web); }
+.highlight-web { color: var(--color-web); }
 
 /* === 响应式 === */
 @media (max-width: 640px) {
@@ -229,66 +221,95 @@ body {
 /* === 滚动条 === */
 ::-webkit-scrollbar { width: 6px; }
 ::-webkit-scrollbar-track { background: transparent; }
-::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.12); border-radius: 10px; }
-::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.2); }
+::-webkit-scrollbar-thumb { background: rgba(0, 0, 0, 0.15); border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(0, 0, 0, 0.25); }
 
 /* === 触摸设备 === */
 @media (hover: none) {
     .card:hover { transform: none; box-shadow: var(--shadow-card); }
-    .gh-item:hover { background: rgba(255,255,255,0.04); border-color: rgba(255,255,255,0.06); }
+    .gh-item:hover { background: rgba(0, 0, 0, 0.04); border-color: rgba(0, 0, 0, 0.06); }
 }
 </style>
 </head>
 <body>
 <canvas id="bg-canvas"></canvas>
-<div class="glow-overlay"></div>
 <div class="container">
     <header class="header">
-        <div class="header-badge">&#10022; 数据宇宙 · 每日观测</div>
+        <div class="header-badge">&#10022; 晴空 &middot; 每日信号</div>
         <h1>热点星云</h1>
-        <div class="sub">2026 年 7 月 23 日 · 星期四 &nbsp;&middot;&nbsp; <em>24 条内容</em></div>
+        <div class="sub">2026 年 7 月 23 日 · 星期四 &nbsp;&middot;&nbsp; <em>41 条内容</em></div>
         <div class="stats-row">
             <span class="stat-item"><span class="num" data-target="3">0</span><span class="label">信息源</span></span>
-            <span class="stat-item"><span class="num" data-target="5">0</span><span class="label">分类</span></span>
-            <span class="stat-item"><span class="num" data-target="24">0</span><span class="label">条目</span></span>
+            <span class="stat-item"><span class="num" data-target="3">0</span><span class="label">分类</span></span>
+            <span class="stat-item"><span class="num" data-target="41">0</span><span class="label">条目</span></span>
         </div>
         <a class="nav-link" href="index.html">&larr; 查看所有日期</a>
     </header>
 
   <div class="card">
     <div class="card-header">
-      <span class="dot dot-ai"></span>
-      <span class="title"><span class="highlight-ai">AI 智能体与工具</span></span>
-    </div>
-    <p>今天的 GitHub Trending 里，AI Agent 相关的动静可真不小。<span class="cite"><a href="#src1">[1]</a></span> worldmonitor 这个项目很有意思，它用 AI 做了个实时全球情报仪表盘，聚合新闻、监控地缘政治，还带了基础设施追踪，现在已经拿了 66,000+ star，搞国际关系研究的朋友可以瞅瞅。<span class="cite"><a href="#src2">[2]</a></span> RuView 也是个黑科技，它能把普通的 WiFi 信号转化成空间情报和生命体征监测，完全不需要视频像素，这在隐私保护上是个突破。另外 <span class="cite"><a href="#src3">[3]</a></span> OmniRoute 作为一个开源 AI 网关，支持 268+ 个提供商，包括 Kimi、Claude 这些，还能根据配额自动Fallback，对开发者来说很实用，毕竟现在多模型切换太普遍了。</p><p>Lobsters 上关于 AI 安全的讨论有点吓人，有人发帖说 FLOSS 开源社区正在被 LLM 侵蚀，大家开始担心 AI 会不会悄悄篡改开源代码了 <span class="cite"><a href="#src4">[4]</a></span>。而在</p><p>少数派，有人分享了 Google 刚发布的 Gemini 3.6 Flash 和 Unity 7 引擎的新动态，AI 和游戏的结合确实是热点 <span class="cite"><a href="#src5">[5]</a></span>。搞安全的朋友得留意一下，这种技术渗透带来的风险边界到底在哪，确实值得深思。</p>
-  </div>
-  <div class="card">
-    <div class="card-header">
       <span class="dot dot-dev"></span>
-      <span class="title"><span class="highlight-dev">开发工具与架构</span></span>
+      <span class="title"><span class="highlight-dev">GitHub</span> Trending</span>
+      <span class="count-badge">15 repos</span>
     </div>
-    <p>今天 GitHub 上有个项目叫 <span class="cite"><a href="#src6">[6]</a></span> likec4，专门用来可视化、协作和演进软件架构，它能从你的代码里实时生成架构图，这对大型项目的维护者来说简直是救命稻草。还有 <span class="cite"><a href="#src7">[7]</a></span> croc，一个轻量级的安全文件传输工具，支持加密传输，平时传个配置或者大文件比用网盘方便多了。</p><p>社区里对编程语言和开发环境的讨论也很有意思。有人在</p><p>Lobsters 质疑为什么我们要关心编程语言本身 <span class="cite"><a href="#src8">[8]</a></span>，感觉现在大家更关注工具而非语言了。</p><p>少数派上也有文章聊到 <span class="cite"><a href="#src9">[9]</a></span> PartI 这个零门槛联机游戏平台，据说它不需要服务器就能运行，这背后的技术架构肯定很巧妙。另外 <span class="cite"><a href="#src10">[10]</a></span> Trimly 把从长视频截取片段做到极致，这种垂直领域的效率工具越来越受欢迎了。</p>
+    <p><a class="gh-item" href="https://github.com/koala73/worldmonitor" target="_blank">koala73/worldmonitor<span class="gh-stars" data-repo="koala73/worldmonitor">69,451</span></a>
+<a class="gh-item" href="https://github.com/ruvnet/RuView" target="_blank">ruvnet/RuView<span class="gh-stars" data-repo="ruvnet/RuView">84,033</span></a>
+<a class="gh-item" href="https://github.com/ayghri/i-have-adhd" target="_blank">ayghri/i-have-adhd<span class="gh-stars" data-repo="ayghri/i-have-adhd">8,489</span></a>
+<a class="gh-item" href="https://github.com/schollz/croc" target="_blank">schollz/croc<span class="gh-stars" data-repo="schollz/croc">37,753</span></a>
+<a class="gh-item" href="https://github.com/likec4/likec4" target="_blank">likec4/likec4<span class="gh-stars" data-repo="likec4/likec4">4,372</span></a>
+<a class="gh-item" href="https://github.com/chrislgarry/Apollo-11" target="_blank">chrislgarry/Apollo-11<span class="gh-stars" data-repo="chrislgarry/Apollo-11">70,695</span></a>
+<a class="gh-item" href="https://github.com/jamiepine/voicebox" target="_blank">jamiepine/voicebox<span class="gh-stars" data-repo="jamiepine/voicebox">45,904</span></a>
+<a class="gh-item" href="https://github.com/diegosouzapw/OmniRoute" target="_blank">diegosouzapw/OmniRoute<span class="gh-stars" data-repo="diegosouzapw/OmniRoute">25,593</span></a>
+<a class="gh-item" href="https://github.com/shiyu-coder/Kronos" target="_blank">shiyu-coder/Kronos<span class="gh-stars" data-repo="shiyu-coder/Kronos">32,676</span></a>
+<a class="gh-item" href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">ComposioHQ/awesome-claude-skills<span class="gh-stars" data-repo="ComposioHQ/awesome-claude-skills">68,887</span></a>
+<a class="gh-item" href="https://github.com/oblien/openship" target="_blank">oblien/openship<span class="gh-stars" data-repo="oblien/openship">7,413</span></a>
+<a class="gh-item" href="https://github.com/agegr/pi-web" target="_blank">agegr/pi-web<span class="gh-stars" data-repo="agegr/pi-web">2,117</span></a>
+<a class="gh-item" href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">rohitg00/ai-engineering-from-scratch<span class="gh-stars" data-repo="rohitg00/ai-engineering-from-scratch">42,388</span></a>
+<a class="gh-item" href="https://github.com/tirth8205/code-review-graph" target="_blank">tirth8205/code-review-graph<span class="gh-stars" data-repo="tirth8205/code-review-graph">25,442</span></a>
+<a class="gh-item" href="https://github.com/dreamhunter2333/cloudflare_temp_email" target="_blank">dreamhunter2333/cloudflare_temp_email<span class="gh-stars" data-repo="dreamhunter2333/cloudflare_temp_email">10,860</span></a>
+</p>
   </div>
   <div class="card">
     <div class="card-header">
       <span class="dot dot-sys"></span>
-      <span class="title"><span class="highlight-sys">系统与底层安全</span></span>
+      <span class="title"><span class="highlight-sys">Lobsters</span> 热帖</span>
+      <span class="count-badge">15 topics</span>
     </div>
-    <p>系统底层这块今天动静挺大。GitHub 上 <span class="cite"><a href="#src11">[11]</a></span> Apollo-11 项目再次上榜，这是阿波罗 11 号登月计算机的原始源代码，历史情怀拉满。还有 <span class="cite"><a href="#src12">[12]</a></span> pi-web，作为 pi 编程代理的 Web UI，让这类 AI 工具更容易上手。</p><p>安全方面</p><p>Lobsters 上的新闻更是炸裂：LG 宣布禁止智能电视应用使用住宅代理 <span class="cite"><a href="#src13">[13]</a></span>，这是为了防刷流还是防黑产？还有 Python 的 PyPI 现在发布后 14 天就拒绝新文件上传了 <span class="cite"><a href="#src14">[14]</a></span>，显然是为了防止恶意包长期潜伏。最严重的是 <span class="cite"><a href="#src15">[15]</a></span> RefluXFS 漏洞，一个 XFS 内核提权漏洞，搞 Linux 内核的朋友必须马上看看补丁。另外 <span class="cite"><a href="#src16">[16]</a></span> 有人分享了面试项目里藏钩子的经历，这也算是另一种形式的“安全”测试吧。</p>
+    <ul style="list-style:none;padding:0;"><li style="margin-bottom:6px;"><a href="https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Protecting our FLOSS commons from LLMs</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">vibecoding</span></li>
+<li style="margin-bottom:6px;"><a href="https://ebellani.github.io/blog/2026/why-care-about-programming-languages/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Why care about programming languages</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">programming</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">vibecoding</span></li>
+<li style="margin-bottom:6px;"><a href="https://www.cole-k.com/2026/07/21/reddit/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">So Reddit has decided that plain HTML is unsafe</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">rant</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">web</span></li>
+<li style="margin-bottom:6px;"><a href="https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">LG to Ban Residential Proxies from Smart TV Apps</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">security</span></li>
+<li style="margin-bottom:6px;"><a href="http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">John C. Dvorak has died</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">person</span></li>
+<li style="margin-bottom:6px;"><a href="https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">I Inspected My Take-Home Interview Project. It Was a Whole Operation</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">security</span></li>
+<li style="margin-bottom:6px;"><a href="https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">PyPI releases now reject new files after 14 days</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">python</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">security</span></li>
+<li style="margin-bottom:6px;"><a href="https://box2d.org/posts/2026/07/simd-for-collision/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">SIMD for Collision</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">performance</span></li>
+<li style="margin-bottom:6px;"><a href="https://www.marginalia.nu/log/a_138_systemdocker/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Unranked, systemd, crawls</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">linux</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">systemd</span></li>
+<li style="margin-bottom:6px;"><a href="https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">log is non-monotonic in PHP and Lua</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">lua</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">math</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">php</span></li>
+<li style="margin-bottom:6px;"><a href="https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">linux</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">security</span></li>
+<li style="margin-bottom:6px;"><a href="https://tokio.rs/blog/2026-07-22-announcing-topcoat" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Announcing Topcoat: a framework for building full-stack reactive web apps with Rust</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">rust</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">vibecoding</span></li>
+<li style="margin-bottom:6px;"><a href="https://slashpages.net/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Slash Pages</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">web</span></li>
+<li style="margin-bottom:6px;"><a href="https://abhi.now/blog/calm-technologies/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Calm technologies that excite me</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">hardware</span></li>
+<li style="margin-bottom:6px;"><a href="https://benjaminwil.info/weblog/variation-selector-15/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Unicode Variation Selector-15 and some of my tears</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">programming</span></li>
+</ul>
   </div>
   <div class="card">
     <div class="card-header">
-      <span class="dot dot-tech"></span>
-      <span class="title"><span class="highlight-tech">数码产品与效率</span></span>
+      <span class="dot dot-gadget"></span>
+      <span class="title"><span class="highlight-gadget">少数派</span>精选</span>
+      <span class="count-badge">11 articles</span>
     </div>
-    <p>数码产品这块，</p><p>少数派早报提到了三星的新折叠屏和索尼 FX5 电影机 <span class="cite"><a href="#src17">[17]</a></span>，看来硬件厂商在形态上还在不断折腾。对于 Windows 用户，有篇好文分享了如何让设备配置得既顺眼又省心 <span class="cite"><a href="#src18">[18]</a></span>，这种桌面体验的优化其实比硬件升级更让人舒服。</p><p>效率方面，<span class="cite"><a href="#src19">[19]</a></span> 有人分享了自己在各购物平台的固定回购清单，这种生活化的效率管理也值得学。还有 <span class="cite"><a href="#src20">[20]</a></span> 关于手机背面磁吸配件的讨论，看来磁吸生态已经深入到手机交互的方方面面了。</p>
-  </div>
-  <div class="card">
-    <div class="card-header">
-      <span class="dot dot-thought"></span>
-      <span class="title"><span class="highlight-thought">思考与观点</span></span>
-    </div>
-    <p>今天看到一些挺有深度的讨论。</p><p>Lobsters 上有人感叹 SIMD 在碰撞检测中的应用 <span class="cite"><a href="#src21">[21]</a></span>，这种底层性能优化才是硬道理。还有 <span class="cite"><a href="#src22">[22]</a></span> 关于 PHP 和 Lua 中日志非单调性的探讨，这种语言特性的细节往往决定了系统的稳定性。</p><p>少数派上有一篇关于 <span class="cite"><a href="#src23">[23]</a></span> LUT 色彩科学的文章，从滤镜聊到电影调色，感觉数字时代的美学门槛在变高。最后不得不提 <span class="cite"><a href="#src24">[24]</a></span> John C. Dvorak 的去世，这位“科技界先知”的离去让很多老程序员唏嘘，他的很多预测在现在看来都挺准的。</p>
+    <ul style="list-style:none;padding:0;"><li style="margin-bottom:6px;"><a href="https://sspai.com/post/111300" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">让 Windows 顺眼又省心：我的新设备配置经验Cyanrel10:57Matrix精选</a> <span style="color:var(--text-muted);font-size:12px;">(Cyanrel)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112647" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等少数派编辑部08:50派早报</a> <span style="color:var(--text-muted);font-size:12px;">(少数派编辑部)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112545" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Parti：一个零门槛联机游戏平台，凭什么不需要服务器？Link25昨天 17:43</a> <span style="color:var(--text-muted);font-size:12px;">(Link25)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/111550" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">滤镜背后的色彩科学：LUT 是什么？从风格滤镜，到电影中的专业调色，聊聊 LUT 所代表的色彩规则。Nnnobel昨天 15:00</a> <span style="color:var(--text-muted);font-size:12px;">(Nnnobel)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112109" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">角落新声｜我的上帝模式，一名设计师创作环境的演变CG艺术实验室昨天 10:04</a> <span style="color:var(--text-muted);font-size:12px;">(CG艺术实验室)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112597" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等少数派编辑部昨天 08:30派早报</a> <span style="color:var(--text-muted);font-size:12px;">(少数派编辑部)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/bullet/1783932697" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情</a> <span style="color:var(--text-muted);font-size:12px;">(一派讨论)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112582" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车Matrix机器人前天 17:00</a> <span style="color:var(--text-muted);font-size:12px;">(Matrix机器人)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112200" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">装上 Fedora 的 Surface Pro：一台老设备的新可能StephenFang前天 15:00</a> <span style="color:var(--text-muted);font-size:12px;">(StephenFang)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/111569" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">App+1 | 把「从长视频截取片段」做到极致：TrimlyBleaker前天 11:00Matrix精选</a> <span style="color:var(--text-muted);font-size:12px;">(Bleaker)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112543" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">派评 | 近期值得关注的 App少数派编辑部07/20</a> <span style="color:var(--text-muted);font-size:12px;">(少数派编辑部)</span></li>
+</ul>
   </div>
 
 
@@ -297,47 +318,64 @@ body {
     <div class="source-group">
       <div class="source-group-title">GitHub Trending</div>
       <ul class="source-list">
-        <li id="src1"><span class="num num-dev">1</span><a href="https://github.com/koala73/worldmonitor" target="_blank">worldmonitor</a> <span class="desc">— AI 驱动的实时全球情报仪表盘</span></li>
-        <li id="src2"><span class="num num-dev">2</span><a href="https://github.com/ruvnet/RuView" target="_blank">RuView</a> <span class="desc">— 基于 WiFi 信号的空间情报监测</span></li>
-        <li id="src3"><span class="num num-dev">3</span><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">OmniRoute</a> <span class="desc">— 支持 268+ 提供商的开源 AI 网关</span></li>
-        <li id="src6"><span class="num num-dev">6</span><a href="https://github.com/likec4/likec4" target="_blank">likec4</a> <span class="desc">— 实时生成软件架构图的可视化工具</span></li>
-        <li id="src7"><span class="num num-dev">7</span><a href="https://github.com/schollz/croc" target="_blank">croc</a> <span class="desc">— 轻量级安全文件传输工具</span></li>
-        <li id="src11"><span class="num num-dev">11</span><a href="https://github.com/chrislgarry/Apollo-11" target="_blank">Apollo-11</a> <span class="desc">— 阿波罗 11 号登月计算机原始代码</span></li>
-        <li id="src12"><span class="num num-dev">12</span><a href="https://github.com/agegr/pi-web" target="_blank">pi-web</a> <span class="desc">— pi 编程代理的 Web UI</span></li>
+        <li id="src1"><span class="num num-dev">1</span><a href="https://github.com/koala73/worldmonitor" target="_blank">koala73/worldmonitor</a> <span class="desc">— Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface</span></li>
+        <li id="src2"><span class="num num-dev">2</span><a href="https://github.com/ruvnet/RuView" target="_blank">ruvnet/RuView</a> <span class="desc">— π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</span></li>
+        <li id="src3"><span class="num num-dev">3</span><a href="https://github.com/ayghri/i-have-adhd" target="_blank">ayghri/i-have-adhd</a> <span class="desc">— A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.</span></li>
+        <li id="src4"><span class="num num-dev">4</span><a href="https://github.com/schollz/croc" target="_blank">schollz/croc</a> <span class="desc">— Easily and securely send things from one computer to another 🐊 📦</span></li>
+        <li id="src5"><span class="num num-dev">5</span><a href="https://github.com/likec4/likec4" target="_blank">likec4/likec4</a> <span class="desc">— Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code</span></li>
+        <li id="src6"><span class="num num-dev">6</span><a href="https://github.com/chrislgarry/Apollo-11" target="_blank">chrislgarry/Apollo-11</a> <span class="desc">— Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.</span></li>
+        <li id="src7"><span class="num num-dev">7</span><a href="https://github.com/jamiepine/voicebox" target="_blank">jamiepine/voicebox</a> <span class="desc">— The open-source AI voice studio. Clone, dictate, create.</span></li>
+        <li id="src8"><span class="num num-dev">8</span><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">diegosouzapw/OmniRoute</a> <span class="desc">— Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors</span></li>
+        <li id="src9"><span class="num num-dev">9</span><a href="https://github.com/shiyu-coder/Kronos" target="_blank">shiyu-coder/Kronos</a> <span class="desc">— Kronos: A Foundation Model for the Language of Financial Markets</span></li>
+        <li id="src10"><span class="num num-dev">10</span><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">ComposioHQ/awesome-claude-skills</a> <span class="desc">— A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows</span></li>
+        <li id="src11"><span class="num num-dev">11</span><a href="https://github.com/oblien/openship" target="_blank">oblien/openship</a> <span class="desc">— Self-hosted deployment platform</span></li>
+        <li id="src12"><span class="num num-dev">12</span><a href="https://github.com/agegr/pi-web" target="_blank">agegr/pi-web</a> <span class="desc">— Web UI for the pi coding agent</span></li>
+        <li id="src13"><span class="num num-dev">13</span><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">rohitg00/ai-engineering-from-scratch</a> <span class="desc">— Learn it. Build it. Ship it for others.</span></li>
+        <li id="src14"><span class="num num-dev">14</span><a href="https://github.com/tirth8205/code-review-graph" target="_blank">tirth8205/code-review-graph</a> <span class="desc">— Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.</span></li>
+        <li id="src15"><span class="num num-dev">15</span><a href="https://github.com/dreamhunter2333/cloudflare_temp_email" target="_blank">dreamhunter2333/cloudflare_temp_email</a> <span class="desc">— CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot</span></li>
       </ul>
     </div>
     <div class="source-group">
       <div class="source-group-title">Lobsters</div>
       <ul class="source-list">
-        <li id="src4"><span class="num num-sys">4</span><a href="https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html" target="_blank">Protecting our FLOSS commons from LLMs</a> <span class="desc">— 讨论 LLM 对开源代码库的潜在威胁</span></li>
-        <li id="src8"><span class="num num-sys">8</span><a href="https://ebellani.github.io/blog/2026/why-care-about-programming-languages/" target="_blank">Why care about programming languages</a> <span class="desc">— 探讨编程语言在现代开发中的重要性</span></li>
-        <li id="src13"><span class="num num-sys">13</span><a href="https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/" target="_blank">LG to Ban Residential Proxies from Smart TV Apps</a> <span class="desc">— LG 禁止智能电视应用使用住宅代理</span></li>
-        <li id="src14"><span class="num num-sys">14</span><a href="https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/" target="_blank">PyPI releases now reject new files after 14 days</a> <span class="desc">— PyPI 新增 14 天文件过期机制</span></li>
-        <li id="src15"><span class="num num-sys">15</span><a href="https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600/" target="_blank">RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS</a> <span class="desc">— XFS 内核提权漏洞披露</span></li>
-        <li id="src16"><span class="num num-sys">16</span><a href="https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/" target="_blank">I Inspected My Take-Home Interview Project. It Was a Whole Operation</a> <span class="desc">— 面试项目中发现恶意钩子</span></li>
-        <li id="src21"><span class="num num-sys">21</span><a href="https://box2d.org/posts/2026/07/simd-for-collision/" target="_blank">SIMD for Collision</a> <span class="desc">— 使用 SIMD 优化碰撞检测性能</span></li>
-        <li id="src22"><span class="num num-sys">22</span><a href="https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/" target="_blank">log is non-monotonic in PHP and Lua</a> <span class="desc">— 探讨 PHP 和 Lua 中日志的非单调性</span></li>
-        <li id="src24"><span class="num num-sys">24</span><a href="http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html" target="_blank">John C. Dvorak has died</a> <span class="desc">— 科技评论家 John C. Dvorak 去世</span></li>
+        <li id="src16"><span class="num num-sys">16</span><a href="https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html" target="_blank">Protecting our FLOSS commons from LLMs</a> <span class="desc">— vibecoding</span></li>
+        <li id="src17"><span class="num num-sys">17</span><a href="https://ebellani.github.io/blog/2026/why-care-about-programming-languages/" target="_blank">Why care about programming languages</a> <span class="desc">— programming, vibecoding</span></li>
+        <li id="src18"><span class="num num-sys">18</span><a href="https://www.cole-k.com/2026/07/21/reddit/" target="_blank">So Reddit has decided that plain HTML is unsafe</a> <span class="desc">— rant, web</span></li>
+        <li id="src19"><span class="num num-sys">19</span><a href="https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/" target="_blank">LG to Ban Residential Proxies from Smart TV Apps</a> <span class="desc">— security</span></li>
+        <li id="src20"><span class="num num-sys">20</span><a href="http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html" target="_blank">John C. Dvorak has died</a> <span class="desc">— person</span></li>
+        <li id="src21"><span class="num num-sys">21</span><a href="https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/" target="_blank">I Inspected My Take-Home Interview Project. It Was a Whole Operation</a> <span class="desc">— security</span></li>
+        <li id="src22"><span class="num num-sys">22</span><a href="https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/" target="_blank">PyPI releases now reject new files after 14 days</a> <span class="desc">— python, security</span></li>
+        <li id="src23"><span class="num num-sys">23</span><a href="https://box2d.org/posts/2026/07/simd-for-collision/" target="_blank">SIMD for Collision</a> <span class="desc">— performance</span></li>
+        <li id="src24"><span class="num num-sys">24</span><a href="https://www.marginalia.nu/log/a_138_systemdocker/" target="_blank">Unranked, systemd, crawls</a> <span class="desc">— linux, systemd</span></li>
+        <li id="src25"><span class="num num-sys">25</span><a href="https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/" target="_blank">log is non-monotonic in PHP and Lua</a> <span class="desc">— lua, math, php</span></li>
+        <li id="src26"><span class="num num-sys">26</span><a href="https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600" target="_blank">RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)</a> <span class="desc">— linux, security</span></li>
+        <li id="src27"><span class="num num-sys">27</span><a href="https://tokio.rs/blog/2026-07-22-announcing-topcoat" target="_blank">Announcing Topcoat: a framework for building full-stack reactive web apps with Rust</a> <span class="desc">— rust, vibecoding</span></li>
+        <li id="src28"><span class="num num-sys">28</span><a href="https://slashpages.net/" target="_blank">Slash Pages</a> <span class="desc">— web</span></li>
+        <li id="src29"><span class="num num-sys">29</span><a href="https://abhi.now/blog/calm-technologies/" target="_blank">Calm technologies that excite me</a> <span class="desc">— hardware</span></li>
+        <li id="src30"><span class="num num-sys">30</span><a href="https://benjaminwil.info/weblog/variation-selector-15/" target="_blank">Unicode Variation Selector-15 and some of my tears</a> <span class="desc">— programming</span></li>
       </ul>
     </div>
     <div class="source-group">
       <div class="source-group-title">少数派</div>
       <ul class="source-list">
-        <li id="src5"><span class="num num-gadget">5</span><a href="https://sspai.com/post/112647" target="_blank">派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等</a> <span class="desc">— 硬件新品动态汇总</span></li>
-        <li id="src9"><span class="num num-gadget">9</span><a href="https://sspai.com/post/112545" target="_blank">Parti：一个零门槛联机游戏平台</a> <span class="desc">— 无需服务器的 P2P 游戏架构分享</span></li>
-        <li id="src10"><span class="num num-gadget">10</span><a href="https://sspai.com/post/111569" target="_blank">App+1 | 把「从长视频截取片段」做到极致：Trimly</a> <span class="desc">— 长视频片段提取工具推荐</span></li>
-        <li id="src17"><span class="num num-gadget">17</span><a href="https://sspai.com/post/112647" target="_blank">派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等</a> <span class="desc">— 硬件新品动态汇总</span></li>
-        <li id="src18"><span class="num num-gadget">18</span><a href="https://sspai.com/post/111300" target="_blank">让 Windows 顺眼又省心：我的新设备配置经验</a> <span class="desc">— Windows 桌面体验优化指南</span></li>
-        <li id="src19"><span class="num num-gadget">19</span><a href="https://sspai.com/bullet/1783932697" target="_blank">聊聊你在各购物平台独占的「固定回购清单」？</a> <span class="desc">— 用户分享购物清单管理方法</span></li>
-        <li id="src20"><span class="num num-gadget">20</span><a href="https://sspai.com/bullet/1783307199" target="_blank">聊聊你手机背面的「磁吸配件」？</a> <span class="desc">— 手机磁吸配件生态讨论</span></li>
-        <li id="src23"><span class="num num-gadget">23</span><a href="https://sspai.com/post/111550" target="_blank">滤镜背后的色彩科学：LUT 是什么？</a> <span class="desc">— 深入浅出解析 LUT 色彩规则</span></li>
+        <li id="src31"><span class="num num-gadget">31</span><a href="https://sspai.com/post/111300" target="_blank">让 Windows 顺眼又省心：我的新设备配置经验Cyanrel10:57Matrix精选</a> <span class="desc">— Cyanrel</span></li>
+        <li id="src32"><span class="num num-gadget">32</span><a href="https://sspai.com/post/112647" target="_blank">派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等少数派编辑部08:50派早报</a> <span class="desc">— 少数派编辑部</span></li>
+        <li id="src33"><span class="num num-gadget">33</span><a href="https://sspai.com/post/112545" target="_blank">Parti：一个零门槛联机游戏平台，凭什么不需要服务器？Link25昨天 17:43</a> <span class="desc">— Link25</span></li>
+        <li id="src34"><span class="num num-gadget">34</span><a href="https://sspai.com/post/111550" target="_blank">滤镜背后的色彩科学：LUT 是什么？从风格滤镜，到电影中的专业调色，聊聊 LUT 所代表的色彩规则。Nnnobel昨天 15:00</a> <span class="desc">— Nnnobel</span></li>
+        <li id="src35"><span class="num num-gadget">35</span><a href="https://sspai.com/post/112109" target="_blank">角落新声｜我的上帝模式，一名设计师创作环境的演变CG艺术实验室昨天 10:04</a> <span class="desc">— CG艺术实验室</span></li>
+        <li id="src36"><span class="num num-gadget">36</span><a href="https://sspai.com/post/112597" target="_blank">派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等少数派编辑部昨天 08:30派早报</a> <span class="desc">— 少数派编辑部</span></li>
+        <li id="src37"><span class="num num-gadget">37</span><a href="https://sspai.com/bullet/1783932697" target="_blank">聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情</a> <span class="desc">— 一派讨论</span></li>
+        <li id="src38"><span class="num num-gadget">38</span><a href="https://sspai.com/post/112582" target="_blank">社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车Matrix机器人前天 17:00</a> <span class="desc">— Matrix机器人</span></li>
+        <li id="src39"><span class="num num-gadget">39</span><a href="https://sspai.com/post/112200" target="_blank">装上 Fedora 的 Surface Pro：一台老设备的新可能StephenFang前天 15:00</a> <span class="desc">— StephenFang</span></li>
+        <li id="src40"><span class="num num-gadget">40</span><a href="https://sspai.com/post/111569" target="_blank">App+1 | 把「从长视频截取片段」做到极致：TrimlyBleaker前天 11:00Matrix精选</a> <span class="desc">— Bleaker</span></li>
+        <li id="src41"><span class="num num-gadget">41</span><a href="https://sspai.com/post/112543" target="_blank">派评 | 近期值得关注的 App少数派编辑部07/20</a> <span class="desc">— 少数派编辑部</span></li>
       </ul>
     </div>
 
     </div>
 
     <footer class="footer">
-        <span class="heart">&#10022;</span> 自动生成 &middot; 数据截至 2026-07-23 &middot;
+        <span class="heart">&#10022;</span> 由 QoderWork 自动抓取 &middot; 数据截至 2026-07-23 &middot;
         <a href="index.html">查看所有日期</a>
     </footer>
 </div>
@@ -348,24 +386,45 @@ body {
     var canvas = document.getElementById('bg-canvas');
     if (!canvas) return;
     var ctx = canvas.getContext('2d');
-    var width, height, particles = [];
-    var PARTICLE_COUNT = 120, CONNECTION_DIST = 110, MOUSE_RADIUS = 180;
-    var mouseX = null, mouseY = null;
+    var W, H;
 
     function resize() {
-        width = window.innerWidth; height = window.innerHeight;
-        canvas.width = width; canvas.height = height;
+        W = window.innerWidth; H = window.innerHeight;
+        canvas.width = W; canvas.height = H;
     }
     window.addEventListener('resize', resize);
+    resize();
+
+    // 加载蓝天白云背景图片
+    var bgImage = new Image();
+    bgImage.crossOrigin = 'anonymous';
+    bgImage.src = 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1920&q=80';
+    var bgLoaded = false;
+    bgImage.onload = function() { bgLoaded = true; };
+    bgImage.onerror = function() { bgLoaded = false; };
+
+    // 粒子系统（适配蓝天白云风格）
+    var particles = [];
+    var PARTICLE_COUNT = 100;
+    var CONNECTION_DIST = 130;
+    var MOUSE_RADIUS = 160;
+    var mouseX = null, mouseY = null;
+
+    var colorPalette = [
+        'hsla(210, 80%, 90%, 0.7)',
+        'hsla(200, 70%, 85%, 0.6)',
+        'hsla(40, 60%, 92%, 0.5)',
+        'hsla(0, 50%, 95%, 0.5)',
+        'hsla(190, 60%, 88%, 0.6)',
+        'hsla(220, 50%, 92%, 0.6)',
+    ];
 
     function Particle() { this.reset(); }
     Particle.prototype.reset = function() {
-        this.x = Math.random() * width; this.y = Math.random() * height;
-        this.vx = (Math.random() - 0.5) * 0.4; this.vy = (Math.random() - 0.5) * 0.4;
-        this.radius = Math.random() * 2.2 + 1.2;
-        this.opacity = Math.random() * 0.5 + 0.3;
-        var hue = Math.random() > 0.5 ? 30 + Math.random() * 30 : 210 + Math.random() * 40;
-        this.color = 'hsla(' + hue + ', 80%, 70%, ' + this.opacity + ')';
+        this.x = Math.random() * W; this.y = Math.random() * H;
+        this.vx = (Math.random() - 0.5) * 0.6; this.vy = (Math.random() - 0.5) * 0.6;
+        this.radius = 2 + Math.random() * 3;
+        this.color = colorPalette[Math.floor(Math.random() * colorPalette.length)];
     };
     Particle.prototype.update = function() {
         this.x += this.vx; this.y += this.vy;
@@ -373,22 +432,24 @@ body {
             var dx = this.x - mouseX, dy = this.y - mouseY;
             var dist = Math.sqrt(dx * dx + dy * dy);
             if (dist < MOUSE_RADIUS && dist > 1) {
-                var force = (MOUSE_RADIUS - dist) / MOUSE_RADIUS * 0.3;
+                var force = (MOUSE_RADIUS - dist) / MOUSE_RADIUS * 0.4;
                 this.x += (dx / dist) * force; this.y += (dy / dist) * force;
             }
         }
         if (this.x < 0) { this.x = 0; this.vx *= -0.5; }
-        if (this.x > width) { this.x = width; this.vx *= -0.5; }
+        if (this.x > W) { this.x = W; this.vx *= -0.5; }
         if (this.y < 0) { this.y = 0; this.vy *= -0.5; }
-        if (this.y > height) { this.y = height; this.vy *= -0.5; }
-        this.vx += (Math.random() - 0.5) * 0.02;
-        this.vy += (Math.random() - 0.5) * 0.02;
+        if (this.y > H) { this.y = H; this.vy *= -0.5; }
+        this.vx += (Math.random() - 0.5) * 0.03;
+        this.vy += (Math.random() - 0.5) * 0.03;
         var sp = Math.sqrt(this.vx * this.vx + this.vy * this.vy);
-        if (sp > 0.6) { this.vx = (this.vx / sp) * 0.6; this.vy = (this.vy / sp) * 0.6; }
+        if (sp > 0.8) { this.vx = (this.vx / sp) * 0.8; this.vy = (this.vy / sp) * 0.8; }
     };
     Particle.prototype.draw = function() {
         ctx.beginPath(); ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
-        ctx.fillStyle = this.color; ctx.fill();
+        ctx.fillStyle = this.color;
+        ctx.shadowColor = 'rgba(255,255,255,0.3)'; ctx.shadowBlur = 10;
+        ctx.fill(); ctx.shadowBlur = 0;
     };
 
     for (var i = 0; i < PARTICLE_COUNT; i++) particles.push(new Particle());
@@ -400,7 +461,7 @@ body {
                 var dy = particles[i].y - particles[j].y;
                 var dist = Math.sqrt(dx * dx + dy * dy);
                 if (dist < CONNECTION_DIST) {
-                    var alpha = (1 - dist / CONNECTION_DIST) * 0.25;
+                    var alpha = (1 - dist / CONNECTION_DIST) * 0.2;
                     ctx.beginPath();
                     ctx.moveTo(particles[i].x, particles[i].y);
                     ctx.lineTo(particles[j].x, particles[j].y);
@@ -411,15 +472,6 @@ body {
         }
     }
 
-    function animate() {
-        ctx.clearRect(0, 0, width, height);
-        drawConnections();
-        for (var i = 0; i < particles.length; i++) {
-            particles[i].update(); particles[i].draw();
-        }
-        requestAnimationFrame(animate);
-    }
-
     document.addEventListener('mousemove', function(e) { mouseX = e.clientX; mouseY = e.clientY; });
     document.addEventListener('mouseleave', function() { mouseX = null; mouseY = null; });
     document.addEventListener('touchmove', function(e) {
@@ -427,18 +479,43 @@ body {
     }, { passive: true });
     document.addEventListener('touchend', function() { mouseX = null; mouseY = null; });
 
-    resize(); animate();
+    function render() {
+        ctx.clearRect(0, 0, W, H);
+        if (bgLoaded && bgImage.complete && bgImage.naturalWidth > 0) {
+            var imgAspect = bgImage.naturalWidth / bgImage.naturalHeight;
+            var canvasAspect = W / H;
+            var drawW, drawH, offsetX, offsetY;
+            if (imgAspect > canvasAspect) {
+                drawW = W; drawH = W / imgAspect; offsetX = 0; offsetY = (H - drawH) / 2;
+            } else {
+                drawH = H; drawW = H * imgAspect; offsetX = (W - drawW) / 2; offsetY = 0;
+            }
+            ctx.drawImage(bgImage, offsetX, offsetY, drawW, drawH);
+        } else {
+            var grad = ctx.createLinearGradient(0, 0, 0, H);
+            grad.addColorStop(0, '#87CEEB'); grad.addColorStop(1, '#E0F0FF');
+            ctx.fillStyle = grad; ctx.fillRect(0, 0, W, H);
+        }
+        drawConnections();
+        for (var i = 0; i < particles.length; i++) { particles[i].update(); particles[i].draw(); }
+        requestAnimationFrame(render);
+    }
+
+    resize(); render();
     window.addEventListener('resize', function() {
         resize();
         for (var i = 0; i < particles.length; i++) {
-            particles[i].x = Math.min(particles[i].x, width);
-            particles[i].y = Math.min(particles[i].y, height);
+            particles[i].x = Math.min(particles[i].x, W);
+            particles[i].y = Math.min(particles[i].y, H);
         }
     });
 })();
 
 
 (function() {
+    'use strict';
+
+    // 统计数字动画
     function animateNumber(el, target, duration) {
         duration = duration || 1200;
         var startTime = performance.now();
@@ -463,6 +540,27 @@ body {
         });
     }, { threshold: 0.3 });
     statsItems.forEach(function(el) { observer.observe(el); });
+
+    // GitHub Stars 获取
+    var starElements = document.querySelectorAll('.gh-stars[data-repo]');
+    if (starElements.length > 0) {
+        setTimeout(function() {
+            starElements.forEach(function(el) {
+                var repo = el.dataset.repo;
+                if (!repo) return;
+                fetch('https://api.github.com/repos/' + repo, {
+                    headers: { 'Accept': 'application/vnd.github.v3+json' }
+                }).then(function(res) {
+                    if (!res.ok) return;
+                    return res.json();
+                }).then(function(data) {
+                    if (data && data.stargazers_count !== undefined) {
+                        el.textContent = data.stargazers_count.toLocaleString();
+                    }
+                }).catch(function() {});
+            });
+        }, 800);
+    }
 })();
 
 </script>

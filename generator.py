@@ -37,15 +37,12 @@ def _get_color_name(color_key: str) -> str:
 
 
 def _generate_color_classes() -> str:
-    """根据 COLORS 字典生成动态 CSS 规则"""
+    """根据 COLORS 字典生成动态 CSS 规则（使用 CSS 变量）"""
     rules = []
-    for key, (hex_color, _) in COLORS.items():
-        rules.append(
-            f".dot-{key} {{ background: {hex_color}; "
-            f"box-shadow: 0 0 24px {hex_color}40; }}"
-        )
-        rules.append(f".num-{key} {{ background: {hex_color}; }}")
-        rules.append(f".highlight-{key} {{ color: {hex_color}; }}")
+    for key, (_, _) in COLORS.items():
+        rules.append(f".dot-{key} {{ background: var(--color-{key}); }}")
+        rules.append(f".num-{key} {{ background: var(--color-{key}); }}")
+        rules.append(f".highlight-{key} {{ color: var(--color-{key}); }}")
     return "\n".join(rules)
 
 
@@ -64,24 +61,45 @@ PARTICLE_JS = r"""
     var canvas = document.getElementById('bg-canvas');
     if (!canvas) return;
     var ctx = canvas.getContext('2d');
-    var width, height, particles = [];
-    var PARTICLE_COUNT = 120, CONNECTION_DIST = 110, MOUSE_RADIUS = 180;
-    var mouseX = null, mouseY = null;
+    var W, H;
 
     function resize() {
-        width = window.innerWidth; height = window.innerHeight;
-        canvas.width = width; canvas.height = height;
+        W = window.innerWidth; H = window.innerHeight;
+        canvas.width = W; canvas.height = H;
     }
     window.addEventListener('resize', resize);
+    resize();
+
+    // 加载蓝天白云背景图片
+    var bgImage = new Image();
+    bgImage.crossOrigin = 'anonymous';
+    bgImage.src = 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1920&q=80';
+    var bgLoaded = false;
+    bgImage.onload = function() { bgLoaded = true; };
+    bgImage.onerror = function() { bgLoaded = false; };
+
+    // 粒子系统（适配蓝天白云风格）
+    var particles = [];
+    var PARTICLE_COUNT = 100;
+    var CONNECTION_DIST = 130;
+    var MOUSE_RADIUS = 160;
+    var mouseX = null, mouseY = null;
+
+    var colorPalette = [
+        'hsla(210, 80%, 90%, 0.7)',
+        'hsla(200, 70%, 85%, 0.6)',
+        'hsla(40, 60%, 92%, 0.5)',
+        'hsla(0, 50%, 95%, 0.5)',
+        'hsla(190, 60%, 88%, 0.6)',
+        'hsla(220, 50%, 92%, 0.6)',
+    ];
 
     function Particle() { this.reset(); }
     Particle.prototype.reset = function() {
-        this.x = Math.random() * width; this.y = Math.random() * height;
-        this.vx = (Math.random() - 0.5) * 0.4; this.vy = (Math.random() - 0.5) * 0.4;
-        this.radius = Math.random() * 2.2 + 1.2;
-        this.opacity = Math.random() * 0.5 + 0.3;
-        var hue = Math.random() > 0.5 ? 30 + Math.random() * 30 : 210 + Math.random() * 40;
-        this.color = 'hsla(' + hue + ', 80%, 70%, ' + this.opacity + ')';
+        this.x = Math.random() * W; this.y = Math.random() * H;
+        this.vx = (Math.random() - 0.5) * 0.6; this.vy = (Math.random() - 0.5) * 0.6;
+        this.radius = 2 + Math.random() * 3;
+        this.color = colorPalette[Math.floor(Math.random() * colorPalette.length)];
     };
     Particle.prototype.update = function() {
         this.x += this.vx; this.y += this.vy;
@@ -89,22 +107,24 @@ PARTICLE_JS = r"""
             var dx = this.x - mouseX, dy = this.y - mouseY;
             var dist = Math.sqrt(dx * dx + dy * dy);
             if (dist < MOUSE_RADIUS && dist > 1) {
-                var force = (MOUSE_RADIUS - dist) / MOUSE_RADIUS * 0.3;
+                var force = (MOUSE_RADIUS - dist) / MOUSE_RADIUS * 0.4;
                 this.x += (dx / dist) * force; this.y += (dy / dist) * force;
             }
         }
         if (this.x < 0) { this.x = 0; this.vx *= -0.5; }
-        if (this.x > width) { this.x = width; this.vx *= -0.5; }
+        if (this.x > W) { this.x = W; this.vx *= -0.5; }
         if (this.y < 0) { this.y = 0; this.vy *= -0.5; }
-        if (this.y > height) { this.y = height; this.vy *= -0.5; }
-        this.vx += (Math.random() - 0.5) * 0.02;
-        this.vy += (Math.random() - 0.5) * 0.02;
+        if (this.y > H) { this.y = H; this.vy *= -0.5; }
+        this.vx += (Math.random() - 0.5) * 0.03;
+        this.vy += (Math.random() - 0.5) * 0.03;
         var sp = Math.sqrt(this.vx * this.vx + this.vy * this.vy);
-        if (sp > 0.6) { this.vx = (this.vx / sp) * 0.6; this.vy = (this.vy / sp) * 0.6; }
+        if (sp > 0.8) { this.vx = (this.vx / sp) * 0.8; this.vy = (this.vy / sp) * 0.8; }
     };
     Particle.prototype.draw = function() {
         ctx.beginPath(); ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
-        ctx.fillStyle = this.color; ctx.fill();
+        ctx.fillStyle = this.color;
+        ctx.shadowColor = 'rgba(255,255,255,0.3)'; ctx.shadowBlur = 10;
+        ctx.fill(); ctx.shadowBlur = 0;
     };
 
     for (var i = 0; i < PARTICLE_COUNT; i++) particles.push(new Particle());
@@ -116,7 +136,7 @@ PARTICLE_JS = r"""
                 var dy = particles[i].y - particles[j].y;
                 var dist = Math.sqrt(dx * dx + dy * dy);
                 if (dist < CONNECTION_DIST) {
-                    var alpha = (1 - dist / CONNECTION_DIST) * 0.25;
+                    var alpha = (1 - dist / CONNECTION_DIST) * 0.2;
                     ctx.beginPath();
                     ctx.moveTo(particles[i].x, particles[i].y);
                     ctx.lineTo(particles[j].x, particles[j].y);
@@ -127,15 +147,6 @@ PARTICLE_JS = r"""
         }
     }
 
-    function animate() {
-        ctx.clearRect(0, 0, width, height);
-        drawConnections();
-        for (var i = 0; i < particles.length; i++) {
-            particles[i].update(); particles[i].draw();
-        }
-        requestAnimationFrame(animate);
-    }
-
     document.addEventListener('mousemove', function(e) { mouseX = e.clientX; mouseY = e.clientY; });
     document.addEventListener('mouseleave', function() { mouseX = null; mouseY = null; });
     document.addEventListener('touchmove', function(e) {
@@ -143,12 +154,34 @@ PARTICLE_JS = r"""
     }, { passive: true });
     document.addEventListener('touchend', function() { mouseX = null; mouseY = null; });
 
-    resize(); animate();
+    function render() {
+        ctx.clearRect(0, 0, W, H);
+        if (bgLoaded && bgImage.complete && bgImage.naturalWidth > 0) {
+            var imgAspect = bgImage.naturalWidth / bgImage.naturalHeight;
+            var canvasAspect = W / H;
+            var drawW, drawH, offsetX, offsetY;
+            if (imgAspect > canvasAspect) {
+                drawW = W; drawH = W / imgAspect; offsetX = 0; offsetY = (H - drawH) / 2;
+            } else {
+                drawH = H; drawW = H * imgAspect; offsetX = (W - drawW) / 2; offsetY = 0;
+            }
+            ctx.drawImage(bgImage, offsetX, offsetY, drawW, drawH);
+        } else {
+            var grad = ctx.createLinearGradient(0, 0, 0, H);
+            grad.addColorStop(0, '#87CEEB'); grad.addColorStop(1, '#E0F0FF');
+            ctx.fillStyle = grad; ctx.fillRect(0, 0, W, H);
+        }
+        drawConnections();
+        for (var i = 0; i < particles.length; i++) { particles[i].update(); particles[i].draw(); }
+        requestAnimationFrame(render);
+    }
+
+    resize(); render();
     window.addEventListener('resize', function() {
         resize();
         for (var i = 0; i < particles.length; i++) {
-            particles[i].x = Math.min(particles[i].x, width);
-            particles[i].y = Math.min(particles[i].y, height);
+            particles[i].x = Math.min(particles[i].x, W);
+            particles[i].y = Math.min(particles[i].y, H);
         }
     });
 })();
@@ -156,6 +189,9 @@ PARTICLE_JS = r"""
 
 COUNTER_JS = r"""
 (function() {
+    'use strict';
+
+    // 统计数字动画
     function animateNumber(el, target, duration) {
         duration = duration || 1200;
         var startTime = performance.now();
@@ -180,6 +216,27 @@ COUNTER_JS = r"""
         });
     }, { threshold: 0.3 });
     statsItems.forEach(function(el) { observer.observe(el); });
+
+    // GitHub Stars 获取
+    var starElements = document.querySelectorAll('.gh-stars[data-repo]');
+    if (starElements.length > 0) {
+        setTimeout(function() {
+            starElements.forEach(function(el) {
+                var repo = el.dataset.repo;
+                if (!repo) return;
+                fetch('https://api.github.com/repos/' + repo, {
+                    headers: { 'Accept': 'application/vnd.github.v3+json' }
+                }).then(function(res) {
+                    if (!res.ok) return;
+                    return res.json();
+                }).then(function(data) {
+                    if (data && data.stargazers_count !== undefined) {
+                        el.textContent = data.stargazers_count.toLocaleString();
+                    }
+                }).catch(function() {});
+            });
+        }, 800);
+    }
 })();
 """
 
@@ -200,13 +257,13 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <style>
 * { margin: 0; padding: 0; box-sizing: border-box; }
 :root {
-    --bg-primary: #0b0d15;
-    --bg-card: rgba(255, 255, 255, 0.04);
-    --border-card: rgba(255, 255, 255, 0.07);
-    --text-primary: #f0f2f8;
-    --text-secondary: rgba(255, 255, 255, 0.6);
-    --text-muted: rgba(255, 255, 255, 0.35);
-    --shadow-card: 0 16px 48px rgba(0, 0, 0, 0.5);
+    --bg-primary: #f0f4fa;
+    --bg-card: rgba(255, 255, 255, 0.55);
+    --border-card: rgba(255, 255, 255, 0.25);
+    --text-primary: #1e293b;
+    --text-secondary: #334155;
+    --text-muted: #64748b;
+    --shadow-card: 0 12px 40px rgba(0, 0, 0, 0.08);
     --radius-card: 20px;
     --transition-smooth: cubic-bezier(0.22, 1, 0.36, 1);
     --color-ai: #f97316;
@@ -222,32 +279,24 @@ body {
     min-height: 100vh; overflow-x: hidden; line-height: 1.7;
 }
 #bg-canvas { position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 0; pointer-events: none; }
-.glow-overlay {
-    position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 1; pointer-events: none;
-    background:
-        radial-gradient(ellipse at 20% 50%, rgba(249, 115, 22, 0.06) 0%, transparent 60%),
-        radial-gradient(ellipse at 80% 20%, rgba(59, 130, 246, 0.05) 0%, transparent 50%),
-        radial-gradient(ellipse at 60% 80%, rgba(168, 85, 247, 0.04) 0%, transparent 50%);
-    animation: glowPulse 12s ease-in-out infinite alternate;
-}
-@keyframes glowPulse { 0% { opacity: 0.6; transform: scale(1); } 100% { opacity: 1; transform: scale(1.05); } }
 .container { position: relative; z-index: 2; max-width: 820px; margin: 0 auto; padding: 48px 24px 64px; }
 .header { text-align: center; padding: 24px 0 48px; }
 .header-badge {
-    display: inline-block; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.06);
-    backdrop-filter: blur(12px); padding: 6px 18px; border-radius: 100px; font-size: 12px;
-    font-weight: 500; letter-spacing: 0.5px; color: var(--text-secondary); margin-bottom: 20px; text-transform: uppercase;
+    display: inline-block; background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(8px); border: 1px solid rgba(255, 255, 255, 0.4);
+    padding: 6px 18px; border-radius: 100px; font-size: 12px;
+    font-weight: 600; letter-spacing: 0.5px; color: var(--text-secondary); margin-bottom: 20px; text-transform: uppercase;
 }
 .header h1 {
-    font-size: clamp(36px, 8vw, 60px); font-weight: 800; letter-spacing: -0.03em; line-height: 1.05;
-    background: linear-gradient(135deg, #ffffff 30%, rgba(255,255,255,0.5) 80%);
-    -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 12px;
+    font-size: clamp(40px, 8vw, 68px); font-weight: 800; letter-spacing: -0.03em; line-height: 1.05;
+    color: var(--text-primary);
+    text-shadow: 0 2px 20px rgba(255, 255, 255, 0.5); margin-bottom: 12px;
 }
 .header .sub { font-size: 16px; color: var(--text-secondary); font-weight: 400; letter-spacing: 1px; }
 .header .sub em { font-style: normal; color: var(--text-primary); font-weight: 500; }
 .stats-row { display: flex; justify-content: center; gap: 12px 24px; flex-wrap: wrap; margin-top: 28px; }
 .stats-row .stat-item {
-    background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.05);
+    background: rgba(255, 255, 255, 0.3); border: 1px solid rgba(255, 255, 255, 0.3);
     backdrop-filter: blur(8px); padding: 8px 22px; border-radius: 100px; font-size: 13px;
     color: var(--text-secondary); display: flex; align-items: center; gap: 8px;
 }
@@ -268,7 +317,7 @@ body {
     transition: transform 0.4s var(--transition-smooth), box-shadow 0.4s var(--transition-smooth), border-color 0.3s ease;
     opacity: 0; transform: translateY(30px); animation: cardEnter 0.7s var(--transition-smooth) forwards;
 }
-.card:hover { transform: translateY(-4px); box-shadow: 0 24px 56px rgba(0,0,0,0.6); border-color: rgba(255,255,255,0.12); }
+.card:hover { transform: translateY(-4px); box-shadow: 0 20px 48px rgba(0, 0, 0, 0.12); border-color: rgba(255, 255, 255, 0.5); }
 @keyframes cardEnter { to { opacity: 1; transform: translateY(0); } }
 .card:nth-child(1) { animation-delay: 0.05s; }
 .card:nth-child(2) { animation-delay: 0.12s; }
@@ -279,14 +328,14 @@ body {
 .card:nth-child(7) { animation-delay: 0.47s; }
 .card-header {
     display: flex; align-items: center; gap: 14px; margin-bottom: 18px;
-    padding-bottom: 14px; border-bottom: 1px solid rgba(255,255,255,0.05);
+    padding-bottom: 14px; border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 .card-header .dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
 .card-header .title { font-size: 20px; font-weight: 700; letter-spacing: -0.01em; }
 .card-header .count-badge {
     margin-left: auto; font-size: 11px; font-weight: 600; text-transform: uppercase;
-    letter-spacing: 0.5px; color: var(--text-muted); background: rgba(255,255,255,0.04);
-    padding: 2px 14px; border-radius: 100px; border: 1px solid rgba(255,255,255,0.04);
+    letter-spacing: 0.5px; color: var(--text-muted); background: rgba(0, 0, 0, 0.04);
+    padding: 2px 14px; border-radius: 100px; border: 1px solid rgba(0, 0, 0, 0.04);
 }
 .card p { font-size: 15px; color: var(--text-secondary); margin-bottom: 10px; line-height: 1.8; }
 .card p:last-child { margin-bottom: 0; }
@@ -294,12 +343,12 @@ body {
 
 /* === 内联项目标签 === */
 .gh-item {
-    display: inline-flex; align-items: center; gap: 6px; background: rgba(255,255,255,0.04);
-    border: 1px solid rgba(255,255,255,0.06); padding: 1px 12px 1px 8px; border-radius: 100px;
+    display: inline-flex; align-items: center; gap: 6px; background: rgba(0, 0, 0, 0.04);
+    border: 1px solid rgba(0, 0, 0, 0.06); padding: 1px 12px 1px 8px; border-radius: 100px;
     font-size: 13px; font-weight: 500; color: var(--text-primary); white-space: nowrap;
     transition: background 0.2s, border-color 0.2s; margin: 0 2px; text-decoration: none;
 }
-.gh-item:hover { background: rgba(255,255,255,0.08); border-color: rgba(255,255,255,0.12); }
+.gh-item:hover { background: rgba(0, 0, 0, 0.08); border-color: rgba(0, 0, 0, 0.12); }
 .gh-item .gh-stars { font-weight: 600; color: var(--color-opinion); font-size: 12px; margin-left: 2px; }
 .gh-item .gh-stars::before { content: '\\2605 '; font-weight: 400; }
 
@@ -346,7 +395,7 @@ body {
 }
 .source-index h2 {
     font-size: 18px; font-weight: 700; margin-bottom: 24px;
-    padding-bottom: 14px; border-bottom: 1px solid rgba(255,255,255,0.05);
+    padding-bottom: 14px; border-bottom: 1px solid rgba(0, 0, 0, 0.05);
     letter-spacing: -0.01em; color: var(--text-primary);
 }
 .source-group { margin-bottom: 24px; }
@@ -359,12 +408,12 @@ body {
 @media (max-width: 600px) { .source-list { grid-template-columns: 1fr; } }
 .source-list li {
     font-size: 14px; padding: 6px 0; display: flex; align-items: center; gap: 10px;
-    border-bottom: 1px solid rgba(255,255,255,0.03);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.03);
 }
 .source-list li .num {
     flex-shrink: 0; display: inline-flex; align-items: center; justify-content: center;
     width: 22px; height: 22px; border-radius: 50%; font-size: 10px; font-weight: 700;
-    color: #fff; background: rgba(255,255,255,0.08);
+    color: #fff; background: rgba(0, 0, 0, 0.2);
 }
 .source-list li a { color: var(--text-secondary); text-decoration: none; transition: color 0.2s; font-weight: 500; font-size: 13px; }
 .source-list li a:hover { color: var(--text-primary); }
@@ -373,7 +422,7 @@ body {
 /* === Footer === */
 .footer {
     text-align: center; margin-top: 40px; font-size: 12px; color: var(--text-muted);
-    letter-spacing: 0.3px; border-top: 1px solid rgba(255,255,255,0.04); padding-top: 28px;
+    letter-spacing: 0.3px; border-top: 1px solid rgba(0, 0, 0, 0.05); padding-top: 28px;
 }
 .footer a { color: var(--text-muted); text-decoration: none; }
 .footer a:hover { color: var(--text-secondary); }
@@ -399,22 +448,21 @@ $color_classes
 /* === 滚动条 === */
 ::-webkit-scrollbar { width: 6px; }
 ::-webkit-scrollbar-track { background: transparent; }
-::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.12); border-radius: 10px; }
-::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.2); }
+::-webkit-scrollbar-thumb { background: rgba(0, 0, 0, 0.15); border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(0, 0, 0, 0.25); }
 
 /* === 触摸设备 === */
 @media (hover: none) {
     .card:hover { transform: none; box-shadow: var(--shadow-card); }
-    .gh-item:hover { background: rgba(255,255,255,0.04); border-color: rgba(255,255,255,0.06); }
+    .gh-item:hover { background: rgba(0, 0, 0, 0.04); border-color: rgba(0, 0, 0, 0.06); }
 }
 </style>
 </head>
 <body>
 <canvas id="bg-canvas"></canvas>
-<div class="glow-overlay"></div>
 <div class="container">
     <header class="header">
-        <div class="header-badge">&#10022; 数据宇宙 · 每日观测</div>
+        <div class="header-badge">&#10022; 晴空 &middot; 每日信号</div>
         <h1>热点星云</h1>
         <div class="sub">$date_display &nbsp;&middot;&nbsp; <em>$item_count 条内容</em></div>
         <div class="stats-row">
@@ -433,7 +481,7 @@ $sources_by_group_html
     </div>
 
     <footer class="footer">
-        <span class="heart">&#10022;</span> 自动生成 &middot; 数据截至 $date &middot;
+        <span class="heart">&#10022;</span> 由 QoderWork 自动抓取 &middot; 数据截至 $date &middot;
         <a href="index.html">查看所有日期</a>
     </footer>
 </div>
@@ -457,10 +505,11 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 <style>
 * { margin: 0; padding: 0; box-sizing: border-box; }
 :root {
-    --bg-primary: #0b0d15; --bg-card: rgba(255,255,255,0.04); --border-card: rgba(255,255,255,0.07);
-    --text-primary: #f0f2f8; --text-secondary: rgba(255,255,255,0.6); --text-muted: rgba(255,255,255,0.35);
-    --shadow-card: 0 16px 48px rgba(0,0,0,0.5); --radius-card: 20px;
+    --bg-primary: #f0f4fa; --bg-card: rgba(255,255,255,0.55); --border-card: rgba(255,255,255,0.25);
+    --text-primary: #1e293b; --text-secondary: #334155; --text-muted: #64748b;
+    --shadow-card: 0 12px 40px rgba(0,0,0,0.08); --radius-card: 20px;
     --transition-smooth: cubic-bezier(0.22, 1, 0.36, 1);
+    --color-dev: #3b82f6;
 }
 html { scroll-behavior: smooth; }
 body {
@@ -469,21 +518,12 @@ body {
     min-height: 100vh; overflow-x: hidden; line-height: 1.7;
 }
 #bg-canvas { position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 0; pointer-events: none; }
-.glow-overlay {
-    position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 1; pointer-events: none;
-    background:
-        radial-gradient(ellipse at 20% 50%, rgba(249,115,22,0.06) 0%, transparent 60%),
-        radial-gradient(ellipse at 80% 20%, rgba(59,130,246,0.05) 0%, transparent 50%),
-        radial-gradient(ellipse at 60% 80%, rgba(168,85,247,0.04) 0%, transparent 50%);
-    animation: glowPulse 12s ease-in-out infinite alternate;
-}
-@keyframes glowPulse { 0% { opacity: 0.6; transform: scale(1); } 100% { opacity: 1; transform: scale(1.05); } }
 .container { position: relative; z-index: 2; max-width: 600px; margin: 0 auto; padding: 48px 24px 64px; }
-.header { text-align: center; margin-bottom: 40px; padding-bottom: 24px; border-bottom: 1px solid rgba(255,255,255,0.06); }
+.header { text-align: center; margin-bottom: 40px; padding-bottom: 24px; border-bottom: 1px solid rgba(0,0,0,0.06); }
 .header h1 {
     font-size: 32px; font-weight: 800; letter-spacing: -0.02em;
-    background: linear-gradient(135deg, #ffffff 30%, rgba(255,255,255,0.5) 80%);
-    -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+    color: var(--text-primary);
+    text-shadow: 0 2px 20px rgba(255,255,255,0.5);
 }
 .header p { font-size: 15px; color: var(--text-secondary); margin-top: 8px; }
 .date-list { list-style: none; }
@@ -493,7 +533,7 @@ body {
     padding: 14px 20px; margin-bottom: 10px; box-shadow: var(--shadow-card);
     transition: transform 0.3s var(--transition-smooth), border-color 0.3s ease;
 }
-.date-list li:hover { transform: translateY(-2px); border-color: rgba(255,255,255,0.12); }
+.date-list li:hover { transform: translateY(-2px); border-color: rgba(255,255,255,0.5); }
 .date-list li a {
     color: var(--text-primary); text-decoration: none; font-size: 16px; font-weight: 600;
 }
@@ -502,12 +542,11 @@ body {
 .footer { text-align: center; margin-top: 40px; font-size: 12px; color: var(--text-muted); }
 ::-webkit-scrollbar { width: 6px; }
 ::-webkit-scrollbar-track { background: transparent; }
-::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.12); border-radius: 10px; }
+::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.15); border-radius: 10px; }
 </style>
 </head>
 <body>
 <canvas id="bg-canvas"></canvas>
-<div class="glow-overlay"></div>
 <div class="container">
     <div class="header">
         <h1>热点星云</h1>
@@ -667,6 +706,8 @@ def _generate_from_raw_data(data: dict, date_str: str) -> str:
         for item in gh_items:
             source_num += 1
             title = item["title"].replace(" / ", "/")
+            # 提取 repo 名称 (owner/repo 格式)
+            repo_name = title.split(" - ")[0].split(" / ")[0] if " - " in title else title.split(" / ")[0]
             stars = item.get("stars", "")
             stars_display = ""
             if stars:
@@ -674,7 +715,7 @@ def _generate_from_raw_data(data: dict, date_str: str) -> str:
                     stars_display = format(int(stars), ",")
                 except (ValueError, TypeError):
                     stars_display = stars
-            stars_span = f'<span class="gh-stars">{stars_display}</span>' if stars_display else ""
+            stars_span = f'<span class="gh-stars" data-repo="{repo_name}">{stars_display}</span>' if stars_display else f'<span class="gh-stars" data-repo="{repo_name}">—</span>'
             gh_tags += (
                 f'<a class="gh-item" href="{item["url"]}" target="_blank">'
                 f'{title}'
@@ -703,7 +744,7 @@ def _generate_from_raw_data(data: dict, date_str: str) -> str:
             source_num += 1
             tags = item.get("tags", [])
             tag_html = " ".join(
-                f'<span style="background:rgba(255,255,255,0.06);padding:0 8px;'
+                f'<span style="background:rgba(0,0,0,0.04);padding:0 8px;'
                 f'border-radius:4px;font-size:12px;color:var(--text-muted);">{t}</span>'
                 for t in tags
             )
@@ -824,8 +865,8 @@ def generate_index_page(site_dir: str) -> str:
             list_html += f'<li><a href="{d}.html">{display}</a></li>'
         list_html += '</ul>'
 
-    # 归档页使用精简版粒子（60个）
-    index_particle_js = PARTICLE_JS.replace("PARTICLE_COUNT = 120", "PARTICLE_COUNT = 60")
+    # 归档页使用精简版粒子（50个）
+    index_particle_js = PARTICLE_JS.replace("PARTICLE_COUNT = 100", "PARTICLE_COUNT = 50")
 
     return _render_template(
         INDEX_TEMPLATE,

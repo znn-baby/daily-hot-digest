@@ -10,10 +10,11 @@
 <style>
 * { margin: 0; padding: 0; box-sizing: border-box; }
 :root {
-    --bg-primary: #0b0d15; --bg-card: rgba(255,255,255,0.04); --border-card: rgba(255,255,255,0.07);
-    --text-primary: #f0f2f8; --text-secondary: rgba(255,255,255,0.6); --text-muted: rgba(255,255,255,0.35);
-    --shadow-card: 0 16px 48px rgba(0,0,0,0.5); --radius-card: 20px;
+    --bg-primary: #f0f4fa; --bg-card: rgba(255,255,255,0.55); --border-card: rgba(255,255,255,0.25);
+    --text-primary: #1e293b; --text-secondary: #334155; --text-muted: #64748b;
+    --shadow-card: 0 12px 40px rgba(0,0,0,0.08); --radius-card: 20px;
     --transition-smooth: cubic-bezier(0.22, 1, 0.36, 1);
+    --color-dev: #3b82f6;
 }
 html { scroll-behavior: smooth; }
 body {
@@ -22,21 +23,12 @@ body {
     min-height: 100vh; overflow-x: hidden; line-height: 1.7;
 }
 #bg-canvas { position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 0; pointer-events: none; }
-.glow-overlay {
-    position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 1; pointer-events: none;
-    background:
-        radial-gradient(ellipse at 20% 50%, rgba(249,115,22,0.06) 0%, transparent 60%),
-        radial-gradient(ellipse at 80% 20%, rgba(59,130,246,0.05) 0%, transparent 50%),
-        radial-gradient(ellipse at 60% 80%, rgba(168,85,247,0.04) 0%, transparent 50%);
-    animation: glowPulse 12s ease-in-out infinite alternate;
-}
-@keyframes glowPulse { 0% { opacity: 0.6; transform: scale(1); } 100% { opacity: 1; transform: scale(1.05); } }
 .container { position: relative; z-index: 2; max-width: 600px; margin: 0 auto; padding: 48px 24px 64px; }
-.header { text-align: center; margin-bottom: 40px; padding-bottom: 24px; border-bottom: 1px solid rgba(255,255,255,0.06); }
+.header { text-align: center; margin-bottom: 40px; padding-bottom: 24px; border-bottom: 1px solid rgba(0,0,0,0.06); }
 .header h1 {
     font-size: 32px; font-weight: 800; letter-spacing: -0.02em;
-    background: linear-gradient(135deg, #ffffff 30%, rgba(255,255,255,0.5) 80%);
-    -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+    color: var(--text-primary);
+    text-shadow: 0 2px 20px rgba(255,255,255,0.5);
 }
 .header p { font-size: 15px; color: var(--text-secondary); margin-top: 8px; }
 .date-list { list-style: none; }
@@ -46,7 +38,7 @@ body {
     padding: 14px 20px; margin-bottom: 10px; box-shadow: var(--shadow-card);
     transition: transform 0.3s var(--transition-smooth), border-color 0.3s ease;
 }
-.date-list li:hover { transform: translateY(-2px); border-color: rgba(255,255,255,0.12); }
+.date-list li:hover { transform: translateY(-2px); border-color: rgba(255,255,255,0.5); }
 .date-list li a {
     color: var(--text-primary); text-decoration: none; font-size: 16px; font-weight: 600;
 }
@@ -55,12 +47,11 @@ body {
 .footer { text-align: center; margin-top: 40px; font-size: 12px; color: var(--text-muted); }
 ::-webkit-scrollbar { width: 6px; }
 ::-webkit-scrollbar-track { background: transparent; }
-::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.12); border-radius: 10px; }
+::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.15); border-radius: 10px; }
 </style>
 </head>
 <body>
 <canvas id="bg-canvas"></canvas>
-<div class="glow-overlay"></div>
 <div class="container">
     <div class="header">
         <h1>热点星云</h1>
@@ -78,24 +69,45 @@ body {
     var canvas = document.getElementById('bg-canvas');
     if (!canvas) return;
     var ctx = canvas.getContext('2d');
-    var width, height, particles = [];
-    var PARTICLE_COUNT = 60, CONNECTION_DIST = 110, MOUSE_RADIUS = 180;
-    var mouseX = null, mouseY = null;
+    var W, H;
 
     function resize() {
-        width = window.innerWidth; height = window.innerHeight;
-        canvas.width = width; canvas.height = height;
+        W = window.innerWidth; H = window.innerHeight;
+        canvas.width = W; canvas.height = H;
     }
     window.addEventListener('resize', resize);
+    resize();
+
+    // 加载蓝天白云背景图片
+    var bgImage = new Image();
+    bgImage.crossOrigin = 'anonymous';
+    bgImage.src = 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1920&q=80';
+    var bgLoaded = false;
+    bgImage.onload = function() { bgLoaded = true; };
+    bgImage.onerror = function() { bgLoaded = false; };
+
+    // 粒子系统（适配蓝天白云风格）
+    var particles = [];
+    var PARTICLE_COUNT = 50;
+    var CONNECTION_DIST = 130;
+    var MOUSE_RADIUS = 160;
+    var mouseX = null, mouseY = null;
+
+    var colorPalette = [
+        'hsla(210, 80%, 90%, 0.7)',
+        'hsla(200, 70%, 85%, 0.6)',
+        'hsla(40, 60%, 92%, 0.5)',
+        'hsla(0, 50%, 95%, 0.5)',
+        'hsla(190, 60%, 88%, 0.6)',
+        'hsla(220, 50%, 92%, 0.6)',
+    ];
 
     function Particle() { this.reset(); }
     Particle.prototype.reset = function() {
-        this.x = Math.random() * width; this.y = Math.random() * height;
-        this.vx = (Math.random() - 0.5) * 0.4; this.vy = (Math.random() - 0.5) * 0.4;
-        this.radius = Math.random() * 2.2 + 1.2;
-        this.opacity = Math.random() * 0.5 + 0.3;
-        var hue = Math.random() > 0.5 ? 30 + Math.random() * 30 : 210 + Math.random() * 40;
-        this.color = 'hsla(' + hue + ', 80%, 70%, ' + this.opacity + ')';
+        this.x = Math.random() * W; this.y = Math.random() * H;
+        this.vx = (Math.random() - 0.5) * 0.6; this.vy = (Math.random() - 0.5) * 0.6;
+        this.radius = 2 + Math.random() * 3;
+        this.color = colorPalette[Math.floor(Math.random() * colorPalette.length)];
     };
     Particle.prototype.update = function() {
         this.x += this.vx; this.y += this.vy;
@@ -103,22 +115,24 @@ body {
             var dx = this.x - mouseX, dy = this.y - mouseY;
             var dist = Math.sqrt(dx * dx + dy * dy);
             if (dist < MOUSE_RADIUS && dist > 1) {
-                var force = (MOUSE_RADIUS - dist) / MOUSE_RADIUS * 0.3;
+                var force = (MOUSE_RADIUS - dist) / MOUSE_RADIUS * 0.4;
                 this.x += (dx / dist) * force; this.y += (dy / dist) * force;
             }
         }
         if (this.x < 0) { this.x = 0; this.vx *= -0.5; }
-        if (this.x > width) { this.x = width; this.vx *= -0.5; }
+        if (this.x > W) { this.x = W; this.vx *= -0.5; }
         if (this.y < 0) { this.y = 0; this.vy *= -0.5; }
-        if (this.y > height) { this.y = height; this.vy *= -0.5; }
-        this.vx += (Math.random() - 0.5) * 0.02;
-        this.vy += (Math.random() - 0.5) * 0.02;
+        if (this.y > H) { this.y = H; this.vy *= -0.5; }
+        this.vx += (Math.random() - 0.5) * 0.03;
+        this.vy += (Math.random() - 0.5) * 0.03;
         var sp = Math.sqrt(this.vx * this.vx + this.vy * this.vy);
-        if (sp > 0.6) { this.vx = (this.vx / sp) * 0.6; this.vy = (this.vy / sp) * 0.6; }
+        if (sp > 0.8) { this.vx = (this.vx / sp) * 0.8; this.vy = (this.vy / sp) * 0.8; }
     };
     Particle.prototype.draw = function() {
         ctx.beginPath(); ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
-        ctx.fillStyle = this.color; ctx.fill();
+        ctx.fillStyle = this.color;
+        ctx.shadowColor = 'rgba(255,255,255,0.3)'; ctx.shadowBlur = 10;
+        ctx.fill(); ctx.shadowBlur = 0;
     };
 
     for (var i = 0; i < PARTICLE_COUNT; i++) particles.push(new Particle());
@@ -130,7 +144,7 @@ body {
                 var dy = particles[i].y - particles[j].y;
                 var dist = Math.sqrt(dx * dx + dy * dy);
                 if (dist < CONNECTION_DIST) {
-                    var alpha = (1 - dist / CONNECTION_DIST) * 0.25;
+                    var alpha = (1 - dist / CONNECTION_DIST) * 0.2;
                     ctx.beginPath();
                     ctx.moveTo(particles[i].x, particles[i].y);
                     ctx.lineTo(particles[j].x, particles[j].y);
@@ -141,15 +155,6 @@ body {
         }
     }
 
-    function animate() {
-        ctx.clearRect(0, 0, width, height);
-        drawConnections();
-        for (var i = 0; i < particles.length; i++) {
-            particles[i].update(); particles[i].draw();
-        }
-        requestAnimationFrame(animate);
-    }
-
     document.addEventListener('mousemove', function(e) { mouseX = e.clientX; mouseY = e.clientY; });
     document.addEventListener('mouseleave', function() { mouseX = null; mouseY = null; });
     document.addEventListener('touchmove', function(e) {
@@ -157,12 +162,34 @@ body {
     }, { passive: true });
     document.addEventListener('touchend', function() { mouseX = null; mouseY = null; });
 
-    resize(); animate();
+    function render() {
+        ctx.clearRect(0, 0, W, H);
+        if (bgLoaded && bgImage.complete && bgImage.naturalWidth > 0) {
+            var imgAspect = bgImage.naturalWidth / bgImage.naturalHeight;
+            var canvasAspect = W / H;
+            var drawW, drawH, offsetX, offsetY;
+            if (imgAspect > canvasAspect) {
+                drawW = W; drawH = W / imgAspect; offsetX = 0; offsetY = (H - drawH) / 2;
+            } else {
+                drawH = H; drawW = H * imgAspect; offsetX = (W - drawW) / 2; offsetY = 0;
+            }
+            ctx.drawImage(bgImage, offsetX, offsetY, drawW, drawH);
+        } else {
+            var grad = ctx.createLinearGradient(0, 0, 0, H);
+            grad.addColorStop(0, '#87CEEB'); grad.addColorStop(1, '#E0F0FF');
+            ctx.fillStyle = grad; ctx.fillRect(0, 0, W, H);
+        }
+        drawConnections();
+        for (var i = 0; i < particles.length; i++) { particles[i].update(); particles[i].draw(); }
+        requestAnimationFrame(render);
+    }
+
+    resize(); render();
     window.addEventListener('resize', function() {
         resize();
         for (var i = 0; i < particles.length; i++) {
-            particles[i].x = Math.min(particles[i].x, width);
-            particles[i].y = Math.min(particles[i].y, height);
+            particles[i].x = Math.min(particles[i].x, W);
+            particles[i].y = Math.min(particles[i].y, H);
         }
     });
 })();
