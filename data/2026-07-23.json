@@ -5,7 +5,7 @@
       "title": "koala73 / worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "stars": "69605",
+      "stars": "69673",
       "stars_today": "4,139 stars today",
       "language": "TypeScript"
     },
@@ -14,7 +14,7 @@
       "title": "ruvnet / RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": "84117",
+      "stars": "84141",
       "stars_today": "741 stars today",
       "language": "Rust"
     },
@@ -23,7 +23,7 @@
       "title": "ayghri / i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "stars": "8544",
+      "stars": "8568",
       "stars_today": "1,699 stars today",
       "language": "Python"
     },
@@ -32,7 +32,7 @@
       "title": "schollz / croc",
       "url": "https://github.com/schollz/croc",
       "description": "Easily and securely send things from one computer to another 🐊 📦",
-      "stars": "37808",
+      "stars": "37827",
       "stars_today": "739 stars today",
       "language": "Go"
     },
@@ -41,7 +41,7 @@
       "title": "likec4 / likec4",
       "url": "https://github.com/likec4/likec4",
       "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-      "stars": "4402",
+      "stars": "4412",
       "stars_today": "80 stars today",
       "language": "TypeScript"
     },
@@ -50,7 +50,7 @@
       "title": "chrislgarry / Apollo-11",
       "url": "https://github.com/chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "stars": "70721",
+      "stars": "70734",
       "stars_today": "768 stars today",
       "language": "Assembly"
     },
@@ -59,7 +59,7 @@
       "title": "jamiepine / voicebox",
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "stars": "45934",
+      "stars": "45946",
       "stars_today": "557 stars today",
       "language": "TypeScript"
     },
@@ -68,7 +68,7 @@
       "title": "diegosouzapw / OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "stars": "25701",
+      "stars": "25739",
       "stars_today": "1,651 stars today",
       "language": "TypeScript"
     },
@@ -77,7 +77,7 @@
       "title": "shiyu-coder / Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "stars": "32695",
+      "stars": "32700",
       "stars_today": "137 stars today",
       "language": "Python"
     },
@@ -86,7 +86,7 @@
       "title": "ComposioHQ / awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "stars": "68927",
+      "stars": "68943",
       "stars_today": "163 stars today",
       "language": "Python"
     },
@@ -95,7 +95,7 @@
       "title": "oblien / openship",
       "url": "https://github.com/oblien/openship",
       "description": "Self-hosted deployment platform",
-      "stars": "7447",
+      "stars": "7458",
       "stars_today": "1,302 stars today",
       "language": "TypeScript"
     },
@@ -104,7 +104,7 @@
       "title": "agegr / pi-web",
       "url": "https://github.com/agegr/pi-web",
       "description": "Web UI for the pi coding agent",
-      "stars": "2130",
+      "stars": "2138",
       "stars_today": "314 stars today",
       "language": "TypeScript"
     },
@@ -113,7 +113,7 @@
       "title": "rohitg00 / ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
-      "stars": "42443",
+      "stars": "42462",
       "stars_today": "652 stars today",
       "language": "Python"
     },
@@ -122,7 +122,7 @@
       "title": "tirth8205 / code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "stars": "25474",
+      "stars": "25487",
       "stars_today": "882 stars today",
       "language": "Python"
     },
@@ -131,7 +131,7 @@
       "title": "dreamhunter2333 / cloudflare_temp_email",
       "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
       "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
-      "stars": "10874",
+      "stars": "10875",
       "stars_today": "68 stars today",
       "language": "TypeScript"
     }
@@ -177,11 +177,11 @@
     },
     {
       "rank": 4,
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "source_url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "title": "John C. Dvorak has died",
+      "url": "http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html",
+      "source_url": "http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html",
       "tags": [
-        "security"
+        "person"
       ],
       "score": "",
       "comments": "",
@@ -189,11 +189,11 @@
     },
     {
       "rank": 5,
-      "title": "John C. Dvorak has died",
-      "url": "http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html",
-      "source_url": "http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html",
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "source_url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
       "tags": [
-        "person"
+        "security"
       ],
       "score": "",
       "comments": "",
@@ -238,6 +238,18 @@
     },
     {
       "rank": 9,
+      "title": "Calm technologies that excite me",
+      "url": "https://abhi.now/blog/calm-technologies/",
+      "source_url": "https://abhi.now/blog/calm-technologies/",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
       "title": "Unranked, systemd, crawls",
       "url": "https://www.marginalia.nu/log/a_138_systemdocker/",
       "source_url": "https://www.marginalia.nu/log/a_138_systemdocker/",
@@ -250,7 +262,7 @@
       "author": ""
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "log is non-monotonic in PHP and Lua",
       "url": "https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/",
       "source_url": "https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/",
@@ -258,18 +270,6 @@
         "lua",
         "math",
         "php"
-      ],
-      "score": "",
-      "comments": "",
-      "author": ""
-    },
-    {
-      "rank": 11,
-      "title": "Calm technologies that excite me",
-      "url": "https://abhi.now/blog/calm-technologies/",
-      "source_url": "https://abhi.now/blog/calm-technologies/",
-      "tags": [
-        "hardware"
       ],
       "score": "",
       "comments": "",
@@ -357,17 +357,17 @@
     },
     {
       "rank": 5,
-      "title": "聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情",
-      "url": "https://sspai.com/bullet/1783932697",
-      "author": "一派讨论",
-      "summary": "聊聊你在各购物平台独占的「固定回购清单」？"
-    },
-    {
-      "rank": 6,
       "title": "角落新声｜我的上帝模式，一名设计师创作环境的演变CG艺术实验室昨天 10:04",
       "url": "https://sspai.com/post/112109",
       "author": "CG艺术实验室",
       "summary": "角落新声｜我的上帝模式，一名设计师创作环境的演变"
+    },
+    {
+      "rank": 6,
+      "title": "聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1783932697",
+      "author": "一派讨论",
+      "summary": "聊聊你在各购物平台独占的「固定回购清单」？"
     },
     {
       "rank": 7,
