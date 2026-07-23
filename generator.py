@@ -249,6 +249,7 @@ TAB_JS = r"""
 (function() {
     'use strict';
     var tabs = document.querySelectorAll('.view-tab');
+    var sourceIndex = document.getElementById('source-index');
     tabs.forEach(function(tab) {
         tab.addEventListener('click', function() {
             var target = this.dataset.view;
@@ -256,6 +257,7 @@ TAB_JS = r"""
             this.classList.add('active');
             document.getElementById('view-ai').style.display = target === 'ai' ? '' : 'none';
             document.getElementById('view-raw').style.display = target === 'raw' ? '' : 'none';
+            if (sourceIndex) sourceIndex.style.display = target === 'ai' ? '' : 'none';
         });
     });
 })();
@@ -521,7 +523,7 @@ $ai_cards_html
 $raw_cards_html
 </div>
 
-    <div class="source-index" id="source-index">
+    <div class="source-index" id="source-index" style="$source_index_display">
         <h2>&#9114; 溯源索引</h2>
 $sources_by_group_html
     </div>
@@ -634,6 +636,7 @@ def generate_daily_page(data: dict, ai_summary: dict | None, date_str: str) -> s
         )
         ai_display = ""
         raw_display = "display:none;"
+        source_index_display = ""
         # 溯源索引用原始数据（编号与 AI 引用一致）
         sources_for_index = raw_sources
     else:
@@ -642,6 +645,7 @@ def generate_daily_page(data: dict, ai_summary: dict | None, date_str: str) -> s
         tabs_html = ""
         ai_display = "display:none;"
         raw_display = ""
+        source_index_display = "display:none;"
         sources_for_index = raw_sources
 
     # 构建溯源索引（按来源分组）
@@ -698,6 +702,7 @@ def generate_daily_page(data: dict, ai_summary: dict | None, date_str: str) -> s
         raw_cards_html=raw_cards,
         ai_display=ai_display,
         raw_display=raw_display,
+        source_index_display=source_index_display,
         sources_by_group_html=sources_html,
         color_classes=_generate_color_classes(),
         particle_js=PARTICLE_JS,

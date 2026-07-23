@@ -254,36 +254,22 @@ body {
     <header class="header">
         <div class="header-badge">&#10022; 晴空 &middot; 每日信号</div>
         <h1>Daily Hot Digest</h1>
-        <div class="sub">2026 年 7 月 23 日 · 星期四 &nbsp;&middot;&nbsp; <em>72 条内容</em></div>
+        <div class="sub">2026 年 7 月 23 日 · 星期四 &nbsp;&middot;&nbsp; <em>87 条内容</em></div>
         <div class="stats-row">
             <span class="stat-item"><span class="num" data-target="6">0</span><span class="label">信息源</span></span>
-            <span class="stat-item"><span class="num" data-target="2">0</span><span class="label">分类</span></span>
-            <span class="stat-item"><span class="num" data-target="72">0</span><span class="label">条目</span></span>
+            <span class="stat-item"><span class="num" data-target="6">0</span><span class="label">分类</span></span>
+            <span class="stat-item"><span class="num" data-target="87">0</span><span class="label">条目</span></span>
         </div>
         <a class="nav-link" href="index.html">&larr; 查看所有日期</a>
     </header>
 
-<div class="view-tabs"><div class="view-tab active" data-view="ai">AI 简报</div><div class="view-tab" data-view="raw">信息源</div></div>
 
-<div id="view-ai" style="">
-  <div class="card">
-    <div class="card-header">
-      <span class="dot dot-ai"></span>
-      <span class="title"><span class="highlight-ai">AI & 开发工具</span></span>
-    </div>
-    <p>今天 GitHub 上最火的项目是 worldmonitor<span class="cite"><a href="#src1">[1]</a></span>，一个 AI 实时全球新闻监控工具。</p><p>Lobsters 社区讨论了 LLM 对开源生态的影响<span class="cite"><a href="#src2">[2]</a></span>。</p>
-  </div>
-  <div class="card">
-    <div class="card-header">
-      <span class="dot dot-sys"></span>
-      <span class="title"><span class="highlight-sys">社区讨论</span></span>
-    </div>
-    <p>微博热搜上“滔搜暴力打折甩卖耐克库存”<span class="cite"><a href="#src10">[10]</a></span>引发热议。知乎上关于 GPT-5.6 的讨论<span class="cite"><a href="#src11">[11]</a></span>也很火。Hacker News 上关于 git 新特性的讨论<span class="cite"><a href="#src20">[20]</a></span>很有意思。</p>
-  </div>
+
+<div id="view-ai" style="display:none;">
 
 </div>
 
-<div id="view-raw" style="display:none;">
+<div id="view-raw" style="">
   <div class="card">
     <div class="card-header">
       <span class="dot dot-dev"></span>
@@ -422,7 +408,7 @@ body {
 
 </div>
 
-    <div class="source-index" id="source-index">
+    <div class="source-index" id="source-index" style="display:none;">
         <h2>&#9114; 溯源索引</h2>
     <div class="source-group">
       <div class="source-group-title">GitHub Trending</div>
@@ -737,6 +723,7 @@ body {
 (function() {
     'use strict';
     var tabs = document.querySelectorAll('.view-tab');
+    var sourceIndex = document.getElementById('source-index');
     tabs.forEach(function(tab) {
         tab.addEventListener('click', function() {
             var target = this.dataset.view;
@@ -744,6 +731,7 @@ body {
             this.classList.add('active');
             document.getElementById('view-ai').style.display = target === 'ai' ? '' : 'none';
             document.getElementById('view-raw').style.display = target === 'raw' ? '' : 'none';
+            if (sourceIndex) sourceIndex.style.display = target === 'ai' ? '' : 'none';
         });
     });
 })();
