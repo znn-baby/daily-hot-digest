@@ -641,10 +641,11 @@ body {
             var imgAspect = bgImage.naturalWidth / bgImage.naturalHeight;
             var canvasAspect = W / H;
             var drawW, drawH, offsetX, offsetY;
+            // Cover 模式：图片铺满画布，裁剪多余部分
             if (imgAspect > canvasAspect) {
-                drawW = W; drawH = W / imgAspect; offsetX = 0; offsetY = (H - drawH) / 2;
-            } else {
                 drawH = H; drawW = H * imgAspect; offsetX = (W - drawW) / 2; offsetY = 0;
+            } else {
+                drawW = W; drawH = W / imgAspect; offsetX = 0; offsetY = (H - drawH) / 2;
             }
             ctx.drawImage(bgImage, offsetX, offsetY, drawW, drawH);
         } else {
