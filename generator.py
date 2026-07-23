@@ -245,6 +245,22 @@ COUNTER_JS = r"""
 })();
 """
 
+TAB_JS = r"""
+(function() {
+    'use strict';
+    var tabs = document.querySelectorAll('.view-tab');
+    tabs.forEach(function(tab) {
+        tab.addEventListener('click', function() {
+            var target = this.dataset.view;
+            tabs.forEach(function(t) { t.classList.remove('active'); });
+            this.classList.add('active');
+            document.getElementById('view-ai').style.display = target === 'ai' ? '' : 'none';
+            document.getElementById('view-raw').style.display = target === 'raw' ? '' : 'none';
+        });
+    });
+})();
+"""
+
 
 # ============================================================
 # HTML 模板 — 数据宇宙主题
@@ -424,6 +440,23 @@ body {
 .source-list li a:hover { color: var(--text-primary); }
 .source-list li .desc { color: var(--text-muted); font-size: 12px; font-weight: 400; }
 
+/* === Tab 切换 === */
+.view-tabs {
+    display: flex; justify-content: center; gap: 8px; margin: 24px 0 28px;
+}
+.view-tab {
+    padding: 8px 24px; border-radius: 100px; font-size: 13px; font-weight: 600;
+    cursor: pointer; border: 1px solid rgba(255,255,255,0.3);
+    background: rgba(255,255,255,0.25); backdrop-filter: blur(8px);
+    color: var(--text-muted); transition: all 0.3s ease; letter-spacing: 0.3px;
+    user-select: none;
+}
+.view-tab:hover { background: rgba(255,255,255,0.4); color: var(--text-secondary); }
+.view-tab.active {
+    background: rgba(255,255,255,0.65); color: var(--text-primary);
+    border-color: rgba(255,255,255,0.5); box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+}
+
 /* === Footer === */
 .footer {
     text-align: center; margin-top: 40px; font-size: 12px; color: var(--text-muted);
@@ -478,7 +511,15 @@ $color_classes
         <a class="nav-link" href="index.html">&larr; 查看所有日期</a>
     </header>
 
-$categories_html
+$tabs_html
+
+<div id="view-ai" style="$ai_display">
+$ai_cards_html
+</div>
+
+<div id="view-raw" style="$raw_display">
+$raw_cards_html
+</div>
 
     <div class="source-index" id="source-index">
         <h2>&#9114; 溯源索引</h2>
@@ -493,6 +534,7 @@ $sources_by_group_html
 <script>
 $particle_js
 $counter_js
+$tab_js
 </script>
 </body>
 </html>"""
@@ -581,9 +623,87 @@ def generate_daily_page(data: dict, ai_summary: dict | None, date_str: str) -> s
     date_str: 日期字符串 YYYY-MM-DD
     """
     if ai_summary:
-        return _generate_from_ai_summary(ai_summary, date_str, data)
+        ai_cards, ai_sources, stats = _build_ai_cards(ai_summary)
+        raw_cards, raw_sources = _build_raw_data_cards(data)
+        # Tab 按钮
+        tabs_html = (
+            '<div class="view-tabs">'
+            '<div class="view-tab active" data-view="ai">AI 简报</div>'
+            '<div class="view-tab" data-view="raw">信息源</div>'
+            '</div>'
+        )
+        ai_display = ""
+        raw_display = "display:none;"
+        # 溯源索引用原始数据（编号与 AI 引用一致）
+        sources_for_index = raw_sources
     else:
-        return _generate_from_raw_data(data, date_str)
+        raw_cards, raw_sources = _build_raw_data_cards(data)
+        ai_cards = ""
+        tabs_html = ""
+        ai_display = "display:none;"
+        raw_display = ""
+        sources_for_index = raw_sources
+
+    # 构建溯源索引（按来源分组）
+    sources_by_source = {}
+    for src in sources_for_index:
+        sn = src["source"]
+        if sn not in sources_by_source:
+            sources_by_source[sn] = []
+        sources_by_source[sn].append(src)
+
+    sources_html = ""
+    for sn, items in sources_by_source.items():
+        color_key = _make_source_color_class(sn)
+        sources_html += f"""    <div class="source-group">
+      <div class="source-group-title">{sn}</div>
+      <ul class="source-list">
+"""
+        for item in items:
+            sources_html += (
+                f'        <li id="src{item["num"]}">'
+                f'<span class="num num-{color_key}">{item["num"]}</span>'
+                f'<a href="{item["url"]}" target="_blank">{item["title"]}</a> '
+                f'<span class="desc">— {item["desc"]}</span></li>\n'
+            )
+        sources_html += "      </ul>\n    </div>\n"
+
+    # 统计
+    if ai_summary:
+        source_count = len(sources_by_source)
+        category_count = len(ai_summary.get("categories", []))
+        item_count = ai_summary.get("stats", {}).get("total_items", len(sources_for_index))
+    else:
+        source_count = len(sources_by_source)
+        card_count = sum(1 for v in [
+            data.get("github_trending", []),
+            data.get("lobsters", []),
+            data.get("sspai", []),
+            data.get("weibo", []),
+            data.get("zhihu", []),
+            data.get("hackernews", []),
+        ] if v)
+        category_count = card_count
+        item_count = len(raw_sources)
+
+    return _render_template(
+        HTML_TEMPLATE,
+        date=date_str,
+        date_display=_format_date(date_str),
+        source_count=source_count,
+        category_count=category_count,
+        item_count=item_count,
+        tabs_html=tabs_html,
+        ai_cards_html=ai_cards,
+        raw_cards_html=raw_cards,
+        ai_display=ai_display,
+        raw_display=raw_display,
+        sources_by_group_html=sources_html,
+        color_classes=_generate_color_classes(),
+        particle_js=PARTICLE_JS,
+        counter_js=COUNTER_JS,
+        tab_js=TAB_JS,
+    )
 
 
 def _format_date(date_str: str) -> str:
@@ -604,8 +724,8 @@ def _make_source_color_class(source_name: str) -> str:
     return "opinion"
 
 
-def _generate_from_ai_summary(ai_summary: dict, date_str: str, raw_data: dict) -> str:
-    """使用 AI 摘要生成页面（段落叙述模式）"""
+def _build_ai_cards(ai_summary: dict) -> tuple:
+    """使用 AI 摘要生成卡片 HTML，返回 (cards_html, sources_list, stats_dict)"""
     categories = ai_summary.get("categories", [])
     sources = ai_summary.get("sources", [])
     stats = ai_summary.get("stats", {})
@@ -625,19 +745,16 @@ def _generate_from_ai_summary(ai_summary: dict, date_str: str, raw_data: dict) -
         summary_html = re.sub(r'\[v?(\d+)\]', replace_cite, summary)
 
         # 自动在 GitHub 项目过渡到社区讨论的地方分段
-        # 检测 "Lobsters"、"少数派"、"社区" 等关键词前的位置插入换行
         split_patterns = [
             r'(?=Lobsters)',
             r'(?=少数派)',
             r'(?=社区\s*(?:今天|上|里|的))',
-            r'(?=\n)',  # 保留模型自己加的换行
+            r'(?=\n)',
         ]
         for pattern in split_patterns:
             summary_html = re.sub(pattern, '\n', summary_html)
-        # 清理多余空行
         summary_html = re.sub(r'\n{2,}', '\n', summary_html).strip()
 
-        # 按换行符拆分为多个段落
         paragraphs = summary_html.split('\n')
         paragraphs_html = ''.join(f'<p>{p.strip()}</p>' for p in paragraphs if p.strip())
 
@@ -650,49 +767,11 @@ def _generate_from_ai_summary(ai_summary: dict, date_str: str, raw_data: dict) -
   </div>
 """
 
-    # 生成溯源索引（全局按编号排序）
-    sources_sorted = sorted(sources, key=lambda x: x.get("num", 0))
-
-    sources_html = """    <div class="source-group">
-      <ul class="source-list">
-"""
-    for item in sources_sorted:
-        num = item.get("num", 0)
-        title = item.get("title", "")
-        url = item.get("url", "#")
-        desc = item.get("desc", "")
-        source_name = item.get("source", "")
-        color_key = _make_source_color_class(source_name)
-        sources_html += (
-            f'        <li id="src{num}">'
-            f'<span class="num num-{color_key}">{num}</span>'
-            f'<a href="{url}" target="_blank">{title}</a> '
-            f'<span class="desc">— {desc}</span></li>\n'
-        )
-    sources_html += "      </ul>\n    </div>\n"
-
-    # 统计
-    source_count = len(sources)
-    category_count = len(categories)
-    item_count = stats.get("total_items", len(sources))
-
-    return _render_template(
-        HTML_TEMPLATE,
-        date=date_str,
-        date_display=_format_date(date_str),
-        source_count=source_count,
-        category_count=category_count,
-        item_count=item_count,
-        categories_html=categories_html,
-        sources_by_group_html=sources_html,
-        color_classes=_generate_color_classes(),
-        particle_js=PARTICLE_JS,
-        counter_js=COUNTER_JS,
-    )
+    return categories_html, sources, stats
 
 
-def _generate_from_raw_data(data: dict, date_str: str) -> str:
-    """无 AI 摘要时，直接用原始数据生成页面"""
+def _build_raw_data_cards(data: dict) -> tuple:
+    """用原始数据生成卡片 HTML，返回 (cards_html, all_sources)"""
     categories_html = ""
     source_num = 0
     all_sources = []
@@ -704,7 +783,6 @@ def _generate_from_raw_data(data: dict, date_str: str) -> str:
         for item in gh_items:
             source_num += 1
             title = item["title"].replace(" / ", "/")
-            # 提取 repo 名称 (owner/repo 格式)
             repo_name = title.split(" - ")[0].split(" / ")[0] if " - " in title else title.split(" / ")[0]
             stars = item.get("stars", "")
             stars_display = ""
@@ -880,53 +958,7 @@ def _generate_from_raw_data(data: dict, date_str: str) -> str:
   </div>
 """
 
-    # 溯源索引（按来源分组）
-    sources_by_source = {}
-    for src in all_sources:
-        sn = src["source"]
-        if sn not in sources_by_source:
-            sources_by_source[sn] = []
-        sources_by_source[sn].append(src)
-
-    sources_html = ""
-    for sn, items in sources_by_source.items():
-        color_key = _make_source_color_class(sn)
-        sources_html += f"""    <div class="source-group">
-      <div class="source-group-title">{sn}</div>
-      <ul class="source-list">
-"""
-        for item in items:
-            sources_html += (
-                f'        <li id="src{item["num"]}">'
-                f'<span class="num num-{color_key}">{item["num"]}</span>'
-                f'<a href="{item["url"]}" target="_blank">{item["title"]}</a> '
-                f'<span class="desc">— {item["desc"]}</span></li>\n'
-            )
-        sources_html += "      </ul>\n    </div>\n"
-
-    # 计算实际卡片数
-    card_count = sum(1 for v in [
-        data.get("github_trending", []),
-        data.get("lobsters", []),
-        data.get("sspai", []),
-        data.get("weibo", []),
-        data.get("zhihu", []),
-        data.get("hackernews", []),
-    ] if v)
-
-    return _render_template(
-        HTML_TEMPLATE,
-        date=date_str,
-        date_display=_format_date(date_str),
-        source_count=len(sources_by_source),
-        category_count=card_count,
-        item_count=len(all_sources),
-        categories_html=categories_html,
-        sources_by_group_html=sources_html,
-        color_classes=_generate_color_classes(),
-        particle_js=PARTICLE_JS,
-        counter_js=COUNTER_JS,
-    )
+    return categories_html, all_sources
 
 
 def generate_index_page(site_dir: str) -> str:
