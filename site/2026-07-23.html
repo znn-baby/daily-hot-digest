@@ -237,11 +237,11 @@ body {
     <header class="header">
         <div class="header-badge">&#10022; 晴空 &middot; 每日信号</div>
         <h1>Daily Hot Digest</h1>
-        <div class="sub">2026 年 7 月 23 日 · 星期四 &nbsp;&middot;&nbsp; <em>17 条内容</em></div>
+        <div class="sub">2026 年 7 月 23 日 · 星期四 &nbsp;&middot;&nbsp; <em>15 条内容</em></div>
         <div class="stats-row">
-            <span class="stat-item"><span class="num" data-target="17">0</span><span class="label">信息源</span></span>
+            <span class="stat-item"><span class="num" data-target="15">0</span><span class="label">信息源</span></span>
             <span class="stat-item"><span class="num" data-target="4">0</span><span class="label">分类</span></span>
-            <span class="stat-item"><span class="num" data-target="17">0</span><span class="label">条目</span></span>
+            <span class="stat-item"><span class="num" data-target="15">0</span><span class="label">条目</span></span>
         </div>
         <a class="nav-link" href="index.html">&larr; 查看所有日期</a>
     </header>
@@ -249,30 +249,30 @@ body {
   <div class="card">
     <div class="card-header">
       <span class="dot dot-ai"></span>
-      <span class="title"><span class="highlight-ai">AI 智能体与开发效率</span></span>
+      <span class="title"><span class="highlight-ai">AI 智能体与开发效能</span></span>
     </div>
-    <p>今天的 GitHub Trending 被 AI 智能体包场了。koala73 / worldmonitor<span class="cite"><a href="#src1">[1]</a></span> 这个用 AI 做实时全球情报监控的项目，界面看着就很硬核，已经拿了 66,000+ star，搞国际研究的朋友绝对得看看。还有那个 ajghri / i-have-adhd<span class="cite"><a href="#src2">[2]</a></span>，听着就让人会心一笑，它是给 Coding Agent 加的“多动症”补丁，防止 AI 写代码时把重点给漏了，这种让 AI 更像个正常人的技能确实有趣。diegosouzapw / OmniRoute<span class="cite"><a href="#src3">[3]</a></span> 也是个宝藏，号称免费 MIT AI 网关，聚合了 278+ 个提供商，278+ 个模型，能自动根据配额 fallback，这种一站式解决模型调用痛点的工具太实用了。</p><p>Lobsters 上有个讨论挺让人后背发凉的，有人在问如何保护 FLOSS 开源社区不受 LLM 的侵蚀[v1]。这确实是个大问题，如果 AI 把开源代码全给扒了去训练，那些维护者岂不是成了“数字佃农”？另外</p><p>少数派有一篇关于 Parti 的文章[v2]，聊这个零门槛联机游戏平台凭什么不需要服务器，这种去中心化的思路在当下网络环境下显得尤为珍贵，值得琢磨一下。</p>
+    <p>今天的 GitHub Trending 里，AI 编程工具又卷起来了。像 ai-engineering-from-scratch<span class="cite"><a href="#src1">[1]</a></span> 这种从零开始学工程的教程，star 数已经破万，适合想系统搞懂 AI 底层逻辑的朋友。还有像 code-review-graph<span class="cite"><a href="#src2">[2]</a></span> 这种本地优先的代码情报图，专门给 AI 工具看，能大幅减少上下文噪音，搞开发的人应该试试。</p><p>Lobsters 上有人把 FLOSS 开源社区比作公共草地，担心 LLM 会像羊吃草一样把代码啃得乱七八糟，这个观点挺扎心的<span class="cite"><a href="#src3">[3]</a></span>。至于</p><p>少数派那篇关于 Unity 7 引擎发布的早报，虽然只是资讯，但也侧面反映了引擎迭代对开发流程的影响，值得关注一下<span class="cite"><a href="#src4">[4]</a></span>。</p>
   </div>
   <div class="card">
     <div class="card-header">
-      <span class="dot dot-linux"></span>
-      <span class="title"><span class="highlight-linux">系统与底层技术</span></span>
+      <span class="dot dot-system"></span>
+      <span class="title"><span class="highlight-system">系统与底层安全漏洞</span></span>
     </div>
-    <p>系统安全这块今天动静不小。GitHub 上有个 dreamhunter2333 / cloudflare_temp_email<span class="cite"><a href="#src4">[4]</a></span>，能利用 CloudFlare 免费域名收发临时邮件，支持附件和 TelegramBot 对接，搞渗透测试或者需要临时匿名邮箱的朋友应该会很喜欢，这种“灰产工具”性质的东西有时候也挺好使。</p><p>不过</p><p>Lobsters 上的安全新闻更严肃，LG 决定禁止智能家居 TV 应用使用住宅代理[v3]，这是为了隐私安全，但可能会影响一些代理用户的体验。更严重的是那个 RefluXFS 漏洞[v4]，一个 Linux 内核本地提权漏洞，能直接 root，搞安全的朋友必须立刻去修复 XFS 相关系统。还有 PyPI 宣布 14 天后发布的新文件将被拒绝[v5]，这招是为了防止恶意软件在发布后通过修改文件来感染用户，算是社区自我保护的一种机制。</p>
+    <p>搞安全的朋友今天必须划重点。</p><p>Lobsters 上有个 CVE-2026-64600<span class="cite"><a href="#src5">[5]</a></span>，说是 Linux 内核 XFS 文件系统有个本地提权漏洞，能直接拿到 Root，这可是大事儿。另外 PyPI 发布新规，超过 14 天的文件会被直接拒收，这对依赖旧版本库的脚本党来说是个不小变动<span class="cite"><a href="#src6">[6]</a></span>。</p><p>少数派里有篇《装上 Fedora 的 Surface Pro》<span class="cite"><a href="#src7">[7]</a></span>，老设备跑新系统确实让人兴奋，不过考虑到上面的漏洞，如果你用老设备做涉密或关键业务，可能还是得先打补丁再折腾新系统。</p>
   </div>
   <div class="card">
     <div class="card-header">
-      <span class="dot dot-productivity"></span>
-      <span class="title"><span class="highlight-productivity">数码产品与效率工具</span></span>
+      <span class="dot dot-product"></span>
+      <span class="title"><span class="highlight-product">数码产品与效率工具</span></span>
     </div>
-    <p>数码产品方面，</p><p>少数派今天报道了三星多款折叠屏新品和索尼 FX5 电影摄影机的发布[v6]，看来影像设备还是在持续迭代。另外有一篇关于滤镜背后色彩科学的文章[v7]，科普了 LUT 是什么，从手机滤镜到电影调色，原来那些好看的风格背后都有严谨的色彩规则，看完感觉以后用滤镜得更有脑子了。</p><p>效率工具这块，GitHub 上的 schollz / croc<span class="cite"><a href="#src5">[5]</a></span> 是个很实用的跨电脑传输工具，安全又简单，不用传文件包，直接丢一个链接就能传东西，特别适合本地网络环境。还有 likec4 / likec4<span class="cite"><a href="#src6">[6]</a></span>，能让你的软件架构图实时随代码变化，这对于架构师来说简直是救命稻草，再也不用对着过期的架构图干瞪眼了。</p>
+    <p>数码圈今天动静不小。三星出了几款折叠屏，索尼 FX5 电影摄影机也发布了，派早报里提得挺多<span class="cite"><a href="#src8">[8]</a></span>。还有那个零门槛联机游戏平台 Parti<span class="cite"><a href="#src9">[9]</a></span>，居然不需要服务器也能联机，这种 P2P 架构思路很有意思。</p><p>效率方面，GitHub 上的 croc<span class="cite"><a href="#src10">[10]</a></span> 虽然是个老项目，但用来跨电脑安全传文件依然经典，特别是断网环境下。另外 voicebox<span class="cite"><a href="#src11">[11]</a></span> 这个开源 AI 语音工作室，能克隆声音、口述创作，感觉以后做内容创作的人都要被它卷哭了。</p>
   </div>
   <div class="card">
     <div class="card-header">
       <span class="dot dot-thought"></span>
       <span class="title"><span class="highlight-thought">思考与观点</span></span>
     </div>
-    <p>今天的社区讨论还挺有深度的。</p><p>Lobsters 上有人发文探讨“为什么还要关心编程语言”[v8]，在这个 AI 写代码越来越普遍的今天，底层语言的差异和特性真的还重要吗？我觉得挺有意思的，虽然 AI 能写，但理解语言背后的设计哲学才能造出更好的 AI。</p><p>还有那个 John C. Dvorak 去世的消息[v9]，这位著名的科技评论家虽然常被吐槽，但他的视角确实独特。另外有一篇关于“你的分析数据在骗你”的文章[v10]，提醒大家在用各种 Web 分析工具时别盲目相信数据，数据造假和误读的情况太多了。最后是 SIMD 用于碰撞检测的技术文章[v11]，展示了底层性能优化的魅力，这种硬核技术追求也值得点赞。</p>
+    <p>今天看</p><p>Lobsters 上有个帖子讨论为什么程序员还在乎编程语言<span class="cite"><a href="#src12">[12]</a></span>，虽然有点“老生常谈”，但在 AI 能写代码的今天，语言本身的语义和生态确实还是绕不开的话题。还有人吐槽 Reddit 现在把纯 HTML 也视为不安全，真是有点过度防护了<span class="cite"><a href="#src13">[13]</a></span>。</p><p>少数派里有一篇关于 LUT 色彩科学的文章<span class="cite"><a href="#src14">[14]</a></span>，讲滤镜背后的原理，虽然偏设计，但能看出技术对美学的渗透越来越深。最后别忘了 John C. Dvorak 去世的消息<span class="cite"><a href="#src15">[15]</a></span>，这位曾经的科技评论员，他的离去也算是一个时代的谢幕吧。</p>
   </div>
 
 
@@ -280,23 +280,21 @@ body {
         <h2>&#9114; 溯源索引</h2>
     <div class="source-group">
       <ul class="source-list">
-        <li id="src1"><span class="num num-sys">1</span><a href="https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html" target="_blank">Protecting our FLOSS commons from LLMs</a> <span class="desc">— 关于保护开源社区免受大语言模型影响的讨论</span></li>
-        <li id="src2"><span class="num num-gadget">2</span><a href="https://sspai.com/post/112545" target="_blank">Parti：一个零门槛联机游戏平台</a> <span class="desc">— 探讨无需服务器的联机游戏实现原理</span></li>
-        <li id="src3"><span class="num num-sys">3</span><a href="https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/" target="_blank">LG to Ban Residential Proxies from Smart TV Apps</a> <span class="desc">— LG 禁止智能电视应用使用住宅代理的安全新闻</span></li>
-        <li id="src4"><span class="num num-sys">4</span><a href="https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600" target="_blank">RefluXFS: A Linux Kernel Local Privilege Escalation to Root</a> <span class="desc">— Linux XFS 内核本地提权漏洞详情</span></li>
-        <li id="src5"><span class="num num-sys">5</span><a href="https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/" target="_blank">PyPI releases now reject new files after 14 days</a> <span class="desc">— PyPI 为防恶意软件修改发布的新文件策略</span></li>
-        <li id="src6"><span class="num num-gadget">6</span><a href="https://sspai.com/post/112647" target="_blank">派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等</a> <span class="desc">— 三星和索尼最新硬件产品发布资讯</span></li>
-        <li id="src7"><span class="num num-gadget">7</span><a href="https://sspai.com/post/111550" target="_blank">滤镜背后的色彩科学：LUT 是什么？</a> <span class="desc">— 科普滤镜背后的色彩科学与 LUT 规则</span></li>
-        <li id="src8"><span class="num num-sys">8</span><a href="https://ebellani.github.io/blog/2026/why-care-about-programming-languages/" target="_blank">Why care about programming languages</a> <span class="desc">— 探讨在大模型时代编程语言的重要性</span></li>
-        <li id="src9"><span class="num num-sys">9</span><a href="http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html" target="_blank">John C. Dvorak has died</a> <span class="desc">— 著名科技评论家 John C. Dvorak 逝世消息</span></li>
-        <li id="src10"><span class="num num-sys">10</span><a href="https://ankursethi.com/blog/your-analytics-are-lying-to-you/" target="_blank">Your analytics are lying to you</a> <span class="desc">— 分析数据可能存在误导性的观点文章</span></li>
-        <li id="src11"><span class="num num-sys">11</span><a href="https://box2d.org/posts/2026/07/simd-for-collision/" target="_blank">SIMD for Collision</a> <span class="desc">— 关于使用 SIMD 优化碰撞检测的技术文章</span></li>
-        <li id="src12"><span class="num num-dev">12</span><a href="https://github.com/koala73/worldmonitor" target="_blank">koala73 / worldmonitor</a> <span class="desc">— 实时全球情报监控仪表盘项目</span></li>
-        <li id="src13"><span class="num num-dev">13</span><a href="https://github.com/ayghri/i-have-adhd" target="_blank">ayghri / i-have-adhd</a> <span class="desc">— 让 AI 编程助手输出更专注、结构化的技能</span></li>
-        <li id="src14"><span class="num num-dev">14</span><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">diegosouzapw / OmniRoute</a> <span class="desc">— 聚合 278+ 提供商的免费 AI 模型网关</span></li>
-        <li id="src15"><span class="num num-dev">15</span><a href="https://github.com/dreamhunter2333/cloudflare_temp_email" target="_blank">dreamhunter2333 / cloudflare_temp_email</a> <span class="desc">— 基于 CloudFlare 免费域名的临时邮箱工具</span></li>
-        <li id="src16"><span class="num num-dev">16</span><a href="https://github.com/schollz/croc" target="_blank">schollz / croc</a> <span class="desc">— 安全的跨电脑文件传输工具</span></li>
-        <li id="src17"><span class="num num-dev">17</span><a href="https://github.com/likec4/likec4" target="_blank">likec4 / likec4</a> <span class="desc">— 基于代码的实时软件架构可视化工具</span></li>
+        <li id="src1"><span class="num num-dev">1</span><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">ai-engineering-from-scratch</a> <span class="desc">— GitHub Trending 热门项目</span></li>
+        <li id="src2"><span class="num num-dev">2</span><a href="https://github.com/tirth8205/code-review-graph" target="_blank">code-review-graph</a> <span class="desc">— GitHub Trending 热门项目</span></li>
+        <li id="src3"><span class="num num-sys">3</span><a href="https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html" target="_blank">Protecting our FLOSS commons from LLMs</a> <span class="desc">— Lobsters 热门讨论</span></li>
+        <li id="src4"><span class="num num-gadget">4</span><a href="https://sspai.com/post/112647" target="_blank">派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等</a> <span class="desc">— 少数派热门文章</span></li>
+        <li id="src5"><span class="num num-sys">5</span><a href="https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600" target="_blank">RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS</a> <span class="desc">— Lobsters 热门讨论</span></li>
+        <li id="src6"><span class="num num-sys">6</span><a href="https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/" target="_blank">PyPI releases now reject new files after 14 days</a> <span class="desc">— Lobsters 热门讨论</span></li>
+        <li id="src7"><span class="num num-gadget">7</span><a href="https://sspai.com/post/112200" target="_blank">装上 Fedora 的 Surface Pro：一台老设备的新可能</a> <span class="desc">— 少数派热门文章</span></li>
+        <li id="src8"><span class="num num-gadget">8</span><a href="https://sspai.com/post/112647" target="_blank">派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等</a> <span class="desc">— 少数派热门文章</span></li>
+        <li id="src9"><span class="num num-gadget">9</span><a href="https://sspai.com/post/112545" target="_blank">Parti：一个零门槛联机游戏平台，凭什么不需要服务器？</a> <span class="desc">— 少数派热门文章</span></li>
+        <li id="src10"><span class="num num-dev">10</span><a href="https://github.com/schollz/croc" target="_blank">croc</a> <span class="desc">— GitHub Trending 热门项目</span></li>
+        <li id="src11"><span class="num num-dev">11</span><a href="https://github.com/jamiepine/voicebox" target="_blank">voicebox</a> <span class="desc">— GitHub Trending 热门项目</span></li>
+        <li id="src12"><span class="num num-sys">12</span><a href="https://ebellani.github.io/blog/2026/why-care-about-programming-languages/" target="_blank">Why care about programming languages</a> <span class="desc">— Lobsters 热门讨论</span></li>
+        <li id="src13"><span class="num num-sys">13</span><a href="https://www.cole-k.com/2026/07/21/reddit/" target="_blank">So Reddit has decided that plain HTML is unsafe</a> <span class="desc">— Lobsters 热门讨论</span></li>
+        <li id="src14"><span class="num num-gadget">14</span><a href="https://sspai.com/post/111550" target="_blank">滤镜背后的色彩科学：LUT 是什么？</a> <span class="desc">— 少数派热门文章</span></li>
+        <li id="src15"><span class="num num-sys">15</span><a href="http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html" target="_blank">John C. Dvorak has died</a> <span class="desc">— Lobsters 热门讨论</span></li>
       </ul>
     </div>
 
