@@ -23,6 +23,11 @@ SOURCE_COLOR_MAP = {
     "GitHub Trending": "dev",
     "Lobsters": "sys",
     "少数派": "gadget",
+    "微博": "opinion",
+    "微博热搜": "opinion",
+    "知乎": "opinion",
+    "知乎热榜": "opinion",
+    "Hacker News": "dev",
 }
 
 
@@ -788,6 +793,93 @@ def _generate_from_raw_data(data: dict, date_str: str) -> str:
   </div>
 """
 
+    # 微博热搜
+    weibo_items = data.get("weibo", [])
+    if weibo_items:
+        weibo_list = ""
+        for item in weibo_items:
+            source_num += 1
+            label = item.get("label", "")
+            label_html = f' <span style="background:#ff8200;color:#fff;padding:0 6px;border-radius:3px;font-size:11px;font-weight:600;">{label}</span>' if label else ""
+            hot = item.get("hot_value", 0)
+            hot_html = f' <span style="color:var(--text-muted);font-size:12px;">{hot:,}</span>' if hot else ""
+            weibo_list += (
+                f'<li style="margin-bottom:6px;">'
+                f'<a href="{item["url"]}" target="_blank" '
+                f'style="color:var(--text-secondary);text-decoration:none;font-weight:500;">'
+                f'{item["title"]}</a>{label_html}{hot_html}</li>\n'
+            )
+            all_sources.append({
+                "num": source_num, "title": item["title"], "url": item["url"],
+                "source": "微博热搜", "desc": f"热度 {item.get('hot_value', 0):,}" if item.get("hot_value") else ""
+            })
+        categories_html += f"""  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-opinion"></span>
+      <span class="title"><span class="highlight-opinion">微博</span>热搜</span>
+      <span class="count-badge">{len(weibo_items)} topics</span>
+    </div>
+    <ul style="list-style:none;padding:0;">{weibo_list}</ul>
+  </div>
+"""
+
+    # 知乎热榜
+    zhihu_items = data.get("zhihu", [])
+    if zhihu_items:
+        zhihu_list = ""
+        for item in zhihu_items:
+            source_num += 1
+            excerpt = item.get("excerpt", "")
+            excerpt_html = f'<div style="font-size:12px;color:var(--text-muted);margin-top:2px;">{excerpt}</div>' if excerpt else ""
+            zhihu_list += (
+                f'<li style="margin-bottom:8px;">'
+                f'<a href="{item["url"]}" target="_blank" '
+                f'style="color:var(--text-secondary);text-decoration:none;font-weight:500;">'
+                f'{item["title"]}</a>{excerpt_html}</li>\n'
+            )
+            all_sources.append({
+                "num": source_num, "title": item["title"], "url": item["url"],
+                "source": "知乎热榜", "desc": item.get("hot_value", "")
+            })
+        categories_html += f"""  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-opinion"></span>
+      <span class="title"><span class="highlight-opinion">知乎</span>热榜</span>
+      <span class="count-badge">{len(zhihu_items)} topics</span>
+    </div>
+    <ul style="list-style:none;padding:0;">{zhihu_list}</ul>
+  </div>
+"""
+
+    # Hacker News
+    hn_items = data.get("hackernews", [])
+    if hn_items:
+        hn_list = ""
+        for item in hn_items:
+            source_num += 1
+            score = item.get("score", 0)
+            comments = item.get("comments", 0)
+            meta = f' <span style="color:var(--text-muted);font-size:12px;">{score} pts · {comments} comments</span>'
+            hn_list += (
+                f'<li style="margin-bottom:6px;">'
+                f'<a href="{item["url"]}" target="_blank" '
+                f'style="color:var(--text-secondary);text-decoration:none;font-weight:500;">'
+                f'{item["title"]}</a>{meta}</li>\n'
+            )
+            all_sources.append({
+                "num": source_num, "title": item["title"], "url": item["url"],
+                "source": "Hacker News", "desc": f"{score} pts"
+            })
+        categories_html += f"""  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-dev"></span>
+      <span class="title"><span class="highlight-dev">Hacker</span> News</span>
+      <span class="count-badge">{len(hn_items)} stories</span>
+    </div>
+    <ul style="list-style:none;padding:0;">{hn_list}</ul>
+  </div>
+"""
+
     # 溯源索引（按来源分组）
     sources_by_source = {}
     for src in all_sources:
@@ -812,12 +904,22 @@ def _generate_from_raw_data(data: dict, date_str: str) -> str:
             )
         sources_html += "      </ul>\n    </div>\n"
 
+    # 计算实际卡片数
+    card_count = sum(1 for v in [
+        data.get("github_trending", []),
+        data.get("lobsters", []),
+        data.get("sspai", []),
+        data.get("weibo", []),
+        data.get("zhihu", []),
+        data.get("hackernews", []),
+    ] if v)
+
     return _render_template(
         HTML_TEMPLATE,
         date=date_str,
         date_display=_format_date(date_str),
         source_count=len(sources_by_source),
-        category_count=3 if categories_html else 0,
+        category_count=card_count,
         item_count=len(all_sources),
         categories_html=categories_html,
         sources_by_group_html=sources_html,

@@ -22,7 +22,10 @@ DATA_DIR = os.path.join(ROOT_DIR, "data")
 
 sys.path.insert(0, ROOT_DIR)
 
-from scrapers import scrape_github_trending, scrape_lobsters, scrape_sspai
+from scrapers import (
+    scrape_github_trending, scrape_lobsters, scrape_sspai,
+    scrape_weibo, scrape_zhihu, scrape_hackernews,
+)
 from summarizer import summarize_with_ai
 from generator import generate_daily_page, generate_index_page
 
@@ -44,6 +47,9 @@ def run_scrapers() -> dict:
         "github_trending": scrape_github_trending(),
         "lobsters": scrape_lobsters(),
         "sspai": scrape_sspai(),
+        "weibo": scrape_weibo(),
+        "zhihu": scrape_zhihu(),
+        "hackernews": scrape_hackernews(),
     }
 
     total = sum(len(v) for v in data.values())
