@@ -674,10 +674,11 @@ def _generate_from_raw_data(data: dict, date_str: str) -> str:
                     stars_display = format(int(stars), ",")
                 except (ValueError, TypeError):
                     stars_display = stars
+            stars_span = f'<span class="gh-stars">{stars_display}</span>' if stars_display else ""
             gh_tags += (
                 f'<a class="gh-item" href="{item["url"]}" target="_blank">'
                 f'{title}'
-                f'{"<span class=\"gh-stars\">" + stars_display + "</span>" if stars_display else ""}'
+                f'{stars_span}'
                 f'</a>\n'
             )
             all_sources.append({
