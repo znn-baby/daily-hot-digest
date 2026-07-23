@@ -254,22 +254,50 @@ body {
     <header class="header">
         <div class="header-badge">&#10022; 晴空 &middot; 每日信号</div>
         <h1>Daily Hot Digest</h1>
-        <div class="sub">2026 年 7 月 23 日 · 星期四 &nbsp;&middot;&nbsp; <em>87 条内容</em></div>
+        <div class="sub">2026 年 7 月 23 日 · 星期四 &nbsp;&middot;&nbsp; <em>17 条内容</em></div>
         <div class="stats-row">
             <span class="stat-item"><span class="num" data-target="6">0</span><span class="label">信息源</span></span>
-            <span class="stat-item"><span class="num" data-target="6">0</span><span class="label">分类</span></span>
-            <span class="stat-item"><span class="num" data-target="87">0</span><span class="label">条目</span></span>
+            <span class="stat-item"><span class="num" data-target="4">0</span><span class="label">分类</span></span>
+            <span class="stat-item"><span class="num" data-target="17">0</span><span class="label">条目</span></span>
         </div>
         <a class="nav-link" href="index.html">&larr; 查看所有日期</a>
     </header>
 
+<div class="view-tabs"><div class="view-tab active" data-view="ai">AI 简报</div><div class="view-tab" data-view="raw">信息源</div></div>
 
-
-<div id="view-ai" style="display:none;">
+<div id="view-ai" style="">
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-ai"></span>
+      <span class="title"><span class="highlight-ai">AI 智能体与开发范式</span></span>
+    </div>
+    <p>今天 GitHub 上 AI Agent 相关的动静可不少。worldmonitor<span class="cite"><a href="#src1">[1]</a></span> 用 AI 做实时全球情报监控与地缘政治追踪，已经拿了 66,000+ star，搞国际关系研究的朋友或者对实时情报感兴趣的人可以看看。ai-agent-book<span class="cite"><a href="#src2">[2]</a></span> 是李博杰写的智能体设计开源书，配套完整代码，想系统入门的话这本不错。diegosouzapw/OmniRoute<span class="cite"><a href="#src9">[9]</a></span> 这个项目也很有意思，号称一个 Endpoint 就能调用 278+ 个提供商的模型，还内置了自动降级和 Token 压缩，对于需要在不同大模型间无缝切换的开发者来说简直是福音。</p>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-sys"></span>
+      <span class="title"><span class="highlight-sys">系统与底层安全</span></span>
+    </div>
+    <p>底层技术这块儿有点硬核。</p><p>Lobsters 上有一篇关于 RefluXFS 的帖子 <span class="cite"><a href="#src16">[16]</a></span>，说是一个 Linux 内核本地提权漏洞，搞安全的朋友必看。另外 LG 宣布要禁止在智能电视应用中使用住宅代理 <span class="cite"><a href="#src11">[11]</a></span>，这事挺有意思的，感觉是厂商在收紧对 TV 端数据抓取和隐私保护的控制。还有 PyPI 发布新机制，14 天后拒绝新文件 <span class="cite"><a href="#src10">[10]</a></span>，这对依赖 PyPI 的 Python 开发者来说是个挺重要的部署流程变更。</p>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-tools"></span>
+      <span class="title"><span class="highlight-tools">数码产品与效率工具</span></span>
+    </div>
+    <p>数码圈今天动静挺大，</p><p>少数派报道了三星发布多款折叠屏新品和索尼 FX5 电影摄影机 <span class="cite"><a href="#src25">[25]</a></span>，还有 DJI Pocket 4P 的漫谈 <span class="cite"><a href="#src1">[1]</a></span>，感觉折叠屏和手持云台这波升级挺猛的。效率工具方面，ruvnet/RuView<span class="cite"><a href="#src3">[3]</a></span> 利用 commodity WiFi 信号做无视频的生命体征监测，这思路很清奇，不需要摄像头就能感知空间状态。另外 Pip 26.2 更新解决了困扰 16 年的部署 hack 问题 <span class="cite"><a href="#src24">[24]</a></span>，对于部署 Python 应用的老手来说，这绝对是省心的大更新。</p>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-thought"></span>
+      <span class="title"><span class="highlight-thought">编程文化与思考</span></span>
+    </div>
+    <p>今天</p><p>Lobsters 上的讨论挺有深度，有人发帖问"Why care about programming languages" <span class="cite"><a href="#src2">[2]</a></span>，探讨编程语言的意义；还有人吐槽 Reddit 把纯 HTML 判为不安全 <span class="cite"><a href="#src4">[4]</a></span>，这种对 Web 标准边界的过度防御确实让人头大。</p><p>少数派上也有关于色彩科学的讨论 <span class="cite"><a href="#src7">[7]</a></span>，聊 LUT 在滤镜背后的原理，还有关于“角落新声”里设计师创作环境的演变 <span class="cite"><a href="#src8">[8]</a></span>，都是些能让人静下心思考的好内容。</p>
+  </div>
 
 </div>
 
-<div id="view-raw" style="">
+<div id="view-raw" style="display:none;">
   <div class="card">
     <div class="card-header">
       <span class="dot dot-dev"></span>
@@ -408,7 +436,7 @@ body {
 
 </div>
 
-    <div class="source-index" id="source-index" style="display:none;">
+    <div class="source-index" id="source-index" style="">
         <h2>&#9114; 溯源索引</h2>
     <div class="source-group">
       <div class="source-group-title">GitHub Trending</div>
