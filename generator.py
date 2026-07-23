@@ -612,12 +612,12 @@ def _generate_from_ai_summary(ai_summary: dict, date_str: str, raw_data: dict) -
         name = cat.get("name", "未分类")
         summary = cat.get("summary", "")
 
-        # 将 [N] 转换为带链接的上标引用
+        # 将 [N] 或 [vN] 转换为带链接的上标引用
         def replace_cite(match):
             num = match.group(1)
             return f'<span class="cite"><a href="#src{num}">[{num}]</a></span>'
 
-        summary_html = re.sub(r'\[(\d+)\]', replace_cite, summary)
+        summary_html = re.sub(r'\[v?(\d+)\]', replace_cite, summary)
 
         # 自动在 GitHub 项目过渡到社区讨论的地方分段
         # 检测 "Lobsters"、"少数派"、"社区" 等关键词前的位置插入换行
