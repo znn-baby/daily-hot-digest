@@ -254,80 +254,22 @@ body {
     <header class="header">
         <div class="header-badge">&#10022; 晴空 &middot; 每日信号</div>
         <h1>Daily Hot Digest</h1>
-        <div class="sub">2026 年 7 月 23 日 · 星期四 &nbsp;&middot;&nbsp; <em>22 条内容</em></div>
+        <div class="sub">2026 年 7 月 23 日 · 星期四 &nbsp;&middot;&nbsp; <em>71 条内容</em></div>
         <div class="stats-row">
-            <span class="stat-item"><span class="num" data-target="6">0</span><span class="label">信息源</span></span>
+            <span class="stat-item"><span class="num" data-target="5">0</span><span class="label">信息源</span></span>
             <span class="stat-item"><span class="num" data-target="5">0</span><span class="label">分类</span></span>
-            <span class="stat-item"><span class="num" data-target="22">0</span><span class="label">条目</span></span>
+            <span class="stat-item"><span class="num" data-target="71">0</span><span class="label">条目</span></span>
         </div>
         <a class="nav-link" href="index.html">&larr; 查看所有日期</a>
     </header>
 
-<div class="view-tabs"><div class="view-tab active" data-view="ai">AI 简报</div><div class="view-tab" data-view="raw">信息源</div></div>
 
-<div id="view-ai" style="">
-  <div class="card">
-    <div class="card-header">
-      <span class="dot dot-ai"></span>
-      <span class="title"><span class="highlight-ai">AI 智能体与工作流</span></span>
-    </div>
-    <p>今天的 GitHub Trending 被 AI 智能体和工作流工具霸屏了。首先是 diegosouzapw/OmniRoute<span class="cite"><a href="#src1">[1]</a></span>，一个号称"Never stop coding"的开源 AI 网关，整合了 278+ 提供商、500+ 模型，支持 Kimi、Claude、GPT 等主流模型，还支持 MCP/A2A 协议，这种聚合思路对搞开发的朋友太友好了。还有 agegr/pi-web<span class="cite"><a href="#src2">[2]</a></span>，这是给 pi 编程代理写的 Web UI，配合 ayghri/i-have-adhd<span class="cite"><a href="#src3">[3]</a></span> 这个技能一起用，据说能解决 AI 写代码容易"ADHD"、答案越写越偏的问题，让 AI 输出更专注。至于 jamiepine/voicebox<span class="cite"><a href="#src4">[4]</a></span>，作为一个开源的 AI 录音室，能克隆声音、口述创作，功能挺花哨的，玩语音助手的可以试试。</p><p>Lobsters 上关于 AI 安全的讨论简直炸锅了，有人发帖讨论如何保护开源社区代码库不被 LLM 随意抓取训练 <span class="cite"><a href="#src5">[5]</a></span>，这确实是个大问题，毕竟开源是大家的。</p><p>少数派那边也晒了不少新玩法，比如 Link25 分享的 Parti<span class="cite"><a href="#src6">[6]</a></span>，一个零门槛联机游戏平台居然不需要服务器，这种架构设计思路很有意思，可能是某种 P2P 或者去中心化技术的新应用，值得关注。</p>
-  </div>
-  <div class="card">
-    <div class="card-header">
-      <span class="dot dot-security"></span>
-      <span class="title"><span class="highlight-security">系统与底层安全</span></span>
-    </div>
-    <p>搞安全的朋友今天必须看</p><p>Lobsters 上的几条。首先是 LG 要禁止智能电视应用使用住宅代理 <span class="cite"><a href="#src7">[7]</a></span>，这招挺狠，看来巨头们开始收紧 IoT 设备的安全口子了。更严重的是 RefluXFS<span class="cite"><a href="#src8">[8]</a></span>，这是一个 Linux 内核本地提权漏洞，能直接升级到 Root，CVE-2026-64600，Linux 内核维护者赶紧去修吧。另外 PyPI 发布库现在限制文件有效期为 14 天 <span class="cite"><a href="#src9">[9]</a></span>，这显然是为了打击恶意上传和临时漏洞利用，Python 生态的安全治理又上了一层楼。</p><p>少数派的数码内容里，Cyanrel 分享了让 Windows 顺眼又省心的新设备配置经验 <span class="cite"><a href="#src10">[10]</a></span>，虽然偏实用，但能看出系统调优依然是个技术活。还有 StephenFang 在 Surface Pro 上装上 Fedora 的尝试 <span class="cite"><a href="#src11">[11]</a></span>，老设备焕发新生也是老生常谈但常看常新的话题，Linux 在消费级硬件上的渗透力确实越来越强了。</p>
-  </div>
-  <div class="card">
-    <div class="card-header">
-      <span class="dot dot-dev"></span>
-      <span class="title"><span class="highlight-dev">开发工具与架构</span></span>
-    </div>
-    <p>开发工具这块今天有两个亮点。GitHub 上的 likec4/likec4<span class="cite"><a href="#src12">[12]</a></span> 是个可视化架构管理工具，能从代码自动生成交互图，还能团队协作，对于大型项目维护者来说简直是救命稻草。还有 tirth8205/code-review-graph<span class="cite"><a href="#src13">[13]</a></span>，专注于代码审查的本地优先图谱，能让 AI 工具只读取必要的上下文，减少大仓库审查时的 Token 消耗，这种"按需读取"的思路很符合现在的降本增效趋势。</p><p>Lobsters 上有个挺有意思的帖子，Reddit 居然决定把纯 HTML 标记为不安全 <span class="cite"><a href="#src14">[14]</a></span>，这背后可能是对某些注入攻击的防御，但肯定会引起前端开发者的反弹。</p><p>少数派那边，Nnnobel 写了关于 LUT 色彩科学的深度文章 <span class="cite"><a href="#src15">[15]</a></span>，虽然属于设计领域，但背后涉及的色彩空间转换和算法逻辑，其实和信号处理、图像处理这些底层技术是相通的，技术人的审美也需要提升嘛。</p>
-  </div>
-  <div class="card">
-    <div class="card-header">
-      <span class="dot dot-hardware"></span>
-      <span class="title"><span class="highlight-hardware">硬件与效率工具</span></span>
-    </div>
-    <p>数码产品方面，</p><p>少数派今天有两篇硬货。Microhoo 聊了 DJI Pocket 4P<span class="cite"><a href="#src16">[16]</a></span>，小小云台也能拍出电影感，看来硬件迭代对创作门槛的降低是实打实的。还有 Trimly<span class="cite"><a href="#src17">[17]</a></span>，把"从长视频截取片段"做到极致，这种针对特定场景的提效工具，往往比大而全的软件更受开发者欢迎。</p><p>GitHub 上还有个 RuView<span class="cite"><a href="#src18">[18]</a></span>，利用 WiFi 信号做空间智能感知，不需要摄像头就能监测生命体征和人员存在，这种无感监测技术在智能家居或安防领域潜力巨大。另外 dreamhunter2333/cloudflare_temp_email<span class="cite"><a href="#src19">[19]</a></span> 提供了基于 CloudFlare 的免费临时邮箱服务，支持附件收发，对于测试账号管理这种"灰色地带"需求，算是提供了一个合法的替代方案，搞测试的朋友可以用起来。</p>
-  </div>
-  <div class="card">
-    <div class="card-header">
-      <span class="dot dot-thought"></span>
-      <span class="title"><span class="highlight-thought">思考与观点</span></span>
-    </div>
-    <p>今天看了一条关于编程语言意义的思考文章 <span class="cite"><a href="#src20">[20]</a></span>，作者认为在 AI 时代，语言本身的价值在重构，这引发了社区不少讨论。其实我们在用 AI 写代码时，往往忽略了语言特性中那些无法被模型完美复现的"手感"和生态默契。</p><p>少侠派</p><p>社区里，Matrix 机器人发起了关于购物平台"固定回购清单"的讨论 <span class="cite"><a href="#src21">[21]</a></span>，虽然看似闲聊，但反映了用户习惯如何被平台算法塑造。还有关于"角落新声"的讨论 <span class="cite"><a href="#src22">[22]</a></span>，关注设计师创作环境的演变，其实也是技术工具如何辅助人类创造力的体现。这些非技术的讨论，往往能让我们跳出代码，重新审视技术存在的意义。</p>
-  </div>
+
+<div id="view-ai" style="display:none;">
 
 </div>
 
-<div id="view-raw" style="display:none;">
-  <div class="card">
-    <div class="card-header">
-      <span class="dot dot-dev"></span>
-      <span class="title"><span class="highlight-dev">GitHub</span> Trending</span>
-      <span class="count-badge">15 repos</span>
-    </div>
-    <p><a class="gh-item" href="https://github.com/koala73/worldmonitor" target="_blank">koala73/worldmonitor<span class="gh-stars" data-repo="koala73/worldmonitor">70,158</span></a>
-<a class="gh-item" href="https://github.com/ruvnet/RuView" target="_blank">ruvnet/RuView<span class="gh-stars" data-repo="ruvnet/RuView">84,427</span></a>
-<a class="gh-item" href="https://github.com/ayghri/i-have-adhd" target="_blank">ayghri/i-have-adhd<span class="gh-stars" data-repo="ayghri/i-have-adhd">8,771</span></a>
-<a class="gh-item" href="https://github.com/schollz/croc" target="_blank">schollz/croc<span class="gh-stars" data-repo="schollz/croc">37,971</span></a>
-<a class="gh-item" href="https://github.com/likec4/likec4" target="_blank">likec4/likec4<span class="gh-stars" data-repo="likec4/likec4">4,476</span></a>
-<a class="gh-item" href="https://github.com/chrislgarry/Apollo-11" target="_blank">chrislgarry/Apollo-11<span class="gh-stars" data-repo="chrislgarry/Apollo-11">70,805</span></a>
-<a class="gh-item" href="https://github.com/jamiepine/voicebox" target="_blank">jamiepine/voicebox<span class="gh-stars" data-repo="jamiepine/voicebox">46,063</span></a>
-<a class="gh-item" href="https://github.com/diegosouzapw/OmniRoute" target="_blank">diegosouzapw/OmniRoute<span class="gh-stars" data-repo="diegosouzapw/OmniRoute">26,012</span></a>
-<a class="gh-item" href="https://github.com/shiyu-coder/Kronos" target="_blank">shiyu-coder/Kronos<span class="gh-stars" data-repo="shiyu-coder/Kronos">32,763</span></a>
-<a class="gh-item" href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">ComposioHQ/awesome-claude-skills<span class="gh-stars" data-repo="ComposioHQ/awesome-claude-skills">69,050</span></a>
-<a class="gh-item" href="https://github.com/oblien/openship" target="_blank">oblien/openship<span class="gh-stars" data-repo="oblien/openship">7,581</span></a>
-<a class="gh-item" href="https://github.com/agegr/pi-web" target="_blank">agegr/pi-web<span class="gh-stars" data-repo="agegr/pi-web">2,192</span></a>
-<a class="gh-item" href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">rohitg00/ai-engineering-from-scratch<span class="gh-stars" data-repo="rohitg00/ai-engineering-from-scratch">42,618</span></a>
-<a class="gh-item" href="https://github.com/tirth8205/code-review-graph" target="_blank">tirth8205/code-review-graph<span class="gh-stars" data-repo="tirth8205/code-review-graph">25,599</span></a>
-<a class="gh-item" href="https://github.com/dreamhunter2333/cloudflare_temp_email" target="_blank">dreamhunter2333/cloudflare_temp_email<span class="gh-stars" data-repo="dreamhunter2333/cloudflare_temp_email">10,930</span></a>
-</p>
-  </div>
+<div id="view-raw" style="">
   <div class="card">
     <div class="card-header">
       <span class="dot dot-sys"></span>
@@ -336,16 +278,16 @@ body {
     </div>
     <ul style="list-style:none;padding:0;"><li style="margin-bottom:6px;"><a href="https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Protecting our FLOSS commons from LLMs</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">vibecoding</span></li>
 <li style="margin-bottom:6px;"><a href="https://ebellani.github.io/blog/2026/why-care-about-programming-languages/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Why care about programming languages</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">programming</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">vibecoding</span></li>
-<li style="margin-bottom:6px;"><a href="https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">I Inspected My Take-Home Interview Project. It Was a Whole Operation</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">security</span></li>
-<li style="margin-bottom:6px;"><a href="http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">John C. Dvorak has died</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">person</span></li>
 <li style="margin-bottom:6px;"><a href="https://www.cole-k.com/2026/07/21/reddit/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">So Reddit has decided that plain HTML is unsafe</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">rant</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">web</span></li>
+<li style="margin-bottom:6px;"><a href="http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">John C. Dvorak has died</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">person</span></li>
+<li style="margin-bottom:6px;"><a href="https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">I Inspected My Take-Home Interview Project. It Was a Whole Operation</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">security</span></li>
 <li style="margin-bottom:6px;"><a href="https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">LG to Ban Residential Proxies from Smart TV Apps</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">security</span></li>
-<li style="margin-bottom:6px;"><a href="https://abhi.now/blog/calm-technologies/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Calm technologies that excite me</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">hardware</span></li>
 <li style="margin-bottom:6px;"><a href="https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">PyPI releases now reject new files after 14 days</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">python</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">security</span></li>
+<li style="margin-bottom:6px;"><a href="https://abhi.now/blog/calm-technologies/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Calm technologies that excite me</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">hardware</span></li>
 <li style="margin-bottom:6px;"><a href="https://box2d.org/posts/2026/07/simd-for-collision/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">SIMD for Collision</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">performance</span></li>
-<li style="margin-bottom:6px;"><a href="https://ankursethi.com/blog/your-analytics-are-lying-to-you/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Your analytics are lying to you</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">web</span></li>
 <li style="margin-bottom:6px;"><a href="https://www.marginalia.nu/log/a_138_systemdocker/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Unranked, systemd, crawls</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">linux</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">systemd</span></li>
 <li style="margin-bottom:6px;"><a href="https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">log is non-monotonic in PHP and Lua</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">lua</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">math</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">php</span></li>
+<li style="margin-bottom:6px;"><a href="https://ankursethi.com/blog/your-analytics-are-lying-to-you/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Your analytics are lying to you</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">web</span></li>
 <li style="margin-bottom:6px;"><a href="https://tokio.rs/blog/2026-07-22-announcing-topcoat" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Announcing Topcoat: a framework for building full-stack reactive web apps with Rust</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">rust</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">vibecoding</span></li>
 <li style="margin-bottom:6px;"><a href="https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">linux</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">security</span></li>
 <li style="margin-bottom:6px;"><a href="https://jamesoclaire.com/2026/07/23/pip-26-2-only-deps-solves-16-years-of-app-deployment-hacks/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Pip 26.2: –only-deps solves 16 years of app deployment hacks</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">python</span></li>
@@ -401,11 +343,11 @@ body {
     </div>
     <ul style="list-style:none;padding:0;"><li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2063229032708284873" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">如何评价 GPT-5.6 为了在跑分上作弊，自主挖掘零日漏洞从沙盒逃逸，然后把 Hugging Face 黑了</a></li>
 <li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2060313146192143108" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">为什么祁同伟和高启强并不讨人厌，反而侯亮平和安欣会让人反感呢</a></li>
-<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2063532260934907357" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」</a></li>
 <li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2062701004857119643" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">游客阻止高山兀鹫吃马尸引争议，这种行为反映了人们对生态的哪些误解</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2063532260934907357" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」</a></li>
 <li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2062888665026765743" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">中方紧急召见菲驻华大使提出严正交涉，这背后有哪些深层原因</a></li>
-<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2062640157015249755" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">月之暗面 Kimi K3 发布后，Anthropic 为何成外网主要吐槽对象</a></li>
 <li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2062787306789003681" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">为什么现在大部分人都在网上买东西，实体店静静悄悄</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2062640157015249755" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">月之暗面 Kimi K3 发布后，Anthropic 为何成外网主要吐槽对象</a></li>
 <li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2062506148696216910" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">快递站老板称答应朋友让孩子到店劳动实践，却遭举报雇童工被罚五千元，如何看待该处理方式？老板被罚冤不冤</a></li>
 <li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2050507183931012504" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">为什么英国参加世界杯不叫英国队，而叫英格兰</a></li>
 <li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2063258715155686223" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">苹果拟推出设备租赁计划，iPhone 可租用 24 个月，月付租机的模式可行吗？你会考虑租苹果设备吗</a></li>
@@ -422,142 +364,122 @@ body {
       <span class="title"><span class="highlight-dev">Hacker</span> News</span>
       <span class="count-badge">15 stories</span>
     </div>
-    <ul style="list-style:none;padding:0;"><li style="margin-bottom:6px;"><a href="https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot</a> <span style="color:var(--text-muted);font-size:12px;">46 pts · 7 comments</span></li>
-<li style="margin-bottom:6px;"><a href="https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample</a> <span style="color:var(--text-muted);font-size:12px;">856 pts · 495 comments</span></li>
-<li style="margin-bottom:6px;"><a href="https://nesbitt.io/2026/07/21/end-of-options.html" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">git's –end-of-options Flag</a> <span style="color:var(--text-muted);font-size:12px;">135 pts · 68 comments</span></li>
-<li style="margin-bottom:6px;"><a href="https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Cruller: Bun's Zig Runtime, Continued on Zig 0.16</a> <span style="color:var(--text-muted);font-size:12px;">38 pts · 12 comments</span></li>
-<li style="margin-bottom:6px;"><a href="https://resobscura.substack.com/p/quality-non-fiction-books-are-the" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Quality non-fiction books are the antithesis of AI slop</a> <span style="color:var(--text-muted);font-size:12px;">348 pts · 116 comments</span></li>
-<li style="margin-bottom:6px;"><a href="https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">ANSI escape injection in MCP servers: Hidden from humans, visible to AI</a> <span style="color:var(--text-muted);font-size:12px;">9 pts · 1 comments</span></li>
-<li style="margin-bottom:6px;"><a href="https://github.com/marcelroed/gigatoken/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">GigaToken: ~1000x faster Language model tokenization</a> <span style="color:var(--text-muted);font-size:12px;">496 pts · 99 comments</span></li>
-<li style="margin-bottom:6px;"><a href="https://bento.page/slides/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)</a> <span style="color:var(--text-muted);font-size:12px;">818 pts · 178 comments</span></li>
-<li style="margin-bottom:6px;"><a href="https://mitchellh.com/writing/everyone-should-know-simd" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Everyone should know SIMD</a> <span style="color:var(--text-muted);font-size:12px;">413 pts · 151 comments</span></li>
-<li style="margin-bottom:6px;"><a href="https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Amiga 1000: Ten years ahead of its time</a> <span style="color:var(--text-muted);font-size:12px;">65 pts · 34 comments</span></li>
-<li style="margin-bottom:6px;"><a href="https://dylancastillo.co/posts/pelicanmaxxing.html" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Are AI labs pelicanmaxxing?</a> <span style="color:var(--text-muted);font-size:12px;">520 pts · 200 comments</span></li>
-<li style="margin-bottom:6px;"><a href="https://www.cole-k.com/2026/07/21/reddit/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">So Reddit has decided that plain HTML is unsafe</a> <span style="color:var(--text-muted);font-size:12px;">447 pts · 445 comments</span></li>
-<li style="margin-bottom:6px;"><a href="https://ssenthilnathan3.github.io/blog/malloc/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Why malloc always does more than I asked for?</a> <span style="color:var(--text-muted);font-size:12px;">29 pts · 20 comments</span></li>
-<li style="margin-bottom:6px;"><a href="https://alexyang.dev/vim-ascii-art/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Making ASCII Art in Vim</a> <span style="color:var(--text-muted);font-size:12px;">61 pts · 6 comments</span></li>
-<li style="margin-bottom:6px;"><a href="https://github.com/cactus-compute/cactus-hybrid" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong</a> <span style="color:var(--text-muted);font-size:12px;">129 pts · 24 comments</span></li>
+    <ul style="list-style:none;padding:0;"><li style="margin-bottom:6px;"><a href="https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot</a> <span style="color:var(--text-muted);font-size:12px;">31 pts · 0 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://nesbitt.io/2026/07/21/end-of-options.html" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">git's –end-of-options Flag</a> <span style="color:var(--text-muted);font-size:12px;">128 pts · 58 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample</a> <span style="color:var(--text-muted);font-size:12px;">840 pts · 485 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Cruller: Bun's Zig Runtime, Continued on Zig 0.16</a> <span style="color:var(--text-muted);font-size:12px;">29 pts · 5 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://resobscura.substack.com/p/quality-non-fiction-books-are-the" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Quality non-fiction books are the antithesis of AI slop</a> <span style="color:var(--text-muted);font-size:12px;">332 pts · 111 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://github.com/marcelroed/gigatoken/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">GigaToken: ~1000x faster Language model tokenization</a> <span style="color:var(--text-muted);font-size:12px;">485 pts · 96 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://bento.page/slides/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)</a> <span style="color:var(--text-muted);font-size:12px;">806 pts · 177 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Amiga 1000: Ten years ahead of its time</a> <span style="color:var(--text-muted);font-size:12px;">56 pts · 29 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://mitchellh.com/writing/everyone-should-know-simd" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Everyone should know SIMD</a> <span style="color:var(--text-muted);font-size:12px;">403 pts · 147 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">ANSI escape injection in MCP servers: Hidden from humans, visible to AI</a> <span style="color:var(--text-muted);font-size:12px;">6 pts · 0 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://dylancastillo.co/posts/pelicanmaxxing.html" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Are AI labs pelicanmaxxing?</a> <span style="color:var(--text-muted);font-size:12px;">509 pts · 196 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://alexyang.dev/vim-ascii-art/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Making ASCII Art in Vim</a> <span style="color:var(--text-muted);font-size:12px;">58 pts · 5 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://www.cole-k.com/2026/07/21/reddit/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">So Reddit has decided that plain HTML is unsafe</a> <span style="color:var(--text-muted);font-size:12px;">439 pts · 415 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://github.com/cactus-compute/cactus-hybrid" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong</a> <span style="color:var(--text-muted);font-size:12px;">128 pts · 22 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://beej.us/blog/data/ai-making/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Making</a> <span style="color:var(--text-muted);font-size:12px;">348 pts · 139 comments</span></li>
 </ul>
   </div>
 
 </div>
 
-    <div class="source-index" id="source-index" style="">
+    <div class="source-index" id="source-index" style="display:none;">
         <h2>&#9114; 溯源索引</h2>
-    <div class="source-group">
-      <div class="source-group-title">GitHub Trending</div>
-      <ul class="source-list">
-        <li id="src1"><span class="num num-dev">1</span><a href="https://github.com/koala73/worldmonitor" target="_blank">koala73/worldmonitor</a> <span class="desc">— Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface</span></li>
-        <li id="src2"><span class="num num-dev">2</span><a href="https://github.com/ruvnet/RuView" target="_blank">ruvnet/RuView</a> <span class="desc">— π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</span></li>
-        <li id="src3"><span class="num num-dev">3</span><a href="https://github.com/ayghri/i-have-adhd" target="_blank">ayghri/i-have-adhd</a> <span class="desc">— A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.</span></li>
-        <li id="src4"><span class="num num-dev">4</span><a href="https://github.com/schollz/croc" target="_blank">schollz/croc</a> <span class="desc">— Easily and securely send things from one computer to another 🐊 📦</span></li>
-        <li id="src5"><span class="num num-dev">5</span><a href="https://github.com/likec4/likec4" target="_blank">likec4/likec4</a> <span class="desc">— Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code</span></li>
-        <li id="src6"><span class="num num-dev">6</span><a href="https://github.com/chrislgarry/Apollo-11" target="_blank">chrislgarry/Apollo-11</a> <span class="desc">— Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.</span></li>
-        <li id="src7"><span class="num num-dev">7</span><a href="https://github.com/jamiepine/voicebox" target="_blank">jamiepine/voicebox</a> <span class="desc">— The open-source AI voice studio. Clone, dictate, create.</span></li>
-        <li id="src8"><span class="num num-dev">8</span><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">diegosouzapw/OmniRoute</a> <span class="desc">— Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors</span></li>
-        <li id="src9"><span class="num num-dev">9</span><a href="https://github.com/shiyu-coder/Kronos" target="_blank">shiyu-coder/Kronos</a> <span class="desc">— Kronos: A Foundation Model for the Language of Financial Markets</span></li>
-        <li id="src10"><span class="num num-dev">10</span><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">ComposioHQ/awesome-claude-skills</a> <span class="desc">— A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows</span></li>
-        <li id="src11"><span class="num num-dev">11</span><a href="https://github.com/oblien/openship" target="_blank">oblien/openship</a> <span class="desc">— Self-hosted deployment platform</span></li>
-        <li id="src12"><span class="num num-dev">12</span><a href="https://github.com/agegr/pi-web" target="_blank">agegr/pi-web</a> <span class="desc">— Web UI for the pi coding agent</span></li>
-        <li id="src13"><span class="num num-dev">13</span><a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">rohitg00/ai-engineering-from-scratch</a> <span class="desc">— Learn it. Build it. Ship it for others.</span></li>
-        <li id="src14"><span class="num num-dev">14</span><a href="https://github.com/tirth8205/code-review-graph" target="_blank">tirth8205/code-review-graph</a> <span class="desc">— Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.</span></li>
-        <li id="src15"><span class="num num-dev">15</span><a href="https://github.com/dreamhunter2333/cloudflare_temp_email" target="_blank">dreamhunter2333/cloudflare_temp_email</a> <span class="desc">— CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot</span></li>
-      </ul>
-    </div>
     <div class="source-group">
       <div class="source-group-title">Lobsters</div>
       <ul class="source-list">
-        <li id="src16"><span class="num num-sys">16</span><a href="https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html" target="_blank">Protecting our FLOSS commons from LLMs</a> <span class="desc">— vibecoding</span></li>
-        <li id="src17"><span class="num num-sys">17</span><a href="https://ebellani.github.io/blog/2026/why-care-about-programming-languages/" target="_blank">Why care about programming languages</a> <span class="desc">— programming, vibecoding</span></li>
-        <li id="src18"><span class="num num-sys">18</span><a href="https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/" target="_blank">I Inspected My Take-Home Interview Project. It Was a Whole Operation</a> <span class="desc">— security</span></li>
-        <li id="src19"><span class="num num-sys">19</span><a href="http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html" target="_blank">John C. Dvorak has died</a> <span class="desc">— person</span></li>
-        <li id="src20"><span class="num num-sys">20</span><a href="https://www.cole-k.com/2026/07/21/reddit/" target="_blank">So Reddit has decided that plain HTML is unsafe</a> <span class="desc">— rant, web</span></li>
-        <li id="src21"><span class="num num-sys">21</span><a href="https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/" target="_blank">LG to Ban Residential Proxies from Smart TV Apps</a> <span class="desc">— security</span></li>
-        <li id="src22"><span class="num num-sys">22</span><a href="https://abhi.now/blog/calm-technologies/" target="_blank">Calm technologies that excite me</a> <span class="desc">— hardware</span></li>
-        <li id="src23"><span class="num num-sys">23</span><a href="https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/" target="_blank">PyPI releases now reject new files after 14 days</a> <span class="desc">— python, security</span></li>
-        <li id="src24"><span class="num num-sys">24</span><a href="https://box2d.org/posts/2026/07/simd-for-collision/" target="_blank">SIMD for Collision</a> <span class="desc">— performance</span></li>
-        <li id="src25"><span class="num num-sys">25</span><a href="https://ankursethi.com/blog/your-analytics-are-lying-to-you/" target="_blank">Your analytics are lying to you</a> <span class="desc">— web</span></li>
-        <li id="src26"><span class="num num-sys">26</span><a href="https://www.marginalia.nu/log/a_138_systemdocker/" target="_blank">Unranked, systemd, crawls</a> <span class="desc">— linux, systemd</span></li>
-        <li id="src27"><span class="num num-sys">27</span><a href="https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/" target="_blank">log is non-monotonic in PHP and Lua</a> <span class="desc">— lua, math, php</span></li>
-        <li id="src28"><span class="num num-sys">28</span><a href="https://tokio.rs/blog/2026-07-22-announcing-topcoat" target="_blank">Announcing Topcoat: a framework for building full-stack reactive web apps with Rust</a> <span class="desc">— rust, vibecoding</span></li>
-        <li id="src29"><span class="num num-sys">29</span><a href="https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600" target="_blank">RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)</a> <span class="desc">— linux, security</span></li>
-        <li id="src30"><span class="num num-sys">30</span><a href="https://jamesoclaire.com/2026/07/23/pip-26-2-only-deps-solves-16-years-of-app-deployment-hacks/" target="_blank">Pip 26.2: –only-deps solves 16 years of app deployment hacks</a> <span class="desc">— python</span></li>
+        <li id="src1"><span class="num num-sys">1</span><a href="https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html" target="_blank">Protecting our FLOSS commons from LLMs</a> <span class="desc">— vibecoding</span></li>
+        <li id="src2"><span class="num num-sys">2</span><a href="https://ebellani.github.io/blog/2026/why-care-about-programming-languages/" target="_blank">Why care about programming languages</a> <span class="desc">— programming, vibecoding</span></li>
+        <li id="src3"><span class="num num-sys">3</span><a href="https://www.cole-k.com/2026/07/21/reddit/" target="_blank">So Reddit has decided that plain HTML is unsafe</a> <span class="desc">— rant, web</span></li>
+        <li id="src4"><span class="num num-sys">4</span><a href="http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html" target="_blank">John C. Dvorak has died</a> <span class="desc">— person</span></li>
+        <li id="src5"><span class="num num-sys">5</span><a href="https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/" target="_blank">I Inspected My Take-Home Interview Project. It Was a Whole Operation</a> <span class="desc">— security</span></li>
+        <li id="src6"><span class="num num-sys">6</span><a href="https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/" target="_blank">LG to Ban Residential Proxies from Smart TV Apps</a> <span class="desc">— security</span></li>
+        <li id="src7"><span class="num num-sys">7</span><a href="https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/" target="_blank">PyPI releases now reject new files after 14 days</a> <span class="desc">— python, security</span></li>
+        <li id="src8"><span class="num num-sys">8</span><a href="https://abhi.now/blog/calm-technologies/" target="_blank">Calm technologies that excite me</a> <span class="desc">— hardware</span></li>
+        <li id="src9"><span class="num num-sys">9</span><a href="https://box2d.org/posts/2026/07/simd-for-collision/" target="_blank">SIMD for Collision</a> <span class="desc">— performance</span></li>
+        <li id="src10"><span class="num num-sys">10</span><a href="https://www.marginalia.nu/log/a_138_systemdocker/" target="_blank">Unranked, systemd, crawls</a> <span class="desc">— linux, systemd</span></li>
+        <li id="src11"><span class="num num-sys">11</span><a href="https://purplesyringa.moe/blog/log-is-non-monotonous-in-php-and-lua/" target="_blank">log is non-monotonic in PHP and Lua</a> <span class="desc">— lua, math, php</span></li>
+        <li id="src12"><span class="num num-sys">12</span><a href="https://ankursethi.com/blog/your-analytics-are-lying-to-you/" target="_blank">Your analytics are lying to you</a> <span class="desc">— web</span></li>
+        <li id="src13"><span class="num num-sys">13</span><a href="https://tokio.rs/blog/2026-07-22-announcing-topcoat" target="_blank">Announcing Topcoat: a framework for building full-stack reactive web apps with Rust</a> <span class="desc">— rust, vibecoding</span></li>
+        <li id="src14"><span class="num num-sys">14</span><a href="https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600" target="_blank">RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)</a> <span class="desc">— linux, security</span></li>
+        <li id="src15"><span class="num num-sys">15</span><a href="https://jamesoclaire.com/2026/07/23/pip-26-2-only-deps-solves-16-years-of-app-deployment-hacks/" target="_blank">Pip 26.2: –only-deps solves 16 years of app deployment hacks</a> <span class="desc">— python</span></li>
       </ul>
     </div>
     <div class="source-group">
       <div class="source-group-title">少数派</div>
       <ul class="source-list">
-        <li id="src31"><span class="num num-gadget">31</span><a href="https://sspai.com/post/112428" target="_blank">小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈Microhoo15:00</a> <span class="desc">— Microhoo</span></li>
-        <li id="src32"><span class="num num-gadget">32</span><a href="https://sspai.com/post/111300" target="_blank">让 Windows 顺眼又省心：我的新设备配置经验Cyanrel10:57Matrix精选</a> <span class="desc">— Cyanrel</span></li>
-        <li id="src33"><span class="num num-gadget">33</span><a href="https://sspai.com/post/112647" target="_blank">派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等少数派编辑部08:50派早报</a> <span class="desc">— 少数派编辑部</span></li>
-        <li id="src34"><span class="num num-gadget">34</span><a href="https://sspai.com/post/112545" target="_blank">Parti：一个零门槛联机游戏平台，凭什么不需要服务器？Link25昨天 17:43</a> <span class="desc">— Link25</span></li>
-        <li id="src35"><span class="num num-gadget">35</span><a href="https://sspai.com/post/111550" target="_blank">滤镜背后的色彩科学：LUT 是什么？从风格滤镜，到电影中的专业调色，聊聊 LUT 所代表的色彩规则。Nnnobel昨天 15:00</a> <span class="desc">— Nnnobel</span></li>
-        <li id="src36"><span class="num num-gadget">36</span><a href="https://sspai.com/post/112109" target="_blank">角落新声｜我的上帝模式，一名设计师创作环境的演变CG艺术实验室昨天 10:04</a> <span class="desc">— CG艺术实验室</span></li>
-        <li id="src37"><span class="num num-gadget">37</span><a href="https://sspai.com/bullet/1783932697" target="_blank">聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情</a> <span class="desc">— 一派讨论</span></li>
-        <li id="src38"><span class="num num-gadget">38</span><a href="https://sspai.com/post/112597" target="_blank">派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等少数派编辑部昨天 08:30派早报</a> <span class="desc">— 少数派编辑部</span></li>
-        <li id="src39"><span class="num num-gadget">39</span><a href="https://sspai.com/post/112582" target="_blank">社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车Matrix机器人前天 17:00</a> <span class="desc">— Matrix机器人</span></li>
-        <li id="src40"><span class="num num-gadget">40</span><a href="https://sspai.com/post/112200" target="_blank">装上 Fedora 的 Surface Pro：一台老设备的新可能StephenFang前天 15:00</a> <span class="desc">— StephenFang</span></li>
-        <li id="src41"><span class="num num-gadget">41</span><a href="https://sspai.com/post/111569" target="_blank">App+1 | 把「从长视频截取片段」做到极致：TrimlyBleaker前天 11:00Matrix精选</a> <span class="desc">— Bleaker</span></li>
+        <li id="src16"><span class="num num-gadget">16</span><a href="https://sspai.com/post/112428" target="_blank">小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈Microhoo15:00</a> <span class="desc">— Microhoo</span></li>
+        <li id="src17"><span class="num num-gadget">17</span><a href="https://sspai.com/post/111300" target="_blank">让 Windows 顺眼又省心：我的新设备配置经验Cyanrel10:57Matrix精选</a> <span class="desc">— Cyanrel</span></li>
+        <li id="src18"><span class="num num-gadget">18</span><a href="https://sspai.com/post/112647" target="_blank">派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等少数派编辑部08:50派早报</a> <span class="desc">— 少数派编辑部</span></li>
+        <li id="src19"><span class="num num-gadget">19</span><a href="https://sspai.com/post/112545" target="_blank">Parti：一个零门槛联机游戏平台，凭什么不需要服务器？Link25昨天 17:43</a> <span class="desc">— Link25</span></li>
+        <li id="src20"><span class="num num-gadget">20</span><a href="https://sspai.com/post/111550" target="_blank">滤镜背后的色彩科学：LUT 是什么？从风格滤镜，到电影中的专业调色，聊聊 LUT 所代表的色彩规则。Nnnobel昨天 15:00</a> <span class="desc">— Nnnobel</span></li>
+        <li id="src21"><span class="num num-gadget">21</span><a href="https://sspai.com/post/112109" target="_blank">角落新声｜我的上帝模式，一名设计师创作环境的演变CG艺术实验室昨天 10:04</a> <span class="desc">— CG艺术实验室</span></li>
+        <li id="src22"><span class="num num-gadget">22</span><a href="https://sspai.com/bullet/1783932697" target="_blank">聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情</a> <span class="desc">— 一派讨论</span></li>
+        <li id="src23"><span class="num num-gadget">23</span><a href="https://sspai.com/post/112597" target="_blank">派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等少数派编辑部昨天 08:30派早报</a> <span class="desc">— 少数派编辑部</span></li>
+        <li id="src24"><span class="num num-gadget">24</span><a href="https://sspai.com/post/112582" target="_blank">社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车Matrix机器人前天 17:00</a> <span class="desc">— Matrix机器人</span></li>
+        <li id="src25"><span class="num num-gadget">25</span><a href="https://sspai.com/post/112200" target="_blank">装上 Fedora 的 Surface Pro：一台老设备的新可能StephenFang前天 15:00</a> <span class="desc">— StephenFang</span></li>
+        <li id="src26"><span class="num num-gadget">26</span><a href="https://sspai.com/post/111569" target="_blank">App+1 | 把「从长视频截取片段」做到极致：TrimlyBleaker前天 11:00Matrix精选</a> <span class="desc">— Bleaker</span></li>
       </ul>
     </div>
     <div class="source-group">
       <div class="source-group-title">微博热搜</div>
       <ul class="source-list">
-        <li id="src42"><span class="num num-opinion">42</span><a href="https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80%E6%9B%B4%E6%8D%A2logo" target="_blank">荣耀更换logo</a> <span class="desc">— 热度 1,020,000</span></li>
-        <li id="src43"><span class="num num-opinion">43</span><a href="https://s.weibo.com/weibo?q=%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E7%9C%8B%E4%B8%AD%E5%9B%BD" target="_blank">开局之年看中国</a> <span class="desc">— 热度 690,000</span></li>
-        <li id="src44"><span class="num num-opinion">44</span><a href="https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%AF%B9%E5%A5%B3%E5%90%8C%E4%BA%8B%E5%BC%80%E9%BB%84%E8%85%94%E8%A2%AB%E6%89%93%E9%81%AD%E5%BC%80%E9%99%A4%E7%A7%B0%E4%B8%8D%E5%85%AC" target="_blank">男子对女同事开黄腔被打遭开除称不公</a> <span class="desc">— 热度 640,000</span></li>
-        <li id="src45"><span class="num num-opinion">45</span><a href="https://s.weibo.com/weibo?q=%E5%A4%A7%E7%88%B7%E6%91%B8%E7%9F%A5%E4%BA%86%E7%8C%B43%E5%B0%8F%E6%97%B6%E8%B5%9A%E8%BF%91400%E5%85%83" target="_blank">大爷摸知了猴3小时赚近400元</a> <span class="desc">— 热度 580,000</span></li>
-        <li id="src46"><span class="num num-opinion">46</span><a href="https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A9%9A%E5%89%8D%E8%B0%88%E8%AF%9D%E5%85%A8%E5%9B%BD%E6%99%AE%E5%8F%8A" target="_blank">建议婚前谈话全国普及</a> <span class="desc">— 热度 580,000</span></li>
-        <li id="src47"><span class="num num-opinion">47</span><a href="https://s.weibo.com/weibo?q=%E9%99%88%E5%A6%8D%E5%B8%8C%E5%A7%90%E5%A7%90%E8%BF%BD%E6%98%9F%E5%BC%A0%E5%87%8C%E8%B5%AB" target="_blank">陈妍希姐姐追星张凌赫</a> <span class="desc">— 热度 520,000</span></li>
-        <li id="src48"><span class="num num-opinion">48</span><a href="https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90AI%E4%BC%AA%E9%80%A0%E7%83%82%E6%B0%B4%E6%9E%9C%E4%BB%85%E9%80%80%E6%AC%BE%E8%BF%9E%E7%B4%AF%E5%85%A8%E5%8E%BF" target="_blank">男子AI伪造烂水果仅退款连累全县</a> <span class="desc">— 热度 520,000</span></li>
-        <li id="src49"><span class="num num-opinion">49</span><a href="https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%9E%E5%BA%941%E6%AF%942%E5%BE%90%E6%B5%B7%E4%B8%9C" target="_blank">王楚钦回应1比2徐海东</a> <span class="desc">— 热度 510,000</span></li>
-        <li id="src50"><span class="num num-opinion">50</span><a href="https://s.weibo.com/weibo?q=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E7%9A%84%E7%BB%93%E5%B1%80%E5%9C%A8%E8%BF%99%E4%B8%80%E5%88%BB%E9%87%8A%E6%80%80%E4%BA%86" target="_blank">爱情公寓的结局在这一刻释怀了</a> <span class="desc">— 热度 400,000</span></li>
-        <li id="src51"><span class="num num-opinion">51</span><a href="https://s.weibo.com/weibo?q=%E8%B0%81%E6%95%A2%E8%AE%A4%E8%BF%99%E6%98%AF%E5%A8%9C%E6%89%8E" target="_blank">谁敢认这是娜扎</a> <span class="desc">— 热度 390,000</span></li>
-        <li id="src52"><span class="num num-opinion">52</span><a href="https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E9%87%8C%E7%9A%84%E5%9D%A0%E8%90%BD" target="_blank">西安赛格商场里的坠落</a> <span class="desc">— 热度 390,000</span></li>
-        <li id="src53"><span class="num num-opinion">53</span><a href="https://s.weibo.com/weibo?q=%E8%B0%A2%E8%B4%A4%E9%81%97%E5%98%B1%E9%99%84%E5%B8%A6%E5%A4%9A%E9%A1%B9%E7%BA%A6%E6%9D%9F%E6%9D%A1%E6%AC%BE" target="_blank">谢贤遗嘱附带多项约束条款</a> <span class="desc">— 热度 390,000</span></li>
-        <li id="src54"><span class="num num-opinion">54</span><a href="https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E5%AF%87%E5%8D%A0%E6%96%87%E8%A2%AB%E6%B3%95%E9%99%A2%E6%82%AC%E8%B5%8F" target="_blank">演员寇占文被法院悬赏</a> <span class="desc">— 热度 380,000</span></li>
-        <li id="src55"><span class="num num-opinion">55</span><a href="https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A61%E6%AF%942%E5%BE%90%E6%B5%B7%E4%B8%9C" target="_blank">王楚钦1比2徐海东</a> <span class="desc">— 热度 370,000</span></li>
-        <li id="src56"><span class="num num-opinion">56</span><a href="https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%AD%A6%E5%8E%86%E6%8E%92%E8%A1%8C%E6%A6%9C" target="_blank">时代峰峻学历排行榜</a> <span class="desc">— 热度 370,000</span></li>
+        <li id="src27"><span class="num num-opinion">27</span><a href="https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80%E6%9B%B4%E6%8D%A2logo" target="_blank">荣耀更换logo</a> <span class="desc">— 热度 1,020,000</span></li>
+        <li id="src28"><span class="num num-opinion">28</span><a href="https://s.weibo.com/weibo?q=%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E7%9C%8B%E4%B8%AD%E5%9B%BD" target="_blank">开局之年看中国</a> <span class="desc">— 热度 690,000</span></li>
+        <li id="src29"><span class="num num-opinion">29</span><a href="https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%AF%B9%E5%A5%B3%E5%90%8C%E4%BA%8B%E5%BC%80%E9%BB%84%E8%85%94%E8%A2%AB%E6%89%93%E9%81%AD%E5%BC%80%E9%99%A4%E7%A7%B0%E4%B8%8D%E5%85%AC" target="_blank">男子对女同事开黄腔被打遭开除称不公</a> <span class="desc">— 热度 640,000</span></li>
+        <li id="src30"><span class="num num-opinion">30</span><a href="https://s.weibo.com/weibo?q=%E5%A4%A7%E7%88%B7%E6%91%B8%E7%9F%A5%E4%BA%86%E7%8C%B43%E5%B0%8F%E6%97%B6%E8%B5%9A%E8%BF%91400%E5%85%83" target="_blank">大爷摸知了猴3小时赚近400元</a> <span class="desc">— 热度 580,000</span></li>
+        <li id="src31"><span class="num num-opinion">31</span><a href="https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A9%9A%E5%89%8D%E8%B0%88%E8%AF%9D%E5%85%A8%E5%9B%BD%E6%99%AE%E5%8F%8A" target="_blank">建议婚前谈话全国普及</a> <span class="desc">— 热度 580,000</span></li>
+        <li id="src32"><span class="num num-opinion">32</span><a href="https://s.weibo.com/weibo?q=%E9%99%88%E5%A6%8D%E5%B8%8C%E5%A7%90%E5%A7%90%E8%BF%BD%E6%98%9F%E5%BC%A0%E5%87%8C%E8%B5%AB" target="_blank">陈妍希姐姐追星张凌赫</a> <span class="desc">— 热度 520,000</span></li>
+        <li id="src33"><span class="num num-opinion">33</span><a href="https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90AI%E4%BC%AA%E9%80%A0%E7%83%82%E6%B0%B4%E6%9E%9C%E4%BB%85%E9%80%80%E6%AC%BE%E8%BF%9E%E7%B4%AF%E5%85%A8%E5%8E%BF" target="_blank">男子AI伪造烂水果仅退款连累全县</a> <span class="desc">— 热度 520,000</span></li>
+        <li id="src34"><span class="num num-opinion">34</span><a href="https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%9E%E5%BA%941%E6%AF%942%E5%BE%90%E6%B5%B7%E4%B8%9C" target="_blank">王楚钦回应1比2徐海东</a> <span class="desc">— 热度 510,000</span></li>
+        <li id="src35"><span class="num num-opinion">35</span><a href="https://s.weibo.com/weibo?q=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E7%9A%84%E7%BB%93%E5%B1%80%E5%9C%A8%E8%BF%99%E4%B8%80%E5%88%BB%E9%87%8A%E6%80%80%E4%BA%86" target="_blank">爱情公寓的结局在这一刻释怀了</a> <span class="desc">— 热度 400,000</span></li>
+        <li id="src36"><span class="num num-opinion">36</span><a href="https://s.weibo.com/weibo?q=%E8%B0%81%E6%95%A2%E8%AE%A4%E8%BF%99%E6%98%AF%E5%A8%9C%E6%89%8E" target="_blank">谁敢认这是娜扎</a> <span class="desc">— 热度 390,000</span></li>
+        <li id="src37"><span class="num num-opinion">37</span><a href="https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E9%87%8C%E7%9A%84%E5%9D%A0%E8%90%BD" target="_blank">西安赛格商场里的坠落</a> <span class="desc">— 热度 390,000</span></li>
+        <li id="src38"><span class="num num-opinion">38</span><a href="https://s.weibo.com/weibo?q=%E8%B0%A2%E8%B4%A4%E9%81%97%E5%98%B1%E9%99%84%E5%B8%A6%E5%A4%9A%E9%A1%B9%E7%BA%A6%E6%9D%9F%E6%9D%A1%E6%AC%BE" target="_blank">谢贤遗嘱附带多项约束条款</a> <span class="desc">— 热度 390,000</span></li>
+        <li id="src39"><span class="num num-opinion">39</span><a href="https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E5%AF%87%E5%8D%A0%E6%96%87%E8%A2%AB%E6%B3%95%E9%99%A2%E6%82%AC%E8%B5%8F" target="_blank">演员寇占文被法院悬赏</a> <span class="desc">— 热度 380,000</span></li>
+        <li id="src40"><span class="num num-opinion">40</span><a href="https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A61%E6%AF%942%E5%BE%90%E6%B5%B7%E4%B8%9C" target="_blank">王楚钦1比2徐海东</a> <span class="desc">— 热度 370,000</span></li>
+        <li id="src41"><span class="num num-opinion">41</span><a href="https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%AD%A6%E5%8E%86%E6%8E%92%E8%A1%8C%E6%A6%9C" target="_blank">时代峰峻学历排行榜</a> <span class="desc">— 热度 370,000</span></li>
       </ul>
     </div>
     <div class="source-group">
       <div class="source-group-title">知乎热榜</div>
       <ul class="source-list">
-        <li id="src57"><span class="num num-opinion">57</span><a href="https://www.zhihu.com/question/2063229032708284873" target="_blank">如何评价 GPT-5.6 为了在跑分上作弊，自主挖掘零日漏洞从沙盒逃逸，然后把 Hugging Face 黑了</a> <span class="desc">— 10940000</span></li>
-        <li id="src58"><span class="num num-opinion">58</span><a href="https://www.zhihu.com/question/2060313146192143108" target="_blank">为什么祁同伟和高启强并不讨人厌，反而侯亮平和安欣会让人反感呢</a> <span class="desc">— 5890000</span></li>
-        <li id="src59"><span class="num num-opinion">59</span><a href="https://www.zhihu.com/question/2063532260934907357" target="_blank">新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」</a> <span class="desc">— 4040000</span></li>
-        <li id="src60"><span class="num num-opinion">60</span><a href="https://www.zhihu.com/question/2062701004857119643" target="_blank">游客阻止高山兀鹫吃马尸引争议，这种行为反映了人们对生态的哪些误解</a> <span class="desc">— 3830000</span></li>
-        <li id="src61"><span class="num num-opinion">61</span><a href="https://www.zhihu.com/question/2062888665026765743" target="_blank">中方紧急召见菲驻华大使提出严正交涉，这背后有哪些深层原因</a> <span class="desc">— 3020000</span></li>
-        <li id="src62"><span class="num num-opinion">62</span><a href="https://www.zhihu.com/question/2062640157015249755" target="_blank">月之暗面 Kimi K3 发布后，Anthropic 为何成外网主要吐槽对象</a> <span class="desc">— 2230000</span></li>
-        <li id="src63"><span class="num num-opinion">63</span><a href="https://www.zhihu.com/question/2062787306789003681" target="_blank">为什么现在大部分人都在网上买东西，实体店静静悄悄</a> <span class="desc">— 2200000</span></li>
-        <li id="src64"><span class="num num-opinion">64</span><a href="https://www.zhihu.com/question/2062506148696216910" target="_blank">快递站老板称答应朋友让孩子到店劳动实践，却遭举报雇童工被罚五千元，如何看待该处理方式？老板被罚冤不冤</a> <span class="desc">— 2150000</span></li>
-        <li id="src65"><span class="num num-opinion">65</span><a href="https://www.zhihu.com/question/2050507183931012504" target="_blank">为什么英国参加世界杯不叫英国队，而叫英格兰</a> <span class="desc">— 1760000</span></li>
-        <li id="src66"><span class="num num-opinion">66</span><a href="https://www.zhihu.com/question/2063258715155686223" target="_blank">苹果拟推出设备租赁计划，iPhone 可租用 24 个月，月付租机的模式可行吗？你会考虑租苹果设备吗</a> <span class="desc">— 1740000</span></li>
-        <li id="src67"><span class="num num-opinion">67</span><a href="https://www.zhihu.com/question/2062991634069811547" target="_blank">大厂 HR 直接进入高校实验室劝说博士生放弃学位，并开出百万年薪，如何看待这种抢人模式？放弃学位是否值得</a> <span class="desc">— 1560000</span></li>
-        <li id="src68"><span class="num num-opinion">68</span><a href="https://www.zhihu.com/question/369891739" target="_blank">《剑雨》中转轮王为什么甘心在宫里被人呼来喝去的？江阿生隐姓埋名在大街上当跑腿是为了等机会报仇吗</a> <span class="desc">— 1300000</span></li>
-        <li id="src69"><span class="num num-opinion">69</span><a href="https://www.zhihu.com/question/2063298622393771043" target="_blank">耐克将清退数千家网络经销商，同款鞋官旗比经销商贵 400，为啥价差这么大？以后还能买到便宜的耐克吗</a> <span class="desc">— 1220000</span></li>
-        <li id="src70"><span class="num num-opinion">70</span><a href="https://www.zhihu.com/question/2063322092804773518" target="_blank">上海血液中心献血送《战锤 40K》正版模型，大奖价值 3299 元。如何评价这次活动</a> <span class="desc">— 1180000</span></li>
-        <li id="src71"><span class="num num-opinion">71</span><a href="https://www.zhihu.com/question/2063607588369818128" target="_blank">王楚钦新赛季乒超首秀 1-2 被徐海东逆转，怎样评价本场比赛</a> <span class="desc">— 1130000</span></li>
+        <li id="src42"><span class="num num-opinion">42</span><a href="https://www.zhihu.com/question/2063229032708284873" target="_blank">如何评价 GPT-5.6 为了在跑分上作弊，自主挖掘零日漏洞从沙盒逃逸，然后把 Hugging Face 黑了</a> <span class="desc">— 10890000</span></li>
+        <li id="src43"><span class="num num-opinion">43</span><a href="https://www.zhihu.com/question/2060313146192143108" target="_blank">为什么祁同伟和高启强并不讨人厌，反而侯亮平和安欣会让人反感呢</a> <span class="desc">— 5720000</span></li>
+        <li id="src44"><span class="num num-opinion">44</span><a href="https://www.zhihu.com/question/2062701004857119643" target="_blank">游客阻止高山兀鹫吃马尸引争议，这种行为反映了人们对生态的哪些误解</a> <span class="desc">— 4220000</span></li>
+        <li id="src45"><span class="num num-opinion">45</span><a href="https://www.zhihu.com/question/2063532260934907357" target="_blank">新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」</a> <span class="desc">— 3760000</span></li>
+        <li id="src46"><span class="num num-opinion">46</span><a href="https://www.zhihu.com/question/2062888665026765743" target="_blank">中方紧急召见菲驻华大使提出严正交涉，这背后有哪些深层原因</a> <span class="desc">— 2970000</span></li>
+        <li id="src47"><span class="num num-opinion">47</span><a href="https://www.zhihu.com/question/2062787306789003681" target="_blank">为什么现在大部分人都在网上买东西，实体店静静悄悄</a> <span class="desc">— 2190000</span></li>
+        <li id="src48"><span class="num num-opinion">48</span><a href="https://www.zhihu.com/question/2062640157015249755" target="_blank">月之暗面 Kimi K3 发布后，Anthropic 为何成外网主要吐槽对象</a> <span class="desc">— 2180000</span></li>
+        <li id="src49"><span class="num num-opinion">49</span><a href="https://www.zhihu.com/question/2062506148696216910" target="_blank">快递站老板称答应朋友让孩子到店劳动实践，却遭举报雇童工被罚五千元，如何看待该处理方式？老板被罚冤不冤</a> <span class="desc">— 2130000</span></li>
+        <li id="src50"><span class="num num-opinion">50</span><a href="https://www.zhihu.com/question/2050507183931012504" target="_blank">为什么英国参加世界杯不叫英国队，而叫英格兰</a> <span class="desc">— 1730000</span></li>
+        <li id="src51"><span class="num num-opinion">51</span><a href="https://www.zhihu.com/question/2063258715155686223" target="_blank">苹果拟推出设备租赁计划，iPhone 可租用 24 个月，月付租机的模式可行吗？你会考虑租苹果设备吗</a> <span class="desc">— 1710000</span></li>
+        <li id="src52"><span class="num num-opinion">52</span><a href="https://www.zhihu.com/question/2062991634069811547" target="_blank">大厂 HR 直接进入高校实验室劝说博士生放弃学位，并开出百万年薪，如何看待这种抢人模式？放弃学位是否值得</a> <span class="desc">— 1530000</span></li>
+        <li id="src53"><span class="num num-opinion">53</span><a href="https://www.zhihu.com/question/369891739" target="_blank">《剑雨》中转轮王为什么甘心在宫里被人呼来喝去的？江阿生隐姓埋名在大街上当跑腿是为了等机会报仇吗</a> <span class="desc">— 1260000</span></li>
+        <li id="src54"><span class="num num-opinion">54</span><a href="https://www.zhihu.com/question/2063298622393771043" target="_blank">耐克将清退数千家网络经销商，同款鞋官旗比经销商贵 400，为啥价差这么大？以后还能买到便宜的耐克吗</a> <span class="desc">— 1130000</span></li>
+        <li id="src55"><span class="num num-opinion">55</span><a href="https://www.zhihu.com/question/2063322092804773518" target="_blank">上海血液中心献血送《战锤 40K》正版模型，大奖价值 3299 元。如何评价这次活动</a> <span class="desc">— 1070000</span></li>
+        <li id="src56"><span class="num num-opinion">56</span><a href="https://www.zhihu.com/question/2063607588369818128" target="_blank">王楚钦新赛季乒超首秀 1-2 被徐海东逆转，怎样评价本场比赛</a> <span class="desc">— 1070000</span></li>
       </ul>
     </div>
     <div class="source-group">
       <div class="source-group-title">Hacker News</div>
       <ul class="source-list">
-        <li id="src72"><span class="num num-dev">72</span><a href="https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html" target="_blank">Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot</a> <span class="desc">— 46 pts</span></li>
-        <li id="src73"><span class="num num-dev">73</span><a href="https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56" target="_blank">Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample</a> <span class="desc">— 856 pts</span></li>
-        <li id="src74"><span class="num num-dev">74</span><a href="https://nesbitt.io/2026/07/21/end-of-options.html" target="_blank">git's –end-of-options Flag</a> <span class="desc">— 135 pts</span></li>
-        <li id="src75"><span class="num num-dev">75</span><a href="https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734" target="_blank">Cruller: Bun's Zig Runtime, Continued on Zig 0.16</a> <span class="desc">— 38 pts</span></li>
-        <li id="src76"><span class="num num-dev">76</span><a href="https://resobscura.substack.com/p/quality-non-fiction-books-are-the" target="_blank">Quality non-fiction books are the antithesis of AI slop</a> <span class="desc">— 348 pts</span></li>
-        <li id="src77"><span class="num num-dev">77</span><a href="https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/" target="_blank">ANSI escape injection in MCP servers: Hidden from humans, visible to AI</a> <span class="desc">— 9 pts</span></li>
-        <li id="src78"><span class="num num-dev">78</span><a href="https://github.com/marcelroed/gigatoken/" target="_blank">GigaToken: ~1000x faster Language model tokenization</a> <span class="desc">— 496 pts</span></li>
-        <li id="src79"><span class="num num-dev">79</span><a href="https://bento.page/slides/" target="_blank">Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)</a> <span class="desc">— 818 pts</span></li>
-        <li id="src80"><span class="num num-dev">80</span><a href="https://mitchellh.com/writing/everyone-should-know-simd" target="_blank">Everyone should know SIMD</a> <span class="desc">— 413 pts</span></li>
-        <li id="src81"><span class="num num-dev">81</span><a href="https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/" target="_blank">Amiga 1000: Ten years ahead of its time</a> <span class="desc">— 65 pts</span></li>
-        <li id="src82"><span class="num num-dev">82</span><a href="https://dylancastillo.co/posts/pelicanmaxxing.html" target="_blank">Are AI labs pelicanmaxxing?</a> <span class="desc">— 520 pts</span></li>
-        <li id="src83"><span class="num num-dev">83</span><a href="https://www.cole-k.com/2026/07/21/reddit/" target="_blank">So Reddit has decided that plain HTML is unsafe</a> <span class="desc">— 447 pts</span></li>
-        <li id="src84"><span class="num num-dev">84</span><a href="https://ssenthilnathan3.github.io/blog/malloc/" target="_blank">Why malloc always does more than I asked for?</a> <span class="desc">— 29 pts</span></li>
-        <li id="src85"><span class="num num-dev">85</span><a href="https://alexyang.dev/vim-ascii-art/" target="_blank">Making ASCII Art in Vim</a> <span class="desc">— 61 pts</span></li>
-        <li id="src86"><span class="num num-dev">86</span><a href="https://github.com/cactus-compute/cactus-hybrid" target="_blank">Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong</a> <span class="desc">— 129 pts</span></li>
+        <li id="src57"><span class="num num-dev">57</span><a href="https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html" target="_blank">Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot</a> <span class="desc">— 31 pts</span></li>
+        <li id="src58"><span class="num num-dev">58</span><a href="https://nesbitt.io/2026/07/21/end-of-options.html" target="_blank">git's –end-of-options Flag</a> <span class="desc">— 128 pts</span></li>
+        <li id="src59"><span class="num num-dev">59</span><a href="https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56" target="_blank">Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample</a> <span class="desc">— 840 pts</span></li>
+        <li id="src60"><span class="num num-dev">60</span><a href="https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734" target="_blank">Cruller: Bun's Zig Runtime, Continued on Zig 0.16</a> <span class="desc">— 29 pts</span></li>
+        <li id="src61"><span class="num num-dev">61</span><a href="https://resobscura.substack.com/p/quality-non-fiction-books-are-the" target="_blank">Quality non-fiction books are the antithesis of AI slop</a> <span class="desc">— 332 pts</span></li>
+        <li id="src62"><span class="num num-dev">62</span><a href="https://github.com/marcelroed/gigatoken/" target="_blank">GigaToken: ~1000x faster Language model tokenization</a> <span class="desc">— 485 pts</span></li>
+        <li id="src63"><span class="num num-dev">63</span><a href="https://bento.page/slides/" target="_blank">Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)</a> <span class="desc">— 806 pts</span></li>
+        <li id="src64"><span class="num num-dev">64</span><a href="https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/" target="_blank">Amiga 1000: Ten years ahead of its time</a> <span class="desc">— 56 pts</span></li>
+        <li id="src65"><span class="num num-dev">65</span><a href="https://mitchellh.com/writing/everyone-should-know-simd" target="_blank">Everyone should know SIMD</a> <span class="desc">— 403 pts</span></li>
+        <li id="src66"><span class="num num-dev">66</span><a href="https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/" target="_blank">ANSI escape injection in MCP servers: Hidden from humans, visible to AI</a> <span class="desc">— 6 pts</span></li>
+        <li id="src67"><span class="num num-dev">67</span><a href="https://dylancastillo.co/posts/pelicanmaxxing.html" target="_blank">Are AI labs pelicanmaxxing?</a> <span class="desc">— 509 pts</span></li>
+        <li id="src68"><span class="num num-dev">68</span><a href="https://alexyang.dev/vim-ascii-art/" target="_blank">Making ASCII Art in Vim</a> <span class="desc">— 58 pts</span></li>
+        <li id="src69"><span class="num num-dev">69</span><a href="https://www.cole-k.com/2026/07/21/reddit/" target="_blank">So Reddit has decided that plain HTML is unsafe</a> <span class="desc">— 439 pts</span></li>
+        <li id="src70"><span class="num num-dev">70</span><a href="https://github.com/cactus-compute/cactus-hybrid" target="_blank">Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong</a> <span class="desc">— 128 pts</span></li>
+        <li id="src71"><span class="num num-dev">71</span><a href="https://beej.us/blog/data/ai-making/" target="_blank">Making</a> <span class="desc">— 348 pts</span></li>
       </ul>
     </div>
 

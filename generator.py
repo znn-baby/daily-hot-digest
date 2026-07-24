@@ -600,11 +600,11 @@ body {
 <div class="container">
     <div class="header">
         <h1>Daily Hot Digest</h1>
-        <p>自动抓取 GitHub Trending / Lobsters / 少数派 + AI 摘要</p>
+        <p>自动抓取 GitHub / Lobsters / 少数派 / 微博 / 知乎 / Hacker News + AI 摘要</p>
     </div>
     $date_list_html
     <div class="footer">
-        Powered by GitHub Actions &middot; 每日 UTC 01:00 自动更新
+        Powered by GitHub Actions &middot; 每日 22:00 自动更新
     </div>
 </div>
 <script>
