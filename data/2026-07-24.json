@@ -1,0 +1,742 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "block / buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "stars": "7322",
+      "stars_today": "2,162 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 2,
+      "title": "koala73 / worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars": "71915",
+      "stars_today": "3,175 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 3,
+      "title": "shiyu-coder / Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": "33156",
+      "stars_today": "401 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "Pumpkin-MC / Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "stars": "8990",
+      "stars_today": "565 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 5,
+      "title": "citrolabs / ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "stars": "1796",
+      "stars_today": "247 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 6,
+      "title": "chrislgarry / Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "stars": "71154",
+      "stars_today": "592 stars today",
+      "language": "Assembly"
+    },
+    {
+      "rank": 7,
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "stars": "27455",
+      "stars_today": "1,929 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 8,
+      "title": "ComposioHQ / awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": "69541",
+      "stars_today": "636 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "earthtojake / text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "stars": "10082",
+      "stars_today": "230 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 10,
+      "title": "agegr / pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "stars": "2432",
+      "stars_today": "315 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 11,
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": "11714",
+      "stars_today": "180 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 12,
+      "title": "ruvnet / RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": "85316",
+      "stars_today": "1,708 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 13,
+      "title": "likec4 / likec4",
+      "url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "stars": "4759",
+      "stars_today": "472 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 14,
+      "title": "Automattic / harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "stars": "12436",
+      "stars_today": "624 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 15,
+      "title": "jellyfin / jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "stars": "54775",
+      "stars_today": "66 stars today",
+      "language": "C#"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Justif: Knuth-Plass justification and microtypography for the web",
+      "url": "https://justif.lyall.co/",
+      "source_url": "https://justif.lyall.co/",
+      "tags": [
+        "show",
+        "design",
+        "vibecoding",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "Everyone Should Know SIMD",
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "source_url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "tags": [
+        "performance",
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "Protecting our FLOSS commons from LLMs",
+      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+      "source_url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Calm technologies that excite me",
+      "url": "https://abhi.now/blog/calm-technologies/",
+      "source_url": "https://abhi.now/blog/calm-technologies/",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Jolt: running Clojure on Chez Scheme",
+      "url": "https://yogthos.net/posts/2026-07-02-jolt.html",
+      "source_url": "https://yogthos.net/posts/2026-07-02-jolt.html",
+      "tags": [
+        "clojure",
+        "lisp",
+        "programming",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "You should selfhost your mail (in 2026)",
+      "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+      "source_url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+      "tags": [
+        "email"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
+      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+      "source_url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "On Accountability",
+      "url": "https://addisoncrump.info/research/on-accountability/",
+      "source_url": "https://addisoncrump.info/research/on-accountability/",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
+      "source_url": "https://martinalderson.com/posts/huggingface-openai-exploit/",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "Fil-C: Garbage In, Memory Safety Out",
+      "url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
+      "source_url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
+      "tags": [
+        "video",
+        "c",
+        "c++"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "John C. Dvorak has died",
+      "url": "http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html",
+      "source_url": "http://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html",
+      "tags": [
+        "person"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "The PImpl idiom and the C++26 std::indirect type",
+      "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+      "source_url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+      "tags": [
+        "c++"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "Why care about programming languages",
+      "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
+      "source_url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
+      "tags": [
+        "programming",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "agent-shell 0.63 updates",
+      "url": "https://xenodium.com/agent-shell-0-63-updates",
+      "source_url": "https://xenodium.com/agent-shell-0-63-updates",
+      "tags": [
+        "emacs",
+        "math",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Prompt Caching In Agents",
+      "url": "https://earendil.com/posts/prompt-caching/",
+      "source_url": "https://earendil.com/posts/prompt-caching/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "赛博对话｜对话潘玮哲x老麦煮机：电子产品在悄悄变贵！老麦11:00视频",
+      "url": "https://sspai.com/post/112679",
+      "author": "老麦",
+      "summary": "赛博对话｜对话潘玮哲x老麦煮机：电子产品在悄悄变贵！"
+    },
+    {
+      "rank": 2,
+      "title": "派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等少数派编辑部08:33派早报",
+      "url": "https://sspai.com/post/112677",
+      "author": "少数派编辑部",
+      "summary": "派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等"
+    },
+    {
+      "rank": 3,
+      "title": "新玩意 247｜少数派的编辑们最近买了啥？少数派编辑部昨天 17:38",
+      "url": "https://sspai.com/post/112668",
+      "author": "少数派编辑部",
+      "summary": "新玩意 247｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 4,
+      "title": "小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈Microhoo昨天 15:00",
+      "url": "https://sspai.com/post/112428",
+      "author": "Microhoo",
+      "summary": "小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈"
+    },
+    {
+      "rank": 5,
+      "title": "让 Windows 顺眼又省心：我的新设备配置经验Cyanrel昨天 10:57Matrix精选",
+      "url": "https://sspai.com/post/111300",
+      "author": "Cyanrel",
+      "summary": "让 Windows 顺眼又省心：我的新设备配置经验"
+    },
+    {
+      "rank": 6,
+      "title": "聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1783932697",
+      "author": "一派讨论",
+      "summary": "聊聊你在各购物平台独占的「固定回购清单」？"
+    },
+    {
+      "rank": 7,
+      "title": "派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等少数派编辑部昨天 08:50派早报",
+      "url": "https://sspai.com/post/112647",
+      "author": "少数派编辑部",
+      "summary": "派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等"
+    },
+    {
+      "rank": 8,
+      "title": "Parti：一个零门槛联机游戏平台，凭什么不需要服务器？Link25前天 17:43",
+      "url": "https://sspai.com/post/112545",
+      "author": "Link25",
+      "summary": "Parti：一个零门槛联机游戏平台，凭什么不需要服务器？"
+    },
+    {
+      "rank": 9,
+      "title": "滤镜背后的色彩科学：LUT 是什么？从风格滤镜，到电影中的专业调色，聊聊 LUT 所代表的色彩规则。Nnnobel前天 15:00",
+      "url": "https://sspai.com/post/111550",
+      "author": "Nnnobel",
+      "summary": "滤镜背后的色彩科学：LUT 是什么？"
+    },
+    {
+      "rank": 10,
+      "title": "角落新声｜我的上帝模式，一名设计师创作环境的演变CG艺术实验室前天 10:04",
+      "url": "https://sspai.com/post/112109",
+      "author": "CG艺术实验室",
+      "summary": "角落新声｜我的上帝模式，一名设计师创作环境的演变"
+    },
+    {
+      "rank": 11,
+      "title": "聊聊你手机背面的「磁吸配件」？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1783307199",
+      "author": "一派投票",
+      "summary": "聊聊你手机背面的「磁吸配件」？"
+    },
+    {
+      "rank": 12,
+      "title": "社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车Matrix机器人07/21",
+      "url": "https://sspai.com/post/112582",
+      "author": "Matrix机器人",
+      "summary": "社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "法国总统马克龙祝贺王虹",
+      "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A5%9D%E8%B4%BA%E7%8E%8B%E8%99%B9",
+      "hot_value": 1180000
+    },
+    {
+      "rank": 2,
+      "title": "上半年近4800家外资企业追加对华投资",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%BF%914800%E5%AE%B6%E5%A4%96%E8%B5%84%E4%BC%81%E4%B8%9A%E8%BF%BD%E5%8A%A0%E5%AF%B9%E5%8D%8E%E6%8A%95%E8%B5%84",
+      "hot_value": 1150000
+    },
+    {
+      "rank": 3,
+      "title": "郁可唯助阵东风奕派M8上市",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%81%E5%8F%AF%E5%94%AF%E5%8A%A9%E9%98%B5%E4%B8%9C%E9%A3%8E%E5%A5%95%E6%B4%BEM8%E4%B8%8A%E5%B8%82",
+      "hot_value": 1150000
+    },
+    {
+      "rank": 4,
+      "title": "白鹿王韵娜开机照",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E7%8E%8B%E9%9F%B5%E5%A8%9C%E5%BC%80%E6%9C%BA%E7%85%A7",
+      "hot_value": 1140000
+    },
+    {
+      "rank": 5,
+      "title": "王虹说北大同学叫邓煜邓神",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%99%B9%E8%AF%B4%E5%8C%97%E5%A4%A7%E5%90%8C%E5%AD%A6%E5%8F%AB%E9%82%93%E7%85%9C%E9%82%93%E7%A5%9E",
+      "hot_value": 1120000
+    },
+    {
+      "rank": 6,
+      "title": "女童毕业照露内裤家长沟通反遭辱骂",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%AB%A5%E6%AF%95%E4%B8%9A%E7%85%A7%E9%9C%B2%E5%86%85%E8%A3%A4%E5%AE%B6%E9%95%BF%E6%B2%9F%E9%80%9A%E5%8F%8D%E9%81%AD%E8%BE%B1%E9%AA%82",
+      "hot_value": 1120000
+    },
+    {
+      "rank": 7,
+      "title": "杨洋同款岚图追光S预售开启",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%E5%90%8C%E6%AC%BE%E5%B2%9A%E5%9B%BE%E8%BF%BD%E5%85%89S%E9%A2%84%E5%94%AE%E5%BC%80%E5%90%AF",
+      "hot_value": 1110000
+    },
+    {
+      "rank": 8,
+      "title": "赛里木湖景区通报工作人员殴打司机",
+      "url": "https://s.weibo.com/weibo?q=%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E6%99%AF%E5%8C%BA%E9%80%9A%E6%8A%A5%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%AE%B4%E6%89%93%E5%8F%B8%E6%9C%BA",
+      "hot_value": 1110000
+    },
+    {
+      "rank": 9,
+      "title": "彭冠英搭档全是市场上的女顶流",
+      "url": "https://s.weibo.com/weibo?q=%E5%BD%AD%E5%86%A0%E8%8B%B1%E6%90%AD%E6%A1%A3%E5%85%A8%E6%98%AF%E5%B8%82%E5%9C%BA%E4%B8%8A%E7%9A%84%E5%A5%B3%E9%A1%B6%E6%B5%81",
+      "hot_value": 890000
+    },
+    {
+      "rank": 10,
+      "title": "腾讯317万年终奖员工因泄密被辞退",
+      "url": "https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF317%E4%B8%87%E5%B9%B4%E7%BB%88%E5%A5%96%E5%91%98%E5%B7%A5%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BE%9E%E9%80%80",
+      "hot_value": 800000
+    },
+    {
+      "rank": 11,
+      "title": "中国女排 打破淘汰赛心魔",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92+%E6%89%93%E7%A0%B4%E6%B7%98%E6%B1%B0%E8%B5%9B%E5%BF%83%E9%AD%94",
+      "hot_value": 800000
+    },
+    {
+      "rank": 12,
+      "title": "孙伊涵当妈",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E4%BC%8A%E6%B6%B5%E5%BD%93%E5%A6%88",
+      "hot_value": 750000
+    },
+    {
+      "rank": 13,
+      "title": "李小冉维护王濛",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%B0%8F%E5%86%89%E7%BB%B4%E6%8A%A4%E7%8E%8B%E6%BF%9B",
+      "hot_value": 720000
+    },
+    {
+      "rank": 14,
+      "title": "韦东奕曾连续多天听王虹讲座",
+      "url": "https://s.weibo.com/weibo?q=%E9%9F%A6%E4%B8%9C%E5%A5%95%E6%9B%BE%E8%BF%9E%E7%BB%AD%E5%A4%9A%E5%A4%A9%E5%90%AC%E7%8E%8B%E8%99%B9%E8%AE%B2%E5%BA%A7",
+      "hot_value": 670000
+    },
+    {
+      "rank": 15,
+      "title": "女数学家王虹才35岁",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%8E%8B%E8%99%B9%E6%89%8D35%E5%B2%81",
+      "hot_value": 630000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "如何看待网传耗资 319 亿的腾讯全球总部「企鹅岛」疑基建翻车，员工疯狂吐槽质量奇差",
+      "url": "https://www.zhihu.com/question/2063727887748786109",
+      "hot_value": 8950000
+    },
+    {
+      "rank": 2,
+      "title": "西班牙记者吐槽西蒙获金手套奖，称其整届赛事几乎没事做，该奖项评选机制是否合理",
+      "url": "https://www.zhihu.com/question/2062586699843211662",
+      "hot_value": 1880000
+    },
+    {
+      "rank": 3,
+      "title": "如何看待丘成桐撰文贺王虹、邓煜获奖，期待求真书院这些优秀的年轻人能以王虹和邓煜为榜样",
+      "url": "https://www.zhihu.com/question/2063764614907520295",
+      "hot_value": 1660000
+    },
+    {
+      "rank": 4,
+      "title": "如何看待周星驰电影《长江七号》最近在网络上获得好评",
+      "url": "https://www.zhihu.com/question/2063330676313690982",
+      "hot_value": 1450000
+    },
+    {
+      "rank": 5,
+      "title": "社会本就存在尔虞我诈，为什么从小要给孩子灌输真善美，而不是教他们认清现实",
+      "url": "https://www.zhihu.com/question/2058705447574582857",
+      "hot_value": 1430000
+    },
+    {
+      "rank": 6,
+      "title": "如何评价台球厅一男子拍助教屁股被索赔两千元，现因猥亵他人已被警方依法行政拘留",
+      "url": "https://www.zhihu.com/question/2063568881944359958",
+      "hot_value": 1420000
+    },
+    {
+      "rank": 7,
+      "title": "如何看待高德上线的「位置口令」功能，6 位数字锁定精确点位？实际用途大吗",
+      "url": "https://www.zhihu.com/question/2062965382131013474",
+      "hot_value": 1410000
+    },
+    {
+      "rank": 8,
+      "title": "男子用 AI 伪造水果腐烂照片，恶意仅退款百余次套现，被判诈骗罪，当地也被平台标记高风险，如何看待此事",
+      "url": "https://www.zhihu.com/question/2063396759536154240",
+      "hot_value": 1400000
+    },
+    {
+      "rank": 9,
+      "title": "如果把人类所有知识浓缩成一句话，哪一句最不该失传",
+      "url": "https://www.zhihu.com/question/2057919283838162007",
+      "hot_value": 1370000
+    },
+    {
+      "rank": 10,
+      "title": "如何看待解说阿九爆料 Bin 半年来心路历程",
+      "url": "https://www.zhihu.com/question/2063647093231548330",
+      "hot_value": 1350000
+    },
+    {
+      "rank": 11,
+      "title": "王虹和邓煜获得了数学菲尔兹奖，北大数院的地位是否会进一步大幅度提高",
+      "url": "https://www.zhihu.com/question/2059670041029763249",
+      "hot_value": 1300000
+    },
+    {
+      "rank": 12,
+      "title": "「最爱发钱老板」因员工不孝当场将其辞退，你怎么看待他的做法",
+      "url": "https://www.zhihu.com/question/2063710458448536790",
+      "hot_value": 1250000
+    },
+    {
+      "rank": 13,
+      "title": "耐克宣布自明年 1 月起清退中国数千家在线经销商，对国内市场有什么影响？会冲击实体商户吗",
+      "url": "https://www.zhihu.com/question/2063288280146351339",
+      "hot_value": 1210000
+    },
+    {
+      "rank": 14,
+      "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响",
+      "url": "https://www.zhihu.com/question/2063259853338972886",
+      "hot_value": 1160000
+    },
+    {
+      "rank": 15,
+      "title": "如何看待越野跑被「上坟的路都比这陡，我小时候穿拖鞋都能跑」的评论嘲讽",
+      "url": "https://www.zhihu.com/question/2061077732331614428",
+      "hot_value": 1120000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "98.css",
+      "url": "https://jdan.github.io/98.css/#status-bar",
+      "score": 329,
+      "author": "lopespm",
+      "comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=49028927"
+    },
+    {
+      "rank": 2,
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "score": 1058,
+      "author": "dwwoelfel",
+      "comments": 502,
+      "hn_url": "https://news.ycombinator.com/item?id=49022152"
+    },
+    {
+      "rank": 3,
+      "title": "The Corporate Creep of Plex: Why it may be time to move to Jellyfin",
+      "url": "https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/",
+      "score": 29,
+      "author": "reprodev",
+      "comments": 19,
+      "hn_url": "https://news.ycombinator.com/item?id=49030547"
+    },
+    {
+      "rank": 4,
+      "title": "The Visual 6502",
+      "url": "http://visual6502.org/JSSim/index.html",
+      "score": 68,
+      "author": "infiniteregrets",
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49029538"
+    },
+    {
+      "rank": 5,
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "url": "https://news.ycombinator.com/item?id=49026810",
+      "score": 266,
+      "author": "adam_rida",
+      "comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=49026810"
+    },
+    {
+      "rank": 6,
+      "title": "The Beam Engine",
+      "url": "https://glinscott.github.io/beam-engine/",
+      "score": 204,
+      "author": "glinscott",
+      "comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=49007221"
+    },
+    {
+      "rank": 7,
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "score": 781,
+      "author": "theanonymousone",
+      "comments": 690,
+      "hn_url": "https://news.ycombinator.com/item?id=49023016"
+    },
+    {
+      "rank": 8,
+      "title": "What happened to TheNumbers.com",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "score": 315,
+      "author": "nickthegreek",
+      "comments": 139,
+      "hn_url": "https://news.ycombinator.com/item?id=49024691"
+    },
+    {
+      "rank": 9,
+      "title": "What else do people draw on gradient.horse?",
+      "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
+      "score": 64,
+      "author": "spython",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=48959008"
+    },
+    {
+      "rank": 10,
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "score": 218,
+      "author": "dhorthy",
+      "comments": 169,
+      "hn_url": "https://news.ycombinator.com/item?id=49023019"
+    },
+    {
+      "rank": 11,
+      "title": "Freeze-Casting",
+      "url": "https://en.wikipedia.org/wiki/Freeze-casting",
+      "score": 12,
+      "author": "soupspaces",
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=48973071"
+    },
+    {
+      "rank": 12,
+      "title": "Software rendering in 500 lines of bare C++",
+      "url": "https://haqr.eu/tinyrenderer/",
+      "score": 259,
+      "author": "mpweiher",
+      "comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=49022038"
+    },
+    {
+      "rank": 13,
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "url": "https://learnopengl.com/",
+      "score": 200,
+      "author": "ibobev",
+      "comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=49022634"
+    },
+    {
+      "rank": 14,
+      "title": "Building on ATProto",
+      "url": "https://lukekanies.com/writing/building-on-atproto/",
+      "score": 137,
+      "author": "speckx",
+      "comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=49025984"
+    },
+    {
+      "rank": 15,
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "score": 131,
+      "author": "harrisontin",
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49022911"
+    }
+  ]
+}
