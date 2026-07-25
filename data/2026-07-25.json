@@ -1,0 +1,738 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "block / buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "stars": "11203",
+      "stars_today": "2,506 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 2,
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": "12689",
+      "stars_today": "1,066 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 3,
+      "title": "citrolabs / ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "stars": "3236",
+      "stars_today": "986 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 4,
+      "title": "ComposioHQ / awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": "70408",
+      "stars_today": "574 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "anthropics / claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars": "49744",
+      "stars_today": "144 stars today",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "rank": 6,
+      "title": "Automattic / harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "stars": "13265",
+      "stars_today": "503 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 7,
+      "title": "shiyu-coder / Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": "33684",
+      "stars_today": "319 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": "260882",
+      "stars_today": "600 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 9,
+      "title": "Pumpkin-MC / Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "stars": "9564",
+      "stars_today": "357 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 10,
+      "title": "permissionlesstech / bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "stars": "28275",
+      "stars_today": "1,695 stars today",
+      "language": "Swift"
+    },
+    {
+      "rank": 11,
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": "187809",
+      "stars_today": "1,743 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 12,
+      "title": "palmier-io / palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "stars": "12058",
+      "stars_today": "731 stars today",
+      "language": "Swift"
+    },
+    {
+      "rank": 13,
+      "title": "CoreBunch / Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "stars": "4668",
+      "stars_today": "424 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 14,
+      "title": "Lordog / dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "stars": "45279",
+      "stars_today": "405 stars today",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "rank": 15,
+      "title": "RyanCodrai / turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "stars": "14182",
+      "stars_today": "89 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "A shell colon does nothing. Use it anyway",
+      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+      "source_url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "Chrome registers a global shortcut for Gemini popup window",
+      "url": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
+      "source_url": "https://unsung.aresluna.org/chromes-breaking-and-entering/",
+      "tags": [
+        "browsers",
+        "mac",
+        "windows"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "stinkpot: sqlite-backed shell history",
+      "url": "https://tangled.org/oppi.li/stinkpot",
+      "source_url": "https://tangled.org/oppi.li/stinkpot",
+      "tags": [
+        "show",
+        "go"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "We Are Not Special (2021)",
+      "url": "https://www.hillelwayne.com/post/we-are-not-special/",
+      "source_url": "https://www.hillelwayne.com/post/we-are-not-special/",
+      "tags": [
+        "practices"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Watching Go's new garbage collector move through the heap",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "source_url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "tags": [
+        "dotnet",
+        "go",
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "source_url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "tags": [
+        "android"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "I'm running the ICFP programming contest (2026)",
+      "url": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
+      "source_url": "https://eieio.games/blog/im-running-the-icfp-programming-contest/",
+      "tags": [
+        "event",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "the perils of parsing type inference declarations in c",
+      "url": "https://sebsite.pw/w/20260725-auto.html",
+      "source_url": "https://sebsite.pw/w/20260725-auto.html",
+      "tags": [
+        "c"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "Delightful integration tests in Rust",
+      "url": "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md",
+      "source_url": "https://github.com/alexpusch/rust-magic-patterns/blob/master/delightful-integration-tests/Readme.md",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "Systems and Delays (2026)",
+      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "source_url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "tags": [
+        "math"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "Don't take the black pill",
+      "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+      "source_url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+      "tags": [
+        "video",
+        "culture"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Zig by Example",
+      "url": "https://zigbyexample.neocities.org/",
+      "source_url": "https://zigbyexample.neocities.org/",
+      "tags": [
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "git rebase -i is not that scary",
+      "url": "https://cachebag.sh/journal/interactive-rebasing/",
+      "source_url": "https://cachebag.sh/journal/interactive-rebasing/",
+      "tags": [
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "Sending packets directly from BPF",
+      "url": "https://lwn.net/Articles/1081696/",
+      "source_url": "https://lwn.net/Articles/1081696/",
+      "tags": [
+        "linux",
+        "networking",
+        "osdev"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Emacs Writing Machine",
+      "url": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
+      "source_url": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
+      "tags": [
+        "emacs",
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践kokdemo11:09Matrix精选",
+      "url": "https://sspai.com/post/112093",
+      "author": "kokdemo",
+      "summary": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践"
+    },
+    {
+      "rank": 2,
+      "title": "本周看什么 | 最近值得一看的 13 部作品少数派编辑部昨天 17:38",
+      "url": "https://sspai.com/post/112692",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 13 部作品"
+    },
+    {
+      "rank": 3,
+      "title": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建程天冲昨天 15:00",
+      "url": "https://sspai.com/post/112232",
+      "author": "程天冲",
+      "summary": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建"
+    },
+    {
+      "rank": 4,
+      "title": "赛博对话｜对话潘玮哲x老麦煮机：电子产品在悄悄变贵！老麦昨天 11:00视频",
+      "url": "https://sspai.com/post/112679",
+      "author": "老麦",
+      "summary": "赛博对话｜对话潘玮哲x老麦煮机：电子产品在悄悄变贵！"
+    },
+    {
+      "rank": 5,
+      "title": "聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1783932697",
+      "author": "一派讨论",
+      "summary": "聊聊你在各购物平台独占的「固定回购清单」？"
+    },
+    {
+      "rank": 6,
+      "title": "派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等少数派编辑部昨天 08:33派早报",
+      "url": "https://sspai.com/post/112677",
+      "author": "少数派编辑部",
+      "summary": "派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等"
+    },
+    {
+      "rank": 7,
+      "title": "新玩意 247｜少数派的编辑们最近买了啥？少数派编辑部前天 17:38",
+      "url": "https://sspai.com/post/112668",
+      "author": "少数派编辑部",
+      "summary": "新玩意 247｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 8,
+      "title": "小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈Microhoo前天 15:00",
+      "url": "https://sspai.com/post/112428",
+      "author": "Microhoo",
+      "summary": "小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈"
+    },
+    {
+      "rank": 9,
+      "title": "让 Windows 顺眼又省心：我的新设备配置经验Cyanrel前天 10:57Matrix精选",
+      "url": "https://sspai.com/post/111300",
+      "author": "Cyanrel",
+      "summary": "让 Windows 顺眼又省心：我的新设备配置经验"
+    },
+    {
+      "rank": 10,
+      "title": "聊聊你手机背面的「磁吸配件」？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1783307199",
+      "author": "一派投票",
+      "summary": "聊聊你手机背面的「磁吸配件」？"
+    },
+    {
+      "rank": 11,
+      "title": "派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等少数派编辑部前天 08:50派早报",
+      "url": "https://sspai.com/post/112647",
+      "author": "少数派编辑部",
+      "summary": "派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等"
+    },
+    {
+      "rank": 12,
+      "title": "Parti：一个零门槛联机游戏平台，凭什么不需要服务器？Link2507/22",
+      "url": "https://sspai.com/post/112545",
+      "author": "Link25",
+      "summary": "Parti：一个零门槛联机游戏平台，凭什么不需要服务器？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "西班牙21次犯规零牌",
+      "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%9921%E6%AC%A1%E7%8A%AF%E8%A7%84%E9%9B%B6%E7%89%8C",
+      "hot_value": 890000
+    },
+    {
+      "rank": 2,
+      "title": "数读我国农业农村经济稳中向好",
+      "url": "https://s.weibo.com/weibo?q=%E6%95%B0%E8%AF%BB%E6%88%91%E5%9B%BD%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91%E7%BB%8F%E6%B5%8E%E7%A8%B3%E4%B8%AD%E5%90%91%E5%A5%BD",
+      "hot_value": 680000
+    },
+    {
+      "rank": 3,
+      "title": "心有凌犀选铂智7",
+      "url": "https://s.weibo.com/weibo?q=%E5%BF%83%E6%9C%89%E5%87%8C%E7%8A%80%E9%80%89%E9%93%82%E6%99%BA7",
+      "hot_value": 670000
+    },
+    {
+      "rank": 4,
+      "title": "谢霆锋演唱会状态",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8A%B6%E6%80%81",
+      "hot_value": 650000
+    },
+    {
+      "rank": 5,
+      "title": "孙女的微信状态只有爷爷当真了",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%A5%B3%E7%9A%84%E5%BE%AE%E4%BF%A1%E7%8A%B6%E6%80%81%E5%8F%AA%E6%9C%89%E7%88%B7%E7%88%B7%E5%BD%93%E7%9C%9F%E4%BA%86",
+      "hot_value": 570000
+    },
+    {
+      "rank": 6,
+      "title": "苏新皓囍神级solo",
+      "url": "https://s.weibo.com/weibo?q=%E8%8B%8F%E6%96%B0%E7%9A%93%E5%9B%8D%E7%A5%9E%E7%BA%A7solo",
+      "hot_value": 570000
+    },
+    {
+      "rank": 7,
+      "title": "闫闯回应退赛",
+      "url": "https://s.weibo.com/weibo?q=%E9%97%AB%E9%97%AF%E5%9B%9E%E5%BA%94%E9%80%80%E8%B5%9B",
+      "hot_value": 560000
+    },
+    {
+      "rank": 8,
+      "title": "第二代身份证内部根本没有磁条",
+      "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%BA%8C%E4%BB%A3%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%86%85%E9%83%A8%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E7%A3%81%E6%9D%A1",
+      "hot_value": 520000
+    },
+    {
+      "rank": 9,
+      "title": "闫闯退赛",
+      "url": "https://s.weibo.com/weibo?q=%E9%97%AB%E9%97%AF%E9%80%80%E8%B5%9B",
+      "hot_value": 490000
+    },
+    {
+      "rank": 10,
+      "title": "三国第一部争洛阳撤档",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%83%A8%E4%BA%89%E6%B4%9B%E9%98%B3%E6%92%A4%E6%A1%A3",
+      "hot_value": 420000
+    },
+    {
+      "rank": 11,
+      "title": "黄灿灿370元做的丑美甲",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%81%BF%E7%81%BF370%E5%85%83%E5%81%9A%E7%9A%84%E4%B8%91%E7%BE%8E%E7%94%B2",
+      "hot_value": 420000
+    },
+    {
+      "rank": 12,
+      "title": "6分06秒结束比赛",
+      "url": "https://s.weibo.com/weibo?q=6%E5%88%8606%E7%A7%92%E7%BB%93%E6%9D%9F%E6%AF%94%E8%B5%9B",
+      "hot_value": 410000
+    },
+    {
+      "rank": 13,
+      "title": "李权哲高铁占座",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%9D%83%E5%93%B2%E9%AB%98%E9%93%81%E5%8D%A0%E5%BA%A7",
+      "hot_value": 400000
+    },
+    {
+      "rank": 14,
+      "title": "中国女排0比3土耳其女排",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%920%E6%AF%943%E5%9C%9F%E8%80%B3%E5%85%B6%E5%A5%B3%E6%8E%92",
+      "hot_value": 390000
+    },
+    {
+      "rank": 15,
+      "title": "杨幂就剩两部待播剧了",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%B0%B1%E5%89%A9%E4%B8%A4%E9%83%A8%E5%BE%85%E6%92%AD%E5%89%A7%E4%BA%86",
+      "hot_value": 390000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "为什么两广地区在计算机和数学领域出现了人才井喷",
+      "url": "https://www.zhihu.com/question/2063053785887514933",
+      "hot_value": 4840000
+    },
+    {
+      "rank": 2,
+      "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择",
+      "url": "https://www.zhihu.com/question/2064272326489628784",
+      "hot_value": 4480000
+    },
+    {
+      "rank": 3,
+      "title": "山东一高速服务区设啤酒档口，工作人员称「已经过审批，卖两个月了」，如何看待这一档口设置？卖啤酒合理吗",
+      "url": "https://www.zhihu.com/question/2063655728540283084",
+      "hot_value": 3500000
+    },
+    {
+      "rank": 4,
+      "title": "「红霞」加强为强台风级，预计 26 日凌晨在广东深圳到海丰一带沿海登陆，可能带来多大影响？你那里情况如何",
+      "url": "https://www.zhihu.com/question/2062972309652992711",
+      "hot_value": 3220000
+    },
+    {
+      "rank": 5,
+      "title": "大脑有上百亿个神经元，为什么正常人只产生一个意识？是什么在阻止第二个「我」的出现",
+      "url": "https://www.zhihu.com/question/2038041817728410774",
+      "hot_value": 3090000
+    },
+    {
+      "rank": 6,
+      "title": "2026 乒超联赛常规赛第一站男团，王楚钦 1-2 张煜东，如何评价本场比赛",
+      "url": "https://www.zhihu.com/question/2064320826841870967",
+      "hot_value": 3020000
+    },
+    {
+      "rank": 7,
+      "title": "被复旦临床八年制录取了，我应该争取转专业吗",
+      "url": "https://www.zhihu.com/question/2062688006075687262",
+      "hot_value": 2950000
+    },
+    {
+      "rank": 8,
+      "title": "任正非为什么说「τ 定律是华为唯一出路」",
+      "url": "https://www.zhihu.com/question/2063930109304594992",
+      "hot_value": 2630000
+    },
+    {
+      "rank": 9,
+      "title": "如何评价北大著名校友柳智宇评价同学王虹邓煜获得菲尔兹奖，祝贺两位校友，并不后悔自己上山出家离开数学",
+      "url": "https://www.zhihu.com/question/2064136479643849507",
+      "hot_value": 2320000
+    },
+    {
+      "rank": 10,
+      "title": "《民法典》为什么把「配偶」放在「亲属」的第 1 位",
+      "url": "https://www.zhihu.com/question/628507781",
+      "hot_value": 2200000
+    },
+    {
+      "rank": 11,
+      "title": "《间谍过家家》里黄昏为什么没有察觉尤尔的真实身份",
+      "url": "https://www.zhihu.com/question/531245241",
+      "hot_value": 2090000
+    },
+    {
+      "rank": 12,
+      "title": "《三国第一部：争洛阳》上映 16 天官宣撤档，票房未破亿，问题出在哪？改档期会有效吗",
+      "url": "https://www.zhihu.com/question/2064445264405050834",
+      "hot_value": 1850000
+    },
+    {
+      "rank": 13,
+      "title": "詹姆斯降薪 4875 万美元加盟后，费城的阵容如何调整才能避免球权冲突？球队有哪些隐患",
+      "url": "https://www.zhihu.com/question/2064281439982576241",
+      "hot_value": 1820000
+    },
+    {
+      "rank": 14,
+      "title": "梨形身材，大腿小腿超级粗，真的特别想瘦，羡慕那些能穿衣自由的人 ，有没有瘦腿的方法",
+      "url": "https://www.zhihu.com/question/2014727291356349718",
+      "hot_value": 1730000
+    },
+    {
+      "rank": 15,
+      "title": "冉莹颖拳馆项目被疑利益输送，大额项目被指定向内定给亲属体系，这是真的吗？家族式管理模式有哪些风险",
+      "url": "https://www.zhihu.com/question/2063560590417728116",
+      "hot_value": 1680000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Android May Soon Restrict On-Device ADB",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "score": 551,
+      "author": "shscs911",
+      "comments": 258,
+      "hn_url": "https://news.ycombinator.com/item?id=49045159"
+    },
+    {
+      "rank": 2,
+      "title": "The Silurian Hypothesis (2020)",
+      "url": "https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/",
+      "score": 19,
+      "author": "andsoitis",
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=49047563"
+    },
+    {
+      "rank": 3,
+      "title": "My Images Are Dithered",
+      "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
+      "score": 82,
+      "author": "surprisetalk",
+      "comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=49006096"
+    },
+    {
+      "rank": 4,
+      "title": "The Fedora 45 Sausage Factory",
+      "url": "https://supakeen.com/weblog/the-fedora-45-sausage-factory/",
+      "score": 53,
+      "author": "6581",
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49046525"
+    },
+    {
+      "rank": 5,
+      "title": "Spatial languages: Writing code in 2D",
+      "url": "https://shukla.io/blog/2026-07/cccx.html",
+      "score": 32,
+      "author": "BinRoo",
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49007018"
+    },
+    {
+      "rank": 6,
+      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+      "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+      "score": 417,
+      "author": "agnishom",
+      "comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=49043724"
+    },
+    {
+      "rank": 7,
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "score": 1688,
+      "author": "alvis",
+      "comments": 1100,
+      "hn_url": "https://news.ycombinator.com/item?id=49038433"
+    },
+    {
+      "rank": 8,
+      "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
+      "url": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
+      "score": 133,
+      "author": "g0xA52A2A",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=49010993"
+    },
+    {
+      "rank": 9,
+      "title": "NYC Apartment Aquaponics",
+      "url": "https://erinmurphy.dev/projects/project-2/",
+      "score": 119,
+      "author": "mm1119",
+      "comments": 44,
+      "hn_url": "https://news.ycombinator.com/item?id=48979836"
+    },
+    {
+      "rank": 10,
+      "title": "ARC-AGI Leaderboard",
+      "url": "https://arcprize.org/leaderboard",
+      "score": 135,
+      "author": "rzk",
+      "comments": 110,
+      "hn_url": "https://news.ycombinator.com/item?id=49045040"
+    },
+    {
+      "rank": 11,
+      "title": "Charles Ross spent 50 yrs building Star Axis naked-eye observatory in New Mexico",
+      "url": "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html",
+      "score": 61,
+      "author": "ChrisArchitect",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49014034"
+    },
+    {
+      "rank": 12,
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+      "score": 1,
+      "author": "asontha",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49046858"
+    },
+    {
+      "rank": 13,
+      "title": "League of Legends designer shares game design field manual",
+      "url": "https://areadenial.games/design/preface#00-01",
+      "score": 43,
+      "author": "jmanjmanjman",
+      "comments": 28,
+      "hn_url": "https://news.ycombinator.com/item?id=49047198"
+    },
+    {
+      "rank": 14,
+      "title": "Stolen Buttons",
+      "url": "https://anatolyzenkov.com/stolen-buttons",
+      "score": 11,
+      "author": "Gecko4072",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=48976262"
+    },
+    {
+      "rank": 15,
+      "title": "MouthPad: A Tongue-Controlled Touchpad",
+      "url": "https://www.augmental.tech/",
+      "score": 66,
+      "author": "ZaninAndrea",
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49045446"
+    }
+  ]
+}
