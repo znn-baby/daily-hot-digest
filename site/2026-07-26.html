@@ -1,0 +1,770 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Hot Digest | 2026-07-26</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&display=swap" rel="stylesheet" />
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+    --bg-primary: #f0f4fa;
+    --bg-card: rgba(255, 255, 255, 0.55);
+    --border-card: rgba(255, 255, 255, 0.25);
+    --text-primary: #1e293b;
+    --text-secondary: #334155;
+    --text-muted: #64748b;
+    --shadow-card: 0 12px 40px rgba(0, 0, 0, 0.08);
+    --radius-card: 20px;
+    --transition-smooth: cubic-bezier(0.22, 1, 0.36, 1);
+    --color-ai: #f97316;
+    --color-dev: #3b82f6;
+    --color-sys: #22c55e;
+    --color-gadget: #a855f7;
+    --color-opinion: #eab308;
+}
+html { scroll-behavior: smooth; }
+body {
+    font-family: 'Inter', -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+    background: var(--bg-primary); color: var(--text-primary);
+    min-height: 100vh; overflow-x: hidden; line-height: 1.7;
+}
+#bg-canvas { position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 0; pointer-events: none; }
+.container { position: relative; z-index: 2; max-width: 820px; margin: 0 auto; padding: 48px 24px 64px; }
+.header { text-align: center; padding: 24px 0 48px; }
+.header-badge {
+    display: inline-block; background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(8px); border: 1px solid rgba(255, 255, 255, 0.4);
+    padding: 6px 18px; border-radius: 100px; font-size: 12px;
+    font-weight: 600; letter-spacing: 0.5px; color: var(--text-secondary); margin-bottom: 20px; text-transform: uppercase;
+}
+.header h1 {
+    font-size: clamp(40px, 8vw, 68px); font-weight: 800; letter-spacing: -0.03em; line-height: 1.05;
+    color: var(--text-primary);
+    text-shadow: 0 2px 20px rgba(255, 255, 255, 0.5); margin-bottom: 12px;
+}
+.header .sub { font-size: 16px; color: var(--text-secondary); font-weight: 400; letter-spacing: 1px; }
+.header .sub em { font-style: normal; color: var(--text-primary); font-weight: 500; }
+.stats-row { display: flex; justify-content: center; gap: 12px 24px; flex-wrap: wrap; margin-top: 28px; }
+.stats-row .stat-item {
+    background: rgba(255, 255, 255, 0.3); border: 1px solid rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(8px); padding: 8px 22px; border-radius: 100px; font-size: 13px;
+    color: var(--text-secondary); display: flex; align-items: center; gap: 8px;
+}
+.stats-row .stat-item .num { font-weight: 700; font-size: 16px; color: var(--text-primary); font-variant-numeric: tabular-nums; }
+.stats-row .stat-item .label { font-weight: 400; }
+.nav-link {
+    display: inline-block; margin-top: 16px; font-size: 13px;
+    color: var(--text-muted); text-decoration: none;
+    border-bottom: 1px dashed rgba(255,255,255,0.1);
+}
+.nav-link:hover { color: var(--text-secondary); }
+
+/* === 卡片 === */
+.card {
+    background: var(--bg-card); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    border: 1px solid var(--border-card); border-radius: var(--radius-card);
+    padding: 28px 32px; margin-bottom: 20px; box-shadow: var(--shadow-card);
+    transition: transform 0.4s var(--transition-smooth), box-shadow 0.4s var(--transition-smooth), border-color 0.3s ease;
+    opacity: 0; transform: translateY(30px); animation: cardEnter 0.7s var(--transition-smooth) forwards;
+}
+.card:hover { transform: translateY(-4px); box-shadow: 0 20px 48px rgba(0, 0, 0, 0.12); border-color: rgba(255, 255, 255, 0.5); }
+@keyframes cardEnter { to { opacity: 1; transform: translateY(0); } }
+.card:nth-child(1) { animation-delay: 0.05s; }
+.card:nth-child(2) { animation-delay: 0.12s; }
+.card:nth-child(3) { animation-delay: 0.19s; }
+.card:nth-child(4) { animation-delay: 0.26s; }
+.card:nth-child(5) { animation-delay: 0.33s; }
+.card:nth-child(6) { animation-delay: 0.40s; }
+.card:nth-child(7) { animation-delay: 0.47s; }
+.card-header {
+    display: flex; align-items: center; gap: 14px; margin-bottom: 18px;
+    padding-bottom: 14px; border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+.card-header .dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+.card-header .title { font-size: 20px; font-weight: 700; letter-spacing: -0.01em; }
+.card-header .count-badge {
+    margin-left: auto; font-size: 11px; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.5px; color: var(--text-muted); background: rgba(0, 0, 0, 0.04);
+    padding: 2px 14px; border-radius: 100px; border: 1px solid rgba(0, 0, 0, 0.04);
+}
+.card p { font-size: 15px; color: var(--text-secondary); margin-bottom: 10px; line-height: 1.8; }
+.card p:last-child { margin-bottom: 0; }
+.card p .highlight { color: var(--text-primary); font-weight: 500; }
+
+/* === 内联项目标签 === */
+.gh-item {
+    display: inline-flex; align-items: center; gap: 6px; background: rgba(0, 0, 0, 0.04);
+    border: 1px solid rgba(0, 0, 0, 0.06); padding: 1px 12px 1px 8px; border-radius: 100px;
+    font-size: 13px; font-weight: 500; color: var(--text-primary); white-space: nowrap;
+    transition: background 0.2s, border-color 0.2s; margin: 0 2px; text-decoration: none;
+}
+.gh-item:hover { background: rgba(0, 0, 0, 0.08); border-color: rgba(0, 0, 0, 0.12); }
+.gh-item .gh-stars { font-weight: 600; color: var(--color-opinion); font-size: 12px; margin-left: 2px; }
+.gh-item .gh-stars::before { content: '\2605 '; font-weight: 400; }
+
+/* === 引用上标 === */
+.cite { display: inline; font-size: 11px; font-weight: 700; vertical-align: super; line-height: 1; padding: 0 2px; }
+.cite a { text-decoration: none; color: var(--text-muted); transition: color 0.2s; }
+.cite a:hover { color: var(--text-primary); }
+
+/* === 结构化新闻条目 === */
+.card-intro {
+    font-size: 14px; color: var(--text-muted); font-style: italic;
+    margin-bottom: 16px; padding-bottom: 12px;
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+}
+.news-item {
+    padding: 14px 0; border-bottom: 1px solid rgba(255,255,255,0.04);
+}
+.news-item:last-child { border-bottom: none; padding-bottom: 0; }
+.news-item:first-of-type { padding-top: 4px; }
+.news-item-title {
+    font-size: 15px; font-weight: 600; color: var(--text-primary);
+    margin-bottom: 4px; display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap;
+}
+.news-item-title .item-name { font-weight: 700; }
+.news-item-desc { font-size: 14px; color: var(--text-secondary); line-height: 1.7; margin-bottom: 4px; }
+.news-item-note {
+    font-size: 13px; color: var(--text-muted); font-style: italic;
+    padding-left: 12px; border-left: 2px solid rgba(255,255,255,0.08);
+    margin-top: 4px;
+}
+.news-item-cites { display: inline-flex; gap: 4px; margin-left: auto; }
+.news-item-cites .cite a {
+    background: rgba(255,255,255,0.06); padding: 1px 6px; border-radius: 4px;
+    font-size: 10px; font-weight: 600;
+}
+.news-item-cites .cite a:hover { background: rgba(255,255,255,0.12); color: var(--text-primary); }
+
+/* === 溯源索引 === */
+.source-index {
+    background: var(--bg-card); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    border: 1px solid var(--border-card); border-radius: var(--radius-card);
+    padding: 28px 32px; margin-top: 32px; box-shadow: var(--shadow-card);
+    opacity: 0; transform: translateY(30px); animation: cardEnter 0.7s var(--transition-smooth) 0.4s forwards;
+}
+.source-index h2 {
+    font-size: 18px; font-weight: 700; margin-bottom: 24px;
+    padding-bottom: 14px; border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    letter-spacing: -0.01em; color: var(--text-primary);
+}
+.source-group { margin-bottom: 24px; }
+.source-group:last-child { margin-bottom: 0; }
+.source-group-title {
+    font-size: 12px; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 1.2px; color: var(--text-muted); margin-bottom: 10px;
+}
+.source-list { list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 4px 16px; }
+@media (max-width: 600px) { .source-list { grid-template-columns: 1fr; } }
+.source-list li {
+    font-size: 14px; padding: 6px 0; display: flex; align-items: center; gap: 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.03);
+}
+.source-list li .num {
+    flex-shrink: 0; display: inline-flex; align-items: center; justify-content: center;
+    width: 22px; height: 22px; border-radius: 50%; font-size: 10px; font-weight: 700;
+    color: #fff; background: rgba(0, 0, 0, 0.2);
+}
+.source-list li a { color: var(--text-secondary); text-decoration: none; transition: color 0.2s; font-weight: 500; font-size: 13px; }
+.source-list li a:hover { color: var(--text-primary); }
+.source-list li .desc { color: var(--text-muted); font-size: 12px; font-weight: 400; }
+
+/* === Tab 切换 === */
+.view-tabs {
+    display: flex; justify-content: center; gap: 8px; margin: 24px 0 28px;
+}
+.view-tab {
+    padding: 8px 24px; border-radius: 100px; font-size: 13px; font-weight: 600;
+    cursor: pointer; border: 1px solid rgba(255,255,255,0.3);
+    background: rgba(255,255,255,0.25); backdrop-filter: blur(8px);
+    color: var(--text-muted); transition: all 0.3s ease; letter-spacing: 0.3px;
+    user-select: none;
+}
+.view-tab:hover { background: rgba(255,255,255,0.4); color: var(--text-secondary); }
+.view-tab.active {
+    background: rgba(255,255,255,0.65); color: var(--text-primary);
+    border-color: rgba(255,255,255,0.5); box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+}
+
+/* === Footer === */
+.footer {
+    text-align: center; margin-top: 40px; font-size: 12px; color: var(--text-muted);
+    letter-spacing: 0.3px; border-top: 1px solid rgba(0, 0, 0, 0.05); padding-top: 28px;
+}
+.footer a { color: var(--text-muted); text-decoration: none; }
+.footer a:hover { color: var(--text-secondary); }
+.footer .heart { color: var(--color-ai); display: inline-block; animation: heartBeat 2s ease-in-out infinite; }
+@keyframes heartBeat { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.2); } }
+
+/* === 动态颜色类 === */
+.dot-ai { background: var(--color-ai); }
+.num-ai { background: var(--color-ai); }
+.highlight-ai { color: var(--color-ai); }
+.dot-dev { background: var(--color-dev); }
+.num-dev { background: var(--color-dev); }
+.highlight-dev { color: var(--color-dev); }
+.dot-sys { background: var(--color-sys); }
+.num-sys { background: var(--color-sys); }
+.highlight-sys { color: var(--color-sys); }
+.dot-gadget { background: var(--color-gadget); }
+.num-gadget { background: var(--color-gadget); }
+.highlight-gadget { color: var(--color-gadget); }
+.dot-opinion { background: var(--color-opinion); }
+.num-opinion { background: var(--color-opinion); }
+.highlight-opinion { color: var(--color-opinion); }
+.dot-security { background: var(--color-security); }
+.num-security { background: var(--color-security); }
+.highlight-security { color: var(--color-security); }
+.dot-web { background: var(--color-web); }
+.num-web { background: var(--color-web); }
+.highlight-web { color: var(--color-web); }
+
+/* === 响应式 === */
+@media (max-width: 640px) {
+    .container { padding: 24px 16px 40px; }
+    .card { padding: 20px 18px; border-radius: 16px; }
+    .source-index { padding: 20px 18px; }
+    .card-header .title { font-size: 17px; }
+    .card p { font-size: 14px; }
+    .stats-row .stat-item { padding: 6px 14px; font-size: 12px; }
+    .gh-item { font-size: 12px; padding: 1px 10px 1px 6px; }
+    .header h1 { font-size: 32px; }
+    .source-list li a { font-size: 12px; }
+}
+
+/* === 滚动条 === */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(0, 0, 0, 0.15); border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(0, 0, 0, 0.25); }
+
+/* === 触摸设备 === */
+@media (hover: none) {
+    .card:hover { transform: none; box-shadow: var(--shadow-card); }
+    .gh-item:hover { background: rgba(0, 0, 0, 0.04); border-color: rgba(0, 0, 0, 0.06); }
+}
+</style>
+</head>
+<body>
+<canvas id="bg-canvas"></canvas>
+<div class="container">
+    <header class="header">
+        <div class="header-badge">&#10022; 晴空 &middot; 每日信号</div>
+        <h1>Daily Hot Digest</h1>
+        <div class="sub">2026 年 7 月 26 日 · 星期日 &nbsp;&middot;&nbsp; <em>20 条内容</em></div>
+        <div class="stats-row">
+            <span class="stat-item"><span class="num" data-target="6">0</span><span class="label">信息源</span></span>
+            <span class="stat-item"><span class="num" data-target="4">0</span><span class="label">分类</span></span>
+            <span class="stat-item"><span class="num" data-target="20">0</span><span class="label">条目</span></span>
+        </div>
+        <a class="nav-link" href="index.html">&larr; 查看所有日期</a>
+    </header>
+
+<div class="view-tabs"><div class="view-tab active" data-view="ai">AI 简报</div><div class="view-tab" data-view="raw">信息源</div></div>
+
+<div id="view-ai" style="">
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-ai"></span>
+      <span class="title"><span class="highlight-ai">AI 智能体与开发工具</span></span>
+    </div>
+    <p>今天 GitHub 上 AI 工具又炸了。Citrolabs 发布的 ego-lite<span class="cite"><a href="#src1">[1]</a></span> 是个超快的浏览器，专为 AI 代理跑 Web 自动化设计，能把你的登录状态安全共享给 Claude 等模型，而且完全免费无配置，这对开发者太友好了。OtterMind 的 Chat2DB<span class="cite"><a href="#src2">[2]</a></span> 也是个猛货，号称 hottest GUI client，支持 MySQL、PostgreSQL 等超多数据库，直接用 AI 驱动交互，搞数据库的朋友快去试试。Alibaba 的 open-code-review<span class="cite"><a href="#src3">[3]</a></span> 也值得关注，这是阿里开源的混合架构代码审查工具，结合确定性管道和 LLM Agent，能精准找出 NPE、SQL 注入等问题，免费且经过大规模实战检验。</p><p>Lobsters</p><p>社区今天关于“内存安全绝对主义者”的讨论挺有深度的，大家还在争论 Rust 和 Zig 的激进路线是否适合所有场景。另外，看到 Chrome 突然注册了全局快捷键来弹出 Gemini 窗口<span class="cite"><a href="#src4">[4]</a></span>，这种浏览器层面的强制介入让人有点无语，感觉用户控制权在变弱。</p><p>少数派那边则报道了 Acrab 发布了边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box<span class="cite"><a href="#src5">[5]</a></span>，这种软硬结合的尝试很有看点，不知道落地效果如何。</p>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-os"></span>
+      <span class="title"><span class="highlight-os">系统与底层技术</span></span>
+    </div>
+    <p>底层技术这块今天动静不小。GitHub 上 Node.js 主仓库依旧稳如泰山，而 block/buzz<span class="cite"><a href="#src6">[6]</a></span> 这个蜂巢思维通信平台也挺有意思，尝试用分布式理念做协作。</p><p>Lobsters 上关于“要不要重新审视微内核”的讨论<span class="cite"><a href="#src7">[7]</a></span> 引发了不少怀旧，毕竟微内核虽然理论完美，但历史上坑太多。还有那个 stinkpot 项目<span class="cite"><a href="#src8">[8]</a></span>，用 SQLite 做 shell 历史存储，这种轻量级方案在嵌入式或极简系统里可能很有用。</p><p>少数派的文章《看不见、摸得着的家居要素：聊聊湿度管理的方法与实践》<span class="cite"><a href="#src9">[9]</a></span> 虽然不在纯技术范畴，但涉及物理环境对电子设备的潜在影响，搞运维的也可以参考下，毕竟湿度大了服务器容易短路。</p>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-efficiency"></span>
+      <span class="title"><span class="highlight-efficiency">效率工具与数码生活</span></span>
+    </div>
+    <p>效率工具方面，GitHub 上 CoreBunch 推出的 Instatic<span class="cite"><a href="#src10">[10]</a></span> 是个 Open Source 版的 Webflow/Framer，自托管的视觉 CMS，输出静态页面，这招以静制动在降本增效上很实用。yorukot/superfile<span class="cite"><a href="#src11">[11]</a></span> 也是个很精致的现代终端文件管理器，界面清爽，命令行党应该会喜欢。</p><p>Lobsters 有个帖子说 Android 可能 soon 限制设备上的 ADB 访问<span class="cite"><a href="#src12">[12]</a></span>，这对依赖 Shizuku 和 libadb 的开发者简直是噩耗，搞自动化脚本的朋友必须关注这个动态。</p><p>少数派最近发了不少数码相关的，比如《角落新声｜数字与实体、有线与无线：我的多场景有声角落构建》<span class="cite"><a href="#src13">[13]</a></span> 和《小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈》<span class="cite"><a href="#src14">[14]</a></span>，还有《新玩意 247｜</p><p>少数派的编辑们最近买了啥？》<span class="cite"><a href="#src15">[15]</a></span>，这些内容对想提升生活品质的用户很实用，尤其是那些关于固定回购清单的讨论，能帮大家避坑。</p>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-thought"></span>
+      <span class="title"><span class="highlight-thought">思考与观点</span></span>
+    </div>
+    <p>今天的内容里观点类挺多。GitHub 上的 shiyu-coder/Kronos<span class="cite"><a href="#src16">[16]</a></span> 是专门针对金融市场语言的基础模型，金融量化圈的算法工程师可以关注下。</p><p>Lobsters 上有一篇《How I Find Problems to Solve as a Staff Engineer》<span class="cite"><a href="#src17">[17]</a></span>，讲的是资深工程师如何定位问题，这对职业发展中期的朋友很有启发。还有《Your harddrive is probably full》<span class="cite"><a href="#src18">[18]</a></span> 这种文化类帖子，提醒我们注意存储优化。</p><p>少数派也有一篇《派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等》<span class="cite"><a href="#src19">[19]</a></span>，虽然偏新闻，但反映了硬件迭代的速度。另外，关于“记忆安全绝对主义者”的讨论<span class="cite"><a href="#src20">[20]</a></span> 其实也触及了计算机科学的哲学层面：安全到底应该由语言保证还是由编译器/运行时保证？这个辩论很经典。</p>
+  </div>
+
+</div>
+
+<div id="view-raw" style="display:none;">
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-dev"></span>
+      <span class="title"><span class="highlight-dev">GitHub</span> Trending</span>
+      <span class="count-badge">15 repos</span>
+    </div>
+    <p><a class="gh-item" href="https://github.com/permissionlesstech/bitchat" target="_blank">permissionlesstech/bitchat<span class="gh-stars" data-repo="permissionlesstech/bitchat">29,556</span></a>
+<a class="gh-item" href="https://github.com/citrolabs/ego-lite" target="_blank">citrolabs/ego-lite<span class="gh-stars" data-repo="citrolabs/ego-lite">4,151</span></a>
+<a class="gh-item" href="https://github.com/block/buzz" target="_blank">block/buzz<span class="gh-stars" data-repo="block/buzz">12,771</span></a>
+<a class="gh-item" href="https://github.com/pingdotgg/t3code" target="_blank">pingdotgg/t3code<span class="gh-stars" data-repo="pingdotgg/t3code">14,955</span></a>
+<a class="gh-item" href="https://github.com/CoreBunch/Instatic" target="_blank">CoreBunch/Instatic<span class="gh-stars" data-repo="CoreBunch/Instatic">5,444</span></a>
+<a class="gh-item" href="https://github.com/yorukot/superfile" target="_blank">yorukot/superfile<span class="gh-stars" data-repo="yorukot/superfile">20,018</span></a>
+<a class="gh-item" href="https://github.com/nodejs/node" target="_blank">nodejs/node<span class="gh-stars" data-repo="nodejs/node">118,409</span></a>
+<a class="gh-item" href="https://github.com/OtterMind/Chat2DB" target="_blank">OtterMind/Chat2DB<span class="gh-stars" data-repo="OtterMind/Chat2DB">26,939</span></a>
+<a class="gh-item" href="https://github.com/pbakaus/impeccable" target="_blank">pbakaus/impeccable<span class="gh-stars" data-repo="pbakaus/impeccable">50,370</span></a>
+<a class="gh-item" href="https://github.com/shiyu-coder/Kronos" target="_blank">shiyu-coder/Kronos<span class="gh-stars" data-repo="shiyu-coder/Kronos">34,020</span></a>
+<a class="gh-item" href="https://github.com/alibaba/open-code-review" target="_blank">alibaba/open-code-review<span class="gh-stars" data-repo="alibaba/open-code-review">13,536</span></a>
+<a class="gh-item" href="https://github.com/andrewyng/aisuite" target="_blank">andrewyng/aisuite<span class="gh-stars" data-repo="andrewyng/aisuite">15,336</span></a>
+<a class="gh-item" href="https://github.com/anthropics/claude-cookbooks" target="_blank">anthropics/claude-cookbooks<span class="gh-stars" data-repo="anthropics/claude-cookbooks">50,097</span></a>
+<a class="gh-item" href="https://github.com/Pumpkin-MC/Pumpkin" target="_blank">Pumpkin-MC/Pumpkin<span class="gh-stars" data-repo="Pumpkin-MC/Pumpkin">9,873</span></a>
+<a class="gh-item" href="https://github.com/permissionlesstech/bitchat-android" target="_blank">permissionlesstech/bitchat-android<span class="gh-stars" data-repo="permissionlesstech/bitchat-android">6,465</span></a>
+</p>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-sys"></span>
+      <span class="title"><span class="highlight-sys">Lobsters</span> 热帖</span>
+      <span class="count-badge">15 topics</span>
+    </div>
+    <ul style="list-style:none;padding:0;"><li style="margin-bottom:6px;"><a href="https://refp.se/articles/your-shell-and-the-magic-colon" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">A shell colon does nothing. Use it anyway</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">programming</span></li>
+<li style="margin-bottom:6px;"><a href="https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Maybe we should revisit microkernels</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">osdev</span></li>
+<li style="margin-bottom:6px;"><a href="https://itsallaboutthebit.com/memory-safety-absolutists/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Memory Safety Absolutists</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">c</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">rust</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">zig</span></li>
+<li style="margin-bottom:6px;"><a href="https://tangled.org/oppi.li/stinkpot" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">stinkpot: sqlite-backed shell history</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">show</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">go</span></li>
+<li style="margin-bottom:6px;"><a href="https://fosstodon.org/@pimalaya/116983467890532240" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Himalaya v2.0.0: CLI to manage emails</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">email</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">release</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">rust</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">vibecoding</span></li>
+<li style="margin-bottom:6px;"><a href="https://lalitm.com/post/find-problems-staff-engineer/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">How I Find Problems to Solve as a Staff Engineer</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">practices</span></li>
+<li style="margin-bottom:6px;"><a href="https://zigbyexample.neocities.org/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Zig by Example</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">zig</span></li>
+<li style="margin-bottom:6px;"><a href="https://vimuser.org/l2tp.html" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">How to self-host servers in your living room on static IPs</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">networking</span></li>
+<li style="margin-bottom:6px;"><a href="https://www.marginalia.nu/log/a_139_hdd/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Your harddrive is probably full</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">culture</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">performance</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">practices</span></li>
+<li style="margin-bottom:6px;"><a href="https://www.youtube.com/watch?v=9Cswiqrq6So" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Xavier Leroy on programming, languages and formal verification</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">video</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">formalmethods</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">ml</span></li>
+<li style="margin-bottom:6px;"><a href="https://youtube.com/watch?v=ebqKYLKjL6U" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Verse: A New Scripting Language</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">video</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">logiclangs</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">plt</span></li>
+<li style="margin-bottom:6px;"><a href="https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">android</span></li>
+<li style="margin-bottom:6px;"><a href="https://www.youtube.com/watch?v=eXGKK8BkCkg" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Beginner J: Dealing Cards</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">video</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">apl</span></li>
+<li style="margin-bottom:6px;"><a href="https://unsung.aresluna.org/chromes-breaking-and-entering/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Chrome registers a global shortcut for Gemini popup window</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">browsers</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">mac</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">windows</span></li>
+<li style="margin-bottom:6px;"><a href="https://www.youtube.com/watch?v=8mwKq7_JlS8" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Dmitri Gaskin on jQuery</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">video</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">javascript</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">retrocomputing</span></li>
+</ul>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-gadget"></span>
+      <span class="title"><span class="highlight-gadget">少数派</span>精选</span>
+      <span class="count-badge">12 articles</span>
+    </div>
+    <ul style="list-style:none;padding:0;"><li style="margin-bottom:6px;"><a href="https://sspai.com/post/112421" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">手冲咖啡指北：天太热了，来做一杯不寡淡的冰手冲吧一群小羊说15:28</a> <span style="color:var(--text-muted);font-size:12px;">(一群小羊说)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112093" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">看不见、摸得着的家居要素：聊聊湿度管理的方法与实践kokdemo昨天 11:09Matrix精选</a> <span style="color:var(--text-muted);font-size:12px;">(kokdemo)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112692" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">本周看什么 | 最近值得一看的 13 部作品少数派编辑部前天 17:38</a> <span style="color:var(--text-muted);font-size:12px;">(少数派编辑部)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112232" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">角落新声｜数字与实体、有线与无线：我的多场景有声角落构建程天冲前天 15:00</a> <span style="color:var(--text-muted);font-size:12px;">(程天冲)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112679" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">赛博对话｜对话潘玮哲x老麦煮机：电子产品在悄悄变贵！老麦前天 11:00视频</a> <span style="color:var(--text-muted);font-size:12px;">(老麦)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/bullet/1783932697" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情</a> <span style="color:var(--text-muted);font-size:12px;">(一派讨论)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112677" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等少数派编辑部前天 08:33派早报</a> <span style="color:var(--text-muted);font-size:12px;">(少数派编辑部)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112668" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">新玩意 247｜少数派的编辑们最近买了啥？少数派编辑部07/23</a> <span style="color:var(--text-muted);font-size:12px;">(少数派编辑部)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112428" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈Microhoo07/23</a> <span style="color:var(--text-muted);font-size:12px;">(Microhoo)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/111300" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">让 Windows 顺眼又省心：我的新设备配置经验Cyanrel07/23Matrix精选</a> <span style="color:var(--text-muted);font-size:12px;">(Cyanrel)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112647" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等少数派编辑部07/23派早报</a> <span style="color:var(--text-muted);font-size:12px;">(少数派编辑部)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/bullet/1783307199" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">聊聊你手机背面的「磁吸配件」？一派投票点击了解详情</a> <span style="color:var(--text-muted);font-size:12px;">(一派投票)</span></li>
+</ul>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-opinion"></span>
+      <span class="title"><span class="highlight-opinion">微博</span>热搜</span>
+      <span class="count-badge">15 topics</span>
+    </div>
+    <ul style="list-style:none;padding:0;"><li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%99%AF%E5%8C%BA%E6%B3%A5%E7%9F%B3%E6%B5%81" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">四川九寨沟景区泥石流</a> <span style="color:var(--text-muted);font-size:12px;">850,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E6%96%B0%E4%BA%A7%E4%B8%9A%E8%B7%91%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%8A%A0%E9%80%9F%E5%BA%A6" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">新产业跑出中国加速度</a> <span style="color:var(--text-muted);font-size:12px;">690,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%90%91AI%E5%80%BE%E6%B3%BB%E5%BF%83%E4%BA%8B" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">不要长期向AI倾泻心事</a> <span style="color:var(--text-muted);font-size:12px;">650,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E5%B7%B2%E7%BB%8F%E5%8F%91%E5%B1%95%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%E5%90%97" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">杭州已经发展成这样了吗</a> <span style="color:var(--text-muted);font-size:12px;">640,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E5%A9%B4%E5%84%BF%E6%98%AF%E5%90%A6%E7%9F%A5%E9%81%93%E8%B0%81%E6%98%AF%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A6%88%E5%A6%88" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">婴儿是否知道谁是自己的妈妈</a> <span style="color:var(--text-muted);font-size:12px;">630,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%95%85%E5%AE%AB%E6%9C%AA%E6%8E%88%E6%9D%83%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BB%A3%E6%8A%A2%E9%97%A8%E7%A5%A8" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">官方辟谣故宫未授权第三方代抢门票</a> <span style="color:var(--text-muted);font-size:12px;">620,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E6%AD%BB%E4%BA%A1%E5%A5%B3%E7%AB%A5%E5%8E%9F%E6%9C%AC%E5%8F%AA%E6%98%AF%E8%AE%A4%E7%9F%A5%E5%8F%91%E8%82%B2%E8%BF%9F%E7%BC%93" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">基因编辑死亡女童原本只是认知发育迟缓</a> <span style="color:var(--text-muted);font-size:12px;">610,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%9B%9E%E5%A4%8D%E4%BB%98%E8%BE%9B%E5%8D%9A" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">张凌赫回复付辛博</a> <span style="color:var(--text-muted);font-size:12px;">540,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E6%99%9A%E9%A5%AD%E5%90%8E%E6%9C%80%E5%A5%BD%E7%9A%84%E8%80%97%E7%B3%96%E8%BF%90%E5%8A%A8" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">晚饭后最好的耗糖运动</a> <span style="color:var(--text-muted);font-size:12px;">510,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E6%9D%80%E5%A4%A7%E7%BB%93%E5%B1%80" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">百花杀大结局</a> <span style="color:var(--text-muted);font-size:12px;">360,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%9C%89%E6%AF%92%E5%85%BB%E7%94%9F%E7%A5%9E%E8%8D%AF" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">央视曝光有毒养生神药</a> <span style="color:var(--text-muted);font-size:12px;">360,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E7%8E%8B%E5%BB%BA%E9%9A%86%E5%8E%BB%E4%B8%96" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">演员王建隆去世</a> <span style="color:var(--text-muted);font-size:12px;">350,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%AE%A9%E7%B2%89%E4%B8%9D%E8%BF%9B%E9%85%92%E5%BA%97%E7%9C%8B%E5%87%BA%E5%A6%86" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">鞠婧祎让粉丝进酒店看出妆</a> <span style="color:var(--text-muted);font-size:12px;">350,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%AF%B7%E5%81%87%E6%98%AF%E4%B8%8D%E9%9C%80%E8%A6%81%E7%90%86%E7%94%B1%E7%9A%84" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">原来请假是不需要理由的</a> <span style="color:var(--text-muted);font-size:12px;">350,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E6%9B%9D%E5%88%98%E5%AE%87%E5%AE%81%E6%9B%BE%E8%87%AA%E7%A7%B0%E6%98%AF87%E5%B9%B4%E7%9A%84" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">曝刘宇宁曾自称是87年的</a> <span style="color:var(--text-muted);font-size:12px;">350,000</span></li>
+</ul>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-opinion"></span>
+      <span class="title"><span class="highlight-opinion">知乎</span>热榜</span>
+      <span class="count-badge">15 topics</span>
+    </div>
+    <ul style="list-style:none;padding:0;"><li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2064578743788745259" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">如何看待数码博主极客湾最新一期的《续航大横评》？这会给国产手机厂商和市场带来什么样的影响</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2064783855282643631" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">甘肃渭源一景区山洪已致 10 人遇难，23 人受伤，现场情况如何？哪些信息值得关注</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2061413101283586667" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">如何评价章笛沙执导，黄渤、吴磊、高叶等主演的电影《群星闪耀时》</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2063564177688597653" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">郑州银行利润  18.95 亿却不分红，将 3.37 亿砸进总部大楼建设，中小股东的反对票说明了什么</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2064659826584690831" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">如何看待张煜东在训练场录音曝光后发布的澄清声明</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/7803569929" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">为什么大多数成年人一旦学会游泳就只想连续游，不再关注技术动作</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2063915578427963194" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2064123998942901167" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">宁德时代上半年日赚 2.39 亿元，拟 200-400 亿元回购股份注销，创下 A 股历史纪录，如何解读</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2063932194024681825" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">段永平称 10 年内大概率不会卖泡泡玛特？十年后的泡泡玛特会是什么样子</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2063983566564987357" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">现实里空手夺刀的成功率到底有多高</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/358666124" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">人类的指甲在生活中看起来好像并没有什么实际的价值，为什么这么长时间也没有退化呢</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2063668726759691526" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">亚运短跑冠军体脂低于 10%，退役不到一年查出三高和脂肪肝，这是什么原因</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2063618291311105996" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">古代没冰箱，肉怎么保存</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/1995555700441634403" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">如果没有出现四大天王，香港乐坛能否敌得过台湾乐坛</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2064467113771791028" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持</a></li>
+</ul>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-dev"></span>
+      <span class="title"><span class="highlight-dev">Hacker</span> News</span>
+      <span class="count-badge">15 stories</span>
+    </div>
+    <ul style="list-style:none;padding:0;"><li style="margin-bottom:6px;"><a href="https://pkg.go.dev/golang.org/x/tools/go/analysis" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Go Analysis Framework: modular static analysis by go team</a> <span style="color:var(--text-muted);font-size:12px;">73 pts · 6 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://astral.sh/blog/ruff-v0.16.0" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Ruff v0.16.0 – Significant new updates – 413 default rules up from 59</a> <span style="color:var(--text-muted);font-size:12px;">225 pts · 128 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake</a> <span style="color:var(--text-muted);font-size:12px;">154 pts · 80 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">GrapheneOS protections against data extraction from locked devices</a> <span style="color:var(--text-muted);font-size:12px;">235 pts · 119 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">I learned PCB design, 3D printing and C just to listen to music</a> <span style="color:var(--text-muted);font-size:12px;">53 pts · 5 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">What's Under Your Feet in New York City?</a> <span style="color:var(--text-muted);font-size:12px;">37 pts · 1 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://refp.se/articles/your-shell-and-the-magic-colon" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">A shell colon does nothing. Use it anyway</a> <span style="color:var(--text-muted);font-size:12px;">310 pts · 127 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Park by Robot at London Gatwick Airport</a> <span style="color:var(--text-muted);font-size:12px;">4 pts · 0 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://english.mapn.ro/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Third Drone Shot Down in Three Days in Romanian Territory</a> <span style="color:var(--text-muted);font-size:12px;">152 pts · 144 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">The new rules of context engineering for Claude 5 generation models</a> <span style="color:var(--text-muted);font-size:12px;">407 pts · 297 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://blog.ktz.me/esp32-plane-radar/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">An ESP32 based plane radar for my desk</a> <span style="color:var(--text-muted);font-size:12px;">212 pts · 42 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]</a> <span style="color:var(--text-muted);font-size:12px;">208 pts · 159 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://huggingface.co/owensong/Inflect-Micro-v2" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Inflect-Micro-v2: complete voice in 9.36M parameters</a> <span style="color:var(--text-muted);font-size:12px;">175 pts · 14 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home</a> <span style="color:var(--text-muted);font-size:12px;">122 pts · 41 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://golfcoursebrowser.com/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Show HN: I mapped every US golf course</a> <span style="color:var(--text-muted);font-size:12px;">177 pts · 112 comments</span></li>
+</ul>
+  </div>
+
+</div>
+
+    <div class="source-index" id="source-index" style="">
+        <h2>&#9114; 溯源索引</h2>
+    <div class="source-group">
+      <div class="source-group-title">GitHub Trending</div>
+      <ul class="source-list">
+        <li id="src1"><span class="num num-dev">1</span><a href="https://github.com/permissionlesstech/bitchat" target="_blank">permissionlesstech/bitchat</a> <span class="desc">— bluetooth mesh chat, IRC vibes</span></li>
+        <li id="src2"><span class="num num-dev">2</span><a href="https://github.com/citrolabs/ego-lite" target="_blank">citrolabs/ego-lite</a> <span class="desc">— The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.</span></li>
+        <li id="src3"><span class="num num-dev">3</span><a href="https://github.com/block/buzz" target="_blank">block/buzz</a> <span class="desc">— A hive mind communication platform</span></li>
+        <li id="src4"><span class="num num-dev">4</span><a href="https://github.com/pingdotgg/t3code" target="_blank">pingdotgg/t3code</a> <span class="desc">— </span></li>
+        <li id="src5"><span class="num num-dev">5</span><a href="https://github.com/CoreBunch/Instatic" target="_blank">CoreBunch/Instatic</a> <span class="desc">— The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.</span></li>
+        <li id="src6"><span class="num num-dev">6</span><a href="https://github.com/yorukot/superfile" target="_blank">yorukot/superfile</a> <span class="desc">— Pretty fancy and modern terminal file manager</span></li>
+        <li id="src7"><span class="num num-dev">7</span><a href="https://github.com/nodejs/node" target="_blank">nodejs/node</a> <span class="desc">— Node.js JavaScript runtime ✨🐢🚀✨</span></li>
+        <li id="src8"><span class="num num-dev">8</span><a href="https://github.com/OtterMind/Chat2DB" target="_blank">OtterMind/Chat2DB</a> <span class="desc">— 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.</span></li>
+        <li id="src9"><span class="num num-dev">9</span><a href="https://github.com/pbakaus/impeccable" target="_blank">pbakaus/impeccable</a> <span class="desc">— The design language that makes your AI harness better at design.</span></li>
+        <li id="src10"><span class="num num-dev">10</span><a href="https://github.com/shiyu-coder/Kronos" target="_blank">shiyu-coder/Kronos</a> <span class="desc">— Kronos: A Foundation Model for the Language of Financial Markets</span></li>
+        <li id="src11"><span class="num num-dev">11</span><a href="https://github.com/alibaba/open-code-review" target="_blank">alibaba/open-code-review</a> <span class="desc">— Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.</span></li>
+        <li id="src12"><span class="num num-dev">12</span><a href="https://github.com/andrewyng/aisuite" target="_blank">andrewyng/aisuite</a> <span class="desc">— Simple, unified interface to multiple Generative AI providers</span></li>
+        <li id="src13"><span class="num num-dev">13</span><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">anthropics/claude-cookbooks</a> <span class="desc">— A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</span></li>
+        <li id="src14"><span class="num num-dev">14</span><a href="https://github.com/Pumpkin-MC/Pumpkin" target="_blank">Pumpkin-MC/Pumpkin</a> <span class="desc">— Empowering everyone to host fast and efficient Minecraft servers.</span></li>
+        <li id="src15"><span class="num num-dev">15</span><a href="https://github.com/permissionlesstech/bitchat-android" target="_blank">permissionlesstech/bitchat-android</a> <span class="desc">— bluetooth mesh chat, IRC vibes</span></li>
+      </ul>
+    </div>
+    <div class="source-group">
+      <div class="source-group-title">Lobsters</div>
+      <ul class="source-list">
+        <li id="src16"><span class="num num-sys">16</span><a href="https://refp.se/articles/your-shell-and-the-magic-colon" target="_blank">A shell colon does nothing. Use it anyway</a> <span class="desc">— programming</span></li>
+        <li id="src17"><span class="num num-sys">17</span><a href="https://notes.hella.cheap/maybe-we-should-revisit-microkernels.html" target="_blank">Maybe we should revisit microkernels</a> <span class="desc">— osdev</span></li>
+        <li id="src18"><span class="num num-sys">18</span><a href="https://itsallaboutthebit.com/memory-safety-absolutists/" target="_blank">Memory Safety Absolutists</a> <span class="desc">— c, rust, zig</span></li>
+        <li id="src19"><span class="num num-sys">19</span><a href="https://tangled.org/oppi.li/stinkpot" target="_blank">stinkpot: sqlite-backed shell history</a> <span class="desc">— show, go</span></li>
+        <li id="src20"><span class="num num-sys">20</span><a href="https://fosstodon.org/@pimalaya/116983467890532240" target="_blank">Himalaya v2.0.0: CLI to manage emails</a> <span class="desc">— email, release, rust, vibecoding</span></li>
+        <li id="src21"><span class="num num-sys">21</span><a href="https://lalitm.com/post/find-problems-staff-engineer/" target="_blank">How I Find Problems to Solve as a Staff Engineer</a> <span class="desc">— practices</span></li>
+        <li id="src22"><span class="num num-sys">22</span><a href="https://zigbyexample.neocities.org/" target="_blank">Zig by Example</a> <span class="desc">— zig</span></li>
+        <li id="src23"><span class="num num-sys">23</span><a href="https://vimuser.org/l2tp.html" target="_blank">How to self-host servers in your living room on static IPs</a> <span class="desc">— networking</span></li>
+        <li id="src24"><span class="num num-sys">24</span><a href="https://www.marginalia.nu/log/a_139_hdd/" target="_blank">Your harddrive is probably full</a> <span class="desc">— culture, performance, practices</span></li>
+        <li id="src25"><span class="num num-sys">25</span><a href="https://www.youtube.com/watch?v=9Cswiqrq6So" target="_blank">Xavier Leroy on programming, languages and formal verification</a> <span class="desc">— video, formalmethods, ml</span></li>
+        <li id="src26"><span class="num num-sys">26</span><a href="https://youtube.com/watch?v=ebqKYLKjL6U" target="_blank">Verse: A New Scripting Language</a> <span class="desc">— video, logiclangs, plt</span></li>
+        <li id="src27"><span class="num num-sys">27</span><a href="https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/" target="_blank">Android May Soon Restrict On-Device ADB, Affecting Shizuku, libadb and Developers</a> <span class="desc">— android</span></li>
+        <li id="src28"><span class="num num-sys">28</span><a href="https://www.youtube.com/watch?v=eXGKK8BkCkg" target="_blank">Beginner J: Dealing Cards</a> <span class="desc">— video, apl</span></li>
+        <li id="src29"><span class="num num-sys">29</span><a href="https://unsung.aresluna.org/chromes-breaking-and-entering/" target="_blank">Chrome registers a global shortcut for Gemini popup window</a> <span class="desc">— browsers, mac, windows</span></li>
+        <li id="src30"><span class="num num-sys">30</span><a href="https://www.youtube.com/watch?v=8mwKq7_JlS8" target="_blank">Dmitri Gaskin on jQuery</a> <span class="desc">— video, javascript, retrocomputing</span></li>
+      </ul>
+    </div>
+    <div class="source-group">
+      <div class="source-group-title">少数派</div>
+      <ul class="source-list">
+        <li id="src31"><span class="num num-gadget">31</span><a href="https://sspai.com/post/112421" target="_blank">手冲咖啡指北：天太热了，来做一杯不寡淡的冰手冲吧一群小羊说15:28</a> <span class="desc">— 一群小羊说</span></li>
+        <li id="src32"><span class="num num-gadget">32</span><a href="https://sspai.com/post/112093" target="_blank">看不见、摸得着的家居要素：聊聊湿度管理的方法与实践kokdemo昨天 11:09Matrix精选</a> <span class="desc">— kokdemo</span></li>
+        <li id="src33"><span class="num num-gadget">33</span><a href="https://sspai.com/post/112692" target="_blank">本周看什么 | 最近值得一看的 13 部作品少数派编辑部前天 17:38</a> <span class="desc">— 少数派编辑部</span></li>
+        <li id="src34"><span class="num num-gadget">34</span><a href="https://sspai.com/post/112232" target="_blank">角落新声｜数字与实体、有线与无线：我的多场景有声角落构建程天冲前天 15:00</a> <span class="desc">— 程天冲</span></li>
+        <li id="src35"><span class="num num-gadget">35</span><a href="https://sspai.com/post/112679" target="_blank">赛博对话｜对话潘玮哲x老麦煮机：电子产品在悄悄变贵！老麦前天 11:00视频</a> <span class="desc">— 老麦</span></li>
+        <li id="src36"><span class="num num-gadget">36</span><a href="https://sspai.com/bullet/1783932697" target="_blank">聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情</a> <span class="desc">— 一派讨论</span></li>
+        <li id="src37"><span class="num num-gadget">37</span><a href="https://sspai.com/post/112677" target="_blank">派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等少数派编辑部前天 08:33派早报</a> <span class="desc">— 少数派编辑部</span></li>
+        <li id="src38"><span class="num num-gadget">38</span><a href="https://sspai.com/post/112668" target="_blank">新玩意 247｜少数派的编辑们最近买了啥？少数派编辑部07/23</a> <span class="desc">— 少数派编辑部</span></li>
+        <li id="src39"><span class="num num-gadget">39</span><a href="https://sspai.com/post/112428" target="_blank">小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈Microhoo07/23</a> <span class="desc">— Microhoo</span></li>
+        <li id="src40"><span class="num num-gadget">40</span><a href="https://sspai.com/post/111300" target="_blank">让 Windows 顺眼又省心：我的新设备配置经验Cyanrel07/23Matrix精选</a> <span class="desc">— Cyanrel</span></li>
+        <li id="src41"><span class="num num-gadget">41</span><a href="https://sspai.com/post/112647" target="_blank">派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等少数派编辑部07/23派早报</a> <span class="desc">— 少数派编辑部</span></li>
+        <li id="src42"><span class="num num-gadget">42</span><a href="https://sspai.com/bullet/1783307199" target="_blank">聊聊你手机背面的「磁吸配件」？一派投票点击了解详情</a> <span class="desc">— 一派投票</span></li>
+      </ul>
+    </div>
+    <div class="source-group">
+      <div class="source-group-title">微博热搜</div>
+      <ul class="source-list">
+        <li id="src43"><span class="num num-opinion">43</span><a href="https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%99%AF%E5%8C%BA%E6%B3%A5%E7%9F%B3%E6%B5%81" target="_blank">四川九寨沟景区泥石流</a> <span class="desc">— 热度 850,000</span></li>
+        <li id="src44"><span class="num num-opinion">44</span><a href="https://s.weibo.com/weibo?q=%E6%96%B0%E4%BA%A7%E4%B8%9A%E8%B7%91%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%8A%A0%E9%80%9F%E5%BA%A6" target="_blank">新产业跑出中国加速度</a> <span class="desc">— 热度 690,000</span></li>
+        <li id="src45"><span class="num num-opinion">45</span><a href="https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%90%91AI%E5%80%BE%E6%B3%BB%E5%BF%83%E4%BA%8B" target="_blank">不要长期向AI倾泻心事</a> <span class="desc">— 热度 650,000</span></li>
+        <li id="src46"><span class="num num-opinion">46</span><a href="https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E5%B7%B2%E7%BB%8F%E5%8F%91%E5%B1%95%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%E5%90%97" target="_blank">杭州已经发展成这样了吗</a> <span class="desc">— 热度 640,000</span></li>
+        <li id="src47"><span class="num num-opinion">47</span><a href="https://s.weibo.com/weibo?q=%E5%A9%B4%E5%84%BF%E6%98%AF%E5%90%A6%E7%9F%A5%E9%81%93%E8%B0%81%E6%98%AF%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A6%88%E5%A6%88" target="_blank">婴儿是否知道谁是自己的妈妈</a> <span class="desc">— 热度 630,000</span></li>
+        <li id="src48"><span class="num num-opinion">48</span><a href="https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%95%85%E5%AE%AB%E6%9C%AA%E6%8E%88%E6%9D%83%E7%AC%AC%E4%B8%89%E6%96%B9%E4%BB%A3%E6%8A%A2%E9%97%A8%E7%A5%A8" target="_blank">官方辟谣故宫未授权第三方代抢门票</a> <span class="desc">— 热度 620,000</span></li>
+        <li id="src49"><span class="num num-opinion">49</span><a href="https://s.weibo.com/weibo?q=%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E6%AD%BB%E4%BA%A1%E5%A5%B3%E7%AB%A5%E5%8E%9F%E6%9C%AC%E5%8F%AA%E6%98%AF%E8%AE%A4%E7%9F%A5%E5%8F%91%E8%82%B2%E8%BF%9F%E7%BC%93" target="_blank">基因编辑死亡女童原本只是认知发育迟缓</a> <span class="desc">— 热度 610,000</span></li>
+        <li id="src50"><span class="num num-opinion">50</span><a href="https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%9B%9E%E5%A4%8D%E4%BB%98%E8%BE%9B%E5%8D%9A" target="_blank">张凌赫回复付辛博</a> <span class="desc">— 热度 540,000</span></li>
+        <li id="src51"><span class="num num-opinion">51</span><a href="https://s.weibo.com/weibo?q=%E6%99%9A%E9%A5%AD%E5%90%8E%E6%9C%80%E5%A5%BD%E7%9A%84%E8%80%97%E7%B3%96%E8%BF%90%E5%8A%A8" target="_blank">晚饭后最好的耗糖运动</a> <span class="desc">— 热度 510,000</span></li>
+        <li id="src52"><span class="num num-opinion">52</span><a href="https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E6%9D%80%E5%A4%A7%E7%BB%93%E5%B1%80" target="_blank">百花杀大结局</a> <span class="desc">— 热度 360,000</span></li>
+        <li id="src53"><span class="num num-opinion">53</span><a href="https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%9C%89%E6%AF%92%E5%85%BB%E7%94%9F%E7%A5%9E%E8%8D%AF" target="_blank">央视曝光有毒养生神药</a> <span class="desc">— 热度 360,000</span></li>
+        <li id="src54"><span class="num num-opinion">54</span><a href="https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E7%8E%8B%E5%BB%BA%E9%9A%86%E5%8E%BB%E4%B8%96" target="_blank">演员王建隆去世</a> <span class="desc">— 热度 350,000</span></li>
+        <li id="src55"><span class="num num-opinion">55</span><a href="https://s.weibo.com/weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%AE%A9%E7%B2%89%E4%B8%9D%E8%BF%9B%E9%85%92%E5%BA%97%E7%9C%8B%E5%87%BA%E5%A6%86" target="_blank">鞠婧祎让粉丝进酒店看出妆</a> <span class="desc">— 热度 350,000</span></li>
+        <li id="src56"><span class="num num-opinion">56</span><a href="https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%AF%B7%E5%81%87%E6%98%AF%E4%B8%8D%E9%9C%80%E8%A6%81%E7%90%86%E7%94%B1%E7%9A%84" target="_blank">原来请假是不需要理由的</a> <span class="desc">— 热度 350,000</span></li>
+        <li id="src57"><span class="num num-opinion">57</span><a href="https://s.weibo.com/weibo?q=%E6%9B%9D%E5%88%98%E5%AE%87%E5%AE%81%E6%9B%BE%E8%87%AA%E7%A7%B0%E6%98%AF87%E5%B9%B4%E7%9A%84" target="_blank">曝刘宇宁曾自称是87年的</a> <span class="desc">— 热度 350,000</span></li>
+      </ul>
+    </div>
+    <div class="source-group">
+      <div class="source-group-title">知乎热榜</div>
+      <ul class="source-list">
+        <li id="src58"><span class="num num-opinion">58</span><a href="https://www.zhihu.com/question/2064578743788745259" target="_blank">如何看待数码博主极客湾最新一期的《续航大横评》？这会给国产手机厂商和市场带来什么样的影响</a> <span class="desc">— 6390000</span></li>
+        <li id="src59"><span class="num num-opinion">59</span><a href="https://www.zhihu.com/question/2064783855282643631" target="_blank">甘肃渭源一景区山洪已致 10 人遇难，23 人受伤，现场情况如何？哪些信息值得关注</a> <span class="desc">— 4440000</span></li>
+        <li id="src60"><span class="num num-opinion">60</span><a href="https://www.zhihu.com/question/2061413101283586667" target="_blank">如何评价章笛沙执导，黄渤、吴磊、高叶等主演的电影《群星闪耀时》</a> <span class="desc">— 1990000</span></li>
+        <li id="src61"><span class="num num-opinion">61</span><a href="https://www.zhihu.com/question/2063564177688597653" target="_blank">郑州银行利润  18.95 亿却不分红，将 3.37 亿砸进总部大楼建设，中小股东的反对票说明了什么</a> <span class="desc">— 1750000</span></li>
+        <li id="src62"><span class="num num-opinion">62</span><a href="https://www.zhihu.com/question/2064659826584690831" target="_blank">如何看待张煜东在训练场录音曝光后发布的澄清声明</a> <span class="desc">— 1590000</span></li>
+        <li id="src63"><span class="num num-opinion">63</span><a href="https://www.zhihu.com/question/7803569929" target="_blank">为什么大多数成年人一旦学会游泳就只想连续游，不再关注技术动作</a> <span class="desc">— 1430000</span></li>
+        <li id="src64"><span class="num num-opinion">64</span><a href="https://www.zhihu.com/question/2063915578427963194" target="_blank">美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗</a> <span class="desc">— 1390000</span></li>
+        <li id="src65"><span class="num num-opinion">65</span><a href="https://www.zhihu.com/question/2064123998942901167" target="_blank">宁德时代上半年日赚 2.39 亿元，拟 200-400 亿元回购股份注销，创下 A 股历史纪录，如何解读</a> <span class="desc">— 1200000</span></li>
+        <li id="src66"><span class="num num-opinion">66</span><a href="https://www.zhihu.com/question/2063932194024681825" target="_blank">段永平称 10 年内大概率不会卖泡泡玛特？十年后的泡泡玛特会是什么样子</a> <span class="desc">— 1190000</span></li>
+        <li id="src67"><span class="num num-opinion">67</span><a href="https://www.zhihu.com/question/2063983566564987357" target="_blank">现实里空手夺刀的成功率到底有多高</a> <span class="desc">— 1160000</span></li>
+        <li id="src68"><span class="num num-opinion">68</span><a href="https://www.zhihu.com/question/358666124" target="_blank">人类的指甲在生活中看起来好像并没有什么实际的价值，为什么这么长时间也没有退化呢</a> <span class="desc">— 1130000</span></li>
+        <li id="src69"><span class="num num-opinion">69</span><a href="https://www.zhihu.com/question/2063668726759691526" target="_blank">亚运短跑冠军体脂低于 10%，退役不到一年查出三高和脂肪肝，这是什么原因</a> <span class="desc">— 950000</span></li>
+        <li id="src70"><span class="num num-opinion">70</span><a href="https://www.zhihu.com/question/2063618291311105996" target="_blank">古代没冰箱，肉怎么保存</a> <span class="desc">— 890000</span></li>
+        <li id="src71"><span class="num num-opinion">71</span><a href="https://www.zhihu.com/question/1995555700441634403" target="_blank">如果没有出现四大天王，香港乐坛能否敌得过台湾乐坛</a> <span class="desc">— 860000</span></li>
+        <li id="src72"><span class="num num-opinion">72</span><a href="https://www.zhihu.com/question/2064467113771791028" target="_blank">开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持</a> <span class="desc">— 830000</span></li>
+      </ul>
+    </div>
+    <div class="source-group">
+      <div class="source-group-title">Hacker News</div>
+      <ul class="source-list">
+        <li id="src73"><span class="num num-dev">73</span><a href="https://pkg.go.dev/golang.org/x/tools/go/analysis" target="_blank">Go Analysis Framework: modular static analysis by go team</a> <span class="desc">— 73 pts</span></li>
+        <li id="src74"><span class="num num-dev">74</span><a href="https://astral.sh/blog/ruff-v0.16.0" target="_blank">Ruff v0.16.0 – Significant new updates – 413 default rules up from 59</a> <span class="desc">— 225 pts</span></li>
+        <li id="src75"><span class="num num-dev">75</span><a href="https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c" target="_blank">Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake</a> <span class="desc">— 154 pts</span></li>
+        <li id="src76"><span class="num num-dev">76</span><a href="https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices" target="_blank">GrapheneOS protections against data extraction from locked devices</a> <span class="desc">— 235 pts</span></li>
+        <li id="src77"><span class="num num-dev">77</span><a href="https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/" target="_blank">I learned PCB design, 3D printing and C just to listen to music</a> <span class="desc">— 53 pts</span></li>
+        <li id="src78"><span class="num num-dev">78</span><a href="https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city" target="_blank">What's Under Your Feet in New York City?</a> <span class="desc">— 37 pts</span></li>
+        <li id="src79"><span class="num num-dev">79</span><a href="https://refp.se/articles/your-shell-and-the-magic-colon" target="_blank">A shell colon does nothing. Use it anyway</a> <span class="desc">— 310 pts</span></li>
+        <li id="src80"><span class="num num-dev">80</span><a href="https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/" target="_blank">Park by Robot at London Gatwick Airport</a> <span class="desc">— 4 pts</span></li>
+        <li id="src81"><span class="num num-dev">81</span><a href="https://english.mapn.ro/" target="_blank">Third Drone Shot Down in Three Days in Romanian Territory</a> <span class="desc">— 152 pts</span></li>
+        <li id="src82"><span class="num num-dev">82</span><a href="https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models" target="_blank">The new rules of context engineering for Claude 5 generation models</a> <span class="desc">— 407 pts</span></li>
+        <li id="src83"><span class="num num-dev">83</span><a href="https://blog.ktz.me/esp32-plane-radar/" target="_blank">An ESP32 based plane radar for my desk</a> <span class="desc">— 212 pts</span></li>
+        <li id="src84"><span class="num num-dev">84</span><a href="https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf" target="_blank">DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]</a> <span class="desc">— 208 pts</span></li>
+        <li id="src85"><span class="num num-dev">85</span><a href="https://huggingface.co/owensong/Inflect-Micro-v2" target="_blank">Inflect-Micro-v2: complete voice in 9.36M parameters</a> <span class="desc">— 175 pts</span></li>
+        <li id="src86"><span class="num num-dev">86</span><a href="https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/" target="_blank">Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home</a> <span class="desc">— 122 pts</span></li>
+        <li id="src87"><span class="num num-dev">87</span><a href="https://golfcoursebrowser.com/" target="_blank">Show HN: I mapped every US golf course</a> <span class="desc">— 177 pts</span></li>
+      </ul>
+    </div>
+
+    </div>
+
+    <footer class="footer">
+        <span class="heart">&#10022;</span> Daily Hot Digest &middot; 数据截至 2026-07-26 &middot;
+        <a href="index.html">查看所有日期</a>
+    </footer>
+</div>
+<script>
+
+(function() {
+    'use strict';
+    var canvas = document.getElementById('bg-canvas');
+    if (!canvas) return;
+    var ctx = canvas.getContext('2d');
+    var W, H;
+
+    function resize() {
+        W = window.innerWidth; H = window.innerHeight;
+        canvas.width = W; canvas.height = H;
+    }
+    window.addEventListener('resize', resize);
+    resize();
+
+    // 加载蓝天白云背景图片
+    var bgImage = new Image();
+    bgImage.crossOrigin = 'anonymous';
+    bgImage.src = 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1920&q=80';
+    var bgLoaded = false;
+    bgImage.onload = function() { bgLoaded = true; };
+    bgImage.onerror = function() { bgLoaded = false; };
+
+    // 粒子系统（适配蓝天白云风格）
+    var particles = [];
+    var PARTICLE_COUNT = 100;
+    var CONNECTION_DIST = 130;
+    var MOUSE_RADIUS = 160;
+    var mouseX = null, mouseY = null;
+
+    var colorPalette = [
+        'hsla(210, 80%, 90%, 0.7)',
+        'hsla(200, 70%, 85%, 0.6)',
+        'hsla(40, 60%, 92%, 0.5)',
+        'hsla(0, 50%, 95%, 0.5)',
+        'hsla(190, 60%, 88%, 0.6)',
+        'hsla(220, 50%, 92%, 0.6)',
+    ];
+
+    function Particle() { this.reset(); }
+    Particle.prototype.reset = function() {
+        this.x = Math.random() * W; this.y = Math.random() * H;
+        this.vx = (Math.random() - 0.5) * 0.6; this.vy = (Math.random() - 0.5) * 0.6;
+        this.radius = 2 + Math.random() * 3;
+        this.color = colorPalette[Math.floor(Math.random() * colorPalette.length)];
+    };
+    Particle.prototype.update = function() {
+        this.x += this.vx; this.y += this.vy;
+        if (mouseX !== null && mouseY !== null) {
+            var dx = this.x - mouseX, dy = this.y - mouseY;
+            var dist = Math.sqrt(dx * dx + dy * dy);
+            if (dist < MOUSE_RADIUS && dist > 1) {
+                var force = (MOUSE_RADIUS - dist) / MOUSE_RADIUS * 0.4;
+                this.x += (dx / dist) * force; this.y += (dy / dist) * force;
+            }
+        }
+        if (this.x < 0) { this.x = 0; this.vx *= -0.5; }
+        if (this.x > W) { this.x = W; this.vx *= -0.5; }
+        if (this.y < 0) { this.y = 0; this.vy *= -0.5; }
+        if (this.y > H) { this.y = H; this.vy *= -0.5; }
+        this.vx += (Math.random() - 0.5) * 0.03;
+        this.vy += (Math.random() - 0.5) * 0.03;
+        var sp = Math.sqrt(this.vx * this.vx + this.vy * this.vy);
+        if (sp > 0.8) { this.vx = (this.vx / sp) * 0.8; this.vy = (this.vy / sp) * 0.8; }
+    };
+    Particle.prototype.draw = function() {
+        ctx.beginPath(); ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
+        ctx.fillStyle = this.color;
+        ctx.shadowColor = 'rgba(255,255,255,0.3)'; ctx.shadowBlur = 10;
+        ctx.fill(); ctx.shadowBlur = 0;
+    };
+
+    for (var i = 0; i < PARTICLE_COUNT; i++) particles.push(new Particle());
+
+    function drawConnections() {
+        for (var i = 0; i < particles.length; i++) {
+            for (var j = i + 1; j < particles.length; j++) {
+                var dx = particles[i].x - particles[j].x;
+                var dy = particles[i].y - particles[j].y;
+                var dist = Math.sqrt(dx * dx + dy * dy);
+                if (dist < CONNECTION_DIST) {
+                    var alpha = (1 - dist / CONNECTION_DIST) * 0.2;
+                    ctx.beginPath();
+                    ctx.moveTo(particles[i].x, particles[i].y);
+                    ctx.lineTo(particles[j].x, particles[j].y);
+                    ctx.strokeStyle = 'rgba(255, 255, 255, ' + alpha + ')';
+                    ctx.lineWidth = 0.8; ctx.stroke();
+                }
+            }
+        }
+    }
+
+    document.addEventListener('mousemove', function(e) { mouseX = e.clientX; mouseY = e.clientY; });
+    document.addEventListener('mouseleave', function() { mouseX = null; mouseY = null; });
+    document.addEventListener('touchmove', function(e) {
+        var t = e.touches[0]; if (t) { mouseX = t.clientX; mouseY = t.clientY; }
+    }, { passive: true });
+    document.addEventListener('touchend', function() { mouseX = null; mouseY = null; });
+
+    function render() {
+        ctx.clearRect(0, 0, W, H);
+        if (bgLoaded && bgImage.complete && bgImage.naturalWidth > 0) {
+            var imgAspect = bgImage.naturalWidth / bgImage.naturalHeight;
+            var canvasAspect = W / H;
+            var drawW, drawH, offsetX, offsetY;
+            // Cover 模式：图片铺满画布，裁剪多余部分
+            if (imgAspect > canvasAspect) {
+                drawH = H; drawW = H * imgAspect; offsetX = (W - drawW) / 2; offsetY = 0;
+            } else {
+                drawW = W; drawH = W / imgAspect; offsetX = 0; offsetY = (H - drawH) / 2;
+            }
+            ctx.drawImage(bgImage, offsetX, offsetY, drawW, drawH);
+        } else {
+            var grad = ctx.createLinearGradient(0, 0, 0, H);
+            grad.addColorStop(0, '#87CEEB'); grad.addColorStop(1, '#E0F0FF');
+            ctx.fillStyle = grad; ctx.fillRect(0, 0, W, H);
+        }
+        drawConnections();
+        for (var i = 0; i < particles.length; i++) { particles[i].update(); particles[i].draw(); }
+        requestAnimationFrame(render);
+    }
+
+    resize(); render();
+    window.addEventListener('resize', function() {
+        resize();
+        for (var i = 0; i < particles.length; i++) {
+            particles[i].x = Math.min(particles[i].x, W);
+            particles[i].y = Math.min(particles[i].y, H);
+        }
+    });
+})();
+
+
+(function() {
+    'use strict';
+
+    // 统计数字动画
+    function animateNumber(el, target, duration) {
+        duration = duration || 1200;
+        var startTime = performance.now();
+        function update(currentTime) {
+            var elapsed = currentTime - startTime;
+            var progress = Math.min(elapsed / duration, 1);
+            var eased = 1 - Math.pow(1 - progress, 4);
+            el.textContent = Math.round(target * eased);
+            if (progress < 1) requestAnimationFrame(update);
+            else el.textContent = target;
+        }
+        requestAnimationFrame(update);
+    }
+    var statsItems = document.querySelectorAll('.stat-item .num[data-target]');
+    var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+            if (entry.isIntersecting) {
+                var target = parseInt(entry.target.dataset.target, 10);
+                if (!isNaN(target)) animateNumber(entry.target, target);
+                observer.unobserve(entry.target);
+            }
+        });
+    }, { threshold: 0.3 });
+    statsItems.forEach(function(el) { observer.observe(el); });
+
+    // GitHub Stars 获取
+    var starElements = document.querySelectorAll('.gh-stars[data-repo]');
+    if (starElements.length > 0) {
+        setTimeout(function() {
+            starElements.forEach(function(el) {
+                var repo = el.dataset.repo;
+                if (!repo) return;
+                fetch('https://api.github.com/repos/' + repo, {
+                    headers: { 'Accept': 'application/vnd.github.v3+json' }
+                }).then(function(res) {
+                    if (!res.ok) return;
+                    return res.json();
+                }).then(function(data) {
+                    if (data && data.stargazers_count !== undefined) {
+                        el.textContent = data.stargazers_count.toLocaleString();
+                    }
+                }).catch(function() {});
+            });
+        }, 800);
+    }
+})();
+
+
+(function() {
+    'use strict';
+    var tabs = document.querySelectorAll('.view-tab');
+    var sourceIndex = document.getElementById('source-index');
+    tabs.forEach(function(tab) {
+        tab.addEventListener('click', function() {
+            var target = this.dataset.view;
+            tabs.forEach(function(t) { t.classList.remove('active'); });
+            this.classList.add('active');
+            document.getElementById('view-ai').style.display = target === 'ai' ? '' : 'none';
+            document.getElementById('view-raw').style.display = target === 'raw' ? '' : 'none';
+            if (sourceIndex) sourceIndex.style.display = target === 'ai' ? '' : 'none';
+        });
+    });
+})();
+
+</script>
+</body>
+</html>
