@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Hot Digest | 2026-07-29</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&display=swap" rel="stylesheet" />
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+    --bg-primary: #f0f4fa;
+    --bg-card: rgba(255, 255, 255, 0.55);
+    --border-card: rgba(255, 255, 255, 0.25);
+    --text-primary: #1e293b;
+    --text-secondary: #334155;
+    --text-muted: #64748b;
+    --shadow-card: 0 12px 40px rgba(0, 0, 0, 0.08);
+    --radius-card: 20px;
+    --transition-smooth: cubic-bezier(0.22, 1, 0.36, 1);
+    --color-ai: #f97316;
+    --color-dev: #3b82f6;
+    --color-sys: #22c55e;
+    --color-gadget: #a855f7;
+    --color-opinion: #eab308;
+}
+html { scroll-behavior: smooth; }
+body {
+    font-family: 'Inter', -apple-system, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', sans-serif;
+    background: var(--bg-primary); color: var(--text-primary);
+    min-height: 100vh; overflow-x: hidden; line-height: 1.7;
+}
+#bg-canvas { position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 0; pointer-events: none; }
+.container { position: relative; z-index: 2; max-width: 820px; margin: 0 auto; padding: 48px 24px 64px; }
+.header { text-align: center; padding: 24px 0 48px; }
+.header-badge {
+    display: inline-block; background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(8px); border: 1px solid rgba(255, 255, 255, 0.4);
+    padding: 6px 18px; border-radius: 100px; font-size: 12px;
+    font-weight: 600; letter-spacing: 0.5px; color: var(--text-secondary); margin-bottom: 20px; text-transform: uppercase;
+}
+.header h1 {
+    font-size: clamp(40px, 8vw, 68px); font-weight: 800; letter-spacing: -0.03em; line-height: 1.05;
+    color: var(--text-primary);
+    text-shadow: 0 2px 20px rgba(255, 255, 255, 0.5); margin-bottom: 12px;
+}
+.header .sub { font-size: 16px; color: var(--text-secondary); font-weight: 400; letter-spacing: 1px; }
+.header .sub em { font-style: normal; color: var(--text-primary); font-weight: 500; }
+.stats-row { display: flex; justify-content: center; gap: 12px 24px; flex-wrap: wrap; margin-top: 28px; }
+.stats-row .stat-item {
+    background: rgba(255, 255, 255, 0.3); border: 1px solid rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(8px); padding: 8px 22px; border-radius: 100px; font-size: 13px;
+    color: var(--text-secondary); display: flex; align-items: center; gap: 8px;
+}
+.stats-row .stat-item .num { font-weight: 700; font-size: 16px; color: var(--text-primary); font-variant-numeric: tabular-nums; }
+.stats-row .stat-item .label { font-weight: 400; }
+.nav-link {
+    display: inline-block; margin-top: 16px; font-size: 13px;
+    color: var(--text-muted); text-decoration: none;
+    border-bottom: 1px dashed rgba(255,255,255,0.1);
+}
+.nav-link:hover { color: var(--text-secondary); }
+
+/* === 卡片 === */
+.card {
+    background: var(--bg-card); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    border: 1px solid var(--border-card); border-radius: var(--radius-card);
+    padding: 28px 32px; margin-bottom: 20px; box-shadow: var(--shadow-card);
+    transition: transform 0.4s var(--transition-smooth), box-shadow 0.4s var(--transition-smooth), border-color 0.3s ease;
+    opacity: 0; transform: translateY(30px); animation: cardEnter 0.7s var(--transition-smooth) forwards;
+}
+.card:hover { transform: translateY(-4px); box-shadow: 0 20px 48px rgba(0, 0, 0, 0.12); border-color: rgba(255, 255, 255, 0.5); }
+@keyframes cardEnter { to { opacity: 1; transform: translateY(0); } }
+.card:nth-child(1) { animation-delay: 0.05s; }
+.card:nth-child(2) { animation-delay: 0.12s; }
+.card:nth-child(3) { animation-delay: 0.19s; }
+.card:nth-child(4) { animation-delay: 0.26s; }
+.card:nth-child(5) { animation-delay: 0.33s; }
+.card:nth-child(6) { animation-delay: 0.40s; }
+.card:nth-child(7) { animation-delay: 0.47s; }
+.card-header {
+    display: flex; align-items: center; gap: 14px; margin-bottom: 18px;
+    padding-bottom: 14px; border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+.card-header .dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+.card-header .title { font-size: 20px; font-weight: 700; letter-spacing: -0.01em; }
+.card-header .count-badge {
+    margin-left: auto; font-size: 11px; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.5px; color: var(--text-muted); background: rgba(0, 0, 0, 0.04);
+    padding: 2px 14px; border-radius: 100px; border: 1px solid rgba(0, 0, 0, 0.04);
+}
+.card p { font-size: 15px; color: var(--text-secondary); margin-bottom: 10px; line-height: 1.8; }
+.card p:last-child { margin-bottom: 0; }
+.card p .highlight { color: var(--text-primary); font-weight: 500; }
+
+/* === 内联项目标签 === */
+.gh-item {
+    display: inline-flex; align-items: center; gap: 6px; background: rgba(0, 0, 0, 0.04);
+    border: 1px solid rgba(0, 0, 0, 0.06); padding: 1px 12px 1px 8px; border-radius: 100px;
+    font-size: 13px; font-weight: 500; color: var(--text-primary); white-space: nowrap;
+    transition: background 0.2s, border-color 0.2s; margin: 0 2px; text-decoration: none;
+}
+.gh-item:hover { background: rgba(0, 0, 0, 0.08); border-color: rgba(0, 0, 0, 0.12); }
+.gh-item .gh-stars { font-weight: 600; color: var(--color-opinion); font-size: 12px; margin-left: 2px; }
+.gh-item .gh-stars::before { content: '\2605 '; font-weight: 400; }
+
+/* === 引用上标 === */
+.cite { display: inline; font-size: 11px; font-weight: 700; vertical-align: super; line-height: 1; padding: 0 2px; }
+.cite a { text-decoration: none; color: var(--text-muted); transition: color 0.2s; }
+.cite a:hover { color: var(--text-primary); }
+
+/* === 结构化新闻条目 === */
+.card-intro {
+    font-size: 14px; color: var(--text-muted); font-style: italic;
+    margin-bottom: 16px; padding-bottom: 12px;
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+}
+.news-item {
+    padding: 14px 0; border-bottom: 1px solid rgba(255,255,255,0.04);
+}
+.news-item:last-child { border-bottom: none; padding-bottom: 0; }
+.news-item:first-of-type { padding-top: 4px; }
+.news-item-title {
+    font-size: 15px; font-weight: 600; color: var(--text-primary);
+    margin-bottom: 4px; display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap;
+}
+.news-item-title .item-name { font-weight: 700; }
+.news-item-desc { font-size: 14px; color: var(--text-secondary); line-height: 1.7; margin-bottom: 4px; }
+.news-item-note {
+    font-size: 13px; color: var(--text-muted); font-style: italic;
+    padding-left: 12px; border-left: 2px solid rgba(255,255,255,0.08);
+    margin-top: 4px;
+}
+.news-item-cites { display: inline-flex; gap: 4px; margin-left: auto; }
+.news-item-cites .cite a {
+    background: rgba(255,255,255,0.06); padding: 1px 6px; border-radius: 4px;
+    font-size: 10px; font-weight: 600;
+}
+.news-item-cites .cite a:hover { background: rgba(255,255,255,0.12); color: var(--text-primary); }
+
+/* === 溯源索引 === */
+.source-index {
+    background: var(--bg-card); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    border: 1px solid var(--border-card); border-radius: var(--radius-card);
+    padding: 28px 32px; margin-top: 32px; box-shadow: var(--shadow-card);
+    opacity: 0; transform: translateY(30px); animation: cardEnter 0.7s var(--transition-smooth) 0.4s forwards;
+}
+.source-index h2 {
+    font-size: 18px; font-weight: 700; margin-bottom: 24px;
+    padding-bottom: 14px; border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    letter-spacing: -0.01em; color: var(--text-primary);
+}
+.source-group { margin-bottom: 24px; }
+.source-group:last-child { margin-bottom: 0; }
+.source-group-title {
+    font-size: 12px; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 1.2px; color: var(--text-muted); margin-bottom: 10px;
+}
+.source-list { list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 4px 16px; }
+@media (max-width: 600px) { .source-list { grid-template-columns: 1fr; } }
+.source-list li {
+    font-size: 14px; padding: 6px 0; display: flex; align-items: center; gap: 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.03);
+}
+.source-list li .num {
+    flex-shrink: 0; display: inline-flex; align-items: center; justify-content: center;
+    width: 22px; height: 22px; border-radius: 50%; font-size: 10px; font-weight: 700;
+    color: #fff; background: rgba(0, 0, 0, 0.2);
+}
+.source-list li a { color: var(--text-secondary); text-decoration: none; transition: color 0.2s; font-weight: 500; font-size: 13px; }
+.source-list li a:hover { color: var(--text-primary); }
+.source-list li .desc { color: var(--text-muted); font-size: 12px; font-weight: 400; }
+
+/* === Tab 切换 === */
+.view-tabs {
+    display: flex; justify-content: center; gap: 8px; margin: 24px 0 28px;
+}
+.view-tab {
+    padding: 8px 24px; border-radius: 100px; font-size: 13px; font-weight: 600;
+    cursor: pointer; border: 1px solid rgba(255,255,255,0.3);
+    background: rgba(255,255,255,0.25); backdrop-filter: blur(8px);
+    color: var(--text-muted); transition: all 0.3s ease; letter-spacing: 0.3px;
+    user-select: none;
+}
+.view-tab:hover { background: rgba(255,255,255,0.4); color: var(--text-secondary); }
+.view-tab.active {
+    background: rgba(255,255,255,0.65); color: var(--text-primary);
+    border-color: rgba(255,255,255,0.5); box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+}
+
+/* === Footer === */
+.footer {
+    text-align: center; margin-top: 40px; font-size: 12px; color: var(--text-muted);
+    letter-spacing: 0.3px; border-top: 1px solid rgba(0, 0, 0, 0.05); padding-top: 28px;
+}
+.footer a { color: var(--text-muted); text-decoration: none; }
+.footer a:hover { color: var(--text-secondary); }
+.footer .heart { color: var(--color-ai); display: inline-block; animation: heartBeat 2s ease-in-out infinite; }
+@keyframes heartBeat { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.2); } }
+
+/* === 动态颜色类 === */
+.dot-ai { background: var(--color-ai); }
+.num-ai { background: var(--color-ai); }
+.highlight-ai { color: var(--color-ai); }
+.dot-dev { background: var(--color-dev); }
+.num-dev { background: var(--color-dev); }
+.highlight-dev { color: var(--color-dev); }
+.dot-sys { background: var(--color-sys); }
+.num-sys { background: var(--color-sys); }
+.highlight-sys { color: var(--color-sys); }
+.dot-gadget { background: var(--color-gadget); }
+.num-gadget { background: var(--color-gadget); }
+.highlight-gadget { color: var(--color-gadget); }
+.dot-opinion { background: var(--color-opinion); }
+.num-opinion { background: var(--color-opinion); }
+.highlight-opinion { color: var(--color-opinion); }
+.dot-security { background: var(--color-security); }
+.num-security { background: var(--color-security); }
+.highlight-security { color: var(--color-security); }
+.dot-web { background: var(--color-web); }
+.num-web { background: var(--color-web); }
+.highlight-web { color: var(--color-web); }
+
+/* === 响应式 === */
+@media (max-width: 640px) {
+    .container { padding: 24px 16px 40px; }
+    .card { padding: 20px 18px; border-radius: 16px; }
+    .source-index { padding: 20px 18px; }
+    .card-header .title { font-size: 17px; }
+    .card p { font-size: 14px; }
+    .stats-row .stat-item { padding: 6px 14px; font-size: 12px; }
+    .gh-item { font-size: 12px; padding: 1px 10px 1px 6px; }
+    .header h1 { font-size: 32px; }
+    .source-list li a { font-size: 12px; }
+}
+
+/* === 滚动条 === */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(0, 0, 0, 0.15); border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(0, 0, 0, 0.25); }
+
+/* === 触摸设备 === */
+@media (hover: none) {
+    .card:hover { transform: none; box-shadow: var(--shadow-card); }
+    .gh-item:hover { background: rgba(0, 0, 0, 0.04); border-color: rgba(0, 0, 0, 0.06); }
+}
+</style>
+</head>
+<body>
+<canvas id="bg-canvas"></canvas>
+<div class="container">
+    <header class="header">
+        <div class="header-badge">&#10022; 晴空 &middot; 每日信号</div>
+        <h1>Daily Hot Digest</h1>
+        <div class="sub">2026 年 7 月 29 日 · 星期三 &nbsp;&middot;&nbsp; <em>20 条内容</em></div>
+        <div class="stats-row">
+            <span class="stat-item"><span class="num" data-target="6">0</span><span class="label">信息源</span></span>
+            <span class="stat-item"><span class="num" data-target="5">0</span><span class="label">分类</span></span>
+            <span class="stat-item"><span class="num" data-target="20">0</span><span class="label">条目</span></span>
+        </div>
+        <a class="nav-link" href="index.html">&larr; 查看所有日期</a>
+    </header>
+
+<div class="view-tabs"><div class="view-tab active" data-view="ai">AI 简报</div><div class="view-tab" data-view="raw">信息源</div></div>
+
+<div id="view-ai" style="">
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-ai"></span>
+      <span class="title"><span class="highlight-ai">AI 与智能体</span></span>
+    </div>
+    <p>今天 GitHub 上的 AI 智能体项目简直炸了。moeru-ai/airi <span class="cite"><a href="#src1">[1]</a></span> 这个项目太有意思了，它是个自托管的 Grok 伴侣容器，主打一个“赛博灵魂”，能实时语音聊天还能玩 Minecraft 和 Factorio，已经拿了 12,000+ star，搞个人虚拟助手的必看。还有 microsoft/agent-governance-toolkit <span class="cite"><a href="#src2">[2]</a></span>，微软这次动真格的，专门针对 AI 智能体治理，覆盖了 OWASP 的十大威胁，搞安全的朋友绝对要收藏。</p><p>Lobsters 上有个帖子专门讨论 AI 的本质，标题是《On AI》，作者从哲学角度聊了聊现在的“情绪编码”现象 <span class="cite"><a href="#src3">[3]</a></span>，读起来很有深度。另外，</p><p>少数派早报也提到了月之暗面开源了 Kimi K3 模型 <span class="cite"><a href="#src4">[4]</a></span>，国产模型又往前迈了一大步，生态越来越热闹了。</p>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-dev"></span>
+      <span class="title"><span class="highlight-dev">开发工具与效率</span></span>
+    </div>
+    <p>工具类项目今天也很吸睛。jenkinsci/jenkins <span class="cite"><a href="#src5">[5]</a></span> 依然是自动化领域的扛把子，虽然项目很大，但更新频率一直在线。对于喜欢折腾终端的人来说，yorukot/superfile <span class="cite"><a href="#src6">[6]</a></span> 是个颜值很高的现代文件管理器，界面清爽，拿来替换老旧的 FileManager 很合适。</p><p>社区里有人分享了如何用 Tcl/Tk 开发跨平台 CLI 和 GUI 工具 <span class="cite"><a href="#src7">[7]</a></span>，虽然这语言有点老，但作为快速原型工具其实特别稳。</p><p>少数派那边也有人在讨论那些搭建完就吃灰的工作流 <span class="cite"><a href="#src8">[8]</a></span>，引发了不少共鸣，看来大家都有过“兴致勃勃开始，三天后放弃”的经历。</p>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-sys"></span>
+      <span class="title"><span class="highlight-sys">系统与底层技术</span></span>
+    </div>
+    <p>硬核技术今天讨论得火热。</p><p>Lobsters 上有个关于 Zig 编译器增量编译内部机制的深入文章 <span class="cite"><a href="#src9">[9]</a></span>，对于想搞懂编译优化的朋友来说是必读。还有关于 OpenBSD 搭建简易自建 Web 服务器的教程 <span class="cite"><a href="#src10">[10]</a></span>，这种回归极简、注重安全的思路在当下很有意义。</p><p>少数派的文章《能力厚重，接入极轻》分析了 HarmonyOS 7 如何降低生态门槛 <span class="cite"><a href="#src11">[11]</a></span>，这对开发者来说是个大利好，几行代码就能接入鸿蒙生态，值得关注。另外，还有人分享了关于构建系统级软件使用 Nix 的经验 <span class="cite"><a href="#src12">[12]</a></span>，这种包管理器的思路确实能解决很多依赖地狱问题。</p>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-life"></span>
+      <span class="title"><span class="highlight-life">数码产品与生活</span></span>
+    </div>
+    <p>数码圈今天也有点动静。Ars Technica 上刚出了一篇 Framework 13 Pro 的评测 <span class="cite"><a href="#src13">[13]</a></span>，结论是电池续航好多了，但价格太劝退了，典型的“一分钱一分货”。</p><p>少数派也讨论了索尼放弃实体光盘后的转型代价 <span class="cite"><a href="#src14">[14]</a></span>，传统游戏厂商这条路确实不好走。</p><p>Lobsters 上有个脑洞大开的帖子，作者为了不用按三次按钮，特意定制了一块 PCB 硬件 <span class="cite"><a href="#src15">[15]</a></span>，这种极客精神不得不佩服。还有关于如何在跑步机上听一小时音乐的故事 <span class="cite"><a href="#src16">[16]</a></span>，听着挺治愈的，不知道大家在通勤路上都在听啥。</p>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-thought"></span>
+      <span class="title"><span class="highlight-thought">思考与观点</span></span>
+    </div>
+    <p>今天有些内容发人深省。</p><p>Lobsters 上有人问“到底什么是微服务？”<span class="cite"><a href="#src17">[17]</a></span>，这个问题看似基础，但结合现在的云原生环境，确实值得重新审视架构设计。还有文章《The Productivity Mirage》探讨了生产力错觉 <span class="cite"><a href="#src18">[18]</a></span>，提醒我们在追求效率时别忘了真实的工作产出。</p><p>少数派</p><p>社区里还在讨论携程被重罚 51.79 亿元的事 <span class="cite"><a href="#src19">[19]</a></span>，反垄断的力度还是很大的。另外，Windows 7 的设计史回顾 <span class="cite"><a href="#src20">[20]</a></span> 也引发了不少怀旧情绪，有时候稳定好用确实比花哨的创新更重要。</p>
+  </div>
+
+</div>
+
+<div id="view-raw" style="display:none;">
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-dev"></span>
+      <span class="title"><span class="highlight-dev">GitHub</span> Trending</span>
+      <span class="count-badge">12 repos</span>
+    </div>
+    <p><a class="gh-item" href="https://github.com/pascalorg/editor" target="_blank">pascalorg/editor<span class="gh-stars" data-repo="pascalorg/editor">18,425</span></a>
+<a class="gh-item" href="https://github.com/jenkinsci/jenkins" target="_blank">jenkinsci/jenkins<span class="gh-stars" data-repo="jenkinsci/jenkins">26,017</span></a>
+<a class="gh-item" href="https://github.com/moeru-ai/airi" target="_blank">moeru-ai/airi<span class="gh-stars" data-repo="moeru-ai/airi">44,598</span></a>
+<a class="gh-item" href="https://github.com/andrewyng/aisuite" target="_blank">andrewyng/aisuite<span class="gh-stars" data-repo="andrewyng/aisuite">15,611</span></a>
+<a class="gh-item" href="https://github.com/affaan-m/ECC" target="_blank">affaan-m/ECC<span class="gh-stars" data-repo="affaan-m/ECC">234,581</span></a>
+<a class="gh-item" href="https://github.com/huggingface/speech-to-speech" target="_blank">huggingface/speech-to-speech<span class="gh-stars" data-repo="huggingface/speech-to-speech">6,962</span></a>
+<a class="gh-item" href="https://github.com/virgiliojr94/book-to-skill" target="_blank">virgiliojr94/book-to-skill<span class="gh-stars" data-repo="virgiliojr94/book-to-skill">10,979</span></a>
+<a class="gh-item" href="https://github.com/opengeos/GeoLibre" target="_blank">opengeos/GeoLibre<span class="gh-stars" data-repo="opengeos/GeoLibre">3,170</span></a>
+<a class="gh-item" href="https://github.com/paperswithbacktest/awesome-systematic-trading" target="_blank">paperswithbacktest/awesome-systematic-trading<span class="gh-stars" data-repo="paperswithbacktest/awesome-systematic-trading">9,350</span></a>
+<a class="gh-item" href="https://github.com/microsoft/agent-governance-toolkit" target="_blank">microsoft/agent-governance-toolkit<span class="gh-stars" data-repo="microsoft/agent-governance-toolkit">5,061</span></a>
+<a class="gh-item" href="https://github.com/yorukot/superfile" target="_blank">yorukot/superfile<span class="gh-stars" data-repo="yorukot/superfile">21,285</span></a>
+<a class="gh-item" href="https://github.com/bradautomates/claude-video" target="_blank">bradautomates/claude-video<span class="gh-stars" data-repo="bradautomates/claude-video">11,815</span></a>
+</p>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-sys"></span>
+      <span class="title"><span class="highlight-sys">Lobsters</span> 热帖</span>
+      <span class="count-badge">15 topics</span>
+    </div>
+    <ul style="list-style:none;padding:0;"><li style="margin-bottom:6px;"><a href="https://mlugg.co.uk/posts/incremental-compilation-internals/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Inside Zig's Incremental Compilation</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">compilers</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">performance</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">zig</span></li>
+<li style="margin-bottom:6px;"><a href="https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Framework 13 Pro review: Much better battery, much worse price</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">hardware</span></li>
+<li style="margin-bottom:6px;"><a href="https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Develop Cross-Platform CLI and GUI Tools With Tcl/Tk</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">graphics</span></li>
+<li style="margin-bottom:6px;"><a href="https://var0.xyz/posts/what-even-are-microservices.html" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">What even are microservices?</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">distributed</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">philosophy</span></li>
+<li style="margin-bottom:6px;"><a href="https://btxx.org/posts/self-hosted-openbsd/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Setup a Simple, Self-Hosted Web Server with OpenBSD</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">openbsd</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">web</span></li>
+<li style="margin-bottom:6px;"><a href="https://hondu.co/blog/building-systems-software" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Building (systems) software with Nix</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">nix</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">osdev</span></li>
+<li style="margin-bottom:6px;"><a href="https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Blogging Can Just Be Stating The Obvious</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">education</span></li>
+<li style="margin-bottom:6px;"><a href="https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Try the New Firefox Design in Nightly</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">browsers</span></li>
+<li style="margin-bottom:6px;"><a href="https://jcs.org/2026/07/23/ai" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">On AI</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">vibecoding</span></li>
+<li style="margin-bottom:6px;"><a href="https://blog.tymscar.com/posts/opensourcedimmer/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">I Designed A Custom PCB To Avoid Pressing A Button Three Times</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">c</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">hardware</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">reversing</span></li>
+<li style="margin-bottom:6px;"><a href="https://github.com/friendlymatthew/slurpjson#slurpjson" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Parallel JSON parsing on the GPU with compute shaders</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">rust</span></li>
+<li style="margin-bottom:6px;"><a href="https://blogs.kde.org/2026/07/28/making-kio-copy-many-files-fast/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Making KIO copy many files fast</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">c++</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">performance</span></li>
+<li style="margin-bottom:6px;"><a href="https://auxcontrol.live" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Aux Control — Let the whole room vote on the music</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">show</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">games</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">mobile</span></li>
+<li style="margin-bottom:6px;"><a href="https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">hardware</span></li>
+<li style="margin-bottom:6px;"><a href="https://frantic.im/mirage" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">The Productivity Mirage</a> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">practices</span> <span style="background:rgba(0,0,0,0.04);padding:0 8px;border-radius:4px;font-size:12px;color:var(--text-muted);">programming</span></li>
+</ul>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-gadget"></span>
+      <span class="title"><span class="highlight-gadget">少数派</span>精选</span>
+      <span class="count-badge">12 articles</span>
+    </div>
+    <ul style="list-style:none;padding:0;"><li style="margin-bottom:6px;"><a href="https://sspai.com/post/112820" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包Matrix机器人昨天 17:00</a> <span style="color:var(--text-muted);font-size:12px;">(Matrix机器人)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112822" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码Microhoo昨天 16:40</a> <span style="color:var(--text-muted);font-size:12px;">(Microhoo)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112380" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">从《奥德赛》观影聊聊 IMAX 影院的分类聊聊 IMAX 放映系统的区别及影厅选择策略，帮你选到视效更震撼、更接近导演创作意图的版本。张奕源Nick昨天 15:00</a> <span style="color:var(--text-muted);font-size:12px;">(张奕源Nick)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112774" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">索尼抛弃实体游戏光盘，谁成为了转型代价？黑狗布雷特昨天 11:02Matrix精选</a> <span style="color:var(--text-muted);font-size:12px;">(黑狗布雷特)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112805" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">派早报：月之暗面开源 Kimi K3 模型等少数派编辑部昨天 08:04派早报</a> <span style="color:var(--text-muted);font-size:12px;">(少数派编辑部)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/bullet/1784613267" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">你搭建过哪些「最后吃灰」的工作流？一派讨论点击了解详情</a> <span style="color:var(--text-muted);font-size:12px;">(一派讨论)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112785" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">派评 | 近期值得关注的 App少数派编辑部前天 17:34</a> <span style="color:var(--text-muted);font-size:12px;">(少数派编辑部)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/101668" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Windows 设计史 05 | 你怀念的 Windows 7，或许最具「人情味」好用有时比创新更重要。SUNTRISE前天 15:00</a> <span style="color:var(--text-muted);font-size:12px;">(SUNTRISE)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112705" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">角落新声｜不再烧 Hi-Fi 后，我在走步机上给音乐留了一小时若叔前天 10:47Matrix精选</a> <span style="color:var(--text-muted);font-size:12px;">(若叔)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112769" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">派早报：携程因滥用市场支配地位被罚 51.79 亿元少数派编辑部前天 07:00派早报</a> <span style="color:var(--text-muted);font-size:12px;">(少数派编辑部)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/post/112421" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">手冲咖啡指北：天太热了，来做一杯不寡淡的冰手冲吧一群小羊说07/26</a> <span style="color:var(--text-muted);font-size:12px;">(一群小羊说)</span></li>
+<li style="margin-bottom:6px;"><a href="https://sspai.com/bullet/1783932697" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情</a> <span style="color:var(--text-muted);font-size:12px;">(一派讨论)</span></li>
+</ul>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-opinion"></span>
+      <span class="title"><span class="highlight-opinion">微博</span>热搜</span>
+      <span class="count-badge">15 topics</span>
+    </div>
+    <ul style="list-style:none;padding:0;"><li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B0%91%E4%BC%97%E5%93%AD%E5%96%8A%E5%A3%B0%E4%B8%80%E7%89%87" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">日本7.1级地震民众哭喊声一片</a> <span style="color:var(--text-muted);font-size:12px;">1,510,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9B%B8%E5%85%B3%E4%BA%A7%E5%93%81%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%96%B0%E5%90%8D%E7%89%87" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">人工智能相关产品成为中国外贸新名片</a> <span style="color:var(--text-muted);font-size:12px;">1,350,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%BC%BA%E9%9C%87%E5%B7%B2%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">日本7.1级强震已致多人死亡</a> <span style="color:var(--text-muted);font-size:12px;">1,180,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%B1%B1%E5%B4%A9%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">日本地震山崩瞬间画面曝光</a> <span style="color:var(--text-muted);font-size:12px;">1,020,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E9%99%88%E5%93%B2%E8%BF%9C%E6%84%9F%E8%B0%A2%E4%BA%8E%E6%AD%A3" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">陈哲远感谢于正</a> <span style="color:var(--text-muted);font-size:12px;">880,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E6%9C%80%E5%B0%8A%E7%9A%849%E7%B3%BB%E6%97%97%E8%88%B0%E4%BA%94%E5%BA%A7%E6%9D%A5%E4%BA%86" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">最尊的9系旗舰五座来了</a> <span style="color:var(--text-muted);font-size:12px;">830,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%98%AF%E7%8E%8B%E6%A5%9A%E7%84%B6%E9%93%81%E7%B2%89" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">张凌赫是王楚然铁粉</a> <span style="color:var(--text-muted);font-size:12px;">780,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E5%A4%A7%E9%A2%86%E5%AF%BC%E8%BF%9B%E6%9D%A5%E5%8A%9E%E5%85%AC%E5%AE%A4%E8%A6%81%E7%AB%99%E8%B5%B7%E6%9D%A5%E5%90%97" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">大领导进来办公室要站起来吗</a> <span style="color:var(--text-muted);font-size:12px;">740,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=Flandre%E7%A6%BB%E5%BC%80AL" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Flandre离开AL</a> <span style="color:var(--text-muted);font-size:12px;">560,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=KSG%E5%AF%B9%E6%88%98%E7%8B%BC%E9%98%9F" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">KSG对战狼队</a> <span style="color:var(--text-muted);font-size:12px;">360,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E6%9F%B3%E5%91%A8cp%E4%BA%B2%E4%BA%86" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">柳周cp亲了</a> <span style="color:var(--text-muted);font-size:12px;">350,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2+%E5%AF%8C%E6%9C%89%E4%B8%94%E5%A4%A7%E6%96%B9" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">刘亦菲 富有且大方</a> <span style="color:var(--text-muted);font-size:12px;">350,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E6%84%9F%E5%86%92%E7%81%B5%E6%AD%A3%E5%BC%8F%E7%BA%B3%E5%85%A5%E7%A6%81%E9%A9%BE%E6%B8%85%E5%8D%95" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">感冒灵正式纳入禁驾清单</a> <span style="color:var(--text-muted);font-size:12px;">350,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E5%B0%8F%E6%AC%A2%E5%96%9C%E5%8E%9F%E8%91%97%E7%BB%93%E5%B1%80" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">小欢喜原著结局</a> <span style="color:var(--text-muted);font-size:12px;">340,000</span></li>
+<li style="margin-bottom:6px;"><a href="https://s.weibo.com/weibo?q=%E8%B5%B5%E9%92%B0%E7%90%AA14%E5%B2%81%E7%9A%84%E7%BE%8E%E4%BA%BA%E8%83%9A%E5%AD%90" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">赵钰琪14岁的美人胚子</a> <span style="color:var(--text-muted);font-size:12px;">340,000</span></li>
+</ul>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-opinion"></span>
+      <span class="title"><span class="highlight-opinion">知乎</span>热榜</span>
+      <span class="count-badge">15 topics</span>
+    </div>
+    <ul style="list-style:none;padding:0;"><li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2065160851711943119" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">河南多市三支一扶考试被指高分人数与招录名额高度对应，官方成立工作组调查，哪些信息值得关注</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2065354296774989670" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2065363377468043923" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">携程被罚 51.79 亿元后发内部全员信，透露出哪些信息</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2064678914778214835" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">为什么很多电车后屁股都凹一块也不修</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2064013926388519038" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">美通缉重犯被曝在华东师范大学任教十余年，这一事件暴露出高校在教师管理上的哪些短板和漏洞</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2064801268552537608" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">24 岁女孩正颌手术被做反变「鞋拔子脸」，当事医生已停诊，为什么会出现这种医疗事故？患者要怎么维权</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2065138370057953642" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">网友感慨「有微信之前人是可以不用一直在线的」，你有同感吗？你认为社交软件的进步有影响到你的生活吗</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2063731725264499456" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">从《八仙！》上映说起，为何孙悟空在影视作品中总是正义的英雄，二郎神杨戬有时候当正派，有时候当反派</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2065460492231864765" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">日本熊本县连续发生 7.1 级、 6.1 级地震，长三角多地网友称有震感，目前情况如何</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2064575049152066959" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">为什么菲尔兹奖的两个得主，大部分人都在关注王虹，而关于邓煜的消息寥寥无几</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2065388851443360105" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">山东临沂村书记直播带货知了猴助农被部分网友质疑破坏生态，真的会影响生态平衡吗</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2065177952480747776" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">网友称迪卡侬售后将其私人电话设置为总部投诉电话长达一年，如果属实该如何维权</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2065066004346926732" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">时隔八年 QQ 宠物正式回归，保留喂食等玩法，取消死亡机制，接入大模型，有哪些亮点？能重新打动用户吗</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2065427614815332294" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">商务部发布《关于所谓「产能过剩」问题的中方立场》，称保护主义只会扰乱全球经贸秩序，如何解读此文件</a></li>
+<li style="margin-bottom:8px;"><a href="https://www.zhihu.com/question/2065462868066006839" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">泰国国家旅游局回应「GMM 保安殴打中国粉丝」被指避重就轻未停用涉事员工，如何看待这一回应</a></li>
+</ul>
+  </div>
+  <div class="card">
+    <div class="card-header">
+      <span class="dot dot-dev"></span>
+      <span class="title"><span class="highlight-dev">Hacker</span> News</span>
+      <span class="count-badge">15 stories</span>
+    </div>
+    <ul style="list-style:none;padding:0;"><li style="margin-bottom:6px;"><a href="https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">7.1 Earthquake in Japan</a> <span style="color:var(--text-muted);font-size:12px;">634 pts · 133 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">New HIV vaccine shows unprecedented success in preclinical study</a> <span style="color:var(--text-muted);font-size:12px;">279 pts · 124 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://arxiv.org/abs/1202.4212" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Harmony Explained: Progress Towards a Scientific Theory of Music (2012)</a> <span style="color:var(--text-muted);font-size:12px;">22 pts · 7 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://arxiv.org/abs/2510.26692" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Kimi Linear: An Expressive, Efficient Attention Architecture</a> <span style="color:var(--text-muted);font-size:12px;">154 pts · 54 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://ooni.org/post/2026-italy-blocks-wow-and-whw" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Italy Blocks Reproductive Health Websites Women on Web and Women Help Women</a> <span style="color:var(--text-muted);font-size:12px;">30 pts · 9 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://github.com/schildep/verified-3d-mesh-intersection" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code</a> <span style="color:var(--text-muted);font-size:12px;">71 pts · 31 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">GrapheneOS Defends Data-Wiping Function That Blocked US Border Search</a> <span style="color:var(--text-muted);font-size:12px;">60 pts · 31 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It</a> <span style="color:var(--text-muted);font-size:12px;">84 pts · 66 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://taxa.substack.com/p/how-to-survive-boiling-water" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">How to Survive Boiling Water</a> <span style="color:var(--text-muted);font-size:12px;">262 pts · 43 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://spawn-queue.acm.org/doi/10.1145/3819083" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Google's Beyond Zero: Enterprise Security for the AI Era</a> <span style="color:var(--text-muted);font-size:12px;">97 pts · 53 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://www.anthropic.com/news/position-open-weights-models" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Our position on open-weights models</a> <span style="color:var(--text-muted);font-size:12px;">1099 pts · 1579 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://www.pbs.org/wgbh/nova/proof/wiles.html" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Solving Fermat: Andrew Wiles</a> <span style="color:var(--text-muted);font-size:12px;">38 pts · 15 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)</a> <span style="color:var(--text-muted);font-size:12px;">44 pts · 28 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://scalatutorials.com" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser</a> <span style="color:var(--text-muted);font-size:12px;">56 pts · 15 comments</span></li>
+<li style="margin-bottom:6px;"><a href="https://fermisense.com/when-machines-take-the-wheel/" target="_blank" style="color:var(--text-secondary);text-decoration:none;font-weight:500;">A $500 RL fine-tune of a 9B open model beat frontier models on catalog review</a> <span style="color:var(--text-muted);font-size:12px;">279 pts · 93 comments</span></li>
+</ul>
+  </div>
+
+</div>
+
+    <div class="source-index" id="source-index" style="">
+        <h2>&#9114; 溯源索引</h2>
+    <div class="source-group">
+      <div class="source-group-title">GitHub Trending</div>
+      <ul class="source-list">
+        <li id="src1"><span class="num num-dev">1</span><a href="https://github.com/pascalorg/editor" target="_blank">pascalorg/editor</a> <span class="desc">— Create and share 3D architectural projects.</span></li>
+        <li id="src2"><span class="num num-dev">2</span><a href="https://github.com/jenkinsci/jenkins" target="_blank">jenkinsci/jenkins</a> <span class="desc">— Jenkins automation server</span></li>
+        <li id="src3"><span class="num num-dev">3</span><a href="https://github.com/moeru-ai/airi" target="_blank">moeru-ai/airi</a> <span class="desc">— 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.</span></li>
+        <li id="src4"><span class="num num-dev">4</span><a href="https://github.com/andrewyng/aisuite" target="_blank">andrewyng/aisuite</a> <span class="desc">— Simple, unified interface to multiple Generative AI providers</span></li>
+        <li id="src5"><span class="num num-dev">5</span><a href="https://github.com/affaan-m/ECC" target="_blank">affaan-m/ECC</a> <span class="desc">— The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</span></li>
+        <li id="src6"><span class="num num-dev">6</span><a href="https://github.com/huggingface/speech-to-speech" target="_blank">huggingface/speech-to-speech</a> <span class="desc">— Build local voice agents with open-source models</span></li>
+        <li id="src7"><span class="num num-dev">7</span><a href="https://github.com/virgiliojr94/book-to-skill" target="_blank">virgiliojr94/book-to-skill</a> <span class="desc">— Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.</span></li>
+        <li id="src8"><span class="num num-dev">8</span><a href="https://github.com/opengeos/GeoLibre" target="_blank">opengeos/GeoLibre</a> <span class="desc">— A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.</span></li>
+        <li id="src9"><span class="num num-dev">9</span><a href="https://github.com/paperswithbacktest/awesome-systematic-trading" target="_blank">paperswithbacktest/awesome-systematic-trading</a> <span class="desc">— A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.</span></li>
+        <li id="src10"><span class="num num-dev">10</span><a href="https://github.com/microsoft/agent-governance-toolkit" target="_blank">microsoft/agent-governance-toolkit</a> <span class="desc">— AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.</span></li>
+        <li id="src11"><span class="num num-dev">11</span><a href="https://github.com/yorukot/superfile" target="_blank">yorukot/superfile</a> <span class="desc">— Pretty fancy and modern terminal file manager</span></li>
+        <li id="src12"><span class="num num-dev">12</span><a href="https://github.com/bradautomates/claude-video" target="_blank">bradautomates/claude-video</a> <span class="desc">— Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.</span></li>
+      </ul>
+    </div>
+    <div class="source-group">
+      <div class="source-group-title">Lobsters</div>
+      <ul class="source-list">
+        <li id="src13"><span class="num num-sys">13</span><a href="https://mlugg.co.uk/posts/incremental-compilation-internals/" target="_blank">Inside Zig's Incremental Compilation</a> <span class="desc">— compilers, performance, zig</span></li>
+        <li id="src14"><span class="num num-sys">14</span><a href="https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/" target="_blank">Framework 13 Pro review: Much better battery, much worse price</a> <span class="desc">— hardware</span></li>
+        <li id="src15"><span class="num num-sys">15</span><a href="https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide" target="_blank">Develop Cross-Platform CLI and GUI Tools With Tcl/Tk</a> <span class="desc">— graphics</span></li>
+        <li id="src16"><span class="num num-sys">16</span><a href="https://var0.xyz/posts/what-even-are-microservices.html" target="_blank">What even are microservices?</a> <span class="desc">— distributed, philosophy</span></li>
+        <li id="src17"><span class="num num-sys">17</span><a href="https://btxx.org/posts/self-hosted-openbsd/" target="_blank">Setup a Simple, Self-Hosted Web Server with OpenBSD</a> <span class="desc">— openbsd, web</span></li>
+        <li id="src18"><span class="num num-sys">18</span><a href="https://hondu.co/blog/building-systems-software" target="_blank">Building (systems) software with Nix</a> <span class="desc">— nix, osdev</span></li>
+        <li id="src19"><span class="num num-sys">19</span><a href="https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/" target="_blank">Blogging Can Just Be Stating The Obvious</a> <span class="desc">— education</span></li>
+        <li id="src20"><span class="num num-sys">20</span><a href="https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/" target="_blank">Try the New Firefox Design in Nightly</a> <span class="desc">— browsers</span></li>
+        <li id="src21"><span class="num num-sys">21</span><a href="https://jcs.org/2026/07/23/ai" target="_blank">On AI</a> <span class="desc">— vibecoding</span></li>
+        <li id="src22"><span class="num num-sys">22</span><a href="https://blog.tymscar.com/posts/opensourcedimmer/" target="_blank">I Designed A Custom PCB To Avoid Pressing A Button Three Times</a> <span class="desc">— c, hardware, reversing</span></li>
+        <li id="src23"><span class="num num-sys">23</span><a href="https://github.com/friendlymatthew/slurpjson#slurpjson" target="_blank">Parallel JSON parsing on the GPU with compute shaders</a> <span class="desc">— rust</span></li>
+        <li id="src24"><span class="num num-sys">24</span><a href="https://blogs.kde.org/2026/07/28/making-kio-copy-many-files-fast/" target="_blank">Making KIO copy many files fast</a> <span class="desc">— c++, performance</span></li>
+        <li id="src25"><span class="num num-sys">25</span><a href="https://auxcontrol.live" target="_blank">Aux Control — Let the whole room vote on the music</a> <span class="desc">— show, games, mobile</span></li>
+        <li id="src26"><span class="num num-sys">26</span><a href="https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way" target="_blank">One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way</a> <span class="desc">— hardware</span></li>
+        <li id="src27"><span class="num num-sys">27</span><a href="https://frantic.im/mirage" target="_blank">The Productivity Mirage</a> <span class="desc">— practices, programming</span></li>
+      </ul>
+    </div>
+    <div class="source-group">
+      <div class="source-group-title">少数派</div>
+      <ul class="source-list">
+        <li id="src28"><span class="num num-gadget">28</span><a href="https://sspai.com/post/112820" target="_blank">社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包Matrix机器人昨天 17:00</a> <span class="desc">— Matrix机器人</span></li>
+        <li id="src29"><span class="num num-gadget">29</span><a href="https://sspai.com/post/112822" target="_blank">能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码Microhoo昨天 16:40</a> <span class="desc">— Microhoo</span></li>
+        <li id="src30"><span class="num num-gadget">30</span><a href="https://sspai.com/post/112380" target="_blank">从《奥德赛》观影聊聊 IMAX 影院的分类聊聊 IMAX 放映系统的区别及影厅选择策略，帮你选到视效更震撼、更接近导演创作意图的版本。张奕源Nick昨天 15:00</a> <span class="desc">— 张奕源Nick</span></li>
+        <li id="src31"><span class="num num-gadget">31</span><a href="https://sspai.com/post/112774" target="_blank">索尼抛弃实体游戏光盘，谁成为了转型代价？黑狗布雷特昨天 11:02Matrix精选</a> <span class="desc">— 黑狗布雷特</span></li>
+        <li id="src32"><span class="num num-gadget">32</span><a href="https://sspai.com/post/112805" target="_blank">派早报：月之暗面开源 Kimi K3 模型等少数派编辑部昨天 08:04派早报</a> <span class="desc">— 少数派编辑部</span></li>
+        <li id="src33"><span class="num num-gadget">33</span><a href="https://sspai.com/bullet/1784613267" target="_blank">你搭建过哪些「最后吃灰」的工作流？一派讨论点击了解详情</a> <span class="desc">— 一派讨论</span></li>
+        <li id="src34"><span class="num num-gadget">34</span><a href="https://sspai.com/post/112785" target="_blank">派评 | 近期值得关注的 App少数派编辑部前天 17:34</a> <span class="desc">— 少数派编辑部</span></li>
+        <li id="src35"><span class="num num-gadget">35</span><a href="https://sspai.com/post/101668" target="_blank">Windows 设计史 05 | 你怀念的 Windows 7，或许最具「人情味」好用有时比创新更重要。SUNTRISE前天 15:00</a> <span class="desc">— SUNTRISE</span></li>
+        <li id="src36"><span class="num num-gadget">36</span><a href="https://sspai.com/post/112705" target="_blank">角落新声｜不再烧 Hi-Fi 后，我在走步机上给音乐留了一小时若叔前天 10:47Matrix精选</a> <span class="desc">— 若叔</span></li>
+        <li id="src37"><span class="num num-gadget">37</span><a href="https://sspai.com/post/112769" target="_blank">派早报：携程因滥用市场支配地位被罚 51.79 亿元少数派编辑部前天 07:00派早报</a> <span class="desc">— 少数派编辑部</span></li>
+        <li id="src38"><span class="num num-gadget">38</span><a href="https://sspai.com/post/112421" target="_blank">手冲咖啡指北：天太热了，来做一杯不寡淡的冰手冲吧一群小羊说07/26</a> <span class="desc">— 一群小羊说</span></li>
+        <li id="src39"><span class="num num-gadget">39</span><a href="https://sspai.com/bullet/1783932697" target="_blank">聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情</a> <span class="desc">— 一派讨论</span></li>
+      </ul>
+    </div>
+    <div class="source-group">
+      <div class="source-group-title">微博热搜</div>
+      <ul class="source-list">
+        <li id="src40"><span class="num num-opinion">40</span><a href="https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B0%91%E4%BC%97%E5%93%AD%E5%96%8A%E5%A3%B0%E4%B8%80%E7%89%87" target="_blank">日本7.1级地震民众哭喊声一片</a> <span class="desc">— 热度 1,510,000</span></li>
+        <li id="src41"><span class="num num-opinion">41</span><a href="https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9B%B8%E5%85%B3%E4%BA%A7%E5%93%81%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%96%B0%E5%90%8D%E7%89%87" target="_blank">人工智能相关产品成为中国外贸新名片</a> <span class="desc">— 热度 1,350,000</span></li>
+        <li id="src42"><span class="num num-opinion">42</span><a href="https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%BC%BA%E9%9C%87%E5%B7%B2%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1" target="_blank">日本7.1级强震已致多人死亡</a> <span class="desc">— 热度 1,180,000</span></li>
+        <li id="src43"><span class="num num-opinion">43</span><a href="https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%B1%B1%E5%B4%A9%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89" target="_blank">日本地震山崩瞬间画面曝光</a> <span class="desc">— 热度 1,020,000</span></li>
+        <li id="src44"><span class="num num-opinion">44</span><a href="https://s.weibo.com/weibo?q=%E9%99%88%E5%93%B2%E8%BF%9C%E6%84%9F%E8%B0%A2%E4%BA%8E%E6%AD%A3" target="_blank">陈哲远感谢于正</a> <span class="desc">— 热度 880,000</span></li>
+        <li id="src45"><span class="num num-opinion">45</span><a href="https://s.weibo.com/weibo?q=%E6%9C%80%E5%B0%8A%E7%9A%849%E7%B3%BB%E6%97%97%E8%88%B0%E4%BA%94%E5%BA%A7%E6%9D%A5%E4%BA%86" target="_blank">最尊的9系旗舰五座来了</a> <span class="desc">— 热度 830,000</span></li>
+        <li id="src46"><span class="num num-opinion">46</span><a href="https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%98%AF%E7%8E%8B%E6%A5%9A%E7%84%B6%E9%93%81%E7%B2%89" target="_blank">张凌赫是王楚然铁粉</a> <span class="desc">— 热度 780,000</span></li>
+        <li id="src47"><span class="num num-opinion">47</span><a href="https://s.weibo.com/weibo?q=%E5%A4%A7%E9%A2%86%E5%AF%BC%E8%BF%9B%E6%9D%A5%E5%8A%9E%E5%85%AC%E5%AE%A4%E8%A6%81%E7%AB%99%E8%B5%B7%E6%9D%A5%E5%90%97" target="_blank">大领导进来办公室要站起来吗</a> <span class="desc">— 热度 740,000</span></li>
+        <li id="src48"><span class="num num-opinion">48</span><a href="https://s.weibo.com/weibo?q=Flandre%E7%A6%BB%E5%BC%80AL" target="_blank">Flandre离开AL</a> <span class="desc">— 热度 560,000</span></li>
+        <li id="src49"><span class="num num-opinion">49</span><a href="https://s.weibo.com/weibo?q=KSG%E5%AF%B9%E6%88%98%E7%8B%BC%E9%98%9F" target="_blank">KSG对战狼队</a> <span class="desc">— 热度 360,000</span></li>
+        <li id="src50"><span class="num num-opinion">50</span><a href="https://s.weibo.com/weibo?q=%E6%9F%B3%E5%91%A8cp%E4%BA%B2%E4%BA%86" target="_blank">柳周cp亲了</a> <span class="desc">— 热度 350,000</span></li>
+        <li id="src51"><span class="num num-opinion">51</span><a href="https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2+%E5%AF%8C%E6%9C%89%E4%B8%94%E5%A4%A7%E6%96%B9" target="_blank">刘亦菲 富有且大方</a> <span class="desc">— 热度 350,000</span></li>
+        <li id="src52"><span class="num num-opinion">52</span><a href="https://s.weibo.com/weibo?q=%E6%84%9F%E5%86%92%E7%81%B5%E6%AD%A3%E5%BC%8F%E7%BA%B3%E5%85%A5%E7%A6%81%E9%A9%BE%E6%B8%85%E5%8D%95" target="_blank">感冒灵正式纳入禁驾清单</a> <span class="desc">— 热度 350,000</span></li>
+        <li id="src53"><span class="num num-opinion">53</span><a href="https://s.weibo.com/weibo?q=%E5%B0%8F%E6%AC%A2%E5%96%9C%E5%8E%9F%E8%91%97%E7%BB%93%E5%B1%80" target="_blank">小欢喜原著结局</a> <span class="desc">— 热度 340,000</span></li>
+        <li id="src54"><span class="num num-opinion">54</span><a href="https://s.weibo.com/weibo?q=%E8%B5%B5%E9%92%B0%E7%90%AA14%E5%B2%81%E7%9A%84%E7%BE%8E%E4%BA%BA%E8%83%9A%E5%AD%90" target="_blank">赵钰琪14岁的美人胚子</a> <span class="desc">— 热度 340,000</span></li>
+      </ul>
+    </div>
+    <div class="source-group">
+      <div class="source-group-title">知乎热榜</div>
+      <ul class="source-list">
+        <li id="src55"><span class="num num-opinion">55</span><a href="https://www.zhihu.com/question/2065160851711943119" target="_blank">河南多市三支一扶考试被指高分人数与招录名额高度对应，官方成立工作组调查，哪些信息值得关注</a> <span class="desc">— 4480000</span></li>
+        <li id="src56"><span class="num num-opinion">56</span><a href="https://www.zhihu.com/question/2065354296774989670" target="_blank">长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看</a> <span class="desc">— 3840000</span></li>
+        <li id="src57"><span class="num num-opinion">57</span><a href="https://www.zhihu.com/question/2065363377468043923" target="_blank">携程被罚 51.79 亿元后发内部全员信，透露出哪些信息</a> <span class="desc">— 3600000</span></li>
+        <li id="src58"><span class="num num-opinion">58</span><a href="https://www.zhihu.com/question/2064678914778214835" target="_blank">为什么很多电车后屁股都凹一块也不修</a> <span class="desc">— 1510000</span></li>
+        <li id="src59"><span class="num num-opinion">59</span><a href="https://www.zhihu.com/question/2064013926388519038" target="_blank">美通缉重犯被曝在华东师范大学任教十余年，这一事件暴露出高校在教师管理上的哪些短板和漏洞</a> <span class="desc">— 1440000</span></li>
+        <li id="src60"><span class="num num-opinion">60</span><a href="https://www.zhihu.com/question/2064801268552537608" target="_blank">24 岁女孩正颌手术被做反变「鞋拔子脸」，当事医生已停诊，为什么会出现这种医疗事故？患者要怎么维权</a> <span class="desc">— 1350000</span></li>
+        <li id="src61"><span class="num num-opinion">61</span><a href="https://www.zhihu.com/question/2065138370057953642" target="_blank">网友感慨「有微信之前人是可以不用一直在线的」，你有同感吗？你认为社交软件的进步有影响到你的生活吗</a> <span class="desc">— 1290000</span></li>
+        <li id="src62"><span class="num num-opinion">62</span><a href="https://www.zhihu.com/question/2063731725264499456" target="_blank">从《八仙！》上映说起，为何孙悟空在影视作品中总是正义的英雄，二郎神杨戬有时候当正派，有时候当反派</a> <span class="desc">— 1190000</span></li>
+        <li id="src63"><span class="num num-opinion">63</span><a href="https://www.zhihu.com/question/2065460492231864765" target="_blank">日本熊本县连续发生 7.1 级、 6.1 级地震，长三角多地网友称有震感，目前情况如何</a> <span class="desc">— 1060000</span></li>
+        <li id="src64"><span class="num num-opinion">64</span><a href="https://www.zhihu.com/question/2064575049152066959" target="_blank">为什么菲尔兹奖的两个得主，大部分人都在关注王虹，而关于邓煜的消息寥寥无几</a> <span class="desc">— 1050000</span></li>
+        <li id="src65"><span class="num num-opinion">65</span><a href="https://www.zhihu.com/question/2065388851443360105" target="_blank">山东临沂村书记直播带货知了猴助农被部分网友质疑破坏生态，真的会影响生态平衡吗</a> <span class="desc">— 1050000</span></li>
+        <li id="src66"><span class="num num-opinion">66</span><a href="https://www.zhihu.com/question/2065177952480747776" target="_blank">网友称迪卡侬售后将其私人电话设置为总部投诉电话长达一年，如果属实该如何维权</a> <span class="desc">— 970000</span></li>
+        <li id="src67"><span class="num num-opinion">67</span><a href="https://www.zhihu.com/question/2065066004346926732" target="_blank">时隔八年 QQ 宠物正式回归，保留喂食等玩法，取消死亡机制，接入大模型，有哪些亮点？能重新打动用户吗</a> <span class="desc">— 850000</span></li>
+        <li id="src68"><span class="num num-opinion">68</span><a href="https://www.zhihu.com/question/2065427614815332294" target="_blank">商务部发布《关于所谓「产能过剩」问题的中方立场》，称保护主义只会扰乱全球经贸秩序，如何解读此文件</a> <span class="desc">— 840000</span></li>
+        <li id="src69"><span class="num num-opinion">69</span><a href="https://www.zhihu.com/question/2065462868066006839" target="_blank">泰国国家旅游局回应「GMM 保安殴打中国粉丝」被指避重就轻未停用涉事员工，如何看待这一回应</a> <span class="desc">— 820000</span></li>
+      </ul>
+    </div>
+    <div class="source-group">
+      <div class="source-group-title">Hacker News</div>
+      <ul class="source-list">
+        <li id="src70"><span class="num num-dev">70</span><a href="https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en" target="_blank">7.1 Earthquake in Japan</a> <span class="desc">— 634 pts</span></li>
+        <li id="src71"><span class="num num-dev">71</span><a href="https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/" target="_blank">New HIV vaccine shows unprecedented success in preclinical study</a> <span class="desc">— 279 pts</span></li>
+        <li id="src72"><span class="num num-dev">72</span><a href="https://arxiv.org/abs/1202.4212" target="_blank">Harmony Explained: Progress Towards a Scientific Theory of Music (2012)</a> <span class="desc">— 22 pts</span></li>
+        <li id="src73"><span class="num num-dev">73</span><a href="https://arxiv.org/abs/2510.26692" target="_blank">Kimi Linear: An Expressive, Efficient Attention Architecture</a> <span class="desc">— 154 pts</span></li>
+        <li id="src74"><span class="num num-dev">74</span><a href="https://ooni.org/post/2026-italy-blocks-wow-and-whw" target="_blank">Italy Blocks Reproductive Health Websites Women on Web and Women Help Women</a> <span class="desc">— 30 pts</span></li>
+        <li id="src75"><span class="num num-dev">75</span><a href="https://github.com/schildep/verified-3d-mesh-intersection" target="_blank">Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code</a> <span class="desc">— 71 pts</span></li>
+        <li id="src76"><span class="num num-dev">76</span><a href="https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search" target="_blank">GrapheneOS Defends Data-Wiping Function That Blocked US Border Search</a> <span class="desc">— 60 pts</span></li>
+        <li id="src77"><span class="num num-dev">77</span><a href="https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026" target="_blank">DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It</a> <span class="desc">— 84 pts</span></li>
+        <li id="src78"><span class="num num-dev">78</span><a href="https://taxa.substack.com/p/how-to-survive-boiling-water" target="_blank">How to Survive Boiling Water</a> <span class="desc">— 262 pts</span></li>
+        <li id="src79"><span class="num num-dev">79</span><a href="https://spawn-queue.acm.org/doi/10.1145/3819083" target="_blank">Google's Beyond Zero: Enterprise Security for the AI Era</a> <span class="desc">— 97 pts</span></li>
+        <li id="src80"><span class="num num-dev">80</span><a href="https://www.anthropic.com/news/position-open-weights-models" target="_blank">Our position on open-weights models</a> <span class="desc">— 1099 pts</span></li>
+        <li id="src81"><span class="num num-dev">81</span><a href="https://www.pbs.org/wgbh/nova/proof/wiles.html" target="_blank">Solving Fermat: Andrew Wiles</a> <span class="desc">— 38 pts</span></li>
+        <li id="src82"><span class="num num-dev">82</span><a href="https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/" target="_blank">Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)</a> <span class="desc">— 44 pts</span></li>
+        <li id="src83"><span class="num num-dev">83</span><a href="https://scalatutorials.com" target="_blank">Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser</a> <span class="desc">— 56 pts</span></li>
+        <li id="src84"><span class="num num-dev">84</span><a href="https://fermisense.com/when-machines-take-the-wheel/" target="_blank">A $500 RL fine-tune of a 9B open model beat frontier models on catalog review</a> <span class="desc">— 279 pts</span></li>
+      </ul>
+    </div>
+
+    </div>
+
+    <footer class="footer">
+        <span class="heart">&#10022;</span> Daily Hot Digest &middot; 数据截至 2026-07-29 &middot;
+        <a href="index.html">查看所有日期</a>
+    </footer>
+</div>
+<script>
+
+(function() {
+    'use strict';
+    var canvas = document.getElementById('bg-canvas');
+    if (!canvas) return;
+    var ctx = canvas.getContext('2d');
+    var W, H;
+
+    function resize() {
+        W = window.innerWidth; H = window.innerHeight;
+        canvas.width = W; canvas.height = H;
+    }
+    window.addEventListener('resize', resize);
+    resize();
+
+    // 加载蓝天白云背景图片
+    var bgImage = new Image();
+    bgImage.crossOrigin = 'anonymous';
+    bgImage.src = 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1920&q=80';
+    var bgLoaded = false;
+    bgImage.onload = function() { bgLoaded = true; };
+    bgImage.onerror = function() { bgLoaded = false; };
+
+    // 粒子系统（适配蓝天白云风格）
+    var particles = [];
+    var PARTICLE_COUNT = 100;
+    var CONNECTION_DIST = 130;
+    var MOUSE_RADIUS = 160;
+    var mouseX = null, mouseY = null;
+
+    var colorPalette = [
+        'hsla(210, 80%, 90%, 0.7)',
+        'hsla(200, 70%, 85%, 0.6)',
+        'hsla(40, 60%, 92%, 0.5)',
+        'hsla(0, 50%, 95%, 0.5)',
+        'hsla(190, 60%, 88%, 0.6)',
+        'hsla(220, 50%, 92%, 0.6)',
+    ];
+
+    function Particle() { this.reset(); }
+    Particle.prototype.reset = function() {
+        this.x = Math.random() * W; this.y = Math.random() * H;
+        this.vx = (Math.random() - 0.5) * 0.6; this.vy = (Math.random() - 0.5) * 0.6;
+        this.radius = 2 + Math.random() * 3;
+        this.color = colorPalette[Math.floor(Math.random() * colorPalette.length)];
+    };
+    Particle.prototype.update = function() {
+        this.x += this.vx; this.y += this.vy;
+        if (mouseX !== null && mouseY !== null) {
+            var dx = this.x - mouseX, dy = this.y - mouseY;
+            var dist = Math.sqrt(dx * dx + dy * dy);
+            if (dist < MOUSE_RADIUS && dist > 1) {
+                var force = (MOUSE_RADIUS - dist) / MOUSE_RADIUS * 0.4;
+                this.x += (dx / dist) * force; this.y += (dy / dist) * force;
+            }
+        }
+        if (this.x < 0) { this.x = 0; this.vx *= -0.5; }
+        if (this.x > W) { this.x = W; this.vx *= -0.5; }
+        if (this.y < 0) { this.y = 0; this.vy *= -0.5; }
+        if (this.y > H) { this.y = H; this.vy *= -0.5; }
+        this.vx += (Math.random() - 0.5) * 0.03;
+        this.vy += (Math.random() - 0.5) * 0.03;
+        var sp = Math.sqrt(this.vx * this.vx + this.vy * this.vy);
+        if (sp > 0.8) { this.vx = (this.vx / sp) * 0.8; this.vy = (this.vy / sp) * 0.8; }
+    };
+    Particle.prototype.draw = function() {
+        ctx.beginPath(); ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
+        ctx.fillStyle = this.color;
+        ctx.shadowColor = 'rgba(255,255,255,0.3)'; ctx.shadowBlur = 10;
+        ctx.fill(); ctx.shadowBlur = 0;
+    };
+
+    for (var i = 0; i < PARTICLE_COUNT; i++) particles.push(new Particle());
+
+    function drawConnections() {
+        for (var i = 0; i < particles.length; i++) {
+            for (var j = i + 1; j < particles.length; j++) {
+                var dx = particles[i].x - particles[j].x;
+                var dy = particles[i].y - particles[j].y;
+                var dist = Math.sqrt(dx * dx + dy * dy);
+                if (dist < CONNECTION_DIST) {
+                    var alpha = (1 - dist / CONNECTION_DIST) * 0.2;
+                    ctx.beginPath();
+                    ctx.moveTo(particles[i].x, particles[i].y);
+                    ctx.lineTo(particles[j].x, particles[j].y);
+                    ctx.strokeStyle = 'rgba(255, 255, 255, ' + alpha + ')';
+                    ctx.lineWidth = 0.8; ctx.stroke();
+                }
+            }
+        }
+    }
+
+    document.addEventListener('mousemove', function(e) { mouseX = e.clientX; mouseY = e.clientY; });
+    document.addEventListener('mouseleave', function() { mouseX = null; mouseY = null; });
+    document.addEventListener('touchmove', function(e) {
+        var t = e.touches[0]; if (t) { mouseX = t.clientX; mouseY = t.clientY; }
+    }, { passive: true });
+    document.addEventListener('touchend', function() { mouseX = null; mouseY = null; });
+
+    function render() {
+        ctx.clearRect(0, 0, W, H);
+        if (bgLoaded && bgImage.complete && bgImage.naturalWidth > 0) {
+            var imgAspect = bgImage.naturalWidth / bgImage.naturalHeight;
+            var canvasAspect = W / H;
+            var drawW, drawH, offsetX, offsetY;
+            // Cover 模式：图片铺满画布，裁剪多余部分
+            if (imgAspect > canvasAspect) {
+                drawH = H; drawW = H * imgAspect; offsetX = (W - drawW) / 2; offsetY = 0;
+            } else {
+                drawW = W; drawH = W / imgAspect; offsetX = 0; offsetY = (H - drawH) / 2;
+            }
+            ctx.drawImage(bgImage, offsetX, offsetY, drawW, drawH);
+        } else {
+            var grad = ctx.createLinearGradient(0, 0, 0, H);
+            grad.addColorStop(0, '#87CEEB'); grad.addColorStop(1, '#E0F0FF');
+            ctx.fillStyle = grad; ctx.fillRect(0, 0, W, H);
+        }
+        drawConnections();
+        for (var i = 0; i < particles.length; i++) { particles[i].update(); particles[i].draw(); }
+        requestAnimationFrame(render);
+    }
+
+    resize(); render();
+    window.addEventListener('resize', function() {
+        resize();
+        for (var i = 0; i < particles.length; i++) {
+            particles[i].x = Math.min(particles[i].x, W);
+            particles[i].y = Math.min(particles[i].y, H);
+        }
+    });
+})();
+
+
+(function() {
+    'use strict';
+
+    // 统计数字动画
+    function animateNumber(el, target, duration) {
+        duration = duration || 1200;
+        var startTime = performance.now();
+        function update(currentTime) {
+            var elapsed = currentTime - startTime;
+            var progress = Math.min(elapsed / duration, 1);
+            var eased = 1 - Math.pow(1 - progress, 4);
+            el.textContent = Math.round(target * eased);
+            if (progress < 1) requestAnimationFrame(update);
+            else el.textContent = target;
+        }
+        requestAnimationFrame(update);
+    }
+    var statsItems = document.querySelectorAll('.stat-item .num[data-target]');
+    var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+            if (entry.isIntersecting) {
+                var target = parseInt(entry.target.dataset.target, 10);
+                if (!isNaN(target)) animateNumber(entry.target, target);
+                observer.unobserve(entry.target);
+            }
+        });
+    }, { threshold: 0.3 });
+    statsItems.forEach(function(el) { observer.observe(el); });
+
+    // GitHub Stars 获取
+    var starElements = document.querySelectorAll('.gh-stars[data-repo]');
+    if (starElements.length > 0) {
+        setTimeout(function() {
+            starElements.forEach(function(el) {
+                var repo = el.dataset.repo;
+                if (!repo) return;
+                fetch('https://api.github.com/repos/' + repo, {
+                    headers: { 'Accept': 'application/vnd.github.v3+json' }
+                }).then(function(res) {
+                    if (!res.ok) return;
+                    return res.json();
+                }).then(function(data) {
+                    if (data && data.stargazers_count !== undefined) {
+                        el.textContent = data.stargazers_count.toLocaleString();
+                    }
+                }).catch(function() {});
+            });
+        }, 800);
+    }
+})();
+
+
+(function() {
+    'use strict';
+    var tabs = document.querySelectorAll('.view-tab');
+    var sourceIndex = document.getElementById('source-index');
+    tabs.forEach(function(tab) {
+        tab.addEventListener('click', function() {
+            var target = this.dataset.view;
+            tabs.forEach(function(t) { t.classList.remove('active'); });
+            this.classList.add('active');
+            document.getElementById('view-ai').style.display = target === 'ai' ? '' : 'none';
+            document.getElementById('view-raw').style.display = target === 'raw' ? '' : 'none';
+            if (sourceIndex) sourceIndex.style.display = target === 'ai' ? '' : 'none';
+        });
+    });
+})();
+
+</script>
+</body>
+</html>
