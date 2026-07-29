@@ -638,8 +638,8 @@ def generate_daily_page(data: dict, ai_summary: dict | None, date_str: str) -> s
         ai_display = ""
         raw_display = "display:none;"
         source_index_display = ""
-        # 溯源索引用原始数据（编号与 AI 引用一致）
-        sources_for_index = raw_sources
+        # 溯源索引用 AI 的 sources（AI 正文中的 [N] 引用对应这个编号）
+        sources_for_index = ai_sources
     else:
         raw_cards, raw_sources = _build_raw_data_cards(data)
         ai_cards = ""
