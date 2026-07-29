@@ -5,8 +5,8 @@
       "title": "pascalorg / editor",
       "url": "https://github.com/pascalorg/editor",
       "description": "Create and share 3D architectural projects.",
-      "stars": "18425",
-      "stars_today": "415 stars today",
+      "stars": "18705",
+      "stars_today": "341 stars today",
       "language": "TypeScript"
     },
     {
@@ -14,7 +14,7 @@
       "title": "jenkinsci / jenkins",
       "url": "https://github.com/jenkinsci/jenkins",
       "description": "Jenkins automation server",
-      "stars": "26017",
+      "stars": "26070",
       "stars_today": "180 stars today",
       "language": "Java"
     },
@@ -23,8 +23,8 @@
       "title": "moeru-ai / airi",
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "stars": "44598",
-      "stars_today": "796 stars today",
+      "stars": "44757",
+      "stars_today": "797 stars today",
       "language": "TypeScript"
     },
     {
@@ -32,8 +32,8 @@
       "title": "andrewyng / aisuite",
       "url": "https://github.com/andrewyng/aisuite",
       "description": "Simple, unified interface to multiple Generative AI providers",
-      "stars": "15611",
-      "stars_today": "92 stars today",
+      "stars": "15682",
+      "stars_today": "62 stars today",
       "language": "Python"
     },
     {
@@ -41,8 +41,8 @@
       "title": "affaan-m / ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": "234581",
-      "stars_today": "692 stars today",
+      "stars": "234809",
+      "stars_today": "636 stars today",
       "language": "JavaScript"
     },
     {
@@ -50,8 +50,8 @@
       "title": "huggingface / speech-to-speech",
       "url": "https://github.com/huggingface/speech-to-speech",
       "description": "Build local voice agents with open-source models",
-      "stars": "6962",
-      "stars_today": "177 stars today",
+      "stars": "7237",
+      "stars_today": "227 stars today",
       "language": "Python"
     },
     {
@@ -59,8 +59,8 @@
       "title": "virgiliojr94 / book-to-skill",
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "stars": "10979",
-      "stars_today": "366 stars today",
+      "stars": "11377",
+      "stars_today": "423 stars today",
       "language": "Python"
     },
     {
@@ -68,8 +68,8 @@
       "title": "opengeos / GeoLibre",
       "url": "https://github.com/opengeos/GeoLibre",
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-      "stars": "3170",
-      "stars_today": "420 stars today",
+      "stars": "3395",
+      "stars_today": "607 stars today",
       "language": "TypeScript"
     },
     {
@@ -77,8 +77,8 @@
       "title": "paperswithbacktest / awesome-systematic-trading",
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
       "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "stars": "9350",
-      "stars_today": "402 stars today",
+      "stars": "9600",
+      "stars_today": "309 stars today",
       "language": "Python"
     },
     {
@@ -86,8 +86,8 @@
       "title": "microsoft / agent-governance-toolkit",
       "url": "https://github.com/microsoft/agent-governance-toolkit",
       "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-      "stars": "5061",
-      "stars_today": "17 stars today",
+      "stars": "5194",
+      "stars_today": "46 stars today",
       "language": "Python"
     },
     {
@@ -95,8 +95,8 @@
       "title": "yorukot / superfile",
       "url": "https://github.com/yorukot/superfile",
       "description": "Pretty fancy and modern terminal file manager",
-      "stars": "21285",
-      "stars_today": "660 stars today",
+      "stars": "21483",
+      "stars_today": "662 stars today",
       "language": "Go"
     },
     {
@@ -104,8 +104,8 @@
       "title": "bradautomates / claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "stars": "11815",
-      "stars_today": "989 stars today",
+      "stars": "12104",
+      "stars_today": "988 stars today",
       "language": "Python"
     }
   ],
@@ -126,105 +126,6 @@
     },
     {
       "rank": 2,
-      "title": "Framework 13 Pro review: Much better battery, much worse price",
-      "url": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-      "source_url": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-      "tags": [
-        "hardware"
-      ],
-      "score": "",
-      "comments": "",
-      "author": ""
-    },
-    {
-      "rank": 3,
-      "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
-      "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-      "source_url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-      "tags": [
-        "graphics"
-      ],
-      "score": "",
-      "comments": "",
-      "author": ""
-    },
-    {
-      "rank": 4,
-      "title": "What even are microservices?",
-      "url": "https://var0.xyz/posts/what-even-are-microservices.html",
-      "source_url": "https://var0.xyz/posts/what-even-are-microservices.html",
-      "tags": [
-        "distributed",
-        "philosophy"
-      ],
-      "score": "",
-      "comments": "",
-      "author": ""
-    },
-    {
-      "rank": 5,
-      "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
-      "url": "https://btxx.org/posts/self-hosted-openbsd/",
-      "source_url": "https://btxx.org/posts/self-hosted-openbsd/",
-      "tags": [
-        "openbsd",
-        "web"
-      ],
-      "score": "",
-      "comments": "",
-      "author": ""
-    },
-    {
-      "rank": 6,
-      "title": "Building (systems) software with Nix",
-      "url": "https://hondu.co/blog/building-systems-software",
-      "source_url": "https://hondu.co/blog/building-systems-software",
-      "tags": [
-        "nix",
-        "osdev"
-      ],
-      "score": "",
-      "comments": "",
-      "author": ""
-    },
-    {
-      "rank": 7,
-      "title": "Blogging Can Just Be Stating The Obvious",
-      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "source_url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "tags": [
-        "education"
-      ],
-      "score": "",
-      "comments": "",
-      "author": ""
-    },
-    {
-      "rank": 8,
-      "title": "Try the New Firefox Design in Nightly",
-      "url": "https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/",
-      "source_url": "https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/",
-      "tags": [
-        "browsers"
-      ],
-      "score": "",
-      "comments": "",
-      "author": ""
-    },
-    {
-      "rank": 9,
-      "title": "On AI",
-      "url": "https://jcs.org/2026/07/23/ai",
-      "source_url": "https://jcs.org/2026/07/23/ai",
-      "tags": [
-        "vibecoding"
-      ],
-      "score": "",
-      "comments": "",
-      "author": ""
-    },
-    {
-      "rank": 10,
       "title": "I Designed A Custom PCB To Avoid Pressing A Button Three Times",
       "url": "https://blog.tymscar.com/posts/opensourcedimmer/",
       "source_url": "https://blog.tymscar.com/posts/opensourcedimmer/",
@@ -238,7 +139,98 @@
       "author": ""
     },
     {
-      "rank": 11,
+      "rank": 3,
+      "title": "Why Rocq is better than Lean for program verification",
+      "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+      "source_url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+      "tags": [
+        "compilers",
+        "formalmethods",
+        "ml",
+        "plt"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk",
+      "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+      "source_url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+      "tags": [
+        "graphics"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "The mean means nothing",
+      "url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+      "source_url": "https://fzakaria.com/2026/07/27/the-mean-means-nothing",
+      "tags": [
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Framework 13 Pro review: Much better battery, much worse price",
+      "url": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
+      "source_url": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "What even are microservices?",
+      "url": "https://var0.xyz/posts/what-even-are-microservices.html",
+      "source_url": "https://var0.xyz/posts/what-even-are-microservices.html",
+      "tags": [
+        "distributed",
+        "philosophy"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "Building (systems) software with Nix",
+      "url": "https://hondu.co/blog/building-systems-software",
+      "source_url": "https://hondu.co/blog/building-systems-software",
+      "tags": [
+        "nix",
+        "osdev"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "Dependency Cultures - Richard Feldman (Software Should Work Conf 2026)",
+      "url": "https://www.youtube.com/watch?v=E82ly38YEEQ",
+      "source_url": "https://www.youtube.com/watch?v=E82ly38YEEQ",
+      "tags": [
+        "video",
+        "practices",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
       "title": "Parallel JSON parsing on the GPU with compute shaders",
       "url": "https://github.com/friendlymatthew/slurpjson#slurpjson",
       "source_url": "https://github.com/friendlymatthew/slurpjson#slurpjson",
@@ -250,13 +242,26 @@
       "author": ""
     },
     {
-      "rank": 12,
-      "title": "Making KIO copy many files fast",
-      "url": "https://blogs.kde.org/2026/07/28/making-kio-copy-many-files-fast/",
-      "source_url": "https://blogs.kde.org/2026/07/28/making-kio-copy-many-files-fast/",
+      "rank": 11,
+      "title": "Setup a Simple, Self-Hosted Web Server with OpenBSD",
+      "url": "https://btxx.org/posts/self-hosted-openbsd/",
+      "source_url": "https://btxx.org/posts/self-hosted-openbsd/",
       "tags": [
-        "c++",
-        "performance"
+        "openbsd",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Where are the third places for learners?",
+      "url": "https://kernelkennel.com/blog/where-is-the-middle-space/",
+      "source_url": "https://kernelkennel.com/blog/where-is-the-middle-space/",
+      "tags": [
+        "education",
+        "vibecoding"
       ],
       "score": "",
       "comments": "",
@@ -264,13 +269,11 @@
     },
     {
       "rank": 13,
-      "title": "Aux Control — Let the whole room vote on the music",
-      "url": "https://auxcontrol.live",
-      "source_url": "https://auxcontrol.live",
+      "title": "Try the New Firefox Design in Nightly",
+      "url": "https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/",
+      "source_url": "https://blog.nightly.mozilla.org/2026/07/27/new-firefox-design/",
       "tags": [
-        "show",
-        "games",
-        "mobile"
+        "browsers"
       ],
       "score": "",
       "comments": "",
@@ -278,11 +281,12 @@
     },
     {
       "rank": 14,
-      "title": "One Ring to Rule Them All: Wiring Radios to Laptops the Hard Way",
-      "url": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
-      "source_url": "https://www.lysk.ai/post/wiring-radios-to-laptops-the-hard-way",
+      "title": "Proof types in Dart: Using final classes as computational witnesses",
+      "url": "https://modulovalue.com/blog/proof-types-in-dart/",
+      "source_url": "https://modulovalue.com/blog/proof-types-in-dart/",
       "tags": [
-        "hardware"
+        "compilers",
+        "security"
       ],
       "score": "",
       "comments": "",
@@ -290,12 +294,11 @@
     },
     {
       "rank": 15,
-      "title": "The Productivity Mirage",
-      "url": "https://frantic.im/mirage",
-      "source_url": "https://frantic.im/mirage",
+      "title": "State of multi-player Wayland",
+      "url": "https://blinry.org/multi-seat-wayland/",
+      "source_url": "https://blinry.org/multi-seat-wayland/",
       "tags": [
-        "practices",
-        "programming"
+        "linux"
       ],
       "score": "",
       "comments": "",
@@ -305,38 +308,38 @@
   "sspai": [
     {
       "rank": 1,
+      "title": "微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等少数派编辑部08:39派早报",
+      "url": "https://sspai.com/post/112837",
+      "author": "少数派编辑部",
+      "summary": "微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等"
+    },
+    {
+      "rank": 2,
       "title": "社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包Matrix机器人昨天 17:00",
       "url": "https://sspai.com/post/112820",
       "author": "Matrix机器人",
       "summary": "社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码Microhoo昨天 16:40",
       "url": "https://sspai.com/post/112822",
       "author": "Microhoo",
       "summary": "能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "从《奥德赛》观影聊聊 IMAX 影院的分类聊聊 IMAX 放映系统的区别及影厅选择策略，帮你选到视效更震撼、更接近导演创作意图的版本。张奕源Nick昨天 15:00",
       "url": "https://sspai.com/post/112380",
       "author": "张奕源Nick",
       "summary": "从《奥德赛》观影聊聊 IMAX 影院的分类"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "索尼抛弃实体游戏光盘，谁成为了转型代价？黑狗布雷特昨天 11:02Matrix精选",
       "url": "https://sspai.com/post/112774",
       "author": "黑狗布雷特",
       "summary": "索尼抛弃实体游戏光盘，谁成为了转型代价？"
-    },
-    {
-      "rank": 5,
-      "title": "派早报：月之暗面开源 Kimi K3 模型等少数派编辑部昨天 08:04派早报",
-      "url": "https://sspai.com/post/112805",
-      "author": "少数派编辑部",
-      "summary": "派早报：月之暗面开源 Kimi K3 模型等"
     },
     {
       "rank": 6,
@@ -347,31 +350,31 @@
     },
     {
       "rank": 7,
+      "title": "派早报：月之暗面开源 Kimi K3 模型等少数派编辑部昨天 08:04派早报",
+      "url": "https://sspai.com/post/112805",
+      "author": "少数派编辑部",
+      "summary": "派早报：月之暗面开源 Kimi K3 模型等"
+    },
+    {
+      "rank": 8,
       "title": "派评 | 近期值得关注的 App少数派编辑部前天 17:34",
       "url": "https://sspai.com/post/112785",
       "author": "少数派编辑部",
       "summary": "派评 | 近期值得关注的 App"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Windows 设计史 05 | 你怀念的 Windows 7，或许最具「人情味」好用有时比创新更重要。SUNTRISE前天 15:00",
       "url": "https://sspai.com/post/101668",
       "author": "SUNTRISE",
       "summary": "Windows 设计史 05 | 你怀念的 Windows 7，或许最具「人情味」"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "角落新声｜不再烧 Hi-Fi 后，我在走步机上给音乐留了一小时若叔前天 10:47Matrix精选",
       "url": "https://sspai.com/post/112705",
       "author": "若叔",
       "summary": "角落新声｜不再烧 Hi-Fi 后，我在走步机上给音乐留了一小时"
-    },
-    {
-      "rank": 10,
-      "title": "派早报：携程因滥用市场支配地位被罚 51.79 亿元少数派编辑部前天 07:00派早报",
-      "url": "https://sspai.com/post/112769",
-      "author": "少数派编辑部",
-      "summary": "派早报：携程因滥用市场支配地位被罚 51.79 亿元"
     },
     {
       "rank": 11,
@@ -379,334 +382,327 @@
       "url": "https://sspai.com/post/112421",
       "author": "一群小羊说",
       "summary": "手冲咖啡指北：天太热了，来做一杯不寡淡的冰手冲吧"
-    },
-    {
-      "rank": 12,
-      "title": "聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情",
-      "url": "https://sspai.com/bullet/1783932697",
-      "author": "一派讨论",
-      "summary": "聊聊你在各购物平台独占的「固定回购清单」？"
     }
   ],
   "weibo": [
     {
       "rank": 1,
-      "title": "日本7.1级地震民众哭喊声一片",
-      "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%B0%91%E4%BC%97%E5%93%AD%E5%96%8A%E5%A3%B0%E4%B8%80%E7%89%87",
-      "hot_value": 1510000
+      "title": "SK海力士二季度业绩",
+      "url": "https://s.weibo.com/weibo?q=SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%BA%8C%E5%AD%A3%E5%BA%A6%E4%B8%9A%E7%BB%A9",
+      "hot_value": 850000
     },
     {
       "rank": 2,
-      "title": "人工智能相关产品成为中国外贸新名片",
-      "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9B%B8%E5%85%B3%E4%BA%A7%E5%93%81%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%96%B0%E5%90%8D%E7%89%87",
-      "hot_value": 1350000
+      "title": "一封封侨批情系家国",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%B0%81%E5%B0%81%E4%BE%A8%E6%89%B9%E6%83%85%E7%B3%BB%E5%AE%B6%E5%9B%BD",
+      "hot_value": 640000
     },
     {
       "rank": 3,
-      "title": "日本7.1级强震已致多人死亡",
-      "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC7.1%E7%BA%A7%E5%BC%BA%E9%9C%87%E5%B7%B2%E8%87%B4%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-      "hot_value": 1180000
+      "title": "原来这就是英语思维",
+      "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E8%8B%B1%E8%AF%AD%E6%80%9D%E7%BB%B4",
+      "hot_value": 490000
     },
     {
       "rank": 4,
-      "title": "日本地震山崩瞬间画面曝光",
-      "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%B1%B1%E5%B4%A9%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89",
-      "hot_value": 1020000
+      "title": "曝Flandre加入BLG",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9DFlandre%E5%8A%A0%E5%85%A5BLG",
+      "hot_value": 480000
     },
     {
       "rank": 5,
-      "title": "陈哲远感谢于正",
-      "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%93%B2%E8%BF%9C%E6%84%9F%E8%B0%A2%E4%BA%8E%E6%AD%A3",
-      "hot_value": 880000
+      "title": "郑钦文 连丢三局",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87+%E8%BF%9E%E4%B8%A2%E4%B8%89%E5%B1%80",
+      "hot_value": 440000
     },
     {
       "rank": 6,
-      "title": "最尊的9系旗舰五座来了",
-      "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E5%B0%8A%E7%9A%849%E7%B3%BB%E6%97%97%E8%88%B0%E4%BA%94%E5%BA%A7%E6%9D%A5%E4%BA%86",
-      "hot_value": 830000
+      "title": "医生群里发除非死人不要临时请假",
+      "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%94%9F%E7%BE%A4%E9%87%8C%E5%8F%91%E9%99%A4%E9%9D%9E%E6%AD%BB%E4%BA%BA%E4%B8%8D%E8%A6%81%E4%B8%B4%E6%97%B6%E8%AF%B7%E5%81%87",
+      "hot_value": 400000
     },
     {
       "rank": 7,
-      "title": "张凌赫是王楚然铁粉",
-      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%98%AF%E7%8E%8B%E6%A5%9A%E7%84%B6%E9%93%81%E7%B2%89",
-      "hot_value": 780000
+      "title": "任嘉伦我在锦衣卫负责抄家的日子",
+      "url": "https://s.weibo.com/weibo?q=%E4%BB%BB%E5%98%89%E4%BC%A6%E6%88%91%E5%9C%A8%E9%94%A6%E8%A1%A3%E5%8D%AB%E8%B4%9F%E8%B4%A3%E6%8A%84%E5%AE%B6%E7%9A%84%E6%97%A5%E5%AD%90",
+      "hot_value": 370000
     },
     {
       "rank": 8,
-      "title": "大领导进来办公室要站起来吗",
-      "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%A2%86%E5%AF%BC%E8%BF%9B%E6%9D%A5%E5%8A%9E%E5%85%AC%E5%AE%A4%E8%A6%81%E7%AB%99%E8%B5%B7%E6%9D%A5%E5%90%97",
-      "hot_value": 740000
+      "title": "蜘蛛侠",
+      "url": "https://s.weibo.com/weibo?q=%E8%9C%98%E8%9B%9B%E4%BE%A0",
+      "hot_value": 350000
     },
     {
       "rank": 9,
-      "title": "Flandre离开AL",
-      "url": "https://s.weibo.com/weibo?q=Flandre%E7%A6%BB%E5%BC%80AL",
-      "hot_value": 560000
+      "title": "理想汽车自动泊车频繁调整仍失败",
+      "url": "https://s.weibo.com/weibo?q=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E8%87%AA%E5%8A%A8%E6%B3%8A%E8%BD%A6%E9%A2%91%E7%B9%81%E8%B0%83%E6%95%B4%E4%BB%8D%E5%A4%B1%E8%B4%A5",
+      "hot_value": 340000
     },
     {
       "rank": 10,
-      "title": "KSG对战狼队",
-      "url": "https://s.weibo.com/weibo?q=KSG%E5%AF%B9%E6%88%98%E7%8B%BC%E9%98%9F",
-      "hot_value": 360000
+      "title": "男友逼坠楼生还女孩返还恋爱开销",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%8F%8B%E9%80%BC%E5%9D%A0%E6%A5%BC%E7%94%9F%E8%BF%98%E5%A5%B3%E5%AD%A9%E8%BF%94%E8%BF%98%E6%81%8B%E7%88%B1%E5%BC%80%E9%94%80",
+      "hot_value": 330000
     },
     {
       "rank": 11,
-      "title": "柳周cp亲了",
-      "url": "https://s.weibo.com/weibo?q=%E6%9F%B3%E5%91%A8cp%E4%BA%B2%E4%BA%86",
-      "hot_value": 350000
+      "title": "印度成首个被AI做空的国家",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E6%88%90%E9%A6%96%E4%B8%AA%E8%A2%ABAI%E5%81%9A%E7%A9%BA%E7%9A%84%E5%9B%BD%E5%AE%B6",
+      "hot_value": 320000
     },
     {
       "rank": 12,
-      "title": "刘亦菲 富有且大方",
-      "url": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2+%E5%AF%8C%E6%9C%89%E4%B8%94%E5%A4%A7%E6%96%B9",
-      "hot_value": 350000
+      "title": "吴谨言全世界乳腺最畅通之人",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%B4%E8%B0%A8%E8%A8%80%E5%85%A8%E4%B8%96%E7%95%8C%E4%B9%B3%E8%85%BA%E6%9C%80%E7%95%85%E9%80%9A%E4%B9%8B%E4%BA%BA",
+      "hot_value": 310000
     },
     {
       "rank": 13,
-      "title": "感冒灵正式纳入禁驾清单",
-      "url": "https://s.weibo.com/weibo?q=%E6%84%9F%E5%86%92%E7%81%B5%E6%AD%A3%E5%BC%8F%E7%BA%B3%E5%85%A5%E7%A6%81%E9%A9%BE%E6%B8%85%E5%8D%95",
-      "hot_value": 350000
+      "title": "法医完成王建隆遗体尸检",
+      "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%8C%BB%E5%AE%8C%E6%88%90%E7%8E%8B%E5%BB%BA%E9%9A%86%E9%81%97%E4%BD%93%E5%B0%B8%E6%A3%80",
+      "hot_value": 300000
     },
     {
       "rank": 14,
-      "title": "小欢喜原著结局",
-      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E6%AC%A2%E5%96%9C%E5%8E%9F%E8%91%97%E7%BB%93%E5%B1%80",
-      "hot_value": 340000
+      "title": "日本地震熊本商场爆炸瞬间",
+      "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E7%86%8A%E6%9C%AC%E5%95%86%E5%9C%BA%E7%88%86%E7%82%B8%E7%9E%AC%E9%97%B4",
+      "hot_value": 300000
     },
     {
       "rank": 15,
-      "title": "赵钰琪14岁的美人胚子",
-      "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E9%92%B0%E7%90%AA14%E5%B2%81%E7%9A%84%E7%BE%8E%E4%BA%BA%E8%83%9A%E5%AD%90",
-      "hot_value": 340000
+      "title": "退货千万不要提前给取件码",
+      "url": "https://s.weibo.com/weibo?q=%E9%80%80%E8%B4%A7%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8F%90%E5%89%8D%E7%BB%99%E5%8F%96%E4%BB%B6%E7%A0%81",
+      "hot_value": 290000
     }
   ],
   "zhihu": [
     {
       "rank": 1,
-      "title": "河南多市三支一扶考试被指高分人数与招录名额高度对应，官方成立工作组调查，哪些信息值得关注",
-      "url": "https://www.zhihu.com/question/2065160851711943119",
-      "hot_value": 4480000
+      "title": "如何看待《蜘蛛侠：崭新之日》总票房预测达 18 亿，首日预测超 2.5 亿，预售破亿，零点场近 3000 万",
+      "url": "https://www.zhihu.com/question/2065385829304727519",
+      "hot_value": 2910000
     },
     {
       "rank": 2,
-      "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看",
-      "url": "https://www.zhihu.com/question/2065354296774989670",
-      "hot_value": 3840000
+      "title": "网友称迪卡侬售后将其私人电话设置为总部投诉电话长达一年，如果属实该如何维权",
+      "url": "https://www.zhihu.com/question/2065177952480747776",
+      "hot_value": 2130000
     },
     {
       "rank": 3,
-      "title": "携程被罚 51.79 亿元后发内部全员信，透露出哪些信息",
-      "url": "https://www.zhihu.com/question/2065363377468043923",
-      "hot_value": 3600000
+      "title": "山东临沂村书记直播带货知了猴助农被部分网友质疑破坏生态，真的会影响生态平衡吗",
+      "url": "https://www.zhihu.com/question/2065388851443360105",
+      "hot_value": 1930000
     },
     {
       "rank": 4,
-      "title": "为什么很多电车后屁股都凹一块也不修",
-      "url": "https://www.zhihu.com/question/2064678914778214835",
+      "title": "时隔八年 QQ 宠物正式回归，保留喂食等玩法，取消死亡机制，接入大模型，有哪些亮点？能重新打动用户吗",
+      "url": "https://www.zhihu.com/question/2065066004346926732",
       "hot_value": 1510000
     },
     {
       "rank": 5,
-      "title": "美通缉重犯被曝在华东师范大学任教十余年，这一事件暴露出高校在教师管理上的哪些短板和漏洞",
-      "url": "https://www.zhihu.com/question/2064013926388519038",
-      "hot_value": 1440000
+      "title": "上海一室一厅酒店月租 12000 元起，半数客人为长住客，原因为何？真的比租房划算吗",
+      "url": "https://www.zhihu.com/question/2065045395525390422",
+      "hot_value": 1370000
     },
     {
       "rank": 6,
       "title": "24 岁女孩正颌手术被做反变「鞋拔子脸」，当事医生已停诊，为什么会出现这种医疗事故？患者要怎么维权",
       "url": "https://www.zhihu.com/question/2064801268552537608",
-      "hot_value": 1350000
+      "hot_value": 1300000
     },
     {
       "rank": 7,
-      "title": "网友感慨「有微信之前人是可以不用一直在线的」，你有同感吗？你认为社交软件的进步有影响到你的生活吗",
-      "url": "https://www.zhihu.com/question/2065138370057953642",
-      "hot_value": 1290000
+      "title": "佛得角后卫卡布拉尔世界波当选世界杯最佳进球，如何看待卡布拉尔世界杯表现",
+      "url": "https://www.zhihu.com/question/2065399230286636311",
+      "hot_value": 1180000
     },
     {
       "rank": 8,
-      "title": "从《八仙！》上映说起，为何孙悟空在影视作品中总是正义的英雄，二郎神杨戬有时候当正派，有时候当反派",
-      "url": "https://www.zhihu.com/question/2063731725264499456",
-      "hot_value": 1190000
+      "title": "有哪些「中国标准」成为「世界标准」的例子",
+      "url": "https://www.zhihu.com/question/430077118",
+      "hot_value": 1180000
     },
     {
       "rank": 9,
-      "title": "日本熊本县连续发生 7.1 级、 6.1 级地震，长三角多地网友称有震感，目前情况如何",
-      "url": "https://www.zhihu.com/question/2065460492231864765",
-      "hot_value": 1060000
+      "title": "孙悟空被火焰山切糕烫到，是不是意味着，这只猴子没有金钢之躯",
+      "url": "https://www.zhihu.com/question/1936761762335663228",
+      "hot_value": 1130000
     },
     {
       "rank": 10,
-      "title": "为什么菲尔兹奖的两个得主，大部分人都在关注王虹，而关于邓煜的消息寥寥无几",
-      "url": "https://www.zhihu.com/question/2064575049152066959",
-      "hot_value": 1050000
+      "title": "林黛玉进荣国府拜见舅舅，为什么舅舅都「避而不见」呢",
+      "url": "https://www.zhihu.com/question/1928160499444463137",
+      "hot_value": 1080000
     },
     {
       "rank": 11,
-      "title": "山东临沂村书记直播带货知了猴助农被部分网友质疑破坏生态，真的会影响生态平衡吗",
-      "url": "https://www.zhihu.com/question/2065388851443360105",
-      "hot_value": 1050000
+      "title": "网友感慨「有微信之前人是可以不用一直在线的」，你有同感吗？你认为社交软件的进步有影响到你的生活吗",
+      "url": "https://www.zhihu.com/question/2065138370057953642",
+      "hot_value": 1040000
     },
     {
       "rank": 12,
-      "title": "网友称迪卡侬售后将其私人电话设置为总部投诉电话长达一年，如果属实该如何维权",
-      "url": "https://www.zhihu.com/question/2065177952480747776",
-      "hot_value": 970000
+      "title": "电子屏和 PPT 已经如此普及，为什么像王虹这样的顶尖学者仍偏爱粉笔和黑板？PPT 真的还是教学的必需品吗",
+      "url": "https://www.zhihu.com/question/2065466996951442038",
+      "hot_value": 1030000
     },
     {
       "rank": 13,
-      "title": "时隔八年 QQ 宠物正式回归，保留喂食等玩法，取消死亡机制，接入大模型，有哪些亮点？能重新打动用户吗",
-      "url": "https://www.zhihu.com/question/2065066004346926732",
-      "hot_value": 850000
+      "title": "因无法任命皮尔洛当主帅，马尔蒂尼已辞去国家队总监一职，该如何评价这一系列事件",
+      "url": "https://www.zhihu.com/question/2065312484983052056",
+      "hot_value": 980000
     },
     {
       "rank": 14,
-      "title": "商务部发布《关于所谓「产能过剩」问题的中方立场》，称保护主义只会扰乱全球经贸秩序，如何解读此文件",
-      "url": "https://www.zhihu.com/question/2065427614815332294",
-      "hot_value": 840000
+      "title": "为什么越来越多人客厅不要沙发了，那用什么替代呢",
+      "url": "https://www.zhihu.com/question/668026601",
+      "hot_value": 970000
     },
     {
       "rank": 15,
-      "title": "泰国国家旅游局回应「GMM 保安殴打中国粉丝」被指避重就轻未停用涉事员工，如何看待这一回应",
-      "url": "https://www.zhihu.com/question/2065462868066006839",
-      "hot_value": 820000
+      "title": "如今北漂流行北京赚钱回老家消费的「地理套利」，如何看待这种新型生活方式",
+      "url": "https://www.zhihu.com/question/2062839580311675083",
+      "hot_value": 960000
     }
   ],
   "hackernews": [
     {
       "rank": 1,
-      "title": "7.1 Earthquake in Japan",
-      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "score": 634,
-      "author": "krembo",
-      "comments": 133,
-      "hn_url": "https://news.ycombinator.com/item?id=49080664"
+      "title": "Codex Security",
+      "url": "https://github.com/openai/codex-security",
+      "score": 322,
+      "author": "bakigul",
+      "comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=49089755"
     },
     {
       "rank": 2,
-      "title": "New HIV vaccine shows unprecedented success in preclinical study",
-      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 279,
-      "author": "codebyaditya",
-      "comments": 124,
-      "hn_url": "https://news.ycombinator.com/item?id=49083314"
+      "title": "Half-Life ported to Mac OS 9",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "score": 128,
+      "author": "freediver",
+      "comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=49089814"
     },
     {
       "rank": 3,
-      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-      "url": "https://arxiv.org/abs/1202.4212",
-      "score": 22,
-      "author": "surprisetalk",
-      "comments": 7,
-      "hn_url": "https://news.ycombinator.com/item?id=49085280"
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "score": 96,
+      "author": "twalichiewicz",
+      "comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=49090607"
     },
     {
       "rank": 4,
-      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
-      "url": "https://arxiv.org/abs/2510.26692",
-      "score": 154,
-      "author": "ronfriedhaber",
-      "comments": 54,
-      "hn_url": "https://news.ycombinator.com/item?id=49082022"
+      "title": "Substack writers, you need a website",
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "score": 398,
+      "author": "speckx",
+      "comments": 207,
+      "hn_url": "https://news.ycombinator.com/item?id=49086788"
     },
     {
       "rank": 5,
-      "title": "Italy Blocks Reproductive Health Websites Women on Web and Women Help Women",
-      "url": "https://ooni.org/post/2026-italy-blocks-wow-and-whw",
-      "score": 30,
-      "author": "miniBill",
-      "comments": 9,
-      "hn_url": "https://news.ycombinator.com/item?id=49084091"
+      "title": "The Difference Between a Button and a Link",
+      "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+      "score": 14,
+      "author": "alexpetros",
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49091738"
     },
     {
       "rank": 6,
-      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-      "score": 71,
-      "author": "permute",
-      "comments": 31,
-      "hn_url": "https://news.ycombinator.com/item?id=49083239"
+      "title": "Hubbele: Open-source notetaking app for you and your agents",
+      "url": "https://www.hubble.md/",
+      "score": 15,
+      "author": "handfuloflight",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49091730"
     },
     {
       "rank": 7,
-      "title": "GrapheneOS Defends Data-Wiping Function That Blocked US Border Search",
-      "url": "https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search",
-      "score": 60,
-      "author": "pseudolus",
-      "comments": 31,
-      "hn_url": "https://news.ycombinator.com/item?id=49085236"
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "url": "https://sbcl.org/all-news.html?2.6.7",
+      "score": 195,
+      "author": "tmtvl",
+      "comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=49086971"
     },
     {
       "rank": 8,
-      "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
-      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-      "score": 84,
-      "author": "adulion",
-      "comments": 66,
-      "hn_url": "https://news.ycombinator.com/item?id=49081783"
+      "title": "Schools are adding pepper-spraying drones to help combat active shooters",
+      "url": "https://www.washingtonpost.com/nation/2026/07/28/schools-are-adding-pepper-spraying-drones-help-combat-active-shooters/",
+      "score": 18,
+      "author": "zdw",
+      "comments": 28,
+      "hn_url": "https://news.ycombinator.com/item?id=49091153"
     },
     {
       "rank": 9,
-      "title": "How to Survive Boiling Water",
-      "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
-      "score": 262,
-      "author": "cainxinth",
-      "comments": 43,
-      "hn_url": "https://news.ycombinator.com/item?id=49036068"
+      "title": "Teach yourself programming in ten years (1998)",
+      "url": "https://www.norvig.com/21-days.html",
+      "score": 21,
+      "author": "vinhnx",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49055816"
     },
     {
       "rank": 10,
-      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "score": 97,
-      "author": "jordigg",
-      "comments": 53,
-      "hn_url": "https://news.ycombinator.com/item?id=49081644"
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "score": 297,
+      "author": "ModelForge",
+      "comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=49085698"
     },
     {
       "rank": 11,
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 1099,
-      "author": "surprisetalk",
-      "comments": 1579,
-      "hn_url": "https://news.ycombinator.com/item?id=49076057"
+      "title": "ReFrame – The EPaper Camera",
+      "url": "https://reframe.camera/",
+      "score": 10,
+      "author": "phil294",
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49091379"
     },
     {
       "rank": 12,
-      "title": "Solving Fermat: Andrew Wiles",
-      "url": "https://www.pbs.org/wgbh/nova/proof/wiles.html",
-      "score": 38,
-      "author": "1970-01-01",
-      "comments": 15,
-      "hn_url": "https://news.ycombinator.com/item?id=49075264"
+      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "url": "https://www.slow-journalism.com/",
+      "score": 232,
+      "author": "speerer",
+      "comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=49085731"
     },
     {
       "rank": 13,
-      "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
-      "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
-      "score": 44,
-      "author": "882542F3884314B",
-      "comments": 28,
-      "hn_url": "https://news.ycombinator.com/item?id=49082550"
+      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+      "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+      "score": 136,
+      "author": "lkurtz",
+      "comments": 233,
+      "hn_url": "https://news.ycombinator.com/item?id=49087306"
     },
     {
       "rank": 14,
-      "title": "Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser",
-      "url": "https://scalatutorials.com",
-      "score": 56,
-      "author": "eranation",
-      "comments": 15,
-      "hn_url": "https://news.ycombinator.com/item?id=49040650"
+      "title": "Zig's Incremental Compilation Internals",
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+      "score": 188,
+      "author": "garyhtou",
+      "comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=49085666"
     },
     {
       "rank": 15,
-      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-      "url": "https://fermisense.com/when-machines-take-the-wheel/",
-      "score": 279,
-      "author": "ilreb",
-      "comments": 93,
-      "hn_url": "https://news.ycombinator.com/item?id=49078454"
+      "title": "Pacing the frontier",
+      "url": "https://www.pacingthefrontier.com/",
+      "score": 68,
+      "author": "reducesuffering",
+      "comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=49089240"
     }
   ]
 }
