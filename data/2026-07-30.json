@@ -5,7 +5,7 @@
       "title": "opengeos / GeoLibre",
       "url": "https://github.com/opengeos/GeoLibre",
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-      "stars": "4230",
+      "stars": "4240",
       "stars_today": "671 stars today",
       "language": "TypeScript"
     },
@@ -14,7 +14,7 @@
       "title": "moeru-ai / airi",
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "stars": "45541",
+      "stars": "45552",
       "stars_today": "682 stars today",
       "language": "TypeScript"
     },
@@ -23,7 +23,7 @@
       "title": "affaan-m / ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "stars": "235770",
+      "stars": "235778",
       "stars_today": "857 stars today",
       "language": "JavaScript"
     },
@@ -32,7 +32,7 @@
       "title": "huggingface / speech-to-speech",
       "url": "https://github.com/huggingface/speech-to-speech",
       "description": "Build local voice agents with open-source models",
-      "stars": "8043",
+      "stars": "8047",
       "stars_today": "827 stars today",
       "language": "Python"
     },
@@ -41,7 +41,7 @@
       "title": "1jehuang / jcode",
       "url": "https://github.com/1jehuang/jcode",
       "description": "The most RAM efficient harness",
-      "stars": "13618",
+      "stars": "13625",
       "stars_today": "640 stars today",
       "language": "Rust"
     },
@@ -50,7 +50,7 @@
       "title": "grokability / snipe-it",
       "url": "https://github.com/grokability/snipe-it",
       "description": "A free open source IT asset/license management system",
-      "stars": "14533",
+      "stars": "14536",
       "stars_today": "164 stars today",
       "language": "PHP"
     },
@@ -59,7 +59,7 @@
       "title": "deepfakes / faceswap",
       "url": "https://github.com/deepfakes/faceswap",
       "description": "Deepfakes Software For All",
-      "stars": "56483",
+      "stars": "56487",
       "stars_today": "166 stars today",
       "language": "Python"
     },
@@ -68,7 +68,7 @@
       "title": "microsoft / VibeVoice",
       "url": "https://github.com/microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
-      "stars": "51454",
+      "stars": "51460",
       "stars_today": "336 stars today",
       "language": "Python"
     },
@@ -77,7 +77,7 @@
       "title": "different-ai / openwork",
       "url": "https://github.com/different-ai/openwork",
       "description": "The open-source alternative to Claude Cowork (powered by opencode)",
-      "stars": "18137",
+      "stars": "18144",
       "stars_today": "97 stars today",
       "language": "TypeScript"
     },
@@ -86,7 +86,7 @@
       "title": "obra / superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
-      "stars": "263483",
+      "stars": "263491",
       "stars_today": "616 stars today",
       "language": "Shell"
     },
@@ -95,7 +95,7 @@
       "title": "MoonshotAI / FlashKDA",
       "url": "https://github.com/MoonshotAI/FlashKDA",
       "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
-      "stars": "1041",
+      "stars": "1043",
       "stars_today": "91 stars today",
       "language": "Cuda"
     },
@@ -104,7 +104,7 @@
       "title": "NanmiCoder / MediaCrawler",
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "stars": "59235",
+      "stars": "59244",
       "stars_today": "154 stars today",
       "language": "Python"
     },
@@ -113,7 +113,7 @@
       "title": "alibaba / open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "stars": "16199",
+      "stars": "16204",
       "stars_today": "359 stars today",
       "language": "Go"
     },
@@ -122,7 +122,7 @@
       "title": "paperswithbacktest / awesome-systematic-trading",
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
       "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "stars": "10527",
+      "stars": "10534",
       "stars_today": "945 stars today",
       "language": "Python"
     },
@@ -176,6 +176,18 @@
     },
     {
       "rank": 4,
+      "title": "C++ float-to-int conversion can be undefined behavior",
+      "url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+      "source_url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+      "tags": [
+        "c++"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
       "title": "Overengineered calculator: Zig + QBE",
       "url": "https://tomekw.com/overengineered-calculator-zig-qbe/",
       "source_url": "https://tomekw.com/overengineered-calculator-zig-qbe/",
@@ -188,7 +200,7 @@
       "author": ""
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "GNU Hyperbole Implicit Buttons: Build your Hyperverse",
       "url": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
       "source_url": "https://www.chiply.dev/post-hyperbole-implicit-buttons",
@@ -200,7 +212,7 @@
       "author": ""
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "What side projects have you enjoyed the most?",
       "url": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
       "source_url": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
@@ -213,7 +225,7 @@
       "author": ""
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Some notes about Anthropic’s new results",
       "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
       "source_url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
@@ -226,7 +238,7 @@
       "author": ""
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "The strain in your brain",
       "url": "https://anirudh.fi/strain",
       "source_url": "https://anirudh.fi/strain",
@@ -240,7 +252,7 @@
       "author": ""
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "A field day for Gleam’s language server | Gleam v.1.18.0 release",
       "url": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
       "source_url": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
@@ -253,34 +265,7 @@
       "author": ""
     },
     {
-      "rank": 10,
-      "title": "C++ float-to-int conversion can be undefined behavior",
-      "url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
-      "source_url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
-      "tags": [
-        "c++"
-      ],
-      "score": "",
-      "comments": "",
-      "author": ""
-    },
-    {
       "rank": 11,
-      "title": "Why Rocq is better than Lean for program verification",
-      "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
-      "source_url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
-      "tags": [
-        "compilers",
-        "formalmethods",
-        "ml",
-        "plt"
-      ],
-      "score": "",
-      "comments": "",
-      "author": ""
-    },
-    {
-      "rank": 12,
       "title": "PostgreSQL MVCC: tradeoffs compared to other engines",
       "url": "https://boringsql.com/posts/mvcc-bad-bad/",
       "source_url": "https://boringsql.com/posts/mvcc-bad-bad/",
@@ -292,12 +277,27 @@
       "author": ""
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "Setting timers in simple games (feat. the frame rule)",
       "url": "https://lynn.github.io/blog/pico-timers/",
       "source_url": "https://lynn.github.io/blog/pico-timers/",
       "tags": [
         "games"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "Why Rocq is better than Lean for program verification",
+      "url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+      "source_url": "https://joomy.korkutblech.com/posts/2026-07-28-why-rocq-is-better.html",
+      "tags": [
+        "compilers",
+        "formalmethods",
+        "ml",
+        "plt"
       ],
       "score": "",
       "comments": "",
@@ -362,24 +362,24 @@
     },
     {
       "rank": 5,
-      "title": "你搭建过哪些「最后吃灰」的工作流？一派讨论点击了解详情",
-      "url": "https://sspai.com/bullet/1784613267",
-      "author": "一派讨论",
-      "summary": "你搭建过哪些「最后吃灰」的工作流？"
-    },
-    {
-      "rank": 6,
       "title": "角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」休伯利安昨天 11:00",
       "url": "https://sspai.com/post/112715",
       "author": "休伯利安",
       "summary": "角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等少数派编辑部昨天 08:39派早报",
       "url": "https://sspai.com/post/112837",
       "author": "少数派编辑部",
       "summary": "派早报：微软发布网络安全模型 MAI-Cyber-1-Flash、美团发布 AI Agent 平台等"
+    },
+    {
+      "rank": 7,
+      "title": "你搭建过哪些「最后吃灰」的工作流？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1784613267",
+      "author": "一派讨论",
+      "summary": "你搭建过哪些「最后吃灰」的工作流？"
     },
     {
       "rank": 8,
@@ -397,20 +397,13 @@
     },
     {
       "rank": 10,
-      "title": "聊聊你在各购物平台独占的「固定回购清单」？一派讨论点击了解详情",
-      "url": "https://sspai.com/bullet/1783932697",
-      "author": "一派讨论",
-      "summary": "聊聊你在各购物平台独占的「固定回购清单」？"
-    },
-    {
-      "rank": 11,
       "title": "从《奥德赛》观影聊聊 IMAX 影院的分类聊聊 IMAX 放映系统的区别及影厅选择策略，帮你选到视效更震撼、更接近导演创作意图的版本。张奕源Nick前天 15:00",
       "url": "https://sspai.com/post/112380",
       "author": "张奕源Nick",
       "summary": "从《奥德赛》观影聊聊 IMAX 影院的分类"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "索尼抛弃实体游戏光盘，谁成为了转型代价？黑狗布雷特前天 11:02Matrix精选",
       "url": "https://sspai.com/post/112774",
       "author": "黑狗布雷特",
@@ -514,91 +507,91 @@
       "rank": 1,
       "title": "多位用户称美团账户凌晨遭异地批量盗刷，客服称已核销无法退款，什么情况？这笔损失该由谁承担",
       "url": "https://www.zhihu.com/question/2065804781247887148",
-      "hot_value": 4620000
+      "hot_value": 4710000
     },
     {
       "rank": 2,
       "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动",
       "url": "https://www.zhihu.com/question/2065583157664018461",
-      "hot_value": 4510000
+      "hot_value": 4560000
     },
     {
       "rank": 3,
-      "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响",
-      "url": "https://www.zhihu.com/question/2065729146383071132",
-      "hot_value": 2710000
+      "title": "如何评价上海地铁即将迎来涨价",
+      "url": "https://www.zhihu.com/question/2066060815594152470",
+      "hot_value": 2410000
     },
     {
       "rank": 4,
       "title": "香港 26 岁交易员被拘捕，挪用 5000 万港元豪赌两倍做多海力士，巨亏 1.5 亿，如何看待此事",
       "url": "https://www.zhihu.com/question/2065738421474271320",
-      "hot_value": 2520000
+      "hot_value": 2410000
     },
     {
       "rank": 5,
-      "title": "日本熊本县地震时天空出现巨型蘑菇云，为什么会出现这种现象？网友猜测其为地震云，这到底是什么云",
-      "url": "https://www.zhihu.com/question/2065536648381555046",
-      "hot_value": 2320000
+      "title": "雷军称增程市场大有可为且小米做增程不晚，这一观点站得住脚吗？小米为何选择此时布局增程车型",
+      "url": "https://www.zhihu.com/question/2065799308067041337",
+      "hot_value": 2410000
     },
     {
       "rank": 6,
-      "title": "如何评价上海地铁即将迎来涨价",
-      "url": "https://www.zhihu.com/question/2066060815594152470",
-      "hot_value": 2310000
+      "title": "日本熊本县地震时天空出现巨型蘑菇云，为什么会出现这种现象？网友猜测其为地震云，这到底是什么云",
+      "url": "https://www.zhihu.com/question/2065536648381555046",
+      "hot_value": 2340000
     },
     {
       "rank": 7,
       "title": "国家安全机关提醒打印机的废旧硒鼓可能泄密，这是如何发生的？哪些办公设备也存在类似风险",
       "url": "https://www.zhihu.com/question/2065732271441539585",
-      "hot_value": 2220000
+      "hot_value": 2320000
     },
     {
       "rank": 8,
-      "title": "美联储今年连续第五次维持利率不变，但投票结果从一致通过变成 9 票对 3 票，内部发生了什么？9 月会加息吗",
-      "url": "https://www.zhihu.com/question/2066063922856027842",
-      "hot_value": 2120000
+      "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响",
+      "url": "https://www.zhihu.com/question/2065729146383071132",
+      "hot_value": 2310000
     },
     {
       "rank": 9,
       "title": "为什么广西日报特稿《王的猜想》能获得这么多认同",
       "url": "https://www.zhihu.com/question/2065044616043131031",
-      "hot_value": 2060000
+      "hot_value": 2140000
     },
     {
       "rank": 10,
       "title": "麦、福、教培都被扭曲成骂人的词，如何看待脏话外溢这一现象？脏话以象形和谐音方式出现，可能会有哪些影响",
       "url": "https://www.zhihu.com/question/2065564412899845853",
-      "hot_value": 2050000
+      "hot_value": 2060000
     },
     {
       "rank": 11,
-      "title": "如何评价揽佬新歌《中国人能飞》",
-      "url": "https://www.zhihu.com/question/2064534355440145959",
-      "hot_value": 2030000
+      "title": "美联储今年连续第五次维持利率不变，但投票结果从一致通过变成 9 票对 3 票，内部发生了什么？9 月会加息吗",
+      "url": "https://www.zhihu.com/question/2066063922856027842",
+      "hot_value": 1970000
     },
     {
       "rank": 12,
-      "title": "长鑫存储 vs 长江存储，一个做内存，一个做闪存，谁更厉害",
-      "url": "https://www.zhihu.com/question/2061092161337177252",
-      "hot_value": 2000000
+      "title": "如何评价揽佬新歌《中国人能飞》",
+      "url": "https://www.zhihu.com/question/2064534355440145959",
+      "hot_value": 1940000
     },
     {
       "rank": 13,
-      "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节",
-      "url": "https://www.zhihu.com/question/2064993421949755491",
-      "hot_value": 1860000
+      "title": "长鑫存储 vs 长江存储，一个做内存，一个做闪存，谁更厉害",
+      "url": "https://www.zhihu.com/question/2061092161337177252",
+      "hot_value": 1920000
     },
     {
       "rank": 14,
-      "title": "雷军称增程市场大有可为且小米做增程不晚，这一观点站得住脚吗？小米为何选择此时布局增程车型",
-      "url": "https://www.zhihu.com/question/2065799308067041337",
-      "hot_value": 1790000
+      "title": "为什么现在都是站在截教一方而把元始天尊描写成坏人",
+      "url": "https://www.zhihu.com/question/12199984100",
+      "hot_value": 1540000
     },
     {
       "rank": 15,
-      "title": "为什么现在都是站在截教一方而把元始天尊描写成坏人",
-      "url": "https://www.zhihu.com/question/12199984100",
-      "hot_value": 1720000
+      "title": "中国 8 家整车厂赚不过 1 家电池厂，为什么宁德时代利润超过车企这么多",
+      "url": "https://www.zhihu.com/question/2065751316211701463",
+      "hot_value": 1540000
     }
   ],
   "hackernews": [
@@ -606,136 +599,136 @@
       "rank": 1,
       "title": "AI's top startups are barely publishing their research",
       "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 342,
+      "score": 345,
       "author": "YeGoblynQueenne",
-      "comments": 189,
+      "comments": 193,
       "hn_url": "https://news.ycombinator.com/item?id=49103285"
     },
     {
       "rank": 2,
       "title": "The coolest use for the Vision Pro",
       "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 537,
+      "score": 542,
       "author": "robbiet480",
-      "comments": 225,
+      "comments": 227,
       "hn_url": "https://news.ycombinator.com/item?id=49102774"
     },
     {
       "rank": 3,
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 724,
+      "score": 728,
       "author": "gitpusher42",
-      "comments": 251,
+      "comments": 253,
       "hn_url": "https://news.ycombinator.com/item?id=49098510"
     },
     {
       "rank": 4,
       "title": "Superlogical",
       "url": "https://www.superlogical.com/",
-      "score": 616,
+      "score": 617,
       "author": "yan",
-      "comments": 382,
+      "comments": 386,
       "hn_url": "https://news.ycombinator.com/item?id=49098965"
     },
     {
       "rank": 5,
       "title": "LLM Honeypot",
       "url": "https://llm2human.pages.dev/",
-      "score": 148,
+      "score": 154,
       "author": "8thom",
-      "comments": 47,
+      "comments": 48,
       "hn_url": "https://news.ycombinator.com/item?id=49104117"
     },
     {
       "rank": 6,
-      "title": "The Productivity Mirage",
-      "url": "https://frantic.im/mirage/",
-      "score": 152,
-      "author": "msephton",
-      "comments": 46,
-      "hn_url": "https://news.ycombinator.com/item?id=49104335"
+      "title": "1,741 \"informed\" consents with one click? GDPR complaint filed",
+      "url": "https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed",
+      "score": 40,
+      "author": "dotcoma",
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49106384"
     },
     {
       "rank": 7,
+      "title": "The Productivity Mirage",
+      "url": "https://frantic.im/mirage/",
+      "score": 160,
+      "author": "msephton",
+      "comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=49104335"
+    },
+    {
+      "rank": 8,
       "title": "Keychron announces first open-source firmware for gaming mice",
       "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "score": 339,
+      "score": 342,
       "author": "JLO64",
       "comments": 140,
       "hn_url": "https://news.ycombinator.com/item?id=49099715"
     },
     {
-      "rank": 8,
-      "title": "The Cold Email",
-      "url": "https://zachholman.com/posts/cold-email",
-      "score": 158,
-      "author": "holman",
-      "comments": 62,
-      "hn_url": "https://news.ycombinator.com/item?id=49103089"
-    },
-    {
       "rank": 9,
       "title": "Logic for Programmers",
       "url": "https://logicforprogrammers.com/",
-      "score": 60,
+      "score": 64,
       "author": "_doctor_love",
       "comments": 3,
       "hn_url": "https://news.ycombinator.com/item?id=49104937"
     },
     {
       "rank": 10,
+      "title": "The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
+      "score": 160,
+      "author": "holman",
+      "comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=49103089"
+    },
+    {
+      "rank": 11,
       "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
       "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "score": 344,
+      "score": 346,
       "author": "artninja1988",
       "comments": 199,
       "hn_url": "https://news.ycombinator.com/item?id=49089500"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "NSF pilots 4-year PhDs with industry research placements",
       "url": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
-      "score": 64,
+      "score": 65,
       "author": "osnium123",
-      "comments": 64,
+      "comments": 66,
       "hn_url": "https://news.ycombinator.com/item?id=49105642"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "A.I. companies are recruiting electricians and carpenters by the thousands",
       "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-      "score": 259,
+      "score": 261,
       "author": "thm",
-      "comments": 318,
+      "comments": 322,
       "hn_url": "https://news.ycombinator.com/item?id=49098198"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "Kimi K3-256k",
       "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-      "score": 394,
+      "score": 400,
       "author": "monneyboi",
       "comments": 116,
       "hn_url": "https://news.ycombinator.com/item?id=49101852"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "Angels in Coptic Magic I: Introduction",
       "url": "https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/",
       "score": 32,
       "author": "jruohonen",
-      "comments": 1,
+      "comments": 2,
       "hn_url": "https://news.ycombinator.com/item?id=49061213"
-    },
-    {
-      "rank": 15,
-      "title": "1,741 \"informed\" consents with one click? GDPR complaint filed",
-      "url": "https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed",
-      "score": 18,
-      "author": "dotcoma",
-      "comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=49106384"
     }
   ],
   "ai_summary": {
@@ -743,189 +736,224 @@
       {
         "name": "AI 智能体与生成式 AI",
         "color": "ai",
-        "summary": "今天 GitHub 上 AI 智能体赛道杀疯了。moeru-ai 推出的 airi[1] 是个自托管的 Grok 伴侣容器，主打 waifu 和 cyber living 角色，支持实时语音和 Minecraft 联机，已经拿了 12,000+ star，二次元爱好者可以冲了。affaan-m 的 ECC[2] 是个代理性能优化系统，给 Claude Code 等 AI 工具加持技能、记忆和安全机制，这种“外挂”思路很实用，搞开发的朋友值得看看。\n\nLobsters 社区今天吵翻了，有个帖子讨论 Anthropic 的新成果，有人指出其推理过程中的某些逻辑漏洞，引发了关于 AI 决策可靠性的深层讨论 [3]。另外还有一篇文章挺有意思，讲 Zig 编译器的增量编译内部机制，虽然硬核但能看出编译器优化的极致追求 [4]。搞安全的朋友必看：少数派早报提到微软发布了最新的网络安全模型 MAI-Cyber-1-Flash[5]，这种大厂的防御体系升级总是值得关注的，毕竟 AI 生成内容带来的安全挑战越来越大。"
-      },
-      {
-        "name": "开发工具与系统底层",
-        "color": "dev",
-        "summary": "开发工具这块今天也有几个亮眼项目。1jehuang 的 jcode[6] 号称是内存效率最高的 harness，专门解决 AI 编程时显存爆炸的问题，这种极客精神很赞。alibaba 开源的 open-code-review[7] 在阿里大规模实战过，用混合架构做代码审查，能精准定位 NPE、SQL 注入等漏洞，对于企业级代码规范太有用了。\n\n社区里也有人在吐槽工具设计，Lobsters 上有个帖子讨论为什么程序员总爱过度设计，比如那个用 Zig + QBE 写的“过度设计的计算器”[8]，虽然好笑但也反映了大家对轻量高效工具的渴望。少数派文章《能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码》[9] 则展示了系统层面的轻量化尝试，这种“重能力轻门槛”的思路对生态建设很有启发。"
+        "summary": "今天的 GitHub Trending 里，AI 智能体确实有点炸。affaan-m / ECC[1] 是个专门给 Claude Code 等代码智能体做性能优化的 harness 系统，加入了记忆和安全感设计，现在已经有 3,400+ star，搞开发的朋友值得看看。moeru-ai / airi[2] 则是一个自托管的 Grok Companion 项目，主打二次元角色互动，支持语音聊天甚至玩 Minecraft，已经超过 1,800 star，这算是“AI 女友”赛道的技术流了。微软也发布了 VibeVoice[3]，作为开源的前沿语音 AI，搞语音交互的朋友可以关注一下。\n\nLobsters 上关于 Anthropic 新结果的讨论[4] 挺让人玩味的，大家都在分析这背后的加密逻辑。另外，微软那个 MAI-Cyber-1-Flash 模型[5] 在少数派早报里被点名，搞安全的朋友必须留意，这玩意儿是不是能防住现在的各种 AI 攻击？还有那个 陕北看海[6] 的文章，虽然标题文艺，但其实是讲 AI 落地的冷思考，读起来挺有反差感的。"
       },
       {
         "name": "系统与底层技术",
-        "color": "sys",
-        "summary": "底层技术方面，MoonshotAI 开源的 FlashKDA[10] 基于 Kimi 模型的 Delta Attention 内核，声称能显著提升高性能计算效率，这可是大模型落地的关键。maderix 的 ANE[11] 更是硬核，通过逆向私有 API 在 Apple Neural Engine 上训练神经网络，苹果用户想折腾 AI 模型只能靠这个了。\n\nLobsters 上关于 C++ float-to-int 转换未定义行为的讨论 [12] 再次提醒我们底层语言陷阱的可怕，这种细节问题往往导致难以复现的 Bug。少数派还提到中国电信将不再通过第三方渠道办卡 [13]，虽然不算技术，但反映了运营商渠道的整合，这对我们普通用户的办卡体验肯定有影响，属于生活类技术变动的范畴。"
+        "color": "system",
+        "summary": "硬核技术这块儿，GitHub 上有几个项目很有意思。MoonshotAI / FlashKDA[7] 是 Kimi Delta Attention 的底层内核优化，号称高性能，搞大模型推理的应该都认识 Moonshot。还有 1jehuang / jcode[8]，号称是“最省内存的 harness\"，在资源受限环境下跑代码智能体，这个思路很实用。\n\n社区讨论方面，C++ 里 float 转 int 的未定义行为问题[9] 又在 Lobsters 上被翻出来，这种老坑总是有人踩。Zig 的增量编译内部原理[10] 和过度设计的计算器项目[11] 也上了讨论，前者适合想深挖编译器的人，后者则展示了 Zig 的灵活性。少数派那篇关于 HarmonyOS 7 的文章[12] 提到把鸿蒙生态门槛降到几行代码，这对开发者来说是个好消息，毕竟生态门槛低了好接入。"
       },
       {
-        "name": "数码产品与效率工具",
-        "color": "tech",
-        "summary": "数码和效率工具这块，微软的 VibeVoice[14] 作为开源的前沿语音 AI，和 huggingface 的 speech-to-speech[15] 一起，让本地部署语音代理变得可行。openwork[16] 作为 Claude Cowork 的开源替代，给职场人士提供了新的自动化选择。\n\n少数派的文章《角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」》[17] 很有意思，在数字化时代反而有人回归黑胶，这种对实体介质的坚守让人感慨。还有关于 IMAX 影院分类和放映系统选择的深度好文 [18]，看来看电影也不只是看屏幕，技术细节决定观影体验，影迷们可以收藏这篇。"
+        "name": "开发工具与效率",
+        "color": "dev",
+        "summary": "工具类项目今天也很热闹。opengeos / GeoLibre[13] 是个轻量级的云端 GIS 平台，能在浏览器、桌面甚至 Jupyter 里跑，数据可视化方面很全面。alibaba / open-code-review[14] 是阿里开源的代码审查工具，混合架构，能精准到行级评论，这种大厂级别的工具确实值得关注。obra / superpowers[15] 提供了一个智能体技能框架，方法论看起来挺扎实。\n\nLobsters 上有个关于 Gleam 语言服务器 v1.18.0 的发布[16]，说是一个“大丰收”的日子，喜欢函数式语言的同学可以去看看。少数派那边，iA Writer 8.0 的大更新[17] 挺有意思，号称“不聊 AI\"，但在 AI 时代坚持极简写作，这种态度挺难得。不过也有些人吐槽搭建的工作流最后都吃灰[18]，看来工具再好，也得看能不能坚持用下去。"
       },
       {
-        "name": "黑客文化与思考",
-        "color": "hack",
-        "summary": "黑客文化这块，deepfakes 的 faceswap[19] 依然是双刃剑，虽然是“Deepfakes Software For All\"，但搞艺术创作或面部特效的朋友肯定用得上，只是得注意合规。opengeos 的 GeoLibre[20] 是个云原生 GIS 平台，能在浏览器和 Jupyter 里跑，地理信息爱好者可以多关注。\n\nLobsters 上有个帖子问“你做过最享受的 Side Project 是什么？”[21]，这种社区互动总能挖掘出很多有趣的个人故事。少数派的会员年度更新 [22] 虽然主要是社区动态，但也侧面反映了技术社区在构建共同热爱方面的重要性，老麦的感谢词读起来挺暖心的。"
+        "name": "数码产品与生活美学",
+        "color": "life",
+        "summary": "数码和生活类的话题今天也很丰富。少数派那篇关于没有书房也要给音乐留角落的文章[19]，聊聊黑胶“窝棚”，读起来很治愈，感觉生活需要一点仪式感。还有讨论索尼抛弃实体光盘的转型代价[20]，这其实反映了硬件厂商在数字流媒体时代的困境。\n\nGitHub 上有个 faceswap[21] 项目，虽然是 Deepfake 软件，但作为技术本身也有其应用价值，当然得注意伦理。Lobsters 上有个关于 CHERIoT 硅芯片的首次亮相[22]，这是物联网硬件领域的突破。另外，关于 Matz 是否友善的讨论[23] 虽然是个文化话题，但也反映了开源社区文化的一种微妙变化。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天看下来，关于 AI 对决策影响的讨论[24] 挺让人深思，标题直白地说“AI 狂热正在撕裂全球决策”，这种宏观视角的讨论在 Lobsters 上一直不少。还有关于大脑压力的文章[25]，提醒我们在高强度编码时要注意身心状态。\n\n少数派那篇关于 IMAX 影院分类的文章[26] 虽然偏娱乐，但里面提到的“视效震撼”和“导演意图”其实也隐喻了技术如何服务于艺术表达。最后，关于 PostgreSQL MVCC 的权衡讨论[27]，虽然是数据库技术，但本质上也是在讲技术选型中的取舍哲学，挺有启发的。"
       }
     ],
     "sources": [
       {
         "num": 1,
-        "title": "airi: Self hosted, you-owned Grok Companion",
-        "url": "https://github.com/moeru-ai/airi",
-        "source": "GitHub Trending",
-        "desc": "GitHub Trending 项目，自托管 Grok 伴侣"
+        "title": "ECC: The agent harness performance optimization system",
+        "url": "https://github.com/affaan-m/ECC",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，智能体性能优化系统"
       },
       {
         "num": 2,
-        "title": "ECC: The agent harness performance optimization system",
-        "url": "https://github.com/affaan-m/ECC",
-        "source": "GitHub Trending",
-        "desc": "GitHub Trending 项目，AI 代理优化系统"
+        "title": "airi: Self hosted, you-owned Grok Companion",
+        "url": "https://github.com/moeru-ai/airi",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，自托管 Grok 角色伴侣"
       },
       {
         "num": 3,
-        "title": "Some notes about Anthropic's new results",
-        "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-        "source": "Lobsters",
-        "desc": "Lobsters 讨论帖，关于 Anthropic 新成果的讨论"
+        "title": "VibeVoice: Open-Source Frontier Voice AI",
+        "url": "https://github.com/microsoft/VibeVoice",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，微软开源语音 AI"
       },
       {
         "num": 4,
-        "title": "Inside Zig's Incremental Compilation",
-        "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+        "title": "Some notes about Anthropic's new results",
+        "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
         "source": "Lobsters",
-        "desc": "Lobsters 技术文章，讲解 Zig 编译器内部机制"
+        "desc": "关于 Anthropic 新结果的加密笔记讨论"
       },
       {
         "num": 5,
-        "title": "微软发布网络安全模型 MAI-Cyber-1-Flash",
+        "title": "派早报：微软发布网络安全模型 MAI-Cyber-1-Flash",
         "url": "https://sspai.com/post/112837",
         "source": "少数派",
-        "desc": "少数派早报，关于微软安全模型发布"
+        "desc": "微软发布新的网络安全模型"
       },
       {
         "num": 6,
-        "title": "jcode: The most RAM efficient harness",
-        "url": "https://github.com/1jehuang/jcode",
-        "source": "GitHub Trending",
-        "desc": "GitHub Trending 项目，高内存效率的 AI 代理框架"
+        "title": "陕北看海，黄土难寻",
+        "url": "https://sspai.com/post/112761",
+        "source": "少数派",
+        "desc": "关于 AI 落地的冷思考文章"
       },
       {
         "num": 7,
-        "title": "Open-source & free — Battle-tested at Alibaba's scale",
-        "url": "https://github.com/alibaba/open-code-review",
-        "source": "GitHub Trending",
-        "desc": "GitHub Trending 项目，阿里级代码审查工具"
+        "title": "FlashKDA: high-performance Kimi Delta Attention kernels",
+        "url": "https://github.com/MoonshotAI/FlashKDA",
+        "source": "GitHub",
+        "desc": "Moonshot AI 底层内核优化项目"
       },
       {
         "num": 8,
-        "title": "Overengineered calculator: Zig + QBE",
-        "url": "https://tomekw.com/overengineered-calculator-zig-qbe/",
-        "source": "Lobsters",
-        "desc": "Lobsters 趣味项目，用 Zig 和 QBE 实现的过度设计计算器"
+        "title": "jcode: The most RAM efficient harness",
+        "url": "https://github.com/1jehuang/jcode",
+        "source": "GitHub",
+        "desc": "内存高效的代码智能体运行环境"
       },
       {
         "num": 9,
-        "title": "能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码",
-        "url": "https://sspai.com/post/112822",
-        "source": "少数派",
-        "desc": "少数派深度文章，分析鸿蒙 7 的接入优化"
-      },
-      {
-        "num": 10,
-        "title": "FlashKDA: high-performance Kimi Delta Attention kernels",
-        "url": "https://github.com/MoonshotAI/FlashKDA",
-        "source": "GitHub Trending",
-        "desc": "GitHub Trending 项目，Kimi 模型高性能内核"
-      },
-      {
-        "num": 11,
-        "title": "ANE: Training neural networks on Apple Neural Engine",
-        "url": "https://github.com/maderix/ANE",
-        "source": "GitHub Trending",
-        "desc": "GitHub Trending 项目，基于 Apple Neural Engine 的神经网络训练工具"
-      },
-      {
-        "num": 12,
         "title": "C++ float-to-int conversion can be undefined behavior",
         "url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
         "source": "Lobsters",
-        "desc": "Lobsters 技术博客，探讨 C++ 类型转换的未定义行为"
+        "desc": "关于 C++ 浮点转整型未定义行为的讨论"
+      },
+      {
+        "num": 10,
+        "title": "Inside Zig's Incremental Compilation",
+        "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+        "source": "Lobsters",
+        "desc": "深入解析 Zig 的增量编译机制"
+      },
+      {
+        "num": 11,
+        "title": "Overengineered calculator: Zig + QBE",
+        "url": "https://tomekw.com/overengineered-calculator-zig-qbe/",
+        "source": "Lobsters",
+        "desc": "使用 Zig 和 QBE 编写的过度设计计算器"
+      },
+      {
+        "num": 12,
+        "title": "能力厚重，接入极轻：HarmonyOS 7 如何把鸿蒙生态入场门槛降到几行代码",
+        "url": "https://sspai.com/post/112822",
+        "source": "少数派",
+        "desc": "鸿蒙 7 降低生态接入门槛的技术分析"
       },
       {
         "num": 13,
-        "title": "派早报：中国电信将不再通过第三方互联网渠道提供号卡办理服务",
-        "url": "https://sspai.com/post/112881",
-        "source": "少数派",
-        "desc": "少数派早报，关于电信渠道调整的消息"
+        "title": "GeoLibre: A lightweight, cloud-native GIS platform",
+        "url": "https://github.com/opengeos/GeoLibre",
+        "source": "GitHub",
+        "desc": "轻量级云端 GIS 可视化平台"
       },
       {
         "num": 14,
-        "title": "VibeVoice: Open-Source Frontier Voice AI",
-        "url": "https://github.com/microsoft/VibeVoice",
-        "source": "GitHub Trending",
-        "desc": "GitHub Trending 项目，微软开源的前沿语音 AI"
+        "title": "open-code-review: Open-source & free code review tool",
+        "url": "https://github.com/alibaba/open-code-review",
+        "source": "GitHub",
+        "desc": "阿里开源的代码审查工具"
       },
       {
         "num": 15,
-        "title": "Build local voice agents with open-source models",
-        "url": "https://github.com/huggingface/speech-to-speech",
-        "source": "GitHub Trending",
-        "desc": "GitHub Trending 项目，构建本地语音代理的工具"
+        "title": "superpowers: An agentic skills framework",
+        "url": "https://github.com/obra/superpowers",
+        "source": "GitHub",
+        "desc": "智能体技能框架与开发方法论"
       },
       {
         "num": 16,
-        "title": "The open-source alternative to Claude Cowork",
-        "url": "https://github.com/different-ai/openwork",
-        "source": "GitHub Trending",
-        "desc": "GitHub Trending 项目，Claude Cowork 的开源替代品"
+        "title": "A field day for Gleam's language server",
+        "url": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
+        "source": "Lobsters",
+        "desc": "Gleam 语言服务器 v1.18.0 发布"
       },
       {
         "num": 17,
-        "title": "角落新声｜没有书房，也要给音乐留一个角落：聊聊我的黑胶「窝棚」",
-        "url": "https://sspai.com/post/112715",
+        "title": "离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新",
+        "url": "https://sspai.com/post/112787",
         "source": "少数派",
-        "desc": "少数派社区文章，关于黑胶唱片的个人故事"
+        "desc": "iA Writer 8.0 版本更新回顾"
       },
       {
         "num": 18,
-        "title": "从《奥德赛》观影聊聊 IMAX 影院的分类",
-        "url": "https://sspai.com/post/112380",
+        "title": "你搭建过哪些「最后吃灰」的工作流？",
+        "url": "https://sspai.com/bullet/1784613267",
         "source": "少数派",
-        "desc": "少数派观影指南，分析 IMAX 放映系统"
+        "desc": "社区讨论：关于工作流的使用体验"
       },
       {
         "num": 19,
-        "title": "Deepfakes Software For All",
-        "url": "https://github.com/deepfakes/faceswap",
-        "source": "GitHub Trending",
-        "desc": "GitHub Trending 项目，开源的深度伪造软件"
+        "title": "角落新声｜没有书房，也要给音乐留一个角落",
+        "url": "https://sspai.com/post/112715",
+        "source": "少数派",
+        "desc": "关于黑胶音乐与生活美学的分享"
       },
       {
         "num": 20,
-        "title": "GeoLibre: A lightweight, cloud-native GIS platform",
-        "url": "https://github.com/opengeos/GeoLibre",
-        "source": "GitHub Trending",
-        "desc": "GitHub Trending 项目，轻量级云原生 GIS 平台"
+        "title": "索尼抛弃实体游戏光盘，谁成为了转型代价？",
+        "url": "https://sspai.com/post/112774",
+        "source": "少数派",
+        "desc": "索尼转型实体游戏光盘的代价探讨"
       },
       {
         "num": 21,
-        "title": "What side projects have you enjoyed the most?",
-        "url": "https://lobste.rs/s/mbk56v/what_side_projects_have_you_enjoyed_most",
-        "source": "Lobsters",
-        "desc": "Lobsters 社区问答，关于最享受的 Side Project"
+        "title": "faceswap: Deepfakes Software For All",
+        "url": "https://github.com/deepfakes/faceswap",
+        "source": "GitHub",
+        "desc": "Deepfake 换脸软件项目"
       },
       {
         "num": 22,
-        "title": "少数派会员年度更新：把共同的热爱随身携带",
-        "url": "https://sspai.com/post/112858",
+        "title": "First CHERIoT Silicon",
+        "url": "https://cheriot.org/silicon/2026/03/04/cheriot-first-silicon.html",
+        "source": "Lobsters",
+        "desc": "CHERIoT 硅芯片首次亮相"
+      },
+      {
+        "num": 23,
+        "title": "It doesn't matter whether \"Matz is nice\"",
+        "url": "https://po-ru.com/2026/07/29/it-doesnt-matter-whether-matz-is-nice",
+        "source": "Lobsters",
+        "desc": "关于 Ruby 创始人 Matz 社区文化的讨论"
+      },
+      {
+        "num": 24,
+        "title": "AI Mania Is Eviscerating Global Decision-Making",
+        "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+        "source": "Lobsters",
+        "desc": "AI 狂热对全球决策的影响分析"
+      },
+      {
+        "num": 25,
+        "title": "The strain in your brain",
+        "url": "https://anirudh.fi/strain",
+        "source": "Lobsters",
+        "desc": "关于编程压力与大脑负担的思考"
+      },
+      {
+        "num": 26,
+        "title": "从《奥德赛》观影聊聊 IMAX 影院的分类",
+        "url": "https://sspai.com/post/112380",
         "source": "少数派",
-        "desc": "少数派社区动态，会员年度更新"
+        "desc": "IMAX 影院分类与观影策略探讨"
+      },
+      {
+        "num": 27,
+        "title": "PostgreSQL MVCC: tradeoffs compared to other engines",
+        "url": "https://boringsql.com/posts/mvcc-bad-bad/",
+        "source": "Lobsters",
+        "desc": "PostgreSQL MVCC 与其他引擎的权衡对比"
       }
     ],
     "stats": {
-      "total_items": 22,
+      "total_items": 27,
       "total_categories": 5,
-      "total_sources": 22
+      "total_sources": 27
     }
   }
 }
