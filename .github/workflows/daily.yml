@@ -71,13 +71,19 @@ jobs:
           git diff --staged --quiet || git commit -m "auto: daily digest $(date +%Y-%m-%d)"
           git push
 
+      - name: Assemble deploy directory
+        run: |
+          mkdir -p _deploy
+          cp -r site/* _deploy/
+          cp -r data _deploy/data
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: site/
+          path: _deploy/
 
       - name: Deploy to GitHub Pages
         id: deployment
