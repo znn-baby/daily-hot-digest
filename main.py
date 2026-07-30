@@ -77,13 +77,16 @@ def run_scrapers() -> dict:
     return data
 
 
-def save_raw_data(data: dict, date_str: str):
-    """保存原始数据到 data/ 目录"""
+def save_raw_data(data: dict, date_str: str, ai_summary: dict | None = None):
+    """保存数据到 data/ 目录（含 AI 摘要，便于后续重新生成页面）"""
     os.makedirs(DATA_DIR, exist_ok=True)
     path = os.path.join(DATA_DIR, f"{date_str}.json")
+    payload = dict(data)
+    if ai_summary:
+        payload["ai_summary"] = ai_summary
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    print(f"[数据] 原始数据已保存: {path}")
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+    print(f"[数据] 数据已保存: {path}")
 
 
 def generate_html(data: dict, ai_summary: dict | None, date_str: str):
@@ -148,7 +151,70 @@ def _update_monthly_indexes():
                 print(f"[生成] 月度归档: {year}/{month:02d}/index.html ({len(dates)} 期)")
 
 
+def load_data(date_str: str) -> tuple:
+    """加载数据文件，返回 (data, ai_summary)。ai_summary 可能为 None。"""
+    path = os.path.join(DATA_DIR, f"{date_str}.json")
+    if not os.path.exists(path):
+        return None, None
+    with open(path, "r", encoding="utf-8") as f:
+        payload = json.load(f)
+    ai_summary = payload.pop("ai_summary", None)
+    return payload, ai_summary
+
+
+def backfill_all():
+    """重新生成所有已有数据的页面（使用保存的 AI 摘要，缺失时自动生成）"""
+    os.makedirs(SITE_DIR, exist_ok=True)
+    write_shared_assets(SITE_DIR)
+
+    api_key = os.environ.get("SILICONFLOW_API_KEY", "")
+
+    dates = sorted(
+        f[:-5] for f in os.listdir(DATA_DIR)
+        if f.endswith(".json") and len(f) == 15 and "-complete" not in f
+    )
+    if not dates:
+        print("[回填] 没有找到数据文件")
+        return
+
+    for date_str in dates:
+        data, ai_summary = load_data(date_str)
+        if data is None:
+            continue
+
+        # 如果没有 AI 摘要但有 API key，生成一个
+        if ai_summary is None and api_key:
+            print(f"[回填] {date_str}: 生成 AI 摘要...")
+            ai_summary = summarize_with_ai(data, api_key)
+            # 回写到数据文件
+            save_raw_data(data, date_str, ai_summary)
+
+        output_dir = get_output_dir(date_str)
+        page_html = generate_daily_page(data, ai_summary, date_str, output_dir, SITE_DIR)
+        page_path = os.path.join(output_dir, f"{date_str}.html")
+        with open(page_path, "w", encoding="utf-8") as f:
+            f.write(page_html)
+        mode = "AI+原始" if ai_summary else "原始"
+        print(f"[回填] {date_str} ({mode}) → {os.path.relpath(page_path, SITE_DIR)}")
+
+    migrate_old_pages(SITE_DIR)
+    _update_monthly_indexes()
+
+    index_html = generate_index_page(SITE_DIR)
+    with open(os.path.join(SITE_DIR, "index.html"), "w", encoding="utf-8") as f:
+        f.write(index_html)
+    print(f"[回填] 首页已更新")
+
+
 def main():
+    # --backfill 模式：重新生成所有页面（使用已保存的 AI 摘要）
+    if "--backfill" in sys.argv:
+        print(f"\n{'='*50}")
+        print(f"  回填模式：重新生成所有页面")
+        print(f"{'='*50}\n")
+        backfill_all()
+        return
+
     date_str = get_today_str()
     print(f"\n{'='*50}")
     print(f"  每日热点汇总 - {date_str}")
@@ -163,10 +229,7 @@ def main():
         print("\n[警告] 所有抓取器均返回空数据，跳过生成")
         sys.exit(1)
 
-    # 2. 保存原始数据
-    save_raw_data(data, date_str)
-
-    # 3. AI 摘要（可选）
+    # 2. AI 摘要（可选）
     api_key = os.environ.get("SILICONFLOW_API_KEY", "")
     ai_summary = None
     if api_key:
@@ -177,6 +240,9 @@ def main():
     else:
         print("\n[提示] 未设置 SILICONFLOW_API_KEY，将使用原始数据直接生成页面")
         print("[提示] 配置方法: export SILICONFLOW_API_KEY=your-key")
+
+    # 3. 保存数据（含 AI 摘要）
+    save_raw_data(data, date_str, ai_summary)
 
     # 4. 生成 HTML
     print("\n" + "=" * 50)

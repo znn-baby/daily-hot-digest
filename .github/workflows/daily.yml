@@ -6,7 +6,16 @@ on:
   schedule:
     # 每天 UTC 14:00 (北京时间 22:00) 自动运行
     - cron: '0 14 * * *'
-  workflow_dispatch: # 支持手动触发
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: '运行模式'
+        required: false
+        default: 'daily'
+        type: choice
+        options:
+          - daily
+          - backfill
 
 permissions:
   contents: write
@@ -45,7 +54,14 @@ jobs:
       - name: Run scrapers & generate pages
         env:
           SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
-        run: python main.py
+        run: |
+          if [ "${{ github.event.inputs.mode }}" = "backfill" ]; then
+            echo "Running in backfill mode..."
+            python main.py --backfill
+          else
+            echo "Running in daily mode..."
+            python main.py
+          fi
 
       - name: Commit data & site changes
         run: |
