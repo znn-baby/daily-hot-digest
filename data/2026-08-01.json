@@ -1,0 +1,878 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "zhaoxuya520 / reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "stars": "10330",
+      "stars_today": "612 stars today",
+      "language": "PowerShell"
+    },
+    {
+      "rank": 2,
+      "title": "different-ai / openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "stars": "19258",
+      "stars_today": "796 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 3,
+      "title": "mvanhorn / last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": "55986",
+      "stars_today": "660 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "paperswithbacktest / awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "stars": "11573",
+      "stars_today": "765 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "microsoft / AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "stars": "55071",
+      "stars_today": "1,592 stars today",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "rank": 6,
+      "title": "github / copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars": "10091",
+      "stars_today": "7 stars today",
+      "language": "Java"
+    },
+    {
+      "rank": 7,
+      "title": "chatwoot / chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "stars": "35027",
+      "stars_today": "53 stars today",
+      "language": "Ruby"
+    },
+    {
+      "rank": 8,
+      "title": "agavra / tuicr",
+      "url": "https://github.com/agavra/tuicr",
+      "description": "a code review TUI with vim keybindings",
+      "stars": "2066",
+      "stars_today": "336 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 9,
+      "title": "usekaneo / kaneo",
+      "url": "https://github.com/usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "stars": "4816",
+      "stars_today": "188 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 10,
+      "title": "geo-tp / ESP32-Bit-Pirate",
+      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+      "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
+      "stars": "4807",
+      "stars_today": "161 stars today",
+      "language": "C++"
+    },
+    {
+      "rank": 11,
+      "title": "deepfakes / faceswap",
+      "url": "https://github.com/deepfakes/faceswap",
+      "description": "Deepfakes Software For All",
+      "stars": "56851",
+      "stars_today": "157 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 12,
+      "title": "1jehuang / jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM efficient harness",
+      "stars": "14483",
+      "stars_today": "468 stars today",
+      "language": "Rust"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Go 1.27 interactive tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/",
+      "source_url": "https://victoriametrics.com/blog/go-1-27/",
+      "tags": [
+        "go"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "How to speed up the Rust compiler in July 2026",
+      "url": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
+      "source_url": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
+      "tags": [
+        "compilers",
+        "performance",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "Stripe Just Wants a Number",
+      "url": "https://blog.exe.dev/billable-facts",
+      "source_url": "https://blog.exe.dev/billable-facts",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Full flattening of nested data parallelism",
+      "url": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
+      "source_url": "https://futhark-lang.org/blog/2026-07-31-full-flattening.html",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "A question about a factorial operator",
+      "url": "https://lobste.rs/s/itp1nm/question_about_factorial_operator",
+      "source_url": "https://lobste.rs/s/itp1nm/question_about_factorial_operator",
+      "tags": [
+        "ask",
+        "compilers"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Correlated RNG",
+      "url": "https://knivesforcats.online/correlated-rng/",
+      "source_url": "https://knivesforcats.online/correlated-rng/",
+      "tags": [
+        "games"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "source_url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "tags": [
+        "design",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "Why I forked rand",
+      "url": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
+      "source_url": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "Stacked pull requests are now in public preview",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "source_url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "tags": [
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "Progress toward compiling Linux with gccrs",
+      "url": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
+      "source_url": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
+      "tags": [
+        "linux",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "Ruby Central's Destructive Legacy",
+      "url": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+      "source_url": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+      "tags": [
+        "ruby"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "How We Built a Zero-Disk, S3-Tiered Storage Engine for SQLite",
+      "url": "https://rivet.dev/blog/2026-07-31-how-we-built-the-first-zero-disk-s3-tiered-storage-engine-for-sqlite/",
+      "source_url": "https://rivet.dev/blog/2026-07-31-how-we-built-the-first-zero-disk-s3-tiered-storage-engine-for-sqlite/",
+      "tags": [
+        "databases",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "what the double-fork?",
+      "url": "https://bower.sh/what-the-double-fork",
+      "source_url": "https://bower.sh/what-the-double-fork",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "GCC steering committee announces AI policy",
+      "url": "https://lwn.net/Articles/1086041/",
+      "source_url": "https://lwn.net/Articles/1086041/",
+      "tags": [
+        "c",
+        "c++",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Private data in ATProto: Permissioned Data Proposal",
+      "url": "https://github.com/bluesky-social/proposals/tree/main/0016-permissioned-data",
+      "source_url": "https://github.com/bluesky-social/proposals/tree/main/0016-permissioned-data",
+      "tags": [
+        "distributed"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置板斧昨天 18:49",
+      "url": "https://sspai.com/post/112962",
+      "author": "板斧",
+      "summary": "本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置"
+    },
+    {
+      "rank": 2,
+      "title": "本周看什么 | 最近值得一看的 10 部作品少数派编辑部昨天 17:57",
+      "url": "https://sspai.com/post/112961",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 10 部作品"
+    },
+    {
+      "rank": 3,
+      "title": "App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图好奇的阿哲昨天 15:00",
+      "url": "https://sspai.com/post/112730",
+      "author": "好奇的阿哲",
+      "summary": "App+1 | 诗经山河图：我用 AI 做了一张《诗经》地图"
+    },
+    {
+      "rank": 4,
+      "title": "简单有效的 E-cise，如何让我摆脱体态不良的「三件套」？乔淼昨天 10:21Matrix精选",
+      "url": "https://sspai.com/post/112833",
+      "author": "乔淼",
+      "summary": "简单有效的 E-cise，如何让我摆脱体态不良的「三件套」？"
+    },
+    {
+      "rank": 5,
+      "title": "派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等少数派编辑部昨天 08:37派早报",
+      "url": "https://sspai.com/post/112930",
+      "author": "少数派编辑部",
+      "summary": "派早报：小米汽车举行 SKYNOMAD 小米澎程技术发布会等"
+    },
+    {
+      "rank": 6,
+      "title": "App+1 | 免费、多功能的远程控制新选择：网易 UU 远程化学心情下2前天 17:30",
+      "url": "https://sspai.com/post/112405",
+      "author": "化学心情下2",
+      "summary": "App+1 | 免费、多功能的远程控制新选择：网易 UU 远程"
+    },
+    {
+      "rank": 7,
+      "title": "你搭建过哪些「最后吃灰」的工作流？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1784613267",
+      "author": "一派讨论",
+      "summary": "你搭建过哪些「最后吃灰」的工作流？"
+    },
+    {
+      "rank": 8,
+      "title": "在流媒体时代，搭建一个专属于自己的「音乐探索系统」ChandlerLin前天 14:53Matrix精选",
+      "url": "https://sspai.com/post/112656",
+      "author": "ChandlerLin",
+      "summary": "在流媒体时代，搭建一个专属于自己的「音乐探索系统」"
+    },
+    {
+      "rank": 9,
+      "title": "少数派会员年度更新：把共同的热爱随身携带感谢每一位已经同行多年的会员，也欢迎新朋友加入我们共同建设的社区。老麦前天 11:01",
+      "url": "https://sspai.com/post/112858",
+      "author": "老麦",
+      "summary": "少数派会员年度更新：把共同的热爱随身携带"
+    },
+    {
+      "rank": 10,
+      "title": "派早报：中国电信将不再通过第三方互联网渠道提供号卡办理服务等少数派编辑部前天 08:32派早报",
+      "url": "https://sspai.com/post/112881",
+      "author": "少数派编辑部",
+      "summary": "派早报：中国电信将不再通过第三方互联网渠道提供号卡办理服务等"
+    },
+    {
+      "rank": 11,
+      "title": "离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新Peggy_07/29",
+      "url": "https://sspai.com/post/112787",
+      "author": "Peggy_",
+      "summary": "离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "房主任被停演3个月",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%BF%E4%B8%BB%E4%BB%BB%E8%A2%AB%E5%81%9C%E6%BC%943%E4%B8%AA%E6%9C%88",
+      "hot_value": 2110000
+    },
+    {
+      "rank": 2,
+      "title": "强军制胜不负荣光",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%BA%E5%86%9B%E5%88%B6%E8%83%9C%E4%B8%8D%E8%B4%9F%E8%8D%A3%E5%85%89",
+      "hot_value": 1660000
+    },
+    {
+      "rank": 3,
+      "title": "K100ProMax亮相ChinaJoy",
+      "url": "https://s.weibo.com/weibo?q=K100ProMax%E4%BA%AE%E7%9B%B8ChinaJoy",
+      "hot_value": 1170000
+    },
+    {
+      "rank": 4,
+      "title": "歌手直播",
+      "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD",
+      "hot_value": 1050000
+    },
+    {
+      "rank": 5,
+      "title": "邓紫棋偷看歌手又被发现了",
+      "url": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%81%B7%E7%9C%8B%E6%AD%8C%E6%89%8B%E5%8F%88%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%BA%86",
+      "hot_value": 690000
+    },
+    {
+      "rank": 6,
+      "title": "客服 坏了他真会啊",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%A2%E6%9C%8D+%E5%9D%8F%E4%BA%86%E4%BB%96%E7%9C%9F%E4%BC%9A%E5%95%8A",
+      "hot_value": 660000
+    },
+    {
+      "rank": 7,
+      "title": "845续航MG07预售15.59万",
+      "url": "https://s.weibo.com/weibo?q=845%E7%BB%AD%E8%88%AAMG07%E9%A2%84%E5%94%AE15.59%E4%B8%87",
+      "hot_value": 650000
+    },
+    {
+      "rank": 8,
+      "title": "周星驰质疑董宇辉看大话西游500遍",
+      "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E8%B4%A8%E7%96%91%E8%91%A3%E5%AE%87%E8%BE%89%E7%9C%8B%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8500%E9%81%8D",
+      "hot_value": 630000
+    },
+    {
+      "rank": 9,
+      "title": "三大运营商发布公告",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A",
+      "hot_value": 520000
+    },
+    {
+      "rank": 10,
+      "title": "保时捷女销冠已向法院立案",
+      "url": "https://s.weibo.com/weibo?q=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%86%A0%E5%B7%B2%E5%90%91%E6%B3%95%E9%99%A2%E7%AB%8B%E6%A1%88",
+      "hot_value": 400000
+    },
+    {
+      "rank": 11,
+      "title": "低价大流量卡将集体退场",
+      "url": "https://s.weibo.com/weibo?q=%E4%BD%8E%E4%BB%B7%E5%A4%A7%E6%B5%81%E9%87%8F%E5%8D%A1%E5%B0%86%E9%9B%86%E4%BD%93%E9%80%80%E5%9C%BA",
+      "hot_value": 350000
+    },
+    {
+      "rank": 12,
+      "title": "婚外试管小三正面拍照挑衅患癌原配",
+      "url": "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%A4%96%E8%AF%95%E7%AE%A1%E5%B0%8F%E4%B8%89%E6%AD%A3%E9%9D%A2%E6%8B%8D%E7%85%A7%E6%8C%91%E8%A1%85%E6%82%A3%E7%99%8C%E5%8E%9F%E9%85%8D",
+      "hot_value": 350000
+    },
+    {
+      "rank": 13,
+      "title": "连云港当地回应为何对窗台喷水",
+      "url": "https://s.weibo.com/weibo?q=%E8%BF%9E%E4%BA%91%E6%B8%AF%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E5%AF%B9%E7%AA%97%E5%8F%B0%E5%96%B7%E6%B0%B4",
+      "hot_value": 340000
+    },
+    {
+      "rank": 14,
+      "title": "唐艺昕没有妊娠纹",
+      "url": "https://s.weibo.com/weibo?q=%E5%94%90%E8%89%BA%E6%98%95%E6%B2%A1%E6%9C%89%E5%A6%8A%E5%A8%A0%E7%BA%B9",
+      "hot_value": 340000
+    },
+    {
+      "rank": 15,
+      "title": "孙珍妮胳膊瘦到只剩骨头了",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E7%8F%8D%E5%A6%AE%E8%83%B3%E8%86%8A%E7%98%A6%E5%88%B0%E5%8F%AA%E5%89%A9%E9%AA%A8%E5%A4%B4%E4%BA%86",
+      "hot_value": 330000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "如何评价柯洁夺冠后称「最近在琢磨别的几乎没花时间在围棋上，7 月份下棋不到 5 小时，不知道为什么就赢了」",
+      "url": "https://www.zhihu.com/question/2066503028652204150",
+      "hot_value": 3910000
+    },
+    {
+      "rank": 2,
+      "title": "至少 96 个足协抵制国际足联主席因凡蒂诺，他为什么犯了众怒？会被弹劾下台吗",
+      "url": "https://www.zhihu.com/question/2066479058599113686",
+      "hot_value": 2820000
+    },
+    {
+      "rank": 3,
+      "title": "马特·达蒙中国宣传《奥德赛》，谈及电影《长城》直言「好莱坞让张艺谋失望了」，怎样理解这一说法",
+      "url": "https://www.zhihu.com/question/2066461420372190170",
+      "hot_value": 2340000
+    },
+    {
+      "rank": 4,
+      "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势",
+      "url": "https://www.zhihu.com/question/2066526486505461299",
+      "hot_value": 2270000
+    },
+    {
+      "rank": 5,
+      "title": "西班牙北非飞地休达遭遇大规模移民涌入，负责人直言边境已「完全崩溃」，目前情况如何",
+      "url": "https://www.zhihu.com/question/2066407134779138989",
+      "hot_value": 2080000
+    },
+    {
+      "rank": 6,
+      "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么",
+      "url": "https://www.zhihu.com/question/2066288437683032785",
+      "hot_value": 1890000
+    },
+    {
+      "rank": 7,
+      "title": "小米澎程 N90 、 N70 两款 SUV 上市后是否会有车企跟进设计",
+      "url": "https://www.zhihu.com/question/2065496535039742086",
+      "hot_value": 1790000
+    },
+    {
+      "rank": 8,
+      "title": "为什么许多美剧都发生在缅因州",
+      "url": "https://www.zhihu.com/question/21377980",
+      "hot_value": 1440000
+    },
+    {
+      "rank": 9,
+      "title": "周星驰反向采访董宇辉，口称「辉哥」，坦言已无太大动力再出演，年纪大了，体能跟不上，哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2066155942396350474",
+      "hot_value": 1390000
+    },
+    {
+      "rank": 10,
+      "title": "为什么中国民间有虚岁一说",
+      "url": "https://www.zhihu.com/question/2059184322427593671",
+      "hot_value": 1330000
+    },
+    {
+      "rank": 11,
+      "title": "游客进入青海黑独山禁游区拍照，工作人员称一个脚印十年难恢复，砾石层为何难恢复？景区该如何管住越界打卡",
+      "url": "https://www.zhihu.com/question/2065022640889098964",
+      "hot_value": 1250000
+    },
+    {
+      "rank": 12,
+      "title": "长鑫上市，对合肥普通市民能有影响吗",
+      "url": "https://www.zhihu.com/question/2065114398650283660",
+      "hot_value": 1090000
+    },
+    {
+      "rank": 13,
+      "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落",
+      "url": "https://www.zhihu.com/question/2065499504187371980",
+      "hot_value": 990000
+    },
+    {
+      "rank": 14,
+      "title": "连云港火灾丈夫曾喊「不要喷水」，火灾时高压水枪对人喷水，这会给人带来怎样的二次伤害？水蒸气会烫伤人吗",
+      "url": "https://www.zhihu.com/question/2066521456100337329",
+      "hot_value": 950000
+    },
+    {
+      "rank": 15,
+      "title": "特斯拉否认「剥离或出售中国业务」，中国业务对其有多重要？怎样从商业角度解读",
+      "url": "https://www.zhihu.com/question/2066476826868676553",
+      "hot_value": 930000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Elevators",
+      "url": "https://john.fun/elevators",
+      "score": 61,
+      "author": "Jrh0203",
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=49124218"
+    },
+    {
+      "rank": 2,
+      "title": "Is AI Reasoning Right for the Wrong Reasons?",
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "score": 39,
+      "author": "retupmoc01",
+      "comments": 18,
+      "hn_url": "https://news.ycombinator.com/item?id=49124358"
+    },
+    {
+      "rank": 3,
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+      "score": 346,
+      "author": "theanonymousone",
+      "comments": 174,
+      "hn_url": "https://news.ycombinator.com/item?id=49120299"
+    },
+    {
+      "rank": 4,
+      "title": "U.S. debt-to-GDP ratio reaches 123%",
+      "url": "https://fred.stlouisfed.org/series/GFDEGDQ188S",
+      "score": 36,
+      "author": "johnbarron",
+      "comments": 24,
+      "hn_url": "https://news.ycombinator.com/item?id=49123258"
+    },
+    {
+      "rank": 5,
+      "title": "A GTK4 SSH-askpass in Zig",
+      "url": "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/",
+      "score": 6,
+      "author": "surprisetalk",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49124496"
+    },
+    {
+      "rank": 6,
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "score": 369,
+      "author": "Garbage",
+      "comments": 339,
+      "hn_url": "https://news.ycombinator.com/item?id=49120097"
+    },
+    {
+      "rank": 7,
+      "title": "The session you cannot take with you",
+      "url": "https://earendil.com/posts/session-portability/",
+      "score": 648,
+      "author": "apitman",
+      "comments": 177,
+      "hn_url": "https://news.ycombinator.com/item?id=49118781"
+    },
+    {
+      "rank": 8,
+      "title": "New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key",
+      "url": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
+      "score": 18,
+      "author": "hn_acker",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49124409"
+    },
+    {
+      "rank": 9,
+      "title": "Winding Down Artichoke Ruby",
+      "url": "https://hyperbo.la/w/winding-down-artichoke-ruby/",
+      "score": 29,
+      "author": "ksec",
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49049992"
+    },
+    {
+      "rank": 10,
+      "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+      "url": "https://github.com/mokshablr/gander",
+      "score": 166,
+      "author": "mokshablr",
+      "comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=49119425"
+    },
+    {
+      "rank": 11,
+      "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+      "url": "https://arxiv.org/abs/2607.27197",
+      "score": 98,
+      "author": "rahen",
+      "comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=49121868"
+    },
+    {
+      "rank": 12,
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "score": 751,
+      "author": "tomzorz",
+      "comments": 262,
+      "hn_url": "https://news.ycombinator.com/item?id=49112232"
+    },
+    {
+      "rank": 13,
+      "title": "DeepSeek-V4-Flash Update",
+      "url": "https://api-docs.deepseek.com/updates/",
+      "score": 503,
+      "author": "dnhkng",
+      "comments": 251,
+      "hn_url": "https://news.ycombinator.com/item?id=49119559"
+    },
+    {
+      "rank": 14,
+      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "url": "https://tasklet.ai/careers/customer-success-engineer",
+      "score": 1,
+      "author": "mayop100",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49122034"
+    },
+    {
+      "rank": 15,
+      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+      "url": "https://github.com/openjdk/jdk/pull/31120",
+      "score": 210,
+      "author": "mfiguiere",
+      "comments": 131,
+      "hn_url": "https://news.ycombinator.com/item?id=49119063"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与自动化",
+        "color": "ai",
+        "summary": "今天 GitHub 上的 AI Agent 动态太猛了。首先是 reverse-skill[1]，一个专门针对逆向、渗透和安全研究的技能路由包，能自动帮 AI 客户端（比如 Cursor、Cline）调用工具，已经有 400+ star，搞安全的朋友可以关注下。还有 openwork[2]，号称是开源版的 Claude Cowork，基于 opencode 打造，想找个免费替代品可以试试。另外 last30days-skill[3] 这个 Agent 挺有意思，它能去 Reddit、X 甚至 Polymarket 爬取信息然后合成总结，做社情分析应该很有用。\n\nLobsters 上今天有个讨论特别引人深思，关于 GCC  Steering Committee 宣布的 AI 政策[4]。C 语言老大们居然开始正式拥抱 AI 辅助编码了，这标志着传统编译器圈对 AI 态度的大转变，搞底层开发的人值得看看风向变了没。少数派那边也有个 iA Writer 8.0 的更新[5]，主打一个“不聊 AI\"，在 AI 泛滥的时候坚持做减法写作，这种清流观点值得点赞。"
+      },
+      {
+        "name": "开发工具与效率提升",
+        "color": "dev",
+        "summary": "开发工具区今天也是干货满满。GitHub 上推出的 copilot-sdk[6] 让多平台集成 Copilot Agent 变得更容易，这对开发者来说是个大好消息，以后写代码助手可能更无缝了。效率工具方面，tuicr[7] 是个基于 vim 键位的代码审查 TUI，喜欢命令行操作的朋友绝对会爱上它。还有 kaneo[8]，一个反直觉的项目管理工具，承诺“只做你需要的事”，在工具越来越臃肿的今天，这种克制的设计理念很吸引人。\n\n社区讨论里，Stacked pull requests（堆叠 PR）现在进入公共预览了[9]，这意味着以后给项目提 PR 可以一次提交多个相关的改动， workflow 会更顺畅。少数派上也有个讨论挺热闹，问大家搭建过哪些“最后吃灰”的工作流[10]，其实我也经常有一些脑洞大开但没落地的想法，这种交流能激发很多灵感。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术这块，Rust 和 Linux 依然是重头戏。Lobsters 上有文章聊如何加速 Rust 编译器[11]，虽然时间写的是 2026 年（可能是笔误或未来展望），但编译器优化永远是性能优化的核心。还有关于将 Linux 用 gccrs（Rust 编写的 GCC 替代品）编译的进展[12]，如果 Rust 能成功编译 Linux 内核，那将是系统开发史上的里程碑。\n\n少数派这篇“本月玩什么”里提到了《刺客信条：黑旗》等游戏的记忆重置板斧[13]，虽然归类在数码产品，但涉及到底层存储和内存管理技术。另外，网易 UU 远程控制新选择[14]这篇文章也提到了远程桌面协议的一些新动向，对于搞远程运维的朋友来说，网络层面的细节值得关注。"
+      },
+      {
+        "name": "硬件黑客与开源生态",
+        "color": "hard",
+        "summary": "硬件黑客这块，ESP32-Bit-Pirate[15] 是个很酷的工具，基于 Web 的 CLI 能控制各种协议，搞物联网实验的绝对要入坑。GitHub 上还发现了一个 faceswap[16] 项目，虽然是做深度伪造的，但在图像处理和模型训练技术上确实代表了当前开源社区的高水平，提醒各位搞 AI 图像的朋友注意伦理边界。\n\nLobsters 上有个关于 Rust 标准库 rand 的 fork 讨论[17]，讨论为什么有人要 fork 标准库，这反映了 Rust 社区对确定性和性能的极致追求。还有关于 Ruby 历史遗留问题的文章[18]，虽然 Ruby 热度不如以前，但它的迭代历史对理解软件生命周期很有参考价值。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "think",
+        "summary": "今天看多了技术，也看看观点。Lobsters 上有一篇 Stripe 的文章叫\"Just Wants a Number\"[19]，讲的是很多创业公司其实没那么多花哨需求，其实只需要一个简单的数字验证，这个观点在融资和产品设计圈里经常能引起共鸣。\n\n少数派上有个关于 AI 美学的讨论[20]，探讨了 AI 生成内容的审美趋势，虽然有点玄学，但确实反映了当前设计界的一种集体潜意识。还有 iA Writer 8.0 坚持“不聊 AI\"的更新[5]，在万物皆可 AI 的时代，这种“反 AI\"的坚持反而显得特别纯粹，值得我们在喧嚣中保持一份清醒。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack",
+        "url": "https://github.com/zhaoxuya520/reverse-skill",
+        "source": "GitHub Trending",
+        "desc": "支持 Claude Code 等 AI 客户端的安全技能路由包"
+      },
+      {
+        "num": 2,
+        "title": "The open-source alternative to Claude Cowork",
+        "url": "https://github.com/different-ai/openwork",
+        "source": "GitHub Trending",
+        "desc": "基于 opencode 的开源办公助手"
+      },
+      {
+        "num": 3,
+        "title": "AI agent skill that researches any topic",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "source": "GitHub Trending",
+        "desc": "跨平台调研并合成总结的 AI Agent"
+      },
+      {
+        "num": 4,
+        "title": "GCC steering committee announces AI policy",
+        "url": "https://lwn.net/Articles/1086041/",
+        "source": "Lobsters",
+        "desc": "GCC 管理委员会宣布 AI 政策讨论"
+      },
+      {
+        "num": 5,
+        "title": "离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新",
+        "url": "https://sspai.com/post/112787",
+        "source": "少数派",
+        "desc": "iA Writer 8.0 更新及不聊 AI 理念"
+      },
+      {
+        "num": 6,
+        "title": "Multi-platform SDK for integrating GitHub Copilot Agent",
+        "url": "https://github.com/github/copilot-sdk",
+        "source": "GitHub Trending",
+        "desc": "GitHub Copilot Agent 多平台 SDK"
+      },
+      {
+        "num": 7,
+        "title": "a code review TUI with vim keybindings",
+        "url": "https://github.com/agavra/tuicr",
+        "source": "GitHub Trending",
+        "desc": "基于 vim 键位的代码审查 TUI 工具"
+      },
+      {
+        "num": 8,
+        "title": "Open source project management that works for you",
+        "url": "https://github.com/usekaneo/kaneo",
+        "source": "GitHub Trending",
+        "desc": "用户友好的开源项目管理工具"
+      },
+      {
+        "num": 9,
+        "title": "Stacked pull requests are now in public preview",
+        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+        "source": "Lobsters",
+        "desc": "堆叠 PR 功能公共预览发布"
+      },
+      {
+        "num": 10,
+        "title": "你搭建过哪些「最后吃灰」的工作流？",
+        "url": "https://sspai.com/bullet/1784613267",
+        "source": "少数派",
+        "desc": "社区讨论关于闲置工作流的话题"
+      },
+      {
+        "num": 11,
+        "title": "How to speed up the Rust compiler in July 2026",
+        "url": "https://nnethercote.github.io/2026/07/31/how-to-speed-up-the-rust-compiler-in-july-2026.html",
+        "source": "Lobsters",
+        "desc": "关于加速 Rust 编译器的讨论"
+      },
+      {
+        "num": 12,
+        "title": "Progress toward compiling Linux with gccrs",
+        "url": "https://lwn.net/SubscriberLink/1083202/f1ba926cd57ac5c5/",
+        "source": "Lobsters",
+        "desc": "使用 gccrs 编译 Linux 的进展"
+      },
+      {
+        "num": 13,
+        "title": "本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗",
+        "url": "https://sspai.com/post/112962",
+        "source": "少数派",
+        "desc": "游戏推荐及记忆重置板斧技术"
+      },
+      {
+        "num": 14,
+        "title": "免费、多功能的远程控制新选择：网易 UU 远程",
+        "url": "https://sspai.com/post/112405",
+        "source": "少数派",
+        "desc": "网易 UU 远程控制工具介绍"
+      },
+      {
+        "num": 15,
+        "title": "A Hardware Hacking Tool with Web-Based CLI",
+        "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+        "source": "GitHub Trending",
+        "desc": "基于 ESP32 的硬件黑客工具"
+      },
+      {
+        "num": 16,
+        "title": "Deepfakes Software For All",
+        "url": "https://github.com/deepfakes/faceswap",
+        "source": "GitHub Trending",
+        "desc": "开源面部交换软件 faceswap"
+      },
+      {
+        "num": 17,
+        "title": "Why I forked rand",
+        "url": "https://casualhacks.net/blog/2026-07-27-why-i-forked-rand.html",
+        "source": "Lobsters",
+        "desc": "关于 Fork Rust 标准库 rand 的讨论"
+      },
+      {
+        "num": 18,
+        "title": "Ruby Central's Destructive Legacy",
+        "url": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+        "source": "Lobsters",
+        "desc": "关于 Ruby 历史遗留问题的文章"
+      },
+      {
+        "num": 19,
+        "title": "Stripe Just Wants a Number",
+        "url": "https://blog.exe.dev/billable-facts",
+        "source": "Lobsters",
+        "desc": "关于创业需求简化的观点文章"
+      },
+      {
+        "num": 20,
+        "title": "The AI Aesthetic",
+        "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+        "source": "Lobsters",
+        "desc": "探讨 AI 生成内容的审美趋势"
+      }
+    ],
+    "stats": {
+      "total_items": 20,
+      "total_categories": 5,
+      "total_sources": 20
+    }
+  }
+}
