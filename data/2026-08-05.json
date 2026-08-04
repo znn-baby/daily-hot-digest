@@ -1,0 +1,889 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "TencentCloud / TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "stars": "13118",
+      "stars_today": "1,138 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "zhaoxuya520 / reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "stars": "17487",
+      "stars_today": "2,310 stars today",
+      "language": "PowerShell"
+    },
+    {
+      "rank": 3,
+      "title": "firecrawl / pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "stars": "9570",
+      "stars_today": "2,524 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 4,
+      "title": "uber / ADR",
+      "url": "https://github.com/uber/ADR",
+      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "stars": "588",
+      "stars_today": "140 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": "266244",
+      "stars_today": "617 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 6,
+      "title": "microsoft / generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
+      "stars": "116127",
+      "stars_today": "784 stars today",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "rank": 7,
+      "title": "cypress-io / cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "stars": "50714",
+      "stars_today": "6 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 8,
+      "title": "lyogavin / airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "stars": "28115",
+      "stars_today": "1,716 stars today",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "rank": 9,
+      "title": "webpack / webpack",
+      "url": "https://github.com/webpack/webpack",
+      "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+      "stars": "65900",
+      "stars_today": "8 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 10,
+      "title": "gabime / spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "stars": "29353",
+      "stars_today": "9 stars today",
+      "language": "C++"
+    },
+    {
+      "rank": 11,
+      "title": "denoland / deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.",
+      "stars": "108011",
+      "stars_today": "27 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 12,
+      "title": "usekaneo / kaneo",
+      "url": "https://github.com/usekaneo/kaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "stars": "7169",
+      "stars_today": "565 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 13,
+      "title": "livekit / agents",
+      "url": "https://github.com/livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "stars": "12284",
+      "stars_today": "432 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 14,
+      "title": "angular / angular",
+      "url": "https://github.com/angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "stars": "100757",
+      "stars_today": "8 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 15,
+      "title": "tailwindlabs / tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "stars": "96334",
+      "stars_today": "30 stars today",
+      "language": "TypeScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Soppo - Go, with the features it's missing",
+      "url": "https://soppolang.dev/",
+      "source_url": "https://soppolang.dev/",
+      "tags": [
+        "go"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "Kill the Cookie Banner",
+      "url": "https://killthecookiebanner.eu/",
+      "source_url": "https://killthecookiebanner.eu/",
+      "tags": [
+        "law",
+        "privacy"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "The Lua community needs to learn to move on",
+      "url": "https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/",
+      "source_url": "https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/",
+      "tags": [
+        "lua"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "BorrowSanitizer",
+      "url": "https://borrowsanitizer.com/",
+      "source_url": "https://borrowsanitizer.com/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Twenty Years of Pandoc",
+      "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+      "source_url": "https://pandoc.org/twenty-years-of-pandoc.html",
+      "tags": [
+        "haskell",
+        "historical"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "IntelliJ IDEA Goes LSP: Java and Kotlin Intelligence Comes to VS Code, Cursor, and Agentic Flows",
+      "url": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
+      "source_url": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
+      "tags": [
+        "java",
+        "kotlin",
+        "vscode"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Tests for a PDF",
+      "url": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
+      "source_url": "https://blog.lvmbdv.dev/posts/tests-for-a-pdf/",
+      "tags": [
+        "devops",
+        "testing"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "FFmpeg 9.0",
+      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+      "source_url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+      "tags": [
+        "graphics",
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "Don't be a meat proxy",
+      "url": "https://gruhn.me/blog/2026-08-03/",
+      "source_url": "https://gruhn.me/blog/2026-08-03/",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "help wanted",
+      "url": "https://lake.computer/blog/help-wanted/",
+      "source_url": "https://lake.computer/blog/help-wanted/",
+      "tags": [
+        "rant",
+        "satire",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "ShieldFont",
+      "url": "https://shieldfont.org/",
+      "source_url": "https://shieldfont.org/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "The Future of GNOME Boxes",
+      "url": "https://blogs.gnome.org/feborges/future-of-boxes/",
+      "source_url": "https://blogs.gnome.org/feborges/future-of-boxes/",
+      "tags": [
+        "virtualization"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "Lisp in 99 Lines of C and How to Write One Yourself",
+      "url": "https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf",
+      "source_url": "https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf",
+      "tags": [
+        "c",
+        "lisp"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "Reliability Lessons From SQLite",
+      "url": "https://www.youtube.com/watch?v=V_qzqY1bb7I",
+      "source_url": "https://www.youtube.com/watch?v=V_qzqY1bb7I",
+      "tags": [
+        "video",
+        "practices"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "The Nix sandbox is a hidden input",
+      "url": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
+      "source_url": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
+      "tags": [
+        "nix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "家庭饮品 DIY 指南（三）：常用固体物料推荐老林还年少昨天 17:54会员内容",
+      "url": "https://sspai.com/prime/story/home-made-beverages-3",
+      "author": "老林还年少",
+      "summary": "家庭饮品 DIY 指南（三）：常用固体物料推荐"
+    },
+    {
+      "rank": 2,
+      "title": "敬畏热度、保持热情：如何在夏季坚持跑步无论你是初跑者，还是跑步老手，相信这份「夏季跑步指南」都能帮助到你。文猫昨天 18:42",
+      "url": "https://sspai.com/post/74342",
+      "author": "文猫",
+      "summary": "敬畏热度、保持热情：如何在夏季坚持跑步"
+    },
+    {
+      "rank": 3,
+      "title": "社区速递 152 | 派友的固定回购清单、治愈系果壳风铃与超轻薄迷你风扇Matrix机器人昨天 17:00",
+      "url": "https://sspai.com/post/113060",
+      "author": "Matrix机器人",
+      "summary": "社区速递 152 | 派友的固定回购清单、治愈系果壳风铃与超轻薄迷你风扇"
+    },
+    {
+      "rank": 4,
+      "title": "角落新声｜成年的快乐，是可以将角落铺满全家Latte昨天 10:59Matrix精选",
+      "url": "https://sspai.com/post/112738",
+      "author": "Latte",
+      "summary": "角落新声｜成年的快乐，是可以将角落铺满全家"
+    },
+    {
+      "rank": 5,
+      "title": "七月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1785137077",
+      "author": "一派讨论",
+      "summary": "七月买了什么好东西？"
+    },
+    {
+      "rank": 6,
+      "title": "派早报：MiniMax H3 开源、Qwen3.8-Max 发布等少数派编辑部昨天 08:13派早报",
+      "url": "https://sspai.com/post/113053",
+      "author": "少数派编辑部",
+      "summary": "派早报：MiniMax H3 开源、Qwen3.8-Max 发布等"
+    },
+    {
+      "rank": 7,
+      "title": "派评 | 近期值得关注的 App少数派编辑部前天 18:09",
+      "url": "https://sspai.com/post/113040",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 8,
+      "title": "把折叠屏外屏做成手机后：iKKO MindOne Pro 体验路中南前天 15:35",
+      "url": "https://sspai.com/post/112685",
+      "author": "路中南",
+      "summary": "把折叠屏外屏做成手机后：iKKO MindOne Pro 体验"
+    },
+    {
+      "rank": 9,
+      "title": "职人专访 #001：少数派背后的理想主义Fixer前天 14:03视频",
+      "url": "https://sspai.com/post/112966",
+      "author": "Fixer",
+      "summary": "职人专访 #001：少数派背后的理想主义"
+    },
+    {
+      "rank": 10,
+      "title": "你搭建过哪些「最后吃灰」的工作流？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1784613267",
+      "author": "一派讨论",
+      "summary": "你搭建过哪些「最后吃灰」的工作流？"
+    },
+    {
+      "rank": 11,
+      "title": "角落新声｜两平米、两个角落，安放两个自己Nnnobel前天 10:52",
+      "url": "https://sspai.com/post/112551",
+      "author": "Nnnobel",
+      "summary": "角落新声｜两平米、两个角落，安放两个自己"
+    },
+    {
+      "rank": 12,
+      "title": "派早报：DeepSeek V4 Flash 正式版发布少数派编辑部前天 06:49派早报",
+      "url": "https://sspai.com/post/113014",
+      "author": "少数派编辑部",
+      "summary": "派早报：DeepSeek V4 Flash 正式版发布"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "内娱新四大名著",
+      "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%96%B0%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97",
+      "hot_value": 1100000
+    },
+    {
+      "rank": 2,
+      "title": "谁是联合利刃未来战场主角",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%98%AF%E8%81%94%E5%90%88%E5%88%A9%E5%88%83%E6%9C%AA%E6%9D%A5%E6%88%98%E5%9C%BA%E4%B8%BB%E8%A7%92",
+      "hot_value": 860000
+    },
+    {
+      "rank": 3,
+      "title": "人不在工位一定要把豆包关了",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%8D%E5%9C%A8%E5%B7%A5%E4%BD%8D%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8A%E8%B1%86%E5%8C%85%E5%85%B3%E4%BA%86",
+      "hot_value": 780000
+    },
+    {
+      "rank": 4,
+      "title": "光模块",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%89%E6%A8%A1%E5%9D%97",
+      "hot_value": 690000
+    },
+    {
+      "rank": 5,
+      "title": "建议大家买行李箱不要太大众",
+      "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B9%B0%E8%A1%8C%E6%9D%8E%E7%AE%B1%E4%B8%8D%E8%A6%81%E5%A4%AA%E5%A4%A7%E4%BC%97",
+      "hot_value": 630000
+    },
+    {
+      "rank": 6,
+      "title": "禁止将本书用于人工智能训练",
+      "url": "https://s.weibo.com/weibo?q=%E7%A6%81%E6%AD%A2%E5%B0%86%E6%9C%AC%E4%B9%A6%E7%94%A8%E4%BA%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%AE%AD%E7%BB%83",
+      "hot_value": 510000
+    },
+    {
+      "rank": 7,
+      "title": "发朋友圈还要幸福者退让原则",
+      "url": "https://s.weibo.com/weibo?q=%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%BF%98%E8%A6%81%E5%B9%B8%E7%A6%8F%E8%80%85%E9%80%80%E8%AE%A9%E5%8E%9F%E5%88%99",
+      "hot_value": 480000
+    },
+    {
+      "rank": 8,
+      "title": "花海游戏账号被盗",
+      "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E6%B5%B7%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%9B%97",
+      "hot_value": 420000
+    },
+    {
+      "rank": 9,
+      "title": "地球超新鲜2 弹幕",
+      "url": "https://s.weibo.com/weibo?q=%E5%9C%B0%E7%90%83%E8%B6%85%E6%96%B0%E9%B2%9C2+%E5%BC%B9%E5%B9%95",
+      "hot_value": 420000
+    },
+    {
+      "rank": 10,
+      "title": "田曦薇猫咪外貌引韩网热议",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E7%8C%AB%E5%92%AA%E5%A4%96%E8%B2%8C%E5%BC%95%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AE%AE",
+      "hot_value": 420000
+    },
+    {
+      "rank": 11,
+      "title": "中际旭创禁售传闻",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B%E7%A6%81%E5%94%AE%E4%BC%A0%E9%97%BB",
+      "hot_value": 410000
+    },
+    {
+      "rank": 12,
+      "title": "张婧仪发高烧",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%8F%91%E9%AB%98%E7%83%A7",
+      "hot_value": 410000
+    },
+    {
+      "rank": 13,
+      "title": "徐艺洋晒与全红婵合照",
+      "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%BA%E6%B4%8B%E6%99%92%E4%B8%8E%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%90%88%E7%85%A7",
+      "hot_value": 410000
+    },
+    {
+      "rank": 14,
+      "title": "九尾退出时差3录制",
+      "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E5%B0%BE%E9%80%80%E5%87%BA%E6%97%B6%E5%B7%AE3%E5%BD%95%E5%88%B6",
+      "hot_value": 410000
+    },
+    {
+      "rank": 15,
+      "title": "gmm艺人不参加文化交流之夜",
+      "url": "https://s.weibo.com/weibo?q=gmm%E8%89%BA%E4%BA%BA%E4%B8%8D%E5%8F%82%E5%8A%A0%E6%96%87%E5%8C%96%E4%BA%A4%E6%B5%81%E4%B9%8B%E5%A4%9C",
+      "hot_value": 410000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "如何评价赛力斯问界 2026 年 7 月销量严重下滑，月销量不足 21,000 辆",
+      "url": "https://www.zhihu.com/question/2067882801500836048",
+      "hot_value": 2940000
+    },
+    {
+      "rank": 2,
+      "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号",
+      "url": "https://www.zhihu.com/question/2067873642554156045",
+      "hot_value": 2420000
+    },
+    {
+      "rank": 3,
+      "title": "上海维也纳酒店客房遍布床虱，酒店反问为何不自行检查，卫生监督所称将立案处罚，谁的责任？床虱有哪些风险",
+      "url": "https://www.zhihu.com/question/2067904199212232854",
+      "hot_value": 2400000
+    },
+    {
+      "rank": 4,
+      "title": "现在几千块钱音响的音质，是否能秒杀 90 年代初十几万的音响",
+      "url": "https://www.zhihu.com/question/2064454034640074374",
+      "hot_value": 1560000
+    },
+    {
+      "rank": 5,
+      "title": "「发现好多大学生不懂邮件礼仪」上热搜，你认为这有必要纳入大学课程吗",
+      "url": "https://www.zhihu.com/question/2067004574997730697",
+      "hot_value": 1540000
+    },
+    {
+      "rank": 6,
+      "title": "比特币冷钱包被曝漏洞，超 1.1 亿美元资产被盗，看似最安全的「离线存储」为什么也会被偷",
+      "url": "https://www.zhihu.com/question/2067883838911377616",
+      "hot_value": 1160000
+    },
+    {
+      "rank": 7,
+      "title": "恐怖电影《痴迷》中国内地票房突破 1 亿，已成影史最赚钱的电影之一，如何评价这一成绩",
+      "url": "https://www.zhihu.com/question/2067544727931417556",
+      "hot_value": 1150000
+    },
+    {
+      "rank": 8,
+      "title": "如何看待松岛辉空近日接受采访时说，只要拿到奥运会冠军，就算 21 岁，也会立即退役",
+      "url": "https://www.zhihu.com/question/2067891941233124072",
+      "hot_value": 1090000
+    },
+    {
+      "rank": 9,
+      "title": "哈啰电车突然落锁致大学生十级伤残，交警多次调取后台数据失败，数据调取为什么这么难？还能如何取证",
+      "url": "https://www.zhihu.com/question/2065477563548546516",
+      "hot_value": 1080000
+    },
+    {
+      "rank": 10,
+      "title": "美日近 30 年来首次联手直接买入日元「围剿」空头，这是否能扭转日元长期贬值趋势",
+      "url": "https://www.zhihu.com/question/2067234430759047586",
+      "hot_value": 1070000
+    },
+    {
+      "rank": 11,
+      "title": "王楚钦男单世界排名断层第一，前五仅剩一位中国选手，国乒面临哪些挑战",
+      "url": "https://www.zhihu.com/question/2067661424697123587",
+      "hot_value": 1070000
+    },
+    {
+      "rank": 12,
+      "title": "歼 -20 部队将「飞行二大队 20 分钟覆灭耻辱记」永久悬挂，这体现了怎样的军事管理和训练理念",
+      "url": "https://www.zhihu.com/question/2067370559768367212",
+      "hot_value": 1070000
+    },
+    {
+      "rank": 13,
+      "title": "玩了《英雄联盟》经典模式发现提莫从远古时代到现在技能组从未变化，他的技能有这么优秀吗",
+      "url": "https://www.zhihu.com/question/2066106449541981322",
+      "hot_value": 1050000
+    },
+    {
+      "rank": 14,
+      "title": "女子举报法院执行局长骚扰索贿，官方通报通话录音确系本人，已停职，如何看待此事",
+      "url": "https://www.zhihu.com/question/2067920572915216640",
+      "hot_value": 1030000
+    },
+    {
+      "rank": 15,
+      "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税",
+      "url": "https://www.zhihu.com/question/2067576901791638083",
+      "hot_value": 1010000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "score": 63,
+      "author": "automatoney",
+      "comments": 17,
+      "hn_url": "https://news.ycombinator.com/item?id=49170165"
+    },
+    {
+      "rank": 2,
+      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+      "score": 391,
+      "author": "askvictor",
+      "comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=49166491"
+    },
+    {
+      "rank": 3,
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "score": 248,
+      "author": "zhoutong",
+      "comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=49166386"
+    },
+    {
+      "rank": 4,
+      "title": "Germany Records Historic 12B KWh Solar Feed-In in July 2026",
+      "url": "https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/",
+      "score": 50,
+      "author": "johnbarron",
+      "comments": 18,
+      "hn_url": "https://news.ycombinator.com/item?id=49168886"
+    },
+    {
+      "rank": 5,
+      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+      "url": "https://github.com/tikalk/adlc-team-skills",
+      "score": 52,
+      "author": "kanfilior",
+      "comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=49169640"
+    },
+    {
+      "rank": 6,
+      "title": "Dates That Don't Exist (2015)",
+      "url": "https://blog.yossarian.net/2015/06/09/Dates-That-Dont-Exist",
+      "score": 45,
+      "author": "EndXA",
+      "comments": 24,
+      "hn_url": "https://news.ycombinator.com/item?id=49136363"
+    },
+    {
+      "rank": 7,
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "score": 1213,
+      "author": "MaxMussio",
+      "comments": 501,
+      "hn_url": "https://news.ycombinator.com/item?id=49161518"
+    },
+    {
+      "rank": 8,
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "score": 112,
+      "author": "cimi_",
+      "comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=49166874"
+    },
+    {
+      "rank": 9,
+      "title": "Buckminster Fuller: everything I know",
+      "url": "https://www.bfi.org/about-fuller/everything-i-know/",
+      "score": 77,
+      "author": "simonebrunozzi",
+      "comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=49167147"
+    },
+    {
+      "rank": 10,
+      "title": "Xbox goes down. You can't play games you own on disc",
+      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+      "score": 355,
+      "author": "surprisetalk",
+      "comments": 394,
+      "hn_url": "https://news.ycombinator.com/item?id=49167448"
+    },
+    {
+      "rank": 11,
+      "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+      "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+      "score": 43,
+      "author": "speckx",
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49170001"
+    },
+    {
+      "rank": 12,
+      "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "score": 76,
+      "author": "MakazhanAlpamys",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49166984"
+    },
+    {
+      "rank": 13,
+      "title": "Harness Engineering for Self-Improvement",
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "score": 202,
+      "author": "tosh",
+      "comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=49164896"
+    },
+    {
+      "rank": 14,
+      "title": "Roame (YC S23) Is Hiring Lead Engineer",
+      "url": "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer",
+      "score": 1,
+      "author": "zman0225",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49167444"
+    },
+    {
+      "rank": 15,
+      "title": "Where .env Went Wrong",
+      "url": "https://secretspec.dev/blog/where-env-went-wrong/",
+      "score": 54,
+      "author": "domenkozar",
+      "comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=49124291"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发效能",
+        "color": "ai",
+        "summary": "今天 GitHub 上的 AI Agent 生态简直在“狂飙”。腾讯云的 Agent-Memory [1] 是个团队级记忆中枢，把对话、文档和代码都变成了可复用的资产，还拿了 6 万多个 star，搞大模型应用的朋友绝对要关注。还有那个 reverse-skill[2]，号称一个 AI 技能路由包，能自动帮 Claude Code 或 Cursor 这些客户端去逆向工程或做渗透测试，这思路挺野的，把安全研究变得像搭积木一样方便。社区这边 Lobsters 上也在吵，IntelliJ IDEA 也要搞 LSP 了 [3]，以后 Java 开发者直接在 VS Code 里写代码？这工具链统一化的趋势太明显了。不过也有老派语言在挣扎，Lua 社区有人发帖说该“向前看”了 [4]，毕竟生态不进则退。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "system",
+        "summary": "底层技术这块动静也不小。GitHub 上的 pdf-inspector[5] 是个 Rust 写的库，专门用来智能判断 PDF 是扫描件还是文本，提取效率很高，搞文档处理的可以收着。与此同时，Rust 圈子里 BorrowSanitizer[6] 这个 Rust 借用检查器工具火了，专门用来挖内存安全坑，搞安全的朋友必看。Lobsters 上还有篇关于 FFmpeg 9.0 发布的讨论 [7]，视频编解码的迭代速度大家都有目共睹。有意思的是，有人发文吐槽“别当肉代”[8]，直接抨击那些滥用 AI 做数据爬取的“vibe coding\"行为，这种对技术边界的思考挺有深度。另外，SQLite 的可靠性教训 [9] 也在社区被反复讨论，毕竟它是很多系统的基石嘛。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "tools",
+        "summary": "数码和效率工具方面，少数派最近更新了社区速递，列出了一堆派友的回购清单，包括治愈系的果壳风铃和超轻薄迷你风扇 [10]，这种生活化的小物件反而很戳人。还有关于 MiniMax H3 和 Qwen3.8-Max 的开源动态 [11]，大模型落地硬件的进展很快。社区里也有人分享自己搭建的“吃灰”工作流 [12]，这话题太真实了，大家都有过这种心累时刻。折叠屏手机体验方面，iKKO MindOne Pro 把外屏做成后置，这个设计思路 [13] 挺大胆的，不知道用户能不能适应。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thoughts",
+        "summary": "今天看了一些挺有深度的文章。少数派有一篇关于夏季跑步的指南 [14]，讲的是如何在高温下保持热情，这种“敬畏热度”的心态其实也适用于技术学习。还有《杀死 Cookie 横幅》[15]，呼吁法律层面更积极地处理隐私弹窗，毕竟没人喜欢被弹窗骚扰。Lobsters 上还有篇关于 Lisp 用 99 行 C 语言手写 [16] 的硬核技术文章，让人感叹语言设计的魅力。最后，关于 Nix 沙箱是“隐藏输入”的讨论 [17]，指出了构建工具中容易被忽视的复杂性，这种技术深水区的问题值得细细琢磨。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "TencentDB Agent Memory",
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 热门项目"
+      },
+      {
+        "num": 2,
+        "title": "reverse-skill",
+        "url": "https://github.com/zhaoxuya520/reverse-skill",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 热门项目"
+      },
+      {
+        "num": 3,
+        "title": "IntelliJ IDEA Goes LSP",
+        "url": "https://blog.jetbrains.com/idea/2026/08/intellij-idea-goes-lsp/",
+        "source": "Lobsters",
+        "desc": "JetBrains 官方博客关于 IDEA 支持 LSP 的新闻"
+      },
+      {
+        "num": 4,
+        "title": "The Lua community needs to learn to move on",
+        "url": "https://hisham.hm/2026/08/04/the-lua-community-needs-to-learn-to-move-on/",
+        "source": "Lobsters",
+        "desc": "关于 Lua 社区发展的讨论帖"
+      },
+      {
+        "num": 5,
+        "title": "pdf-inspector",
+        "url": "https://github.com/firecrawl/pdf-inspector",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 热门项目"
+      },
+      {
+        "num": 6,
+        "title": "BorrowSanitizer",
+        "url": "https://borrowsanitizer.com/",
+        "source": "Lobsters",
+        "desc": "关于 Rust 借用检查器的讨论"
+      },
+      {
+        "num": 7,
+        "title": "FFmpeg 9.0 Release Notes",
+        "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+        "source": "Lobsters",
+        "desc": "FFmpeg 新版本发布讨论"
+      },
+      {
+        "num": 8,
+        "title": "Don't be a meat proxy",
+        "url": "https://gruhn.me/blog/2026-08-03/",
+        "source": "Lobsters",
+        "desc": "关于反对滥用 AI 爬虫的评论文章"
+      },
+      {
+        "num": 9,
+        "title": "Reliability Lessons From SQLite",
+        "url": "https://www.youtube.com/watch?v=V_qzqY1bb7I",
+        "source": "Lobsters",
+        "desc": "关于 SQLite 可靠性的视频讨论"
+      },
+      {
+        "num": 10,
+        "title": "社区速递 152",
+        "url": "https://sspai.com/post/113060",
+        "source": "少数派",
+        "desc": "少数派社区好物推荐文章"
+      },
+      {
+        "num": 11,
+        "title": "派早报：MiniMax H3 开源、Qwen3.8-Max 发布等",
+        "url": "https://sspai.com/post/113053",
+        "source": "少数派",
+        "desc": "少数派早报 AI 动态"
+      },
+      {
+        "num": 12,
+        "title": "你搭建过哪些「最后吃灰」的工作流？",
+        "url": "https://sspai.com/bullet/1784613267",
+        "source": "少数派",
+        "desc": "少数派社区讨论话题"
+      },
+      {
+        "num": 13,
+        "title": "把折叠屏外屏做成手机后：iKKO MindOne Pro 体验",
+        "url": "https://sspai.com/post/112685",
+        "source": "少数派",
+        "desc": "数码产品体验评测"
+      },
+      {
+        "num": 14,
+        "title": "敬畏热度、保持热情：如何在夏季坚持跑步",
+        "url": "https://sspai.com/post/74342",
+        "source": "少数派",
+        "desc": "少数派跑步指南文章"
+      },
+      {
+        "num": 15,
+        "title": "Kill the Cookie Banner",
+        "url": "https://killthecookiebanner.eu/",
+        "source": "Lobsters",
+        "desc": "关于隐私弹窗的讨论"
+      },
+      {
+        "num": 16,
+        "title": "Lisp in 99 Lines of C and How to Write One Yourself",
+        "url": "https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf",
+        "source": "Lobsters",
+        "desc": "关于 Lisp 实现的讨论"
+      },
+      {
+        "num": 17,
+        "title": "The Nix sandbox is a hidden input",
+        "url": "https://fzakaria.com/2026/07/30/the-nix-sandbox-is-a-hidden-input",
+        "source": "Lobsters",
+        "desc": "关于 Nix 构建系统的深度分析"
+      }
+    ],
+    "stats": {
+      "total_items": 17,
+      "total_categories": 4,
+      "total_sources": 3
+    }
+  }
+}
