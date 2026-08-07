@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Daily Hot Digest - Archive</title>
+<title>Daily Hot Digest</title>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&display=swap" rel="stylesheet" />
@@ -11,24 +11,10 @@
 </head>
 <body>
 <canvas id="bg-canvas" data-particles="50"></canvas>
-<div class="container container-narrow">
-    <div class="index-header">
-        <h1>Daily Hot Digest</h1>
-        <p>自动抓取 GitHub / Lobsters / 少数派 / 微博 / 知乎 / Hacker News + AI 摘要</p>
-    </div>
-    <h2 class="archive-year">2026</h2>
-<div class="archive-month">
-  <div class="archive-month-header">
-    <span class="month-title">七月</span>
-    <span><span class="month-count">8 期</span></span>
-  </div>
-  <ul class="archive-dates"><li><a href="2026-07-30.html">30日 周四</a></li><li><a href="2026-07-29.html">29日 周三</a></li><li><a href="2026-07-28.html">28日 周二</a></li><li><a href="2026-07-26.html">26日 周日</a></li><li><a href="2026-07-25.html">25日 周六</a></li><li><a href="2026-07-24.html">24日 周五</a></li><li><a href="2026-07-23.html">23日 周四</a></li><li><a href="2026-07-22.html">22日 周三</a></li></ul>
-</div>
-
-    <div class="footer">
-        Powered by GitHub Actions &middot; 每日 22:00 自动更新
-    </div>
-</div>
+<div class="container" id="content"><div class="loading">加载中...</div></div>
 <script src="assets/particles.js"></script>
+<script src="assets/render.js"></script>
+<script src="assets/counter.js"></script>
+<script src="assets/app.js"></script>
 </body>
 </html>
