@@ -1,0 +1,907 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "PrimeIntellect-ai / prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "stars": "10189",
+      "stars_today": "2,319 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "vitali87 / code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "stars": "2744",
+      "stars_today": "59 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "msitarzewski / agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": "140226",
+      "stars_today": "446 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 4,
+      "title": "pranshuparmar / witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "stars": "20326",
+      "stars_today": "556 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 5,
+      "title": "google-deepmind / weathernext",
+      "url": "https://github.com/google-deepmind/weathernext",
+      "description": "",
+      "stars": "6942",
+      "stars_today": "55 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 6,
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": "84910",
+      "stars_today": "670 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 7,
+      "title": "ZhuLinsen / daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": "60969",
+      "stars_today": "287 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "goauthentik / authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "stars": "24155",
+      "stars_today": "312 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "google / skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "stars": "17038",
+      "stars_today": "532 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 10,
+      "title": "Comfy-Org / ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "stars": "125222",
+      "stars_today": "333 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 11,
+      "title": "harveyai / harvey-labs",
+      "url": "https://github.com/harveyai/harvey-labs",
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "stars": "717",
+      "stars_today": "47 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 12,
+      "title": "pingdotgg / t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "stars": "17521",
+      "stars_today": "182 stars today",
+      "language": "TypeScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Tracking down a Zsh history data loss bug",
+      "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+      "source_url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+      "tags": [
+        "debugging",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "Dithered QR codes",
+      "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+      "source_url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+      "tags": [
+        "art",
+        "graphics"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "\"Code was never the hard part\" is an insult to all programmers",
+      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+      "source_url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Rails is done",
+      "url": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
+      "source_url": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
+      "tags": [
+        "culture",
+        "ruby"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "some software talks i like",
+      "url": "https://char.lt/blog/2026/08/talks-i-like/",
+      "source_url": "https://char.lt/blog/2026/08/talks-i-like/",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Counting the days, revisited",
+      "url": "https://dotat.at/@/2026-08-09-rata-die.html",
+      "source_url": "https://dotat.at/@/2026-08-09-rata-die.html",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "my server is a phone now",
+      "url": "https://seg6.space/posts/phone-server/",
+      "source_url": "https://seg6.space/posts/phone-server/",
+      "tags": [
+        "android"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "What Software is Made Of (2015)",
+      "url": "https://siderea.dreamwidth.org/1219758.html",
+      "source_url": "https://siderea.dreamwidth.org/1219758.html",
+      "tags": [
+        "philosophy",
+        "practices",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "ddisasm: A fast and accurate disassembler",
+      "url": "https://github.com/GrammaTech/ddisasm",
+      "source_url": "https://github.com/GrammaTech/ddisasm",
+      "tags": [
+        "assembly"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "Triton: DirectX 11 driver for QEMU",
+      "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+      "source_url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+      "tags": [
+        "graphics",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "source_url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "tags": [
+        "nix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Port the Enlightenment desktop environment to NetBSD",
+      "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
+      "source_url": "https://blog.netbsd.org/tnf/entry/gsoc2026_enlightenment",
+      "tags": [
+        "netbsd"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "Systemd Dynamic Users (2020)",
+      "url": "https://ethulhu.co.uk/systemd-dynamicuser",
+      "source_url": "https://ethulhu.co.uk/systemd-dynamicuser",
+      "tags": [
+        "systemd"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "Who Should Pay For Source Code Availability?",
+      "url": "https://kristoff.it/blog/source-code-availability/",
+      "source_url": "https://kristoff.it/blog/source-code-availability/",
+      "tags": [
+        "vcs",
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Multistack Concatenative Programming Languages",
+      "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
+      "source_url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
+      "tags": [
+        "concatenative",
+        "plt"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面Belcheck15:00Matrix精选",
+      "url": "https://sspai.com/post/113158",
+      "author": "Belcheck",
+      "summary": "我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面"
+    },
+    {
+      "rank": 2,
+      "title": "就内容创作而言，说话还是替代不了打字AstrianZ昨天 13:11Matrix精选",
+      "url": "https://sspai.com/post/112901",
+      "author": "AstrianZ",
+      "summary": "就内容创作而言，说话还是替代不了打字"
+    },
+    {
+      "rank": 3,
+      "title": "本周看什么 | 最近值得一看的 10 部作品少数派编辑部前天 17:52",
+      "url": "https://sspai.com/post/113191",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 10 部作品"
+    },
+    {
+      "rank": 4,
+      "title": "[限时优惠] 数据分析：用好 Excel 中的数据透视表子不语Rex前天 15:39免费试读",
+      "url": "https://sspai.com/post/113108",
+      "author": "子不语Rex",
+      "summary": "[限时优惠] 数据分析：用好 Excel 中的数据透视表"
+    },
+    {
+      "rank": 5,
+      "title": "七月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1785137077",
+      "author": "一派讨论",
+      "summary": "七月买了什么好东西？"
+    },
+    {
+      "rank": 6,
+      "title": "角落新声｜从合租到整租，我在客厅听见了自己的声音蓝羽铭前天 10:15Matrix精选",
+      "url": "https://sspai.com/post/113144",
+      "author": "蓝羽铭",
+      "summary": "角落新声｜从合租到整租，我在客厅听见了自己的声音"
+    },
+    {
+      "rank": 7,
+      "title": "派早报：Bose 发布新款 QuietComfort 头戴式耳机等少数派编辑部前天 08:51派早报",
+      "url": "https://sspai.com/post/113162",
+      "author": "少数派编辑部",
+      "summary": "派早报：Bose 发布新款 QuietComfort 头戴式耳机等"
+    },
+    {
+      "rank": 8,
+      "title": "新玩意 248｜少数派的编辑们最近买了啥？少数派编辑部08/06",
+      "url": "https://sspai.com/post/113139",
+      "author": "少数派编辑部",
+      "summary": "新玩意 248｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 9,
+      "title": "TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验KingTsui08/06",
+      "url": "https://sspai.com/post/112916",
+      "author": "KingTsui",
+      "summary": "TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验"
+    },
+    {
+      "rank": 10,
+      "title": "你搭建过哪些「最后吃灰」的工作流？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1784613267",
+      "author": "一派讨论",
+      "summary": "你搭建过哪些「最后吃灰」的工作流？"
+    },
+    {
+      "rank": 11,
+      "title": "角落新声｜音乐，刻在时光里的私人地图野比大雄7608/06Matrix精选",
+      "url": "https://sspai.com/post/113017",
+      "author": "野比大雄76",
+      "summary": "角落新声｜音乐，刻在时光里的私人地图"
+    },
+    {
+      "rank": 12,
+      "title": "派早报：华为发布尊界 MPV 及多款新品等少数派编辑部08/06派早报",
+      "url": "https://sspai.com/post/113110",
+      "author": "少数派编辑部",
+      "summary": "派早报：华为发布尊界 MPV 及多款新品等"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "百花奖",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96",
+      "hot_value": 1180000
+    },
+    {
+      "rank": 2,
+      "title": "中国制造硬核瞬间",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%A1%AC%E6%A0%B8%E7%9E%AC%E9%97%B4",
+      "hot_value": 770000
+    },
+    {
+      "rank": 3,
+      "title": "张凌赫座驾阿维塔07L上市",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%BA%A7%E9%A9%BE%E9%98%BF%E7%BB%B4%E5%A1%9407L%E4%B8%8A%E5%B8%82",
+      "hot_value": 760000
+    },
+    {
+      "rank": 4,
+      "title": "沈腾 影帝",
+      "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE+%E5%BD%B1%E5%B8%9D",
+      "hot_value": 760000
+    },
+    {
+      "rank": 5,
+      "title": "台风白海豚",
+      "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A",
+      "hot_value": 750000
+    },
+    {
+      "rank": 6,
+      "title": "朱一龙鼻子怎么了",
+      "url": "https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E9%BC%BB%E5%AD%90%E6%80%8E%E4%B9%88%E4%BA%86",
+      "hot_value": 740000
+    },
+    {
+      "rank": 7,
+      "title": "医疗垃圾 手机壳",
+      "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE+%E6%89%8B%E6%9C%BA%E5%A3%B3",
+      "hot_value": 480000
+    },
+    {
+      "rank": 8,
+      "title": "白海豚提前登陆",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%8F%90%E5%89%8D%E7%99%BB%E9%99%86",
+      "hot_value": 380000
+    },
+    {
+      "rank": 9,
+      "title": "极氪7X充电起火",
+      "url": "https://s.weibo.com/weibo?q=%E6%9E%81%E6%B0%AA7X%E5%85%85%E7%94%B5%E8%B5%B7%E7%81%AB",
+      "hot_value": 380000
+    },
+    {
+      "rank": 10,
+      "title": "耳机左右耳电量未解之谜",
+      "url": "https://s.weibo.com/weibo?q=%E8%80%B3%E6%9C%BA%E5%B7%A6%E5%8F%B3%E8%80%B3%E7%94%B5%E9%87%8F%E6%9C%AA%E8%A7%A3%E4%B9%8B%E8%B0%9C",
+      "hot_value": 370000
+    },
+    {
+      "rank": 11,
+      "title": "张本兄妹同时夺冠",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E5%85%84%E5%A6%B9%E5%90%8C%E6%97%B6%E5%A4%BA%E5%86%A0",
+      "hot_value": 370000
+    },
+    {
+      "rank": 12,
+      "title": "自闭症哥哥的话唠妹妹堪比心理医生",
+      "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E9%97%AD%E7%97%87%E5%93%A5%E5%93%A5%E7%9A%84%E8%AF%9D%E5%94%A0%E5%A6%B9%E5%A6%B9%E5%A0%AA%E6%AF%94%E5%BF%83%E7%90%86%E5%8C%BB%E7%94%9F",
+      "hot_value": 370000
+    },
+    {
+      "rank": 13,
+      "title": "迪丽热巴给路人打码",
+      "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BB%99%E8%B7%AF%E4%BA%BA%E6%89%93%E7%A0%81",
+      "hot_value": 370000
+    },
+    {
+      "rank": 14,
+      "title": "儿子去世孙子不捧骨灰盒被查出非亲生",
+      "url": "https://s.weibo.com/weibo?q=%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96%E5%AD%99%E5%AD%90%E4%B8%8D%E6%8D%A7%E9%AA%A8%E7%81%B0%E7%9B%92%E8%A2%AB%E6%9F%A5%E5%87%BA%E9%9D%9E%E4%BA%B2%E7%94%9F",
+      "hot_value": 370000
+    },
+    {
+      "rank": 15,
+      "title": "国乒再次无缘冠军赛冠军",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E5%86%8D%E6%AC%A1%E6%97%A0%E7%BC%98%E5%86%A0%E5%86%9B%E8%B5%9B%E5%86%A0%E5%86%9B",
+      "hot_value": 370000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "2026 上半年国内手机销量 TOP30 出炉，苹果包揽前三、华为领跑国产，哪些品牌的表现值得关注",
+      "url": "https://www.zhihu.com/question/2069715027674624332",
+      "hot_value": 6770000
+    },
+    {
+      "rank": 2,
+      "title": "台风「白海豚」逼近，9 岁男孩在浙江温岭海边被浪卷走，带来哪些警示？目前救援难点有哪些",
+      "url": "https://www.zhihu.com/question/2069556360698488227",
+      "hot_value": 5040000
+    },
+    {
+      "rank": 3,
+      "title": "你会去电影院看沈腾主演的新电影《欢迎来龙餐馆》吗？票房能破 50 亿吗",
+      "url": "https://www.zhihu.com/question/2068398077522793536",
+      "hot_value": 4930000
+    },
+    {
+      "rank": 4,
+      "title": "台风「白海豚」在浙江台州玉环沿海登陆，中心附近最大风力 14 级，你那边现在情况如何",
+      "url": "https://www.zhihu.com/question/2068622608979813741",
+      "hot_value": 4460000
+    },
+    {
+      "rank": 5,
+      "title": "鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的 TOP1，就都想到了他",
+      "url": "https://www.zhihu.com/question/1957061060604437527",
+      "hot_value": 4230000
+    },
+    {
+      "rank": 6,
+      "title": "女子被狗舔脚后被判定狂犬病三级暴露，因脚趾甲沟炎存在皮肤破损，反映出什么认知误区？哪些情况要及时就医",
+      "url": "https://www.zhihu.com/question/2069321207866987893",
+      "hot_value": 4010000
+    },
+    {
+      "rank": 7,
+      "title": "菲媒证实网红雅典娜被害，网传该案仍有部分电诈犯未归案，目前案件的真实进展如何",
+      "url": "https://www.zhihu.com/question/2069726177812374122",
+      "hot_value": 3250000
+    },
+    {
+      "rank": 8,
+      "title": "如何看待 2026 年 8 月 8 日，史诗级电影《奥德赛》的点映上座率高达 57.3% 左右",
+      "url": "https://www.zhihu.com/question/2069512576657105120",
+      "hot_value": 2520000
+    },
+    {
+      "rank": 9,
+      "title": "如何看待「现在查 RTX 5090 价格已经变成了一种恐怖片题材」这个梗",
+      "url": "https://www.zhihu.com/question/2067910668142093912",
+      "hot_value": 2310000
+    },
+    {
+      "rank": 10,
+      "title": "雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的 21 年",
+      "url": "https://www.zhihu.com/question/2069357693840667744",
+      "hot_value": 2110000
+    },
+    {
+      "rank": 11,
+      "title": "如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡",
+      "url": "https://www.zhihu.com/question/2068817961792623517",
+      "hot_value": 1950000
+    },
+    {
+      "rank": 12,
+      "title": "BLG 官宣 Flandre 加入，你看好这次的再度联手吗？可能会对选手以及战队有哪些影响",
+      "url": "https://www.zhihu.com/question/2069798790676968723",
+      "hot_value": 1700000
+    },
+    {
+      "rank": 13,
+      "title": "「抱冬瓜睡觉降温」走红，有人尝试，结果半夜瓜炸了，好端端的冬瓜为什么会爆裂",
+      "url": "https://www.zhihu.com/question/2068090103704941168",
+      "hot_value": 1700000
+    },
+    {
+      "rank": 14,
+      "title": "祁同伟的自杀，对沙瑞金和侯亮平有何影响",
+      "url": "https://www.zhihu.com/question/1928734665180702151",
+      "hot_value": 1520000
+    },
+    {
+      "rank": 15,
+      "title": "2026WTT 横滨冠军赛，张本智和 4 比 1 吴晙诚卫冕成功，如何评价这场比赛",
+      "url": "https://www.zhihu.com/question/2069869187867137118",
+      "hot_value": 1470000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Mea Culpa – Dark Hours",
+      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+      "score": 105,
+      "author": "satvikpendem",
+      "comments": 45,
+      "hn_url": "https://news.ycombinator.com/item?id=49231154"
+    },
+    {
+      "rank": 2,
+      "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+      "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+      "score": 22,
+      "author": "Rochus",
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49230891"
+    },
+    {
+      "rank": 3,
+      "title": "There Are Magic Hexagons of Every Order",
+      "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+      "score": 114,
+      "author": "gukoff",
+      "comments": 19,
+      "hn_url": "https://news.ycombinator.com/item?id=49229174"
+    },
+    {
+      "rank": 4,
+      "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+      "url": "https://halfhill.com/byte/1998-12_alpha.html",
+      "score": 40,
+      "author": "Lammy",
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49230022"
+    },
+    {
+      "rank": 5,
+      "title": "My server is a phone now",
+      "url": "https://seg6.space/posts/phone-server/",
+      "score": 411,
+      "author": "seg6",
+      "comments": 183,
+      "hn_url": "https://news.ycombinator.com/item?id=49226636"
+    },
+    {
+      "rank": 6,
+      "title": "Uber SubmitQueue: a high-performance speculative merge queue",
+      "url": "https://github.com/uber/submitqueue/",
+      "score": 30,
+      "author": "handfuloflight",
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=49138084"
+    },
+    {
+      "rank": 7,
+      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+      "url": "https://github.com/jmarshall23/msword",
+      "score": 112,
+      "author": "BruceEel",
+      "comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=49228663"
+    },
+    {
+      "rank": 8,
+      "title": "The Grid That Doubles the Strength of the Ground",
+      "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
+      "score": 75,
+      "author": "michaefe",
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49178476"
+    },
+    {
+      "rank": 9,
+      "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+      "url": "https://os8088.com/",
+      "score": 211,
+      "author": "jggonz",
+      "comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=49226923"
+    },
+    {
+      "rank": 10,
+      "title": "Fastmail offers EU data region",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "score": 464,
+      "author": "groomlake",
+      "comments": 265,
+      "hn_url": "https://news.ycombinator.com/item?id=49223082"
+    },
+    {
+      "rank": 11,
+      "title": "Improving Heuristics for A* Pathfinding",
+      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+      "score": 306,
+      "author": "bobbiechen",
+      "comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=49079995"
+    },
+    {
+      "rank": 12,
+      "title": "Dithered QR Codes",
+      "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+      "score": 283,
+      "author": "jmusall",
+      "comments": 28,
+      "hn_url": "https://news.ycombinator.com/item?id=49226742"
+    },
+    {
+      "rank": 13,
+      "title": "Reviving a four year old reMarkable 2",
+      "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
+      "score": 63,
+      "author": "tremguy",
+      "comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=49230514"
+    },
+    {
+      "rank": 14,
+      "title": "Protopia",
+      "url": "https://kevinkelly.substack.com/p/protopia",
+      "score": 37,
+      "author": "surprisetalk",
+      "comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=49168282"
+    },
+    {
+      "rank": 15,
+      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+      "url": "https://shopify.engineering/scaling-inventory-reservations",
+      "score": 271,
+      "author": "adletbalzhanov",
+      "comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=49226536"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与自动化",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。PrimeIntellect-ai 的 prime-agent[1] 主打自我改进的 RLM 智能体，能处理长周期自主任务，已经拿了 24k+ star，搞自动化工作流的可以试试。msitarzewski 的 agency-agents[2] 也是个狠活，把前端魔法师、Reddit 社区精英等角色打包成一个完整的 AI 代理系统，每个代理都有性格和流程，看着就很有意思。addyosmani 的 agent-skills[3] 则是生产级的工程技能库，专门教 AI 代码智能体怎么写好代码，想系统提升 Agent 能力的必看。\n\nLobsters 社区里有人讨论“代码从来不是最难的部分”[4]，这其实暗戳戳指出了当前 AI 编程的痛点——逻辑设计才是核心，工具只是辅助。少数派也有篇文说“内容创作说话替代不了打字”[5]，虽然聊的是写作，但跟 AI 生成内容形成有趣对照，机器能写草图，但人类的情感表达还是得靠亲自敲击键盘，这点挺让人感慨的。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术这块今天动静不小。pranshuparmar 的 witr[6] 是个 CLI+TUI 工具，能追溯任何进程、端口甚至文件到底是谁启动的，搞运维和安全的朋友绝对需要这种“上帝视角”，-star 数还在涨。Google DeepMind 的 weathernext[7] 虽然名字像天气，其实是用来预测系统级故障的，数据量巨大，对云原生环境很有参考价值。\n\n社区讨论里有个帖子挺扎心：Rails 框架彻底“完了”[8]，Ruby 社区在反思语言生命周期。还有个关于 Zsh 历史数据丢失的 Bug 讨论 [9]，这种看似无伤大雅的小毛病其实很搞心态，特别是脚本跑着跑着数据没了，调试起来头大。另外，Nixpkgs 核心团队解散的消息 [10] 也让 Unix 爱好者们一阵唏嘘，开源协作的脆弱性再次被放大。"
+      },
+      {
+        "name": "工具开发与效率",
+        "color": "dev",
+        "summary": "开发工具方面，vitali87 的 code-graph-rag[11] 号称单体仓库的终极 RAG 方案，能把多语言代码库用 AI 和知识图谱串起来查询和编辑，这对超大型代码库的管理简直是降维打击。ComfyUI[12] 作为最强大的扩散模型 GUI，这次也在 trending 里，说明图形化编排节点在 AI 工作流里的地位越来越稳固。\n\n少数派编辑部本周推荐了 10 部值得看的作品 [13]，虽然偏文化，但给忙碌的开发者提供了很好的精神出口。还有篇关于“最后吃灰的工作流”讨论 [14]，大家分享了不少自建的自动化脚本，发现很多工具真的就是“当下好用，过季吃灰”，这提醒我们在选工具时要更看重长期维护成本。"
+      },
+      {
+        "name": "数码产品与效率",
+        "color": "gadget",
+        "summary": "数码产品这块，少数派早报提到了 Bose 新款 QuietComfort 耳机 [15] 和 vivo TWS 5 Pro 的体验 [16]，降噪能力提升明显，通勤党可以关注。华为发布的新款尊界 MPV 也值得关注 [17]，毕竟商务场景下，车内体验也是生产力的一部分。\n\n有个帖子挺有意思，说“我的服务器现在是个手机”[18]，把 Android 设备当软路由用，这种极客的折腾精神总是能激发灵感。还有人分享了自己做的 F1 赛程看板 Quote/0[19]，把赛程留在桌面，这种极致的效率工具虽然 niche，但那种掌控感确实爽。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "深度思考方面，senko 的那篇博客\"Code was never the hard part\"是个 insult to all programmers[20] 引发了不少共鸣，编程的难点往往在于业务逻辑而非语法。还有关于源代码可用性的讨论 [21]，问“谁该为代码的开源买单？”，这在企业级开发里是个永恒的话题。\n\n少数派的一派讨论区里，有人聊聊从合租到整租的心理变化 [22]，这种生活视角的探讨其实也能缓解技术焦虑。另外，关于“说话还是替代不了打字”的探讨 [23]，再次强调了人类在技术演进中的独特性，机器可以模拟，但无法完全复刻人类的思考过程。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "prime-agent: A self-improving RLM agent",
+        "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 2,
+        "title": "agency-agents: A complete AI agency",
+        "url": "https://github.com/msitarzewski/agency-agents",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 3,
+        "title": "agent-skills: Production-grade engineering skills",
+        "url": "https://github.com/addyosmani/agent-skills",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 4,
+        "title": "\"Code was never the hard part\" is an insult to all programmers",
+        "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 5,
+        "title": "就内容创作而言，说话还是替代不了打字",
+        "url": "https://sspai.com/post/112901",
+        "source": "少数派",
+        "desc": "Matrix 精选文章"
+      },
+      {
+        "num": 6,
+        "title": "witr: Why is this running?",
+        "url": "https://github.com/pranshuparmar/witr",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 7,
+        "title": "weathernext",
+        "url": "https://github.com/google-deepmind/weathernext",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 8,
+        "title": "Rails is done",
+        "url": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 9,
+        "title": "Tracking down a Zsh history data loss bug",
+        "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 10,
+        "title": "The Nixpkgs core team has disbanded",
+        "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 11,
+        "title": "code-graph-rag: The ultimate RAG for your monorepo",
+        "url": "https://github.com/vitali87/code-graph-rag",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 12,
+        "title": "ComfyUI: The most powerful and modular diffusion model GUI",
+        "url": "https://github.com/Comfy-Org/ComfyUI",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 13,
+        "title": "本周看什么 | 最近值得一看的 10 部作品",
+        "url": "https://sspai.com/post/113191",
+        "source": "少数派",
+        "desc": "少数派编辑部文章"
+      },
+      {
+        "num": 14,
+        "title": "你搭建过哪些「最后吃灰」的工作流？",
+        "url": "https://sspai.com/bullet/1784613267",
+        "source": "少数派",
+        "desc": "一派讨论"
+      },
+      {
+        "num": 15,
+        "title": "派早报：Bose 发布新款 QuietComfort 头戴式耳机等",
+        "url": "https://sspai.com/post/113162",
+        "source": "少数派",
+        "desc": "少数派编辑部文章"
+      },
+      {
+        "num": 16,
+        "title": "TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验",
+        "url": "https://sspai.com/post/112916",
+        "source": "少数派",
+        "desc": "KingTsui 文章"
+      },
+      {
+        "num": 17,
+        "title": "派早报：华为发布尊界 MPV 及多款新品等",
+        "url": "https://sspai.com/post/113110",
+        "source": "少数派",
+        "desc": "少数派编辑部文章"
+      },
+      {
+        "num": 18,
+        "title": "my server is a phone now",
+        "url": "https://seg6.space/posts/phone-server/",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 19,
+        "title": "我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面",
+        "url": "https://sspai.com/post/113158",
+        "source": "少数派",
+        "desc": "Belcheck 文章"
+      },
+      {
+        "num": 20,
+        "title": "\"Code was never the hard part\" is an insult to all programmers",
+        "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 21,
+        "title": "Who Should Pay For Source Code Availability?",
+        "url": "https://kristoff.it/blog/source-code-availability/",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 22,
+        "title": "角落新声｜从合租到整租，我在客厅听见了自己的声音",
+        "url": "https://sspai.com/post/113144",
+        "source": "少数派",
+        "desc": "蓝羽铭文章"
+      },
+      {
+        "num": 23,
+        "title": "就内容创作而言，说话还是替代不了打字",
+        "url": "https://sspai.com/post/112901",
+        "source": "少数派",
+        "desc": "AstrianZ 文章"
+      }
+    ],
+    "stats": {
+      "total_items": 23,
+      "total_categories": 5,
+      "total_sources": 23
+    }
+  }
+}
