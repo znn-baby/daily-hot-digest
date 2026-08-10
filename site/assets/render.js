@@ -41,7 +41,7 @@ var DigestRender = (function() {
     function fmtDate(dateStr) {
         var p = dateStr.split('-');
         var d = new Date(parseInt(p[0]), parseInt(p[1]) - 1, parseInt(p[2]));
-        return p[0] + ' 年 ' + d.getMonth() + ' 月 ' + d.getDate() + ' 日 · ' + WEEKDAYS[d.getDay()];
+        return p[0] + ' 年 ' + parseInt(p[1]) + ' 月 ' + parseInt(p[2]) + ' 日 · ' + WEEKDAYS[d.getDay()];
     }
 
     // ── Source Card Builders ──
