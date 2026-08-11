@@ -1,0 +1,878 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "stars": "5864",
+      "stars_today": "1,612 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 2,
+      "title": "msitarzewski / agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": "142574",
+      "stars_today": "971 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 3,
+      "title": "semantica-agi / semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "stars": "4647",
+      "stars_today": "884 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "nvm-sh / nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "stars": "94429",
+      "stars_today": "18 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 5,
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": "86088",
+      "stars_today": "571 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 6,
+      "title": "ZhuLinsen / daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": "61998",
+      "stars_today": "731 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "vitali87 / code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "stars": "3725",
+      "stars_today": "339 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "anthropics / skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": "167909",
+      "stars_today": "468 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "3b1b / manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "stars": "90025",
+      "stars_today": "381 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 10,
+      "title": "HKUDS / DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "stars": "34476",
+      "stars_today": "829 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 11,
+      "title": "stablyai / orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "stars": "42315",
+      "stars_today": "881 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 12,
+      "title": "paperclipai / paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": "76982",
+      "stars_today": "743 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 13,
+      "title": "huggingface / transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "stars": "163652",
+      "stars_today": "69 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 14,
+      "title": "harveyai / harvey-labs",
+      "url": "https://github.com/harveyai/harvey-labs",
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "stars": "1008",
+      "stars_today": "24 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 15,
+      "title": "jaywcjlove / awesome-mac",
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+      "stars": "110285",
+      "stars_today": "334 stars today",
+      "language": "Swift"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Reviewing code is a skill",
+      "url": "https://typesanitizer.com/blog/code-review.html",
+      "source_url": "https://typesanitizer.com/blog/code-review.html",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "Chicken Scheme 6.0 released",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "source_url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "tags": [
+        "lisp",
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "There's a dungeon under this blog",
+      "url": "https://blog.lvmbdv.dev/posts/theres-a-dungeon-under-this-blog/",
+      "source_url": "https://blog.lvmbdv.dev/posts/theres-a-dungeon-under-this-blog/",
+      "tags": [
+        "games",
+        "vibecoding",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "A researcher bought noreply.net. Companies started sending him secrets",
+      "url": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
+      "source_url": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
+      "tags": [
+        "privacy",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Briar is in maintenance mode",
+      "url": "https://briarproject.org/news/2026-maintenance-mode/",
+      "source_url": "https://briarproject.org/news/2026-maintenance-mode/",
+      "tags": [
+        "mobile",
+        "networking"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "GitHub Actions needs OIDC audience constraints",
+      "url": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
+      "source_url": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "No, local models will not win",
+      "url": "https://www.seangoedecke.com/local-models-will-not-win/",
+      "source_url": "https://www.seangoedecke.com/local-models-will-not-win/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "Toggles Considered Harmful",
+      "url": "https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/",
+      "source_url": "https://ignorethecode.net/blog/2026/08/09/toggles_considered_harmful/",
+      "tags": [
+        "design"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "a pure css implementation of some sunlight streaming in through the window",
+      "url": "https://github.com/jackyzha0/sunlit",
+      "source_url": "https://github.com/jackyzha0/sunlit",
+      "tags": [
+        "css",
+        "design",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "Firefox Containers Preview",
+      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "source_url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "tags": [
+        "browsers"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "A noob learns FFT",
+      "url": "https://entropicthoughts.com/fft",
+      "source_url": "https://entropicthoughts.com/fft",
+      "tags": [
+        "math",
+        "visualization"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Making [etched] holograms with a pen plotter",
+      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "source_url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "tags": [
+        "show",
+        "art",
+        "graphics",
+        "math"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "Bevy's Sixth Birthday",
+      "url": "https://bevy.org/news/bevys-sixth-birthday/",
+      "source_url": "https://bevy.org/news/bevys-sixth-birthday/",
+      "tags": [
+        "games",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "Breaking up (lines) is hard to do",
+      "url": "https://www.b-list.org/weblog/2026/aug/10/newlines/",
+      "source_url": "https://www.b-list.org/weblog/2026/aug/10/newlines/",
+      "tags": [
+        "python"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "We're not done with point clouds",
+      "url": "https://claytonwramsey.com/blog/mvt/",
+      "source_url": "https://claytonwramsey.com/blog/mvt/",
+      "tags": [
+        "performance",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包Matrix机器人17:00",
+      "url": "https://sspai.com/post/113304",
+      "author": "Matrix机器人",
+      "summary": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包"
+    },
+    {
+      "rank": 2,
+      "title": "走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线少数派编辑部13:59",
+      "url": "https://sspai.com/post/112887",
+      "author": "少数派编辑部",
+      "summary": "走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线"
+    },
+    {
+      "rank": 3,
+      "title": "从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你evnydd0sf12:00商店",
+      "url": "https://sspai.com/post/113288",
+      "author": "evnydd0sf",
+      "summary": "从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你"
+    },
+    {
+      "rank": 4,
+      "title": "不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍Drapor10:17Matrix精选",
+      "url": "https://sspai.com/post/113263",
+      "author": "Drapor",
+      "summary": "不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍"
+    },
+    {
+      "rank": 5,
+      "title": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等少数派编辑部08:09派早报",
+      "url": "https://sspai.com/post/113301",
+      "author": "少数派编辑部",
+      "summary": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等"
+    },
+    {
+      "rank": 6,
+      "title": "不再拆机飞线：借助 ACC 实现旧手机直供电「改造」谷丰昨天 21:50会员内容",
+      "url": "https://sspai.com/prime/story/direct-power-supply-mod",
+      "author": "谷丰",
+      "summary": "不再拆机飞线：借助 ACC 实现旧手机直供电「改造」"
+    },
+    {
+      "rank": 7,
+      "title": "[有奖]手机里的 AI 通话功能，你真的在用吗？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1785400922",
+      "author": "一派讨论",
+      "summary": "[有奖]手机里的 AI 通话功能，你真的在用吗？"
+    },
+    {
+      "rank": 8,
+      "title": "派评 | 近期值得关注的 App少数派编辑部昨天 18:00",
+      "url": "https://sspai.com/post/113283",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 9,
+      "title": "写给「跑两步就喘」的你：调整跑步姿势，舒适开跑从跑步姿势、呼吸节奏、运动强度入手，让跑步更舒服。阿帅的健康笔记昨天 15:00",
+      "url": "https://sspai.com/post/113115",
+      "author": "阿帅的健康笔记",
+      "summary": "写给「跑两步就喘」的你：调整跑步姿势，舒适开跑"
+    },
+    {
+      "rank": 10,
+      "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕VHENSS昨天 11:00Matrix精选",
+      "url": "https://sspai.com/post/113202",
+      "author": "VHENSS",
+      "summary": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕"
+    },
+    {
+      "rank": 11,
+      "title": "派早报：央视曝光酒店评级标识消费陷阱少数派编辑部昨天 07:08派早报",
+      "url": "https://sspai.com/post/113268",
+      "author": "少数派编辑部",
+      "summary": "派早报：央视曝光酒店评级标识消费陷阱"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "曝赵一鸣4块牛肉干64元复称仅17元",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%B5%B5%E4%B8%80%E9%B8%A34%E5%9D%97%E7%89%9B%E8%82%89%E5%B9%B264%E5%85%83%E5%A4%8D%E7%A7%B0%E4%BB%8517%E5%85%83",
+      "hot_value": 1690000
+    },
+    {
+      "rank": 2,
+      "title": "请查收这份暴雨天避险指南",
+      "url": "https://s.weibo.com/weibo?q=%E8%AF%B7%E6%9F%A5%E6%94%B6%E8%BF%99%E4%BB%BD%E6%9A%B4%E9%9B%A8%E5%A4%A9%E9%81%BF%E9%99%A9%E6%8C%87%E5%8D%97",
+      "hot_value": 1160000
+    },
+    {
+      "rank": 3,
+      "title": "建议女生不要在网上过度分享",
+      "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E4%B8%8D%E8%A6%81%E5%9C%A8%E7%BD%91%E4%B8%8A%E8%BF%87%E5%BA%A6%E5%88%86%E4%BA%AB",
+      "hot_value": 750000
+    },
+    {
+      "rank": 4,
+      "title": "男子上班脑出血家属无奈拔管后死亡",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E4%B8%8A%E7%8F%AD%E8%84%91%E5%87%BA%E8%A1%80%E5%AE%B6%E5%B1%9E%E6%97%A0%E5%A5%88%E6%8B%94%E7%AE%A1%E5%90%8E%E6%AD%BB%E4%BA%A1",
+      "hot_value": 680000
+    },
+    {
+      "rank": 5,
+      "title": "恢复生命力只需要一些低成本爱好",
+      "url": "https://s.weibo.com/weibo?q=%E6%81%A2%E5%A4%8D%E7%94%9F%E5%91%BD%E5%8A%9B%E5%8F%AA%E9%9C%80%E8%A6%81%E4%B8%80%E4%BA%9B%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD",
+      "hot_value": 630000
+    },
+    {
+      "rank": 6,
+      "title": "叙利亚前总统被判死刑",
+      "url": "https://s.weibo.com/weibo?q=%E5%8F%99%E5%88%A9%E4%BA%9A%E5%89%8D%E6%80%BB%E7%BB%9F%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91",
+      "hot_value": 550000
+    },
+    {
+      "rank": 7,
+      "title": "张桂源张函瑞眼鼻嘴彩排",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%A1%82%E6%BA%90%E5%BC%A0%E5%87%BD%E7%91%9E%E7%9C%BC%E9%BC%BB%E5%98%B4%E5%BD%A9%E6%8E%92",
+      "hot_value": 390000
+    },
+    {
+      "rank": 8,
+      "title": "红米K100Pro系列价格",
+      "url": "https://s.weibo.com/weibo?q=%E7%BA%A2%E7%B1%B3K100Pro%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC",
+      "hot_value": 350000
+    },
+    {
+      "rank": 9,
+      "title": "王曼昱极限倒地爆冲",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%9E%81%E9%99%90%E5%80%92%E5%9C%B0%E7%88%86%E5%86%B2",
+      "hot_value": 350000
+    },
+    {
+      "rank": 10,
+      "title": "TF四代单人拍立得",
+      "url": "https://s.weibo.com/weibo?q=TF%E5%9B%9B%E4%BB%A3%E5%8D%95%E4%BA%BA%E6%8B%8D%E7%AB%8B%E5%BE%97",
+      "hot_value": 340000
+    },
+    {
+      "rank": 11,
+      "title": "白鹿直播",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E7%9B%B4%E6%92%AD",
+      "hot_value": 340000
+    },
+    {
+      "rank": 12,
+      "title": "科目二挂了教练换的头像",
+      "url": "https://s.weibo.com/weibo?q=%E7%A7%91%E7%9B%AE%E4%BA%8C%E6%8C%82%E4%BA%86%E6%95%99%E7%BB%83%E6%8D%A2%E7%9A%84%E5%A4%B4%E5%83%8F",
+      "hot_value": 340000
+    },
+    {
+      "rank": 13,
+      "title": "左奇函杨博文彩排骨骼谢幕",
+      "url": "https://s.weibo.com/weibo?q=%E5%B7%A6%E5%A5%87%E5%87%BD%E6%9D%A8%E5%8D%9A%E6%96%87%E5%BD%A9%E6%8E%92%E9%AA%A8%E9%AA%BC%E8%B0%A2%E5%B9%95",
+      "hot_value": 340000
+    },
+    {
+      "rank": 14,
+      "title": "巴旦木公主晒结婚证",
+      "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E6%97%A6%E6%9C%A8%E5%85%AC%E4%B8%BB%E6%99%92%E7%BB%93%E5%A9%9A%E8%AF%81",
+      "hot_value": 340000
+    },
+    {
+      "rank": 15,
+      "title": "北京暴雨",
+      "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8",
+      "hot_value": 330000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "如何看待 8 月 10 日沈腾主演电影《欢迎来龙餐馆》总票房预测值大幅提升至  35.4 亿人民币",
+      "url": "https://www.zhihu.com/question/2070305441545040277",
+      "hot_value": 2380000
+    },
+    {
+      "rank": 2,
+      "title": "为什么武侠游戏招式名爱用 「 降龙十八掌 」 式的华丽辞藻, 而西方中世纪骑士游戏招式却朴素得像说明书",
+      "url": "https://www.zhihu.com/question/2070098614244864702",
+      "hot_value": 1990000
+    },
+    {
+      "rank": 3,
+      "title": "媒体曝中国网红「雅典娜」确认遇害，宁波警方称并未证实其已遇害，事件真相到底如何",
+      "url": "https://www.zhihu.com/question/2070285462472582864",
+      "hot_value": 1970000
+    },
+    {
+      "rank": 4,
+      "title": "5 万元以下微型车遇冷，40 万元以上新能源车热销，这说明了什么",
+      "url": "https://www.zhihu.com/question/2069887569639248076",
+      "hot_value": 1950000
+    },
+    {
+      "rank": 5,
+      "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿",
+      "url": "https://www.zhihu.com/question/2070076711593406558",
+      "hot_value": 1900000
+    },
+    {
+      "rank": 6,
+      "title": "睡车里被酒店收 150 元住宿费事件反转，媒体因报道呈现不够全面客观致歉，如何避免类似事件再次发生",
+      "url": "https://www.zhihu.com/question/2070468397289009796",
+      "hot_value": 1740000
+    },
+    {
+      "rank": 7,
+      "title": "为啥感觉麻辣烫越来越贵，而自助小火锅却在越卷越便宜？同样是汤煮菜，为啥会出现这样的差异",
+      "url": "https://www.zhihu.com/question/2067711801098069791",
+      "hot_value": 1710000
+    },
+    {
+      "rank": 8,
+      "title": "易烊千玺连续四届提名百花奖，终凭《小小的我》刘春和一角成 00 后首位百花影帝，如何评价他的表演",
+      "url": "https://www.zhihu.com/question/2070253242945106599",
+      "hot_value": 1660000
+    },
+    {
+      "rank": 9,
+      "title": "现在年轻人都很少主动考驾照了，未来还有必要人手一本驾照吗",
+      "url": "https://www.zhihu.com/question/2066668547292521975",
+      "hot_value": 1550000
+    },
+    {
+      "rank": 10,
+      "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息",
+      "url": "https://www.zhihu.com/question/2070450417981469090",
+      "hot_value": 1530000
+    },
+    {
+      "rank": 11,
+      "title": "曝方文山长期婚内出轨，精神操控多位女性，方文山回应因筹拍网剧产生纠纷被投资方污蔑，具体啥情况",
+      "url": "https://www.zhihu.com/question/2070481032956962155",
+      "hot_value": 1500000
+    },
+    {
+      "rank": 12,
+      "title": "费大厨撤下「全国小炒肉大王」 宣传，上菜口号更换为 「精选黑猪肉、专业大厨炒」，此举带来的影响有多大",
+      "url": "https://www.zhihu.com/question/2070112824437876354",
+      "hot_value": 1450000
+    },
+    {
+      "rank": 13,
+      "title": "今年百花奖王宝强 0 票，对此你的看法是什么",
+      "url": "https://www.zhihu.com/question/2070427612044961729",
+      "hot_value": 1410000
+    },
+    {
+      "rank": 14,
+      "title": "因为给我买车买房没提前跟我弟说，我弟把我全家都拉黑了快 7 年了，父子都不愿低头，怎么破冰",
+      "url": "https://www.zhihu.com/question/2068757535138566295",
+      "hot_value": 1260000
+    },
+    {
+      "rank": 15,
+      "title": "张本兄妹同时包揽 WTT 横滨冠军赛单打冠军，会对国乒的霸主地位有影响吗？国乒到底怎么了",
+      "url": "https://www.zhihu.com/question/2069914089296486954",
+      "hot_value": 1260000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "England set to be one of the first countries to eliminate hepatitis C",
+      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+      "score": 176,
+      "author": "stevekemp",
+      "comments": 93,
+      "hn_url": "https://news.ycombinator.com/item?id=49257377"
+    },
+    {
+      "rank": 2,
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "score": 23,
+      "author": "quantumgarbage",
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49257876"
+    },
+    {
+      "rank": 3,
+      "title": "France to ban unsolicited telemarketing calls",
+      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+      "score": 710,
+      "author": "aziaziazi",
+      "comments": 363,
+      "hn_url": "https://news.ycombinator.com/item?id=49254880"
+    },
+    {
+      "rank": 4,
+      "title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "url": "https://thewalrus.ca/google-search-is-dying/",
+      "score": 588,
+      "author": "awnird",
+      "comments": 668,
+      "hn_url": "https://news.ycombinator.com/item?id=49250836"
+    },
+    {
+      "rank": 5,
+      "title": "Nvidia's Risky Business",
+      "url": "https://stratechery.com/2026/nvidias-risky-business/",
+      "score": 78,
+      "author": "jonbaer",
+      "comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=49255710"
+    },
+    {
+      "rank": 6,
+      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+      "url": "https://github.com/antirez/h3.c",
+      "score": 367,
+      "author": "swyx",
+      "comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=49252179"
+    },
+    {
+      "rank": 7,
+      "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+      "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
+      "score": 22,
+      "author": "ashurandi",
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=49258581"
+    },
+    {
+      "rank": 8,
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "score": 442,
+      "author": "HenryNdubuaku",
+      "comments": 157,
+      "hn_url": "https://news.ycombinator.com/item?id=49246804"
+    },
+    {
+      "rank": 9,
+      "title": "Chicken Scheme 6.0",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "score": 245,
+      "author": "eatonphil",
+      "comments": 38,
+      "hn_url": "https://news.ycombinator.com/item?id=49251702"
+    },
+    {
+      "rank": 10,
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "score": 568,
+      "author": "root-parent",
+      "comments": 546,
+      "hn_url": "https://news.ycombinator.com/item?id=49243880"
+    },
+    {
+      "rank": 11,
+      "title": "LFM2.5 2.6B model competitive with 4x larger models",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+      "score": 119,
+      "author": "nateb2022",
+      "comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=49173107"
+    },
+    {
+      "rank": 12,
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "url": "https://everycube.alen.is/",
+      "score": 246,
+      "author": "Alen123",
+      "comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=49251179"
+    },
+    {
+      "rank": 13,
+      "title": "$580M undersea cable rerouted to avoid the grave of Dobby the House Elf",
+      "url": "https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site",
+      "score": 19,
+      "author": "rbanffy",
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=49258202"
+    },
+    {
+      "rank": 14,
+      "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
+      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+      "score": 50,
+      "author": "j0selit0",
+      "comments": 4,
+      "hn_url": "https://news.ycombinator.com/item?id=49256057"
+    },
+    {
+      "rank": 15,
+      "title": "Closing Canario Terminal source code",
+      "url": "https://rapha.land/closing-canario-terminal-source-code/",
+      "score": 35,
+      "author": "atan2",
+      "comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=49254881"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与自动化",
+        "color": "ai",
+        "summary": "今天 GitHub 上的 AI Agent 项目简直在疯狂生长。msitarzewski / agency-agents [1] 把 AI 代理玩出了花，从前端巫师到 Reddit 社区高手，每个代理都有性格和流程，星数已经破 10k，想自动化 workflows 的朋友必看。anthropics / skills [2] 和 addyosmani / agent-skills [3] 则是给开发者准备的“技能包”，让 AI 真正具备工程化能力，而不是只会瞎写代码。社区那边 Lobsters 上有人在讨论本地模型会不会赢 [8]，观点挺犀利，感觉远程协作和云端大模型还是主流。少数派也报道了 Meta 开源的本地 AI 智能体 Muse Glimmer [9]，这对隐私敏感的用户来说是个好消息，搞点本地部署玩玩挺有意思。"
+      },
+      {
+        "name": "开发工具与工程实践",
+        "color": "dev",
+        "summary": "开发工具这块儿动静不小。GitHub 上 nvm-sh / nvm [4] 这种老项目依然稳稳当当，毕竟 Node 版本管理还是刚需。vitali87 / code-graph-rag [5] 用知识图谱搞大仓库代码检索，这思路很新颖，以后查代码说不定比搜百度还快。少数派上有篇关于鸿蒙应用上架指南的文章 [6]，想转战新兴生态的开发者得赶紧收藏了。Lobsters 上也有个挺硬核的讨论：GitHub Actions 现在需要 OIDC 受众约束了 [7]，搞 CI/CD 的朋友如果还没注意这个安全补丁，赶紧去检查一下配置，别等出事再后悔。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术一直是硬核玩家的乐园。Lobsters 上 Chicken Scheme 6.0 发布了 [10]，Lisp 老读者们估计会挺开心。还有那个关于纯 CSS 实现阳光透过窗户效果的项目 sunlit [11]，视觉效果绝了，搞网页的前端可以拿去转一转。少数派上有个关于旧手机直供电改造的教程 [12]，不需要拆机飞线，用 ACC 就能实现，这种极客 DIY 精神必须给个点赞。另外，Bevy 游戏引擎过六岁生日了 [13]，Rust 游戏开发圈子又添了个老朋友，值得关注一下。"
+      },
+      {
+        "name": "数码产品与生活效率",
+        "color": "life",
+        "summary": "数码产品方面，少数派上有篇《我与 Pixel 10 Pro 的生活》[14]，写得挺细腻，Pixel 11 系列快发了，老用户都在做总结。还有一篇关于跑步姿势调整的文章 [15]，虽然偏健康，但那种“跑两步就喘”的共鸣感太强了，看来运动也是技术活。Lobsters 上还有个纯 CSS 画光的艺术项目 [11]，虽然算前端，但那种美学追求跟数码生活很搭。GitHub 上还有个 diagram-design 项目 [16]，专门为 Claude Code 设计的图表，看着清爽，没有那些乱七八糟的阴影，工具人必备。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "agency-agents: A complete AI agency at your fingertips",
+        "url": "https://github.com/msitarzewski/agency-agents",
+        "source": "GitHub Trending",
+        "desc": "一个完整的 AI 代理集合，包含各种人格化的专业助手"
+      },
+      {
+        "num": 2,
+        "title": "skills: Public repository for Agent Skills",
+        "url": "https://github.com/anthropics/skills",
+        "source": "GitHub Trending",
+        "desc": "Anthropic 公开的 Agent 技能仓库"
+      },
+      {
+        "num": 3,
+        "title": "agent-skills: Production-grade engineering skills for AI coding agents",
+        "url": "https://github.com/addyosmani/agent-skills",
+        "source": "GitHub Trending",
+        "desc": "Addy Osmani 整理的 AI 编程代理工程化技能"
+      },
+      {
+        "num": 4,
+        "title": "nvm: Node Version Manager",
+        "url": "https://github.com/nvm-sh/nvm",
+        "source": "GitHub Trending",
+        "desc": "POSIX 兼容的 bash 脚本，用于管理多个 Node.js 版本"
+      },
+      {
+        "num": 5,
+        "title": "code-graph-rag: The ultimate RAG for your monorepo",
+        "url": "https://github.com/vitali87/code-graph-rag",
+        "source": "GitHub Trending",
+        "desc": "基于知识图谱的大型单体仓库代码检索工具"
+      },
+      {
+        "num": 6,
+        "title": "走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》",
+        "url": "https://sspai.com/post/112887",
+        "source": "少数派",
+        "desc": "少数派编辑部发布的鸿蒙应用上架全流程指南"
+      },
+      {
+        "num": 7,
+        "title": "GitHub Actions needs OIDC audience constraints",
+        "url": "https://blog.yossarian.net/2026/08/10/github-actions-needs-oidc-audience-constraints/",
+        "source": "Lobsters",
+        "desc": "关于 GitHub Actions 需要添加 OIDC 受众约束的安全建议"
+      },
+      {
+        "num": 8,
+        "title": "No, local models will not win",
+        "url": "https://www.seangoedecke.com/local-models-will-not-win/",
+        "source": "Lobsters",
+        "desc": "讨论本地模型是否能在 AI 领域获胜的观点文章"
+      },
+      {
+        "num": 9,
+        "title": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer",
+        "url": "https://sspai.com/post/113301",
+        "source": "少数派",
+        "desc": "Meta 开源本地 AI 智能体大模型 Muse Glimmer 的资讯"
+      },
+      {
+        "num": 10,
+        "title": "Chicken Scheme 6.0 released",
+        "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+        "source": "Lobsters",
+        "desc": "Chicken Scheme 6.0 版本发布新闻"
+      },
+      {
+        "num": 11,
+        "title": "a pure css implementation of some sunlight streaming in through the window",
+        "url": "https://github.com/jackyzha0/sunlit",
+        "source": "Lobsters",
+        "desc": "使用纯 CSS 实现阳光透过窗户效果的网页项目"
+      },
+      {
+        "num": 12,
+        "title": "不再拆机飞线：借助 ACC 实现旧手机直供电「改造」",
+        "url": "https://sspai.com/prime/story/direct-power-supply-mod",
+        "source": "少数派",
+        "desc": "谷丰分享的旧手机直供电改造教程"
+      },
+      {
+        "num": 13,
+        "title": "Bevy's Sixth Birthday",
+        "url": "https://bevy.org/news/bevys-sixth-birthday/",
+        "source": "Lobsters",
+        "desc": "Rust 游戏引擎 Bevy 迎来六岁生日"
+      },
+      {
+        "num": 14,
+        "title": "我与 Pixel 10 Pro 的生活：写在 Pixel 11 系列手机发布前夕",
+        "url": "https://sspai.com/post/113202",
+        "source": "少数派",
+        "desc": "用户分享 Pixel 10 Pro 使用体验的文章"
+      },
+      {
+        "num": 15,
+        "title": "写给「跑两步就喘」的你：调整跑步姿势，舒适开跑",
+        "url": "https://sspai.com/post/113115",
+        "source": "少数派",
+        "desc": "阿帅的健康笔记分享跑步姿势调整技巧"
+      },
+      {
+        "num": 16,
+        "title": "diagram-design: 29 editorial diagram types for Claude Code",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "source": "GitHub Trending",
+        "desc": "为 Claude Code 设计的 29 种简洁图表类型"
+      }
+    ],
+    "stats": {
+      "total_items": 16,
+      "total_categories": 4,
+      "total_sources": 16
+    }
+  }
+}
