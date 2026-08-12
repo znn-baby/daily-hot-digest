@@ -1,0 +1,893 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "stars": "8782",
+      "stars_today": "1,616 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 2,
+      "title": "macro-inc / macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "stars": "1342",
+      "stars_today": "248 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 3,
+      "title": "semantica-agi / semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "stars": "5493",
+      "stars_today": "834 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "stablyai / orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "stars": "43530",
+      "stars_today": "1,215 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 5,
+      "title": "msitarzewski / agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": "144339",
+      "stars_today": "1,969 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 6,
+      "title": "shiyu-coder / Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": "36860",
+      "stars_today": "238 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "NanmiCoder / MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "stars": "61890",
+      "stars_today": "855 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "hugohe3 / ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "stars": "45323",
+      "stars_today": "364 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "infiniflow / ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": "87424",
+      "stars_today": "85 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 10,
+      "title": "paperclipai / paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": "77531",
+      "stars_today": "573 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 11,
+      "title": "NVIDIA-NeMo / Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description": "",
+      "stars": "660",
+      "stars_today": "370 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 12,
+      "title": "ZuodaoTech / everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "description": "人人都能用英语",
+      "stars": "35984",
+      "stars_today": "53 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 13,
+      "title": "smicallef / spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "stars": "20254",
+      "stars_today": "40 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 14,
+      "title": "localsend / localsend",
+      "url": "https://github.com/localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "stars": "87583",
+      "stars_today": "159 stars today",
+      "language": "Dart"
+    },
+    {
+      "rank": 15,
+      "title": "Lightricks / LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "stars": "8630",
+      "stars_today": "40 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Guide to (not) fucking up QR codes",
+      "url": "https://infosec.exchange/@rebane2001/117078420917152774",
+      "source_url": "https://infosec.exchange/@rebane2001/117078420917152774",
+      "tags": [
+        "design"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "I hate packaging my software for Linux",
+      "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+      "source_url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "Analyzing My Lobsters Submissions",
+      "url": "https://abhinavsarkar.net/notes/2026-lobsters-submissions/",
+      "source_url": "https://abhinavsarkar.net/notes/2026-lobsters-submissions/",
+      "tags": [
+        "visualization"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "GNOME Shell Design Dreams",
+      "url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
+      "source_url": "https://blogs.gnome.org/shell-dev/2026/08/11/gnome-shell-design-dreams/",
+      "tags": [
+        "design"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Introducing Automatic Key Verification",
+      "url": "https://signal.org/blog/automatic-key-verification/",
+      "source_url": "https://signal.org/blog/automatic-key-verification/",
+      "tags": [
+        "cryptography",
+        "privacy"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Compression is prediction",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "source_url": "https://ngrok.com/blog/compression-is-prediction",
+      "tags": [
+        "programming",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Mindful coding: Purpose and intention",
+      "url": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
+      "source_url": "https://var0.xyz/posts/mindful-coding-purpose-and-intention.html",
+      "tags": [
+        "philosophy",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "My Anti AI computer",
+      "url": "https://punkx.org/jackdoe/home.html",
+      "source_url": "https://punkx.org/jackdoe/home.html",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "Making a game on a custom bytecode VM in 7 days and 3kB",
+      "url": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
+      "source_url": "https://laurent.le-brun.eu/blog/making-a-game-on-a-custom-bytecode-vm-in-7-days-and-3kb",
+      "tags": [
+        "compilers",
+        "games"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "C++26: std::indirect",
+      "url": "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect",
+      "source_url": "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect",
+      "tags": [
+        "c++"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "Reviewing code is a skill",
+      "url": "https://typesanitizer.com/blog/code-review.html",
+      "source_url": "https://typesanitizer.com/blog/code-review.html",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "fearless_simd v0.7: 64-bit integers, improved generics, SSE2, and upcoming v1.0",
+      "url": "https://linebender.org/blog/fearless-simd-0-7/",
+      "source_url": "https://linebender.org/blog/fearless-simd-0-7/",
+      "tags": [
+        "release",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "source_url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "tags": [
+        "plt",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "On AI Coding and Its Discontents",
+      "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+      "source_url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+      "tags": [
+        "practices",
+        "testing",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "I'm done using AI",
+      "url": "https://brettcodes.com/im-done-using-ai/",
+      "source_url": "https://brettcodes.com/im-done-using-ai/",
+      "tags": [
+        "rant",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏Linery17:30视频",
+      "url": "https://sspai.com/post/113219",
+      "author": "Linery",
+      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏"
+    },
+    {
+      "rank": 2,
+      "title": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派少数派播客15:00",
+      "url": "https://sspai.com/post/113352",
+      "author": "少数派播客",
+      "summary": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派"
+    },
+    {
+      "rank": 3,
+      "title": "我，与「唯一」的 iPhone Air宛潼11:04Matrix精选",
+      "url": "https://sspai.com/post/112880",
+      "author": "宛潼",
+      "summary": "我，与「唯一」的 iPhone Air"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等少数派编辑部08:44派早报",
+      "url": "https://sspai.com/post/113343",
+      "author": "少数派编辑部",
+      "summary": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等"
+    },
+    {
+      "rank": 5,
+      "title": "[有奖]手机里的 AI 通话功能，你真的在用吗？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1785400922",
+      "author": "一派讨论",
+      "summary": "[有奖]手机里的 AI 通话功能，你真的在用吗？"
+    },
+    {
+      "rank": 6,
+      "title": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包Matrix机器人昨天 17:00",
+      "url": "https://sspai.com/post/113304",
+      "author": "Matrix机器人",
+      "summary": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包"
+    },
+    {
+      "rank": 7,
+      "title": "走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线少数派编辑部昨天 13:59",
+      "url": "https://sspai.com/post/112887",
+      "author": "少数派编辑部",
+      "summary": "走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线"
+    },
+    {
+      "rank": 8,
+      "title": "从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你evnydd0sf昨天 12:00商店",
+      "url": "https://sspai.com/post/113288",
+      "author": "evnydd0sf",
+      "summary": "从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你"
+    },
+    {
+      "rank": 9,
+      "title": "不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍Drapor昨天 10:17Matrix精选",
+      "url": "https://sspai.com/post/113263",
+      "author": "Drapor",
+      "summary": "不喜欢对照式译文的阅读体验？Ovid 让你「按需」查看原版书籍"
+    },
+    {
+      "rank": 10,
+      "title": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等少数派编辑部昨天 08:09派早报",
+      "url": "https://sspai.com/post/113301",
+      "author": "少数派编辑部",
+      "summary": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等"
+    },
+    {
+      "rank": 11,
+      "title": "快速投票：模型打平、Harness 见分晓，你平时用哪一款？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1785741878",
+      "author": "一派讨论",
+      "summary": "快速投票：模型打平、Harness 见分晓，你平时用哪一款？"
+    },
+    {
+      "rank": 12,
+      "title": "不再拆机飞线：借助 ACC 实现旧手机直供电「改造」谷丰前天 21:50会员内容",
+      "url": "https://sspai.com/prime/story/direct-power-supply-mod",
+      "author": "谷丰",
+      "summary": "不再拆机飞线：借助 ACC 实现旧手机直供电「改造」"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "微信群聊可以彻底关闭通知了",
+      "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E7%BE%A4%E8%81%8A%E5%8F%AF%E4%BB%A5%E5%BD%BB%E5%BA%95%E5%85%B3%E9%97%AD%E9%80%9A%E7%9F%A5%E4%BA%86",
+      "hot_value": 1740000
+    },
+    {
+      "rank": 2,
+      "title": "新能源汽车月度新车销量占比首超60%",
+      "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%9C%88%E5%BA%A6%E6%96%B0%E8%BD%A6%E9%94%80%E9%87%8F%E5%8D%A0%E6%AF%94%E9%A6%96%E8%B6%8560%25",
+      "hot_value": 890000
+    },
+    {
+      "rank": 3,
+      "title": "喜欢穿洞洞鞋的人天塌了",
+      "url": "https://s.weibo.com/weibo?q=%E5%96%9C%E6%AC%A2%E7%A9%BF%E6%B4%9E%E6%B4%9E%E9%9E%8B%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86",
+      "hot_value": 650000
+    },
+    {
+      "rank": 4,
+      "title": "银行能办结婚证了",
+      "url": "https://s.weibo.com/weibo?q=%E9%93%B6%E8%A1%8C%E8%83%BD%E5%8A%9E%E7%BB%93%E5%A9%9A%E8%AF%81%E4%BA%86",
+      "hot_value": 580000
+    },
+    {
+      "rank": 5,
+      "title": "虞书欣丁禹兮 我欲乘风",
+      "url": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AE+%E6%88%91%E6%AC%B2%E4%B9%98%E9%A3%8E",
+      "hot_value": 550000
+    },
+    {
+      "rank": 6,
+      "title": "188男团赴山海收藏卡红线宿命论",
+      "url": "https://s.weibo.com/weibo?q=188%E7%94%B7%E5%9B%A2%E8%B5%B4%E5%B1%B1%E6%B5%B7%E6%94%B6%E8%97%8F%E5%8D%A1%E7%BA%A2%E7%BA%BF%E5%AE%BF%E5%91%BD%E8%AE%BA",
+      "hot_value": 500000
+    },
+    {
+      "rank": 7,
+      "title": "英仙座流星雨",
+      "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8",
+      "hot_value": 450000
+    },
+    {
+      "rank": 8,
+      "title": "泰国失联女孩祁萌更新社媒",
+      "url": "https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%E7%A5%81%E8%90%8C%E6%9B%B4%E6%96%B0%E7%A4%BE%E5%AA%92",
+      "hot_value": 440000
+    },
+    {
+      "rank": 9,
+      "title": "我欲乘风",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%91%E6%AC%B2%E4%B9%98%E9%A3%8E",
+      "hot_value": 370000
+    },
+    {
+      "rank": 10,
+      "title": "美国7月CPI数据",
+      "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD7%E6%9C%88CPI%E6%95%B0%E6%8D%AE",
+      "hot_value": 350000
+    },
+    {
+      "rank": 11,
+      "title": "任敏漂亮到不敢认",
+      "url": "https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E6%BC%82%E4%BA%AE%E5%88%B0%E4%B8%8D%E6%95%A2%E8%AE%A4",
+      "hot_value": 350000
+    },
+    {
+      "rank": 12,
+      "title": "李雪健已经完全听不见了",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E9%9B%AA%E5%81%A5%E5%B7%B2%E7%BB%8F%E5%AE%8C%E5%85%A8%E5%90%AC%E4%B8%8D%E8%A7%81%E4%BA%86",
+      "hot_value": 350000
+    },
+    {
+      "rank": 13,
+      "title": "江泽民同志诞辰100周年",
+      "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4",
+      "hot_value": 340000
+    },
+    {
+      "rank": 14,
+      "title": "时代峰峻招聘薪资",
+      "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E6%8B%9B%E8%81%98%E8%96%AA%E8%B5%84",
+      "hot_value": 330000
+    },
+    {
+      "rank": 15,
+      "title": "迪丽热巴扫货十分钟买了十几件",
+      "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%89%AB%E8%B4%A7%E5%8D%81%E5%88%86%E9%92%9F%E4%B9%B0%E4%BA%86%E5%8D%81%E5%87%A0%E4%BB%B6",
+      "hot_value": 320000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "赵一鸣牛肉干 64 元复称仅 17 元，店方称不知道为啥出错，暴露了哪些管理漏洞？消费者如何避免被坑",
+      "url": "https://www.zhihu.com/question/2070790151454684401",
+      "hot_value": 2900000
+    },
+    {
+      "rank": 2,
+      "title": "上海、浙江等多地试点直升高中，部分学校改为十二年一贯制，怎样看待这种模式？中考的功能可能发生哪些变化",
+      "url": "https://www.zhihu.com/question/2070815706040329689",
+      "hot_value": 2520000
+    },
+    {
+      "rank": 3,
+      "title": "据媒体报道部分手机壳疑似采用废弃针管等医疗垃圾加工而成，真的吗？对健康会有多大危害？消费者该如何辨别",
+      "url": "https://www.zhihu.com/question/2070066925363619123",
+      "hot_value": 2250000
+    },
+    {
+      "rank": 4,
+      "title": "内蒙古一警车被指擅自更换车标，警方称正在整改，会面临哪些处罚？警车作为执法车辆为何会出现此类违规操作",
+      "url": "https://www.zhihu.com/question/2070438924262929841",
+      "hot_value": 2180000
+    },
+    {
+      "rank": 5,
+      "title": "黑洞的引力如此之大，连光都无法逃脱，那它内部的物质最终去了哪里",
+      "url": "https://www.zhihu.com/question/1943680908252148271",
+      "hot_value": 1490000
+    },
+    {
+      "rank": 6,
+      "title": "如何看待京东上大规模出现「李鬼」笔记本电脑",
+      "url": "https://www.zhihu.com/question/2070197481544201908",
+      "hot_value": 1430000
+    },
+    {
+      "rank": 7,
+      "title": "你认为川菜的麻辣是为了祛湿，还是为了掩盖食材不新鲜味道",
+      "url": "https://www.zhihu.com/question/2065696591072203753",
+      "hot_value": 1370000
+    },
+    {
+      "rank": 8,
+      "title": "腾讯发布二季度财报，上半年资本开支增长 82%，二季度达到 527.84 亿元，如何解读",
+      "url": "https://www.zhihu.com/question/2070928873705791858",
+      "hot_value": 1140000
+    },
+    {
+      "rank": 9,
+      "title": "女子开一天一夜空调后确诊呼吸性碱中毒，是空调导致的吗？为什么会被误传为「二氧化碳中毒」，二者有何区别",
+      "url": "https://www.zhihu.com/question/2068973888067964954",
+      "hot_value": 1070000
+    },
+    {
+      "rank": 10,
+      "title": "《王者荣耀世界》第二赛季无限期延期，官方补偿 6500 玄晶加 10 连抽，玩家会买账吗",
+      "url": "https://www.zhihu.com/question/2070571923441034531",
+      "hot_value": 1050000
+    },
+    {
+      "rank": 11,
+      "title": "为什么《哪吒之魔童闹海》获百花奖最佳影片无人站起，《惊蛰无声》获优秀影片，现场全体起立",
+      "url": "https://www.zhihu.com/question/2070482846033121781",
+      "hot_value": 1040000
+    },
+    {
+      "rank": 12,
+      "title": "如果城市允许骑马，且有公共马厩供马休息，你愿意骑马通勤吗",
+      "url": "https://www.zhihu.com/question/2061806723862631112",
+      "hot_value": 1010000
+    },
+    {
+      "rank": 13,
+      "title": "家庭资产几乎都在房子里，到底危险在哪",
+      "url": "https://www.zhihu.com/question/2070454238250111565",
+      "hot_value": 1000000
+    },
+    {
+      "rank": 14,
+      "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的",
+      "url": "https://www.zhihu.com/question/2070810807168980648",
+      "hot_value": 980000
+    },
+    {
+      "rank": 15,
+      "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」",
+      "url": "https://www.zhihu.com/question/2070508935673378471",
+      "hot_value": 970000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "score": 287,
+      "author": "zoenolan",
+      "comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=49270953"
+    },
+    {
+      "rank": 2,
+      "title": "Obituary: AmigaDOS developer Dr. Tim King has passed away",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "score": 44,
+      "author": "doener",
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=49272655"
+    },
+    {
+      "rank": 3,
+      "title": "License Plate Reader Searches Should Require a Warrant",
+      "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+      "score": 32,
+      "author": "apwheele",
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49273165"
+    },
+    {
+      "rank": 4,
+      "title": "Why Tiny JPEGs Look Different in Chrome",
+      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+      "score": 65,
+      "author": "gutechh",
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49272549"
+    },
+    {
+      "rank": 5,
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "score": 26,
+      "author": "gavinhking",
+      "comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=49272569"
+    },
+    {
+      "rank": 6,
+      "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
+      "url": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
+      "score": 1,
+      "author": "mkong1",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49273395"
+    },
+    {
+      "rank": 7,
+      "title": "What sort of maths are LLMs good at?",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "score": 167,
+      "author": "ColinWright",
+      "comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=49270022"
+    },
+    {
+      "rank": 8,
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "score": 28,
+      "author": "ropbear",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49272832"
+    },
+    {
+      "rank": 9,
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "url": "https://woxi.ad-si.com",
+      "score": 161,
+      "author": "adius",
+      "comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=49270040"
+    },
+    {
+      "rank": 10,
+      "title": "Automatic1111 for Apple metal, 40% speed up sd1.5",
+      "url": "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/",
+      "score": 20,
+      "author": "dmikey831",
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49272282"
+    },
+    {
+      "rank": 11,
+      "title": "AI is removing the middle class of software engineering",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "score": 122,
+      "author": "florianherrengt",
+      "comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=49271994"
+    },
+    {
+      "rank": 12,
+      "title": "5th Heat Dome Expands Across Europe: 40°C+ Target Western and Central Europe",
+      "url": "https://www.severe-weather.eu/global-weather/excessive-heat-dome-heatwave-western-europe-mid-august-2026-mk/",
+      "score": 42,
+      "author": "robtherobber",
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=49270857"
+    },
+    {
+      "rank": 13,
+      "title": "Only 2.6% of the most visited websites have fully valid HTML",
+      "url": "https://validatehtml.com/html-error-statistics",
+      "score": 19,
+      "author": "theo_dcrx",
+      "comments": 17,
+      "hn_url": "https://news.ycombinator.com/item?id=49272326"
+    },
+    {
+      "rank": 14,
+      "title": "My Agent Setup",
+      "url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
+      "score": 21,
+      "author": "carimura",
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49272484"
+    },
+    {
+      "rank": 15,
+      "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+      "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+      "score": 100,
+      "author": "bookofjoe",
+      "comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=49194856"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与工作流",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。paperclip[1] 是个开源的桌面应用，专门用来管理各种 AI 代理，界面清爽适合办公。macro[2] 是个统一工作空间，把邮件、聊天、文档甚至 CRM 都连在一起，还带着共享的 AI 记忆，团队协作感拉满。有意思的是 agency-agents[3]，它把各种角色打包好，从前端写代码到 Reddit 社区运营，一键就能生成带性格的专家代理。\n\nLobsters 上今天有个挺有深度的讨论，关于“反感 AI 编程”的帖子引发共鸣，有人甚至说干脆不用 AI 了[14]。少数派那边也出了新内容，老麦在播客里聊了从 Palm 到 AI 硬件的心路历程，还是不想做多数派[5]。搞开发的朋友值得关注一下为什么 Go 语言特别适合 AI 辅助编程的讨论[13]，这或许是个趋势。"
+      },
+      {
+        "name": "开发工具与底层技术",
+        "color": "dev",
+        "summary": "GitHub 上有个叫 localsend[14] 的项目，是个跨平台的免费替代 AirDrop，文件传输终于不用花钱买软件了。另外还有个 diagram-design[1]，专门为 Claude Code 准备了 29 种编辑图模板，HTML+SVG 原生支持，拒绝那些带阴影的 Mermaid 垃圾输出，画架构图必备。\n\n社区里最近对 Linux 打包软件这件事恨得牙痒痒，在 Lobsters 上有人专门吐槽 Linux 分发的痛苦[2]。还有个挺有意思的视角，说“压缩即预测”，这观点在编程圈里挺火的[6]。搞 C++ 的朋友必看，C++26 标准新增的 std::indirect 特性，让间接调用更安全了[10]。"
+      },
+      {
+        "name": "系统与底层安全",
+        "color": "sys",
+        "summary": "安全方面有个挺硬核的项目，spiderfoot[13] 是开源的 OSINT 自动化工具，用来做威胁情报和攻击面映射，搞安全的朋友一定要看看。NVIDIA 那边发布了 Switchyard[11]，看起来是用于统一 AI 模型切换的基础设施。\n\nLobsters 上 Signal 团队发了个重磅更新，介绍了“自动密钥验证”功能，这对端到端加密来说是个重要的进步[7]。还有个关于二维码设计的指南，标题就是“别搞砸了 QR 码”，提醒大家在设计时要注意细节[1]。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "tool",
+        "summary": "数码圈最近动静不小，iPhone Air 终于来了，少数派有人分享了自己的初体验，说是唯一的 Air[3]。微软上调了 Windows 11 的 OEM 授权费用，这个新闻在派早报里提到了[4]。还有款开源软件 Ovid，解决了对照式译文的阅读痛点，让你按需查看原版书籍，阅读体验提升不少[8]。\n\n少数派社区里有个讨论挺热闹，问大家平时用哪个模型，结果发现大家要么觉得模型打平，要么在 Harness 和别的工具间纠结[11]。还有个脑洞大开的内容，教大家不用拆机飞线，用 ACC 给旧手机直供电，简直是旧机救星[12]。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "think",
+        "summary": "今天看到几个观点挺有启发的。有人在 Lobsters 上分享了自己的“反 AI 电脑”构建过程，追求极致的本地化和无感[8]。还有个关于“心流编程”的文章，强调编码的目的性和意图，在这个 AI 代写盛行的时代，回归初心很有必要[6]。\n\n少数派的一篇播客访谈很有意思，聊了从 WebOS 到 AI 硬件的变迁，作者依然拒绝成为“多数派”，这种独立思考在技术圈很难得[5]。还有个关于代码审查是种技能的讨论，提醒我们即使有 AI 辅助，人工审核依然不可替代[13]。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "29 editorial diagram types for Claude Code",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending"
+      },
+      {
+        "num": 2,
+        "title": "Macro: unified workspace for teams",
+        "url": "https://github.com/macro-inc/macro",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending"
+      },
+      {
+        "num": 3,
+        "title": "Agency Agents: Complete AI agency",
+        "url": "https://github.com/msitarzewski/agency-agents",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending"
+      },
+      {
+        "num": 4,
+        "title": "我把「闪念胶囊」放到 iPhone 锁屏",
+        "url": "https://sspai.com/post/113219",
+        "source": "少数派",
+        "desc": "少数派"
+      },
+      {
+        "num": 5,
+        "title": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件",
+        "url": "https://sspai.com/post/113352",
+        "source": "少数派",
+        "desc": "少数派播客"
+      },
+      {
+        "num": 6,
+        "title": "Compression is prediction",
+        "url": "https://ngrok.com/blog/compression-is-prediction",
+        "source": "Lobsters",
+        "desc": "Lobsters"
+      },
+      {
+        "num": 7,
+        "title": "Introducing Automatic Key Verification",
+        "url": "https://signal.org/blog/automatic-key-verification/",
+        "source": "Lobsters",
+        "desc": "Lobsters"
+      },
+      {
+        "num": 8,
+        "title": "My Anti AI computer",
+        "url": "https://punkx.org/jackdoe/home.html",
+        "source": "Lobsters",
+        "desc": "Lobsters"
+      },
+      {
+        "num": 9,
+        "title": "C++26: std::indirect",
+        "url": "https://www.sandordargo.com/blog/2026/08/12/cpp26-indirect",
+        "source": "Lobsters",
+        "desc": "Lobsters"
+      },
+      {
+        "num": 10,
+        "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+        "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+        "source": "Lobsters",
+        "desc": "Lobsters"
+      },
+      {
+        "num": 11,
+        "title": "派早报：微软已上调 Windows 11 OEM 授权费用",
+        "url": "https://sspai.com/post/113343",
+        "source": "少数派",
+        "desc": "少数派编辑部"
+      },
+      {
+        "num": 12,
+        "title": "不再拆机飞线：借助 ACC 实现旧手机直供电",
+        "url": "https://sspai.com/prime/story/direct-power-supply-mod",
+        "source": "少数派",
+        "desc": "少数派会员内容"
+      },
+      {
+        "num": 13,
+        "title": "Reviewing code is a skill",
+        "url": "https://typesanitizer.com/blog/code-review.html",
+        "source": "Lobsters",
+        "desc": "Lobsters"
+      },
+      {
+        "num": 14,
+        "title": "I'm done using AI",
+        "url": "https://brettcodes.com/im-done-using-ai/",
+        "source": "Lobsters",
+        "desc": "Lobsters"
+      },
+      {
+        "num": 15,
+        "title": "localsend: An open-source cross-platform alternative to AirDrop",
+        "url": "https://github.com/localsend/localsend",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending"
+      },
+      {
+        "num": 16,
+        "title": "Ovid: 按需查看原版书籍",
+        "url": "https://sspai.com/post/113263",
+        "source": "少数派",
+        "desc": "少数派 Matrix 精选"
+      },
+      {
+        "num": 17,
+        "title": "Guide to (not) fucking up QR codes",
+        "url": "https://infosec.exchange/@rebane2001/117078420917152774",
+        "source": "Lobsters",
+        "desc": "Lobsters"
+      }
+    ],
+    "stats": {
+      "total_items": 17,
+      "total_categories": 5,
+      "total_sources": 3
+    }
+  }
+}
