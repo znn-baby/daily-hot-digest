@@ -1,0 +1,897 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "stars": "13252",
+      "stars_today": "4,504 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 2,
+      "title": "semantica-agi / semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "stars": "6228",
+      "stars_today": "727 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "anthropics / skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": "168825",
+      "stars_today": "569 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "cactus-compute / needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "stars": "4727",
+      "stars_today": "768 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "altic-dev / FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+      "stars": "9727",
+      "stars_today": "83 stars today",
+      "language": "Swift"
+    },
+    {
+      "rank": 6,
+      "title": "unslothai / unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "stars": "70862",
+      "stars_today": "592 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "macro-inc / macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "stars": "2457",
+      "stars_today": "1,180 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 8,
+      "title": "megadose / holehe",
+      "url": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "stars": "12248",
+      "stars_today": "166 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "smicallef / spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "stars": "20525",
+      "stars_today": "278 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 10,
+      "title": "NVIDIA-NeMo / Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description": "",
+      "stars": "1069",
+      "stars_today": "408 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 11,
+      "title": "holaboss-ai / holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+      "stars": "6288",
+      "stars_today": "258 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 12,
+      "title": "kepano / obsidian-skills",
+      "url": "https://github.com/kepano/obsidian-skills",
+      "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+      "stars": "45436",
+      "stars_today": "252 stars today",
+      "language": ""
+    },
+    {
+      "rank": 13,
+      "title": "3b1b / manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "stars": "90715",
+      "stars_today": "506 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 14,
+      "title": "msitarzewski / agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": "145043",
+      "stars_today": "762 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 15,
+      "title": "Lightricks / LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "stars": "8832",
+      "stars_today": "201 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "python's pre-declared constants are kinda weird",
+      "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+      "source_url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+      "tags": [
+        "python"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "GitHub Stacks in Jujutsu",
+      "url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
+      "source_url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
+      "tags": [
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "I hate packaging my software for Linux",
+      "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+      "source_url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "How Tailscale helped find the SQLite WAL-Reset bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "source_url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "tags": [
+        "databases"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Does anyone run Postgres without PgBouncer?",
+      "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
+      "source_url": "https://brandur.org/fragments/postgres-without-pgbouncer",
+      "tags": [
+        "databases"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "My Homelab Got Hacked - A Postmortem",
+      "url": "https://phunky.cafe/my-homelab-got-hacked/",
+      "source_url": "https://phunky.cafe/my-homelab-got-hacked/",
+      "tags": [
+        "devops",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Guide to (not) fucking up QR codes",
+      "url": "https://infosec.exchange/@rebane2001/117078420917152774",
+      "source_url": "https://infosec.exchange/@rebane2001/117078420917152774",
+      "tags": [
+        "design"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "SQLite: How it works, by Richard Hipp (2024)",
+      "url": "https://www.youtube.com/watch?v=ZSKLA81tBis",
+      "source_url": "https://www.youtube.com/watch?v=ZSKLA81tBis",
+      "tags": [
+        "video",
+        "databases"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "What’s new in Flutter 3.47",
+      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+      "source_url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+      "tags": [
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "On Hacking",
+      "url": "https://stallman.org/articles/on-hacking.html",
+      "source_url": "https://stallman.org/articles/on-hacking.html",
+      "tags": [
+        "historical",
+        "philosophy"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "I'm done using AI",
+      "url": "https://brettcodes.com/im-done-using-ai/",
+      "source_url": "https://brettcodes.com/im-done-using-ai/",
+      "tags": [
+        "rant",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "A critical review of Xilem in 2026",
+      "url": "https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg",
+      "source_url": "https://hackmd.io/@s_haMSbyTAOWfoXc1aYNUg/Hka74gCwZg",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "Why vibe code in Lisp?",
+      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+      "source_url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+      "tags": [
+        "lisp",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "A \"secure-ish\" Pi setup with permission, sandbox, and auto-review",
+      "url": "https://ptgamr.substack.com/p/a-pi-setup-with-permission-sandbox",
+      "source_url": "https://ptgamr.substack.com/p/a-pi-setup-with-permission-sandbox",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Digitizing super 8 film yourself",
+      "url": "https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html",
+      "source_url": "https://nibblestew.blogspot.com/2026/08/digitizing-super-8-film-yourself.html",
+      "tags": [
+        "retrocomputing"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "不用改签名，给 Mac 微信聊天记录「搬个家」wclebb17:30Matrix精选",
+      "url": "https://sspai.com/post/113225",
+      "author": "wclebb",
+      "summary": "不用改签名，给 Mac 微信聊天记录「搬个家」"
+    },
+    {
+      "rank": 2,
+      "title": "从原理出发，高效搞定夏日营养冷食鸿苓16:01会员内容",
+      "url": "https://sspai.com/prime/story/summer-cold-meal-guide",
+      "author": "鸿苓",
+      "summary": "从原理出发，高效搞定夏日营养冷食"
+    },
+    {
+      "rank": 3,
+      "title": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验KingTsui15:01",
+      "url": "https://sspai.com/post/113338",
+      "author": "KingTsui",
+      "summary": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验"
+    },
+    {
+      "rank": 4,
+      "title": "6 天时间丈量独库公路：我的平安骑行指南极简主义者11:18Matrix精选",
+      "url": "https://sspai.com/post/112873",
+      "author": "极简主义者",
+      "summary": "6 天时间丈量独库公路：我的平安骑行指南"
+    },
+    {
+      "rank": 5,
+      "title": "[有奖]手机里的 AI 通话功能，你真的在用吗？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1785400922",
+      "author": "一派讨论",
+      "summary": "[有奖]手机里的 AI 通话功能，你真的在用吗？"
+    },
+    {
+      "rank": 6,
+      "title": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等少数派编辑部08:14派早报",
+      "url": "https://sspai.com/post/113385",
+      "author": "少数派编辑部",
+      "summary": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等"
+    },
+    {
+      "rank": 7,
+      "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏Linery昨天 17:30视频",
+      "url": "https://sspai.com/post/113219",
+      "author": "Linery",
+      "summary": "把「闪念胶囊」（Almost）放到 iPhone 锁屏"
+    },
+    {
+      "rank": 8,
+      "title": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派少数派播客昨天 15:00",
+      "url": "https://sspai.com/post/113352",
+      "author": "少数派播客",
+      "summary": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派"
+    },
+    {
+      "rank": 9,
+      "title": "我，与「唯一」的 iPhone Air宛潼昨天 11:04Matrix精选",
+      "url": "https://sspai.com/post/112880",
+      "author": "宛潼",
+      "summary": "我，与「唯一」的 iPhone Air"
+    },
+    {
+      "rank": 10,
+      "title": "快速投票：模型打平、Harness 见分晓，你平时用哪一款？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1785741878",
+      "author": "一派讨论",
+      "summary": "快速投票：模型打平、Harness 见分晓，你平时用哪一款？"
+    },
+    {
+      "rank": 11,
+      "title": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等少数派编辑部昨天 08:44派早报",
+      "url": "https://sspai.com/post/113343",
+      "author": "少数派编辑部",
+      "summary": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等"
+    },
+    {
+      "rank": 12,
+      "title": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包Matrix机器人前天 17:00",
+      "url": "https://sspai.com/post/113304",
+      "author": "Matrix机器人",
+      "summary": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "Whiplash直拍",
+      "url": "https://s.weibo.com/weibo?q=Whiplash%E7%9B%B4%E6%8B%8D",
+      "hot_value": 1080000
+    },
+    {
+      "rank": 2,
+      "title": "碳排放权交易市场成交量破9亿吨",
+      "url": "https://s.weibo.com/weibo?q=%E7%A2%B3%E6%8E%92%E6%94%BE%E6%9D%83%E4%BA%A4%E6%98%93%E5%B8%82%E5%9C%BA%E6%88%90%E4%BA%A4%E9%87%8F%E7%A0%B49%E4%BA%BF%E5%90%A8",
+      "hot_value": 1070000
+    },
+    {
+      "rank": 3,
+      "title": "王橹杰对着蓝粉海偷笑",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%AF%B9%E7%9D%80%E8%93%9D%E7%B2%89%E6%B5%B7%E5%81%B7%E7%AC%91",
+      "hot_value": 1060000
+    },
+    {
+      "rank": 4,
+      "title": "罗氏虾自助吃12只回本太爽了",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%B0%8F%E8%99%BE%E8%87%AA%E5%8A%A9%E5%90%8312%E5%8F%AA%E5%9B%9E%E6%9C%AC%E5%A4%AA%E7%88%BD%E4%BA%86",
+      "hot_value": 1040000
+    },
+    {
+      "rank": 5,
+      "title": "张桂源张函瑞 眼鼻嘴",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%A1%82%E6%BA%90%E5%BC%A0%E5%87%BD%E7%91%9E+%E7%9C%BC%E9%BC%BB%E5%98%B4",
+      "hot_value": 1010000
+    },
+    {
+      "rank": 6,
+      "title": "四代五公大屏坏了",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%9B%E4%BB%A3%E4%BA%94%E5%85%AC%E5%A4%A7%E5%B1%8F%E5%9D%8F%E4%BA%86",
+      "hot_value": 1000000
+    },
+    {
+      "rank": 7,
+      "title": "39岁程序员打卡后厕所内猝死",
+      "url": "https://s.weibo.com/weibo?q=39%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E6%89%93%E5%8D%A1%E5%90%8E%E5%8E%95%E6%89%80%E5%86%85%E7%8C%9D%E6%AD%BB",
+      "hot_value": 990000
+    },
+    {
+      "rank": 8,
+      "title": "让DeepSeek给小说取架空国名",
+      "url": "https://s.weibo.com/weibo?q=%E8%AE%A9DeepSeek%E7%BB%99%E5%B0%8F%E8%AF%B4%E5%8F%96%E6%9E%B6%E7%A9%BA%E5%9B%BD%E5%90%8D",
+      "hot_value": 970000
+    },
+    {
+      "rank": 9,
+      "title": "长鑫科技 中国市值最大上市公司",
+      "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80+%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8",
+      "hot_value": 950000
+    },
+    {
+      "rank": 10,
+      "title": "郭麒麟瘦到认不出",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%AD%E9%BA%92%E9%BA%9F%E7%98%A6%E5%88%B0%E8%AE%A4%E4%B8%8D%E5%87%BA",
+      "hot_value": 940000
+    },
+    {
+      "rank": 11,
+      "title": "北电祝贺刘耀文",
+      "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E7%94%B5%E7%A5%9D%E8%B4%BA%E5%88%98%E8%80%80%E6%96%87",
+      "hot_value": 930000
+    },
+    {
+      "rank": 12,
+      "title": "深圳女生一天1500专门劝人别买房",
+      "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%A5%B3%E7%94%9F%E4%B8%80%E5%A4%A91500%E4%B8%93%E9%97%A8%E5%8A%9D%E4%BA%BA%E5%88%AB%E4%B9%B0%E6%88%BF",
+      "hot_value": 800000
+    },
+    {
+      "rank": 13,
+      "title": "破局 难听",
+      "url": "https://s.weibo.com/weibo?q=%E7%A0%B4%E5%B1%80+%E9%9A%BE%E5%90%AC",
+      "hot_value": 760000
+    },
+    {
+      "rank": 14,
+      "title": "EDG管理层",
+      "url": "https://s.weibo.com/weibo?q=EDG%E7%AE%A1%E7%90%86%E5%B1%82",
+      "hot_value": 720000
+    },
+    {
+      "rank": 15,
+      "title": "王安宇走路脖子前倾",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E8%B5%B0%E8%B7%AF%E8%84%96%E5%AD%90%E5%89%8D%E5%80%BE",
+      "hot_value": 720000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "新规禁止居民楼开油烟餐饮，这类餐饮业未来将何去何从？居民区的「苍蝇馆子」以后会不会越来越少了",
+      "url": "https://www.zhihu.com/question/2071182463498445493",
+      "hot_value": 3190000
+    },
+    {
+      "rank": 2,
+      "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗",
+      "url": "https://www.zhihu.com/question/2071318356477662328",
+      "hot_value": 2690000
+    },
+    {
+      "rank": 3,
+      "title": "当年为加入 WTO 做出的让步，今天看来到底有多值",
+      "url": "https://www.zhihu.com/question/2070975451988587299",
+      "hot_value": 2650000
+    },
+    {
+      "rank": 4,
+      "title": "45 岁邹市明宣布年底重返拳击赛场，怎样看待他的决定？他的复出能解决目前的财务困境吗",
+      "url": "https://www.zhihu.com/question/2071196839705932590",
+      "hot_value": 2620000
+    },
+    {
+      "rank": 5,
+      "title": "如何看待 2026 年 8 月 13 日 A 股市场行情？跳空高开尾盘却突发跳水，发生了什么",
+      "url": "https://www.zhihu.com/question/2067634093093818544",
+      "hot_value": 2470000
+    },
+    {
+      "rank": 6,
+      "title": "网传《欢迎来龙餐馆》男主角原定为徐峥，消息靠谱吗？如果是徐峥来演的话你认为效果会比沈腾好吗",
+      "url": "https://www.zhihu.com/question/2070925244152246749",
+      "hot_value": 2400000
+    },
+    {
+      "rank": 7,
+      "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题",
+      "url": "https://www.zhihu.com/question/2071169289697092854",
+      "hot_value": 2360000
+    },
+    {
+      "rank": 8,
+      "title": "胖东来、腾讯都曾因涨租金而搬离，有人说房东会视盈利情况涨租，这样做合理吗？对他们有什么影响",
+      "url": "https://www.zhihu.com/question/2070920779663767010",
+      "hot_value": 2330000
+    },
+    {
+      "rank": 9,
+      "title": "10 岁女孩每天「拼豆」三四小时，眼轴增长速度是正常的两倍，这对孩子视力的影响有多大？怎么缓解",
+      "url": "https://www.zhihu.com/question/2070208110300608458",
+      "hot_value": 2260000
+    },
+    {
+      "rank": 10,
+      "title": "唐朝女人头上插那么多金钗步摇，走路不累吗，她们到底图什么",
+      "url": "https://www.zhihu.com/question/2070260620662924741",
+      "hot_value": 2110000
+    },
+    {
+      "rank": 11,
+      "title": "为什么过去都说鱼翅和鲍鱼是顶级菜肴，而现在却很少人提了",
+      "url": "https://www.zhihu.com/question/2069876191474012892",
+      "hot_value": 1960000
+    },
+    {
+      "rank": 12,
+      "title": "为什么蚊子没有进化成像猫猫那样特别可爱的样子，让人不忍心拍死",
+      "url": "https://www.zhihu.com/question/2059374956157329909",
+      "hot_value": 1920000
+    },
+    {
+      "rank": 13,
+      "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness",
+      "url": "https://www.zhihu.com/question/2071335529577239335",
+      "hot_value": 1890000
+    },
+    {
+      "rank": 14,
+      "title": "红米新品发布后，小米高管回应网友评论称「内存实在太贵了」，反映了当前手机行业哪些挑战",
+      "url": "https://www.zhihu.com/question/2070707279855367104",
+      "hot_value": 1880000
+    },
+    {
+      "rank": 15,
+      "title": "上海一员工台风天请假 1 小时被罚近 1500 元，公司称其未提前一天申请，人社局表示处罚行为违规，怎样解读",
+      "url": "https://www.zhihu.com/question/2071185842455032063",
+      "hot_value": 1810000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "DeepSeek Harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "score": 193,
+      "author": "bjin",
+      "comments": 88,
+      "hn_url": "https://news.ycombinator.com/item?id=49285244"
+    },
+    {
+      "rank": 2,
+      "title": "Spaghettifying DRAM",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "score": 64,
+      "author": "matt_d",
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49286341"
+    },
+    {
+      "rank": 3,
+      "title": "Gloomberb",
+      "url": "https://gloom.sh/",
+      "score": 82,
+      "author": "rbanffy",
+      "comments": 17,
+      "hn_url": "https://news.ycombinator.com/item?id=49285982"
+    },
+    {
+      "rank": 4,
+      "title": "AI agents lie, cheat and steal. That is putting off users",
+      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+      "score": 68,
+      "author": "andsoitis",
+      "comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=49285604"
+    },
+    {
+      "rank": 5,
+      "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
+      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+      "score": 33,
+      "author": "chha",
+      "comments": 17,
+      "hn_url": "https://news.ycombinator.com/item?id=49286270"
+    },
+    {
+      "rank": 6,
+      "title": "Anthropic: Introducing The Conceptual Reasoning Index",
+      "url": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
+      "score": 31,
+      "author": "optimalsolver",
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49285909"
+    },
+    {
+      "rank": 7,
+      "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+      "url": "https://github.com/fellowgeek/mcp-memory",
+      "score": 23,
+      "author": "pcbmaker20",
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49286073"
+    },
+    {
+      "rank": 8,
+      "title": "My Rules for Using Spreadsheets",
+      "url": "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/",
+      "score": 33,
+      "author": "surprisetalk",
+      "comments": 28,
+      "hn_url": "https://news.ycombinator.com/item?id=49285268"
+    },
+    {
+      "rank": 9,
+      "title": "Time to Move On: Querying Without Nulls and Bags",
+      "url": "https://arxiv.org/abs/2608.10863",
+      "score": 14,
+      "author": "Jimmc414",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49286030"
+    },
+    {
+      "rank": 10,
+      "title": "I Built a 500k-Domain Search Engine for Makers in a Weekend for $10",
+      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+      "score": 21,
+      "author": "dreamforever",
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49285718"
+    },
+    {
+      "rank": 11,
+      "title": "Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
+      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
+      "score": 8,
+      "author": "stevehipwell",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49286485"
+    },
+    {
+      "rank": 12,
+      "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
+      "url": "https://atg.science/careers",
+      "score": 1,
+      "author": "dkobran",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49284697"
+    },
+    {
+      "rank": 13,
+      "title": "Picking berries is my meditation",
+      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
+      "score": 71,
+      "author": "mooreds",
+      "comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=49224997"
+    },
+    {
+      "rank": 14,
+      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+      "score": 223,
+      "author": "Markoff",
+      "comments": 255,
+      "hn_url": "https://news.ycombinator.com/item?id=49284774"
+    },
+    {
+      "rank": 15,
+      "title": "Better Gaussian Splatting in Julia",
+      "url": "https://pxl-th.github.io/blog/better-gs-julia/",
+      "score": 49,
+      "author": "pxl-th",
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49232039"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发工具",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。macro[1] 是个统一工作空间，把邮件、聊天、任务都连在一起，还带 AI 记忆，团队协作用它挺香。holaboss-ai 的 holaOS[2] 也是全家桶，能跑 Claude Code 这些智能体，一百多集成，想搭个人桌面助理的可以瞅瞅。unslothai 的 unsloth[3] 本地跑 LLM 训练和推理，支持 Qwen3.8 好多模型，搞本地部署的朋友别错过。Lobsters 那边有个挺有意思的讨论，有人吐槽在 Linux 上打包软件太麻烦，感觉现在工具链还是有点割裂 [4]。少数派也有文章聊手机里的 AI 通话功能，大家其实用得好少，感觉还是有点鸡肋 [5]，不过微软给生成内容加隐水印这事倒是得注意一下，隐私边界又收紧了 [6]。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "system",
+        "summary": "底层技术这块今天动静不小。anthropics 开源了 skills 仓库 [7]，算是给 Agent 技能标准化了，以后智能体干活更规范。semantica-agi 推了 semantica[8]，搞基于图的原生架构，处理上下文和可问责的 AI 系统，听起来很硬核。Lobsters 有个帖子讲 Tailscale 怎么帮他们发现 SQLite 的 WAL-Reset  bug[9]，这种通过监控工具挖出深层数据库问题的案例值得安全团队学学。还有个关于 Postgres 不加 PgBouncer 的讨论 [10]，搞数据库的朋友聊聊看，高并发下不加代理真的稳吗？少数派早报提到荣耀发布了 Robot Phone[11]，虽然还没上手，但感觉 AI 硬件要彻底进生活了。"
+      },
+      {
+        "name": "安全与威胁情报",
+        "color": "security",
+        "summary": "搞安全的朋友今天可以关注下这两个项目。holehe[12] 能查邮箱在不同站点有没有注册过，还能抓 Forgotten Password 泄露的信息，社工库新玩法。spiderfoot[13] 也是个老牌 OSINT 工具，自动帮你画攻击面地图，威胁情报必备。Lobsters 上有个用户分享自家 Homelab 被黑的复盘 [14]，虽然没细说怎么被黑的，但这种“自曝”的帖子往往藏着不少血泪教训，建议大家看看自己的内网有没有漏洞。另外，GitHub Stacks 在 Jujutsu 里的实现 [15] 也是个有趣的版本控制新思路，可能对未来代码安全审计有帮助。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "productivity",
+        "summary": "数码产品方面，少数派早报汇总了 Google Pixel 11 系列和 iPhone Air 的消息 [16]，苹果这次好像要出更薄的 Air 了，期待值拉满。社区里有人提了不用改签名就把 Mac 微信聊天记录搬家的方法 [17]，对于想迁移数据又不想折腾复杂流程的人来说，这简直是福音。还有个把闪念胶囊放到 iPhone 锁屏的教程 [18]，利用碎片时间记灵感，效率党可以试试。Lobsters 上有人聊 Flutter 3.47 的新特性 [19]，跨平台开发现在确实越来越顺手了。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "Macro: Unified workspace for teams",
+        "url": "https://github.com/macro-inc/macro",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，团队协作与 AI 记忆工作空间"
+      },
+      {
+        "num": 2,
+        "title": "holaOS: Open-source All in One AI agent workspace",
+        "url": "https://github.com/holaboss-ai/holaOS",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，全功能 AI 智能体工作台"
+      },
+      {
+        "num": 3,
+        "title": "unsloth: Local UI to run and train LLMs",
+        "url": "https://github.com/unslothai/unsloth",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，本地 LLM 训练与推理工具"
+      },
+      {
+        "num": 4,
+        "title": "I hate packaging my software for Linux",
+        "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+        "source": "Lobsters",
+        "desc": "Lobsters 社区讨论，关于 Linux 软件打包的痛点"
+      },
+      {
+        "num": 5,
+        "title": "[有奖]手机里的 AI 通话功能，你真的在用吗？",
+        "url": "https://sspai.com/bullet/1785400922",
+        "source": "少数派",
+        "desc": "少数派社区讨论，关于手机 AI 通话功能的实用性探讨"
+      },
+      {
+        "num": 6,
+        "title": "派早报：微软已上调 Windows 11 OEM 授权费用、Claude 将为所有生成内容附加隐水印等",
+        "url": "https://sspai.com/post/113343",
+        "source": "少数派",
+        "desc": "少数派早报，关于微软授权及 AI 内容水印政策"
+      },
+      {
+        "num": 7,
+        "title": "skills: Public repository for Agent Skills",
+        "url": "https://github.com/anthropics/skills",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，Anthropic 开源的智能体技能库"
+      },
+      {
+        "num": 8,
+        "title": "semantica: Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "url": "https://github.com/semantica-agi/semantica",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，基于图谱的 AI 系统基础设施"
+      },
+      {
+        "num": 9,
+        "title": "How Tailscale helped find the SQLite WAL-Reset bug",
+        "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+        "source": "Lobsters",
+        "desc": "Lobsters 社区讨论，Tailscale 发现 SQLite 数据库 Bug 的案例分析"
+      },
+      {
+        "num": 10,
+        "title": "Does anyone run Postgres without PgBouncer?",
+        "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
+        "source": "Lobsters",
+        "desc": "Lobsters 社区讨论，关于 Postgres 是否必须使用 PgBouncer 的技术探讨"
+      },
+      {
+        "num": 11,
+        "title": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等",
+        "url": "https://sspai.com/post/113385",
+        "source": "少数派",
+        "desc": "少数派早报，科技产品动态汇总"
+      },
+      {
+        "num": 12,
+        "title": "holehe: check if the mail is used on different sites",
+        "url": "https://github.com/megadose/holehe",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，邮箱泄露信息检测工具"
+      },
+      {
+        "num": 13,
+        "title": "spiderfoot: automates OSINT for threat intelligence",
+        "url": "https://github.com/smicallef/spiderfoot",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，开源情报自动化工具"
+      },
+      {
+        "num": 14,
+        "title": "My Homelab Got Hacked - A Postmortem",
+        "url": "https://phunky.cafe/my-homelab-got-hacked/",
+        "source": "Lobsters",
+        "desc": "Lobsters 社区讨论，个人家庭实验室被黑客攻击的复盘"
+      },
+      {
+        "num": 15,
+        "title": "GitHub Stacks in Jujutsu",
+        "url": "https://alan.norbauer.com/articles/github-stacks-with-jujutsu/",
+        "source": "Lobsters",
+        "desc": "Lobsters 社区讨论，Jujutsu 版本控制系统中的 GitHub Stacks 实现"
+      },
+      {
+        "num": 16,
+        "title": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等",
+        "url": "https://sspai.com/post/113385",
+        "source": "少数派",
+        "desc": "少数派早报，科技产品动态汇总"
+      },
+      {
+        "num": 17,
+        "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
+        "url": "https://sspai.com/post/113225",
+        "source": "少数派",
+        "desc": "少数派文章，Mac 微信聊天记录迁移实用教程"
+      },
+      {
+        "num": 18,
+        "title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+        "url": "https://sspai.com/post/113219",
+        "source": "少数派",
+        "desc": "少数派文章，利用 iPhone 锁屏提升效率的巧思"
+      },
+      {
+        "num": 19,
+        "title": "What's new in Flutter 3.47",
+        "url": "https://flutter.dev/blog/whats-new-in-flutter-3.47",
+        "source": "Lobsters",
+        "desc": "Lobsters 社区讨论，Flutter 最新版本特性更新"
+      }
+    ],
+    "stats": {
+      "total_items": 19,
+      "total_categories": 4,
+      "total_sources": 3
+    }
+  }
+}
