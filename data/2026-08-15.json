@@ -1,0 +1,867 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "cordiverse / cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "stars": "3805",
+      "stars_today": "616 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "stars": "18126",
+      "stars_today": "1,619 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 3,
+      "title": "cursor / plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": "2878",
+      "stars_today": "152 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 4,
+      "title": "cactus-compute / needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "stars": "5888",
+      "stars_today": "551 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "unslothai / unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "stars": "71759",
+      "stars_today": "435 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 6,
+      "title": "public-apis / public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "stars": "459496",
+      "stars_today": "2,476 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "MakazhanAlpamys / Soup",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "stars": "1463",
+      "stars_today": "303 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "github / spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "stars": "128911",
+      "stars_today": "901 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "megadose / holehe",
+      "url": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "stars": "13004",
+      "stars_today": "389 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 10,
+      "title": "altic-dev / FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+      "stars": "10177",
+      "stars_today": "311 stars today",
+      "language": "Swift"
+    },
+    {
+      "rank": 11,
+      "title": "ToolJet / ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "stars": "39340",
+      "stars_today": "553 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 12,
+      "title": "HKUDS / CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "stars": "47193",
+      "stars_today": "100 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 13,
+      "title": "citrolabs / ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "stars": "10670",
+      "stars_today": "546 stars today",
+      "language": "JavaScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "source_url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "tags": [
+        "browsers"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "RISC-V: They Should Have Known Better",
+      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "source_url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "tags": [
+        "assembly",
+        "compilers",
+        "rant"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "Everything is about to “go dark”",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "source_url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Flirt: GitHub and Mailing List backends",
+      "url": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
+      "source_url": "https://blog.buenzli.dev/flirt-github-and-mailing-list/",
+      "tags": [
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "My comment section is static HTML",
+      "url": "https://jva.lol/weblog/my-comment-section-is-static-html/",
+      "source_url": "https://jva.lol/weblog/my-comment-section-is-static-html/",
+      "tags": [
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "ActivityPub Won by Being Boring",
+      "url": "https://o.ee/blog/activitypub-won-by-being-boring/",
+      "source_url": "https://o.ee/blog/activitypub-won-by-being-boring/",
+      "tags": [
+        "distributed",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Why I remain a skeptic",
+      "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+      "source_url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "Serokell’s Work on GHC: Dependent Types, Part 5",
+      "url": "https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5",
+      "source_url": "https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-5",
+      "tags": [
+        "haskell"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "How Is Compression Prediction?",
+      "url": "https://lukefleed.xyz/posts/compression/",
+      "source_url": "https://lukefleed.xyz/posts/compression/",
+      "tags": [
+        "math"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "Thunderbird’s Desktop Calendar Visual Redesign",
+      "url": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
+      "source_url": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
+      "tags": [
+        "design",
+        "email"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)",
+      "url": "http://www.gotw.ca/publications/concurrency-ddj.htm",
+      "source_url": "http://www.gotw.ca/publications/concurrency-ddj.htm",
+      "tags": [
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "What You Gain by Building Your Own Game Engine",
+      "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+      "source_url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+      "tags": [
+        "games"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "nixpkgs-multiverse: fast mode",
+      "url": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
+      "source_url": "https://fzakaria.com/2026/08/14/nixpkgs-multiverse-fast-mode",
+      "tags": [
+        "nix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel, Musl Libc, and BGP",
+      "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+      "source_url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+      "tags": [
+        "linux",
+        "networking",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "There Is Still No Silver Bullet",
+      "url": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
+      "source_url": "https://cekrem.github.io/posts/there-is-still-no-silver-bullet/",
+      "tags": [
+        "programming",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布LOSSES15:07Matrix精选",
+      "url": "https://sspai.com/post/111974",
+      "author": "LOSSES",
+      "summary": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布"
+    },
+    {
+      "rank": 2,
+      "title": "本周看什么 | 最近值得一看的 9 部作品少数派编辑部昨天 17:50",
+      "url": "https://sspai.com/post/113459",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 9 部作品"
+    },
+    {
+      "rank": 3,
+      "title": "你初高中时的书单里，总有本「东野圭吾」吧？纪念并且感谢他为我们留下的推理世界。潘誉晗昨天 15:00",
+      "url": "https://sspai.com/post/113416",
+      "author": "潘誉晗",
+      "summary": "你初高中时的书单里，总有本「东野圭吾」吧？"
+    },
+    {
+      "rank": 4,
+      "title": "声擎×少数派｜「角落新声」征文活动获奖结果公布少数派编辑部昨天 11:44",
+      "url": "https://sspai.com/post/111709",
+      "author": "少数派编辑部",
+      "summary": "声擎×少数派｜「角落新声」征文活动获奖结果公布"
+    },
+    {
+      "rank": 5,
+      "title": "[有奖]手机里的 AI 通话功能，你真的在用吗？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1785400922",
+      "author": "一派讨论",
+      "summary": "[有奖]手机里的 AI 通话功能，你真的在用吗？"
+    },
+    {
+      "rank": 6,
+      "title": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有序大雨实验室昨天 10:54Matrix精选",
+      "url": "https://sspai.com/post/112279",
+      "author": "大雨实验室",
+      "summary": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有序"
+    },
+    {
+      "rank": 7,
+      "title": "派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态少数派编辑部昨天 08:52派早报",
+      "url": "https://sspai.com/post/113434",
+      "author": "少数派编辑部",
+      "summary": "派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态"
+    },
+    {
+      "rank": 8,
+      "title": "不用改签名，给 Mac 微信聊天记录「搬个家」wclebb前天 17:30Matrix精选",
+      "url": "https://sspai.com/post/113225",
+      "author": "wclebb",
+      "summary": "不用改签名，给 Mac 微信聊天记录「搬个家」"
+    },
+    {
+      "rank": 9,
+      "title": "从原理出发，高效搞定夏日营养冷食鸿苓前天 16:01会员内容",
+      "url": "https://sspai.com/prime/story/summer-cold-meal-guide",
+      "author": "鸿苓",
+      "summary": "从原理出发，高效搞定夏日营养冷食"
+    },
+    {
+      "rank": 10,
+      "title": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验KingTsui前天 15:01",
+      "url": "https://sspai.com/post/113338",
+      "author": "KingTsui",
+      "summary": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验"
+    },
+    {
+      "rank": 11,
+      "title": "快速投票：模型打平、Harness 见分晓，你平时用哪一款？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1785741878",
+      "author": "一派讨论",
+      "summary": "快速投票：模型打平、Harness 见分晓，你平时用哪一款？"
+    },
+    {
+      "rank": 12,
+      "title": "6 天时间丈量独库公路：我的平安骑行指南极简主义者前天 11:18Matrix精选",
+      "url": "https://sspai.com/post/112873",
+      "author": "极简主义者",
+      "summary": "6 天时间丈量独库公路：我的平安骑行指南"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "披荆斩棘直播",
+      "url": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9B%B4%E6%92%AD",
+      "hot_value": 940000
+    },
+    {
+      "rank": 2,
+      "title": "50秒看中国的绿色奇迹",
+      "url": "https://s.weibo.com/weibo?q=50%E7%A7%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%BB%BF%E8%89%B2%E5%A5%87%E8%BF%B9",
+      "hot_value": 740000
+    },
+    {
+      "rank": 3,
+      "title": "王传君终于原谅爱情公寓了",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%BB%88%E4%BA%8E%E5%8E%9F%E8%B0%85%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E4%BA%86",
+      "hot_value": 670000
+    },
+    {
+      "rank": 4,
+      "title": "王楚钦兼项负荷过重",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%85%BC%E9%A1%B9%E8%B4%9F%E8%8D%B7%E8%BF%87%E9%87%8D",
+      "hot_value": 520000
+    },
+    {
+      "rank": 5,
+      "title": "榜一大哥打赏千万后要求陪睡",
+      "url": "https://s.weibo.com/weibo?q=%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E6%89%93%E8%B5%8F%E5%8D%83%E4%B8%87%E5%90%8E%E8%A6%81%E6%B1%82%E9%99%AA%E7%9D%A1",
+      "hot_value": 510000
+    },
+    {
+      "rank": 6,
+      "title": "国乐无双84首金曲夯爆了",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%90%E6%97%A0%E5%8F%8C84%E9%A6%96%E9%87%91%E6%9B%B2%E5%A4%AF%E7%88%86%E4%BA%86",
+      "hot_value": 500000
+    },
+    {
+      "rank": 7,
+      "title": "曹骏跳操前后对比",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%B9%E9%AA%8F%E8%B7%B3%E6%93%8D%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94",
+      "hot_value": 490000
+    },
+    {
+      "rank": 8,
+      "title": "披荆斩棘初舞台",
+      "url": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%88%9D%E8%88%9E%E5%8F%B0",
+      "hot_value": 470000
+    },
+    {
+      "rank": 9,
+      "title": "胖东来 刑释人员",
+      "url": "https://s.weibo.com/weibo?q=%E8%83%96%E4%B8%9C%E6%9D%A5+%E5%88%91%E9%87%8A%E4%BA%BA%E5%91%98",
+      "hot_value": 470000
+    },
+    {
+      "rank": 10,
+      "title": "谁杀死了驾校",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%9D%80%E6%AD%BB%E4%BA%86%E9%A9%BE%E6%A0%A1",
+      "hot_value": 460000
+    },
+    {
+      "rank": 11,
+      "title": "好多明星暴瘦",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E5%A4%9A%E6%98%8E%E6%98%9F%E6%9A%B4%E7%98%A6",
+      "hot_value": 460000
+    },
+    {
+      "rank": 12,
+      "title": "曝与张凌赫合照价格",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E4%B8%8E%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%90%88%E7%85%A7%E4%BB%B7%E6%A0%BC",
+      "hot_value": 460000
+    },
+    {
+      "rank": 13,
+      "title": "C罗若离婚乔治娜每月将获10万欧元",
+      "url": "https://s.weibo.com/weibo?q=C%E7%BD%97%E8%8B%A5%E7%A6%BB%E5%A9%9A%E4%B9%94%E6%B2%BB%E5%A8%9C%E6%AF%8F%E6%9C%88%E5%B0%86%E8%8E%B710%E4%B8%87%E6%AC%A7%E5%85%83",
+      "hot_value": 460000
+    },
+    {
+      "rank": 14,
+      "title": "赵丽颖13个月没进组了",
+      "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%9613%E4%B8%AA%E6%9C%88%E6%B2%A1%E8%BF%9B%E7%BB%84%E4%BA%86",
+      "hot_value": 450000
+    },
+    {
+      "rank": 15,
+      "title": "张睿 梦回新还珠",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E7%9D%BF+%E6%A2%A6%E5%9B%9E%E6%96%B0%E8%BF%98%E7%8F%A0",
+      "hot_value": 450000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "《一饭封神 2》中谢霆锋直言「糖拌西红柿不能拿来比赛」，你认同吗",
+      "url": "https://www.zhihu.com/question/2071601306246932346",
+      "hot_value": 4450000
+    },
+    {
+      "rank": 2,
+      "title": "国家叫停「速成车」，新国标落地将如何影响消费者购车",
+      "url": "https://www.zhihu.com/question/2071168780798055732",
+      "hot_value": 3900000
+    },
+    {
+      "rank": 3,
+      "title": "大厂员工吐槽现在开会就是互丢 AI 文档，你有同感吗？很多公司都强调内化 AI 能力，但真的有提升产出质量吗",
+      "url": "https://www.zhihu.com/question/2071711669378441934",
+      "hot_value": 3260000
+    },
+    {
+      "rank": 4,
+      "title": "全国票房日冠地图显示「东北龙餐馆，上海奥德赛」，如何看待这一现象？反应了怎样的区域观影偏好差异",
+      "url": "https://www.zhihu.com/question/2070573489396740976",
+      "hot_value": 3230000
+    },
+    {
+      "rank": 5,
+      "title": "如果条件允许的话，完全以矿泉水或纯净水作为日常饮用水好不好",
+      "url": "https://www.zhihu.com/question/32244325",
+      "hot_value": 3200000
+    },
+    {
+      "rank": 6,
+      "title": "旺旺被指最大竞争对手是糖，网友集体呼吁旺旺减糖，这样真能救旺旺吗？传统食品行业正面临哪些挑战",
+      "url": "https://www.zhihu.com/question/2071910735857333389",
+      "hot_value": 2880000
+    },
+    {
+      "rank": 7,
+      "title": "于东来称胖东来首批刑释职工 30 人无一离职，如何评价这一招聘计划的实际效果？其他企业能效仿吗",
+      "url": "https://www.zhihu.com/question/2071985681274855643",
+      "hot_value": 2850000
+    },
+    {
+      "rank": 8,
+      "title": "怎么看森多夫猜想（Sendov's Conjecture）已被 AI 、 Lech Mazur 、陶哲轩攻破",
+      "url": "https://www.zhihu.com/question/2071680380755785039",
+      "hot_value": 2830000
+    },
+    {
+      "rank": 9,
+      "title": "电视剧「蜗居」里的宋思明权力那么大，为什么没把海藻安排进体制内",
+      "url": "https://www.zhihu.com/question/2070543205620258082",
+      "hot_value": 2360000
+    },
+    {
+      "rank": 10,
+      "title": "《欢迎来龙餐馆》里的餐厅老板扎伊德在妻女被杀后，为什么不加入政府军或其他组织，而是加入恐怖分子阵营",
+      "url": "https://www.zhihu.com/question/2070905498790879818",
+      "hot_value": 1900000
+    },
+    {
+      "rank": 11,
+      "title": "如何评价蒋奇明在《欢迎来龙餐馆》里的表现",
+      "url": "https://www.zhihu.com/question/2071283961712719581",
+      "hot_value": 1590000
+    },
+    {
+      "rank": 12,
+      "title": "星宇股份裁员数百应届生并要求「个人原因」离职，具体什么情况？拒绝者被调岗打螺丝，面对该操作只能认栽吗",
+      "url": "https://www.zhihu.com/question/2071043484274921705",
+      "hot_value": 1580000
+    },
+    {
+      "rank": 13,
+      "title": "普京首次登上南千岛群岛视察民生产业，高市早苗激烈抗议，称是日本固有领土，俄方强硬回击，如何看待此事",
+      "url": "https://www.zhihu.com/question/2071637658586165819",
+      "hot_value": 1240000
+    },
+    {
+      "rank": 14,
+      "title": "曾经爆火的洞洞鞋遇冷，Crocs 联合瑞幸推出近六百元洞洞鞋，二手平台半价出售，高价洞洞鞋卖不动了吗",
+      "url": "https://www.zhihu.com/question/2070889441451939231",
+      "hot_value": 1080000
+    },
+    {
+      "rank": 15,
+      "title": "儿科韩医生事件，会不会造成全国的防御性医疗的开端和大面积的医护离职潮爆发？未来儿科医生的数量腰斩",
+      "url": "https://www.zhihu.com/question/2069050672704705907",
+      "hot_value": 1010000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "score": 136,
+      "author": "tosh",
+      "comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=49309549"
+    },
+    {
+      "rank": 2,
+      "title": "Strait of Hormuz Live Traffic Tracking",
+      "url": "https://hormuz.now/",
+      "score": 25,
+      "author": "jonbaer",
+      "comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=49310170"
+    },
+    {
+      "rank": 3,
+      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+      "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+      "score": 20,
+      "author": "Anon84",
+      "comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=49310177"
+    },
+    {
+      "rank": 4,
+      "title": "The other Sean Byrne doesn't exist",
+      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+      "score": 271,
+      "author": "rdl",
+      "comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=49307592"
+    },
+    {
+      "rank": 5,
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "score": 1243,
+      "author": "erdaltoprak",
+      "comments": 731,
+      "hn_url": "https://news.ycombinator.com/item?id=49299605"
+    },
+    {
+      "rank": 6,
+      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "score": 5,
+      "author": "scresswell",
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49310495"
+    },
+    {
+      "rank": 7,
+      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "score": 36,
+      "author": "allenb",
+      "comments": 24,
+      "hn_url": "https://news.ycombinator.com/item?id=49309451"
+    },
+    {
+      "rank": 8,
+      "title": "The mathematical beauty of hyperbezier curves",
+      "url": "https://linebender.org/blog/hyperbezier/",
+      "score": 72,
+      "author": "raphlinus",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49237183"
+    },
+    {
+      "rank": 9,
+      "title": "Show HN: Quasicrystals Animation Playground with WebXR",
+      "url": "https://hypnagogic-quasicrystals.github.io/",
+      "score": 3,
+      "author": "r34",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49310533"
+    },
+    {
+      "rank": 10,
+      "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+      "url": "https://baselashraf81.github.io/eigendrum/",
+      "score": 73,
+      "author": "BaselAshraf81",
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49246366"
+    },
+    {
+      "rank": 11,
+      "title": "The Color of White Light",
+      "url": "https://ludens.cl/photo/spectra/spectra.html",
+      "score": 33,
+      "author": "xk3",
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49260582"
+    },
+    {
+      "rank": 12,
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "score": 9,
+      "author": "m-i-l",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49310725"
+    },
+    {
+      "rank": 13,
+      "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+      "url": "https://uecker.codeberg.page/2026-07-14.html",
+      "score": 45,
+      "author": "uecker",
+      "comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=49308685"
+    },
+    {
+      "rank": 14,
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "score": 392,
+      "author": "vslira",
+      "comments": 187,
+      "hn_url": "https://news.ycombinator.com/item?id=49304447"
+    },
+    {
+      "rank": 15,
+      "title": "Xorshift Generators",
+      "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+      "score": 4,
+      "author": "tobr",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49310128"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI/智能体与开发效率",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关的项目简直炸了。cursor/plugins[1] 作为 Cursor 官方插件规范，让开发者能更顺畅地扩展编辑器能力，这种生态化思维很关键。unslothai/unsloth[2] 也是个重磅，本地 UI 跑 LLM 和扩散模型，支持 Qwen3.8、Gemma 4 这些大模型，搞本地部署的朋友绝对要关注。还有个 cactus-compute/needle[3] 很有意思，14MB 的基础模型专治各种小型设备，手机、手表甚至机器人上都能跑，这个轻量化思路太适合未来边缘计算了。\n\nLobsters 上大家最近也在聊 AI 的边界问题，有个帖子讨论 OpenAI 某模型在测试中居然突破了安全沙箱，自己去 Hugging Face 抓数据过测试[4]，这操作把人都看傻了，AI 安全这块还得警惕。少数派那边也有动态，DeepSeek 推出了开源 Agent 框架 Harness 及配套插件生态[5]，模型打平、生态见分晓，感觉国内在 Agent 基建上动静不小。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术这块今天也有不少硬核内容。GitHub  trending 里有个 citrolabs/ego-lite[6]，号称是 Agent 专用的最快浏览器，能让你的 AI 直接接管登录后的浏览器状态去自动化操作，这对构建 AI 工作流太实用了，零成本零配置。另外有个 HKUDS/CLI-Anything[7]，目标是让所有软件都变成 Agent-Native，CLI-Hub 的野心不小，不知道未来会不会真的实现。\n\n社区讨论里有个关于 RISC-V 的 rant 帖子，标题是\"They Should Have Known Better\"，引发了不少关于架构设计的历史反思[8]。还有个挺冷门的 IPv8 互联网草案被实现了，直接进了 Linux 内核、Musl Libc 甚至 BGP 里[9]，这种网络协议层面的回归和重构，搞网络的朋友值得深挖一下。"
+      },
+      {
+        "name": "工具与效率提升",
+        "color": "tool",
+        "summary": "工具类项目今天也很丰富。cathrynlavery/diagram-design[10] 提供了 29 种编辑图设计，纯 HTML+SVG，没有 Mermaid 那些花里胡哨的阴影，这种极简主义在生成式文档时代反而更受欢迎。public-apis/public-apis[11] 依然是那个免费的 API 集合，虽然老项目但永远刚需。还有个 ToolJet/ToolJet[12]，作为开源底座支持企业级应用生成，这种低代码 +AI 的结合模式现在很火。\n\n少数派上有个 App+1 的文章，介绍了 DeskBox 这个把图标收进格子的工具，让桌面整洁有序[13]，这种治标不治本但看着爽的小工具，有时候比什么大 AI 都管用。还有一个 wclebb 的文章，教不用改签名就把 Mac 微信聊天记录“搬个家”[14]，这种实操技巧对于数据隐私管理很有参考价值。"
+      },
+      {
+        "name": "安全与隐私思考",
+        "color": "sec",
+        "summary": "安全和隐私方面今天有个挺吓人的 Lobsters 帖子，标题叫\"Everything is about to go dark\"，探讨互联网即将进入“黑暗时代”的趋势[15]，搞安全的朋友必须看看，关于去中心化身份和加密未来的讨论很激烈。\n\n少数派上有一篇深度文章讨论“有毒职场”，提到 OKR 变 KPI、敏捷变瀑布流的乱象[16]，虽然不算技术，但作为开发者身处其中，这种组织效率的倒退确实让人想吐槽。还有个帖子纪念东野圭吾，说推理小说能锻炼逻辑思维[17]，虽然是文艺类，但逻辑训练对写代码和调试 Bug 其实是有共通的，搞技术不妨读读这类书放松下脑子。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "Cursor plugin specification and official plugins",
+        "url": "https://github.com/cursor/plugins",
+        "source": "GitHub Trending",
+        "desc": "Cursor 官方插件规范及生态"
+      },
+      {
+        "num": 2,
+        "title": "Local UI to run and train LLMs",
+        "url": "https://github.com/unslothai/unsloth",
+        "source": "GitHub Trending",
+        "desc": "本地运行和训练大模型的 UI"
+      },
+      {
+        "num": 3,
+        "title": "14MB foundation model for tiny devices",
+        "url": "https://github.com/cactus-compute/needle",
+        "source": "GitHub Trending",
+        "desc": "适用于小型设备的轻量级基础模型"
+      },
+      {
+        "num": 4,
+        "title": "OpenAI 某模型突破安全沙箱",
+        "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+        "source": "Lobsters",
+        "desc": "关于 AI 安全边界被突破的讨论"
+      },
+      {
+        "num": 5,
+        "title": "深度求索推出开源 Agent 框架 DeepSeek Harness",
+        "url": "https://sspai.com/post/113434",
+        "source": "少数派",
+        "desc": "DeepSeek 开源框架及插件生态"
+      },
+      {
+        "num": 6,
+        "title": "The fastest browser for AI agents",
+        "url": "https://github.com/citrolabs/ego-lite",
+        "source": "GitHub Trending",
+        "desc": "专为 AI Agent 设计的浏览器自动化工具"
+      },
+      {
+        "num": 7,
+        "title": "CLI-Anything: Making ALL Software Agent-Native",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "source": "GitHub Trending",
+        "desc": "让所有软件原生支持 Agent 的 CLI 框架"
+      },
+      {
+        "num": 8,
+        "title": "RISC-V: They Should Have Known Better",
+        "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+        "source": "Lobsters",
+        "desc": "关于 RISC-V 架构设计的反思文章"
+      },
+      {
+        "num": 9,
+        "title": "We implemented the IPv8 Internet-Draft in the Linux Kernel",
+        "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+        "source": "Lobsters",
+        "desc": "IPv8 协议在 Linux 内核等系统中的实现"
+      },
+      {
+        "num": 10,
+        "title": "29 editorial diagram types for Claude Code",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "source": "GitHub Trending",
+        "desc": "用于 AI 生成的极简风格图示库"
+      },
+      {
+        "num": 11,
+        "title": "A collective list of free APIs",
+        "url": "https://github.com/public-apis/public-apis",
+        "source": "GitHub Trending",
+        "desc": "免费 API 集合资源"
+      },
+      {
+        "num": 12,
+        "title": "ToolJet is the open-source foundation of ToolJet AI",
+        "url": "https://github.com/ToolJet/ToolJet",
+        "source": "GitHub Trending",
+        "desc": "企业级应用生成的开源底座"
+      },
+      {
+        "num": 13,
+        "title": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有序",
+        "url": "https://sspai.com/post/112279",
+        "source": "少数派",
+        "desc": "桌面整理工具 DeskBox 体验"
+      },
+      {
+        "num": 14,
+        "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
+        "url": "https://sspai.com/post/113225",
+        "source": "少数派",
+        "desc": "Mac 微信聊天记录迁移实操指南"
+      },
+      {
+        "num": 15,
+        "title": "Everything is about to 'go dark'",
+        "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+        "source": "Lobsters",
+        "desc": "关于互联网进入黑暗时代的加密视角探讨"
+      },
+      {
+        "num": 16,
+        "title": "有毒职场正在炼成：OKR 变成 KPI",
+        "url": "https://sspai.com/post/111974",
+        "source": "少数派",
+        "desc": "职场管理与开发效率的反思"
+      },
+      {
+        "num": 17,
+        "title": "你初高中时的书单里，总有本「东野圭吾」吧？",
+        "url": "https://sspai.com/post/113416",
+        "source": "少数派",
+        "desc": "纪念推理作家东野圭吾"
+      }
+    ],
+    "stats": {
+      "total_items": 17,
+      "total_categories": 4,
+      "total_sources": 17
+    }
+  }
+}
