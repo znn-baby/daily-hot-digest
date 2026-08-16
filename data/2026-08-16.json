@@ -1,0 +1,784 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "cordiverse / cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "stars": "4497",
+      "stars_today": "719 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "basecamp / omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "stars": "25150",
+      "stars_today": "225 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 3,
+      "title": "unslothai / unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "stars": "72307",
+      "stars_today": "580 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "OpenCut-app / OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "stars": "83603",
+      "stars_today": "134 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 5,
+      "title": "akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": "1603",
+      "stars_today": "41 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 6,
+      "title": "public-apis / public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "stars": "461003",
+      "stars_today": "1,583 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "ToolJet / ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "stars": "39800",
+      "stars_today": "446 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 8,
+      "title": "cactus-compute / needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "stars": "6344",
+      "stars_today": "447 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "source_url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "tags": [
+        "browsers"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "Why I remain a skeptic",
+      "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+      "source_url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "I thought I was building a C replacement. I was wrong",
+      "url": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
+      "source_url": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
+      "tags": [
+        "c",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Everything is about to “go dark”",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "source_url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Protecting the Rust standard library from accidental breakage",
+      "url": "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/",
+      "source_url": "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "What's missing to have reproducible builds on PyPI",
+      "url": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
+      "source_url": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
+      "tags": [
+        "python"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Zig Day Seattle, WA #3",
+      "url": "https://zig.day/usa/seattle/3/",
+      "source_url": "https://zig.day/usa/seattle/3/",
+      "tags": [
+        "event",
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "Haskell: origins, evolution, and future",
+      "url": "https://www.youtube.com/watch?v=MQeIerDsReA&t=673s",
+      "source_url": "https://www.youtube.com/watch?v=MQeIerDsReA&t=673s",
+      "tags": [
+        "video",
+        "haskell"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "Aiki reaches recursive self-interpretation",
+      "url": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
+      "source_url": "https://decuser.github.io/posts/aiki-alpha-mileston26-update/",
+      "tags": [
+        "go",
+        "plt",
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "Recap: Software Should Work 2026",
+      "url": "https://bencornia.com/blog/recap-software-should-work-2026",
+      "source_url": "https://bencornia.com/blog/recap-software-should-work-2026",
+      "tags": [
+        "event",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "A Tour of Magit's Status Interface",
+      "url": "https://heiwiper.com/posts/magit-status-tour/",
+      "source_url": "https://heiwiper.com/posts/magit-status-tour/",
+      "tags": [
+        "emacs",
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Power Relations",
+      "url": "https://corbinsimpson.com/words/power-relations.html",
+      "source_url": "https://corbinsimpson.com/words/power-relations.html",
+      "tags": [
+        "distributed",
+        "practices"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "How Is Compression Prediction?",
+      "url": "https://lukefleed.xyz/posts/compression/",
+      "source_url": "https://lukefleed.xyz/posts/compression/",
+      "tags": [
+        "math"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "What do you think of LazyPromise as a lightweight alternative to Effect?",
+      "url": "https://github.com/lazy-promise/lazy-promise",
+      "source_url": "https://github.com/lazy-promise/lazy-promise",
+      "tags": [
+        "show",
+        "api",
+        "javascript"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Monitoring SystemD services with Healthchecks.io",
+      "url": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
+      "source_url": "https://passbe.com/2022/healthchecks-io-systemd-checks/",
+      "tags": [
+        "systemd"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布LOSSES昨天 15:07Matrix精选",
+      "url": "https://sspai.com/post/111974",
+      "author": "LOSSES",
+      "summary": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布"
+    },
+    {
+      "rank": 2,
+      "title": "浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？克莱德12:48",
+      "url": "https://sspai.com/post/113495",
+      "author": "克莱德",
+      "summary": "浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」"
+    },
+    {
+      "rank": 3,
+      "title": "本周看什么 | 最近值得一看的 9 部作品少数派编辑部前天 17:50",
+      "url": "https://sspai.com/post/113459",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 9 部作品"
+    },
+    {
+      "rank": 4,
+      "title": "你初高中时的书单里，总有本「东野圭吾」吧？纪念并且感谢他为我们留下的推理世界。潘誉晗前天 15:00",
+      "url": "https://sspai.com/post/113416",
+      "author": "潘誉晗",
+      "summary": "你初高中时的书单里，总有本「东野圭吾」吧？"
+    },
+    {
+      "rank": 5,
+      "title": "声擎×少数派｜「角落新声」征文活动获奖结果公布少数派编辑部前天 11:44",
+      "url": "https://sspai.com/post/111709",
+      "author": "少数派编辑部",
+      "summary": "声擎×少数派｜「角落新声」征文活动获奖结果公布"
+    },
+    {
+      "rank": 6,
+      "title": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有序大雨实验室前天 10:54Matrix精选",
+      "url": "https://sspai.com/post/112279",
+      "author": "大雨实验室",
+      "summary": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有序"
+    },
+    {
+      "rank": 7,
+      "title": "[有奖]手机里的 AI 通话功能，你真的在用吗？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1785400922",
+      "author": "一派讨论",
+      "summary": "[有奖]手机里的 AI 通话功能，你真的在用吗？"
+    },
+    {
+      "rank": 8,
+      "title": "派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态少数派编辑部前天 08:52派早报",
+      "url": "https://sspai.com/post/113434",
+      "author": "少数派编辑部",
+      "summary": "派早报：深度求索推出开源 Agent 框架 DeepSeek Harness 及配套插件生态"
+    },
+    {
+      "rank": 9,
+      "title": "不用改签名，给 Mac 微信聊天记录「搬个家」wclebb08/13Matrix精选",
+      "url": "https://sspai.com/post/113225",
+      "author": "wclebb",
+      "summary": "不用改签名，给 Mac 微信聊天记录「搬个家」"
+    },
+    {
+      "rank": 10,
+      "title": "从原理出发，高效搞定夏日营养冷食鸿苓08/13会员内容",
+      "url": "https://sspai.com/prime/story/summer-cold-meal-guide",
+      "author": "鸿苓",
+      "summary": "从原理出发，高效搞定夏日营养冷食"
+    },
+    {
+      "rank": 11,
+      "title": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验KingTsui08/13",
+      "url": "https://sspai.com/post/113338",
+      "author": "KingTsui",
+      "summary": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC 降噪真无线耳机体验"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "四代跳Attention",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%9B%E4%BB%A3%E8%B7%B3Attention",
+      "hot_value": 740000
+    },
+    {
+      "rank": 2,
+      "title": "为中国航天点赞",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%82%B9%E8%B5%9E",
+      "hot_value": 720000
+    },
+    {
+      "rank": 3,
+      "title": "孙楠 降维打击",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E6%A5%A0+%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB",
+      "hot_value": 720000
+    },
+    {
+      "rank": 4,
+      "title": "请3天假连休13天",
+      "url": "https://s.weibo.com/weibo?q=%E8%AF%B73%E5%A4%A9%E5%81%87%E8%BF%9E%E4%BC%9113%E5%A4%A9",
+      "hot_value": 700000
+    },
+    {
+      "rank": 5,
+      "title": "王橹杰 虚拟",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0+%E8%99%9A%E6%8B%9F",
+      "hot_value": 670000
+    },
+    {
+      "rank": 6,
+      "title": "张本智和4比3松岛辉空",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C4%E6%AF%943%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA",
+      "hot_value": 650000
+    },
+    {
+      "rank": 7,
+      "title": "市民打12345投诉月光太亮影响睡觉",
+      "url": "https://s.weibo.com/weibo?q=%E5%B8%82%E6%B0%91%E6%89%9312345%E6%8A%95%E8%AF%89%E6%9C%88%E5%85%89%E5%A4%AA%E4%BA%AE%E5%BD%B1%E5%93%8D%E7%9D%A1%E8%A7%89",
+      "hot_value": 650000
+    },
+    {
+      "rank": 8,
+      "title": "IG战胜WBG",
+      "url": "https://s.weibo.com/weibo?q=IG%E6%88%98%E8%83%9CWBG",
+      "hot_value": 410000
+    },
+    {
+      "rank": 9,
+      "title": "博瑞双人舞台",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%9A%E7%91%9E%E5%8F%8C%E4%BA%BA%E8%88%9E%E5%8F%B0",
+      "hot_value": 400000
+    },
+    {
+      "rank": 10,
+      "title": "谷爱凌否认恋情",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E5%90%A6%E8%AE%A4%E6%81%8B%E6%83%85",
+      "hot_value": 400000
+    },
+    {
+      "rank": 11,
+      "title": "王橹杰 上春山",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0+%E4%B8%8A%E6%98%A5%E5%B1%B1",
+      "hot_value": 400000
+    },
+    {
+      "rank": 12,
+      "title": "谷爱凌最后一个吃到自己的瓜",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%90%83%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E7%93%9C",
+      "hot_value": 390000
+    },
+    {
+      "rank": 13,
+      "title": "奇文 春雪",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%87%E6%96%87+%E6%98%A5%E9%9B%AA",
+      "hot_value": 390000
+    },
+    {
+      "rank": 14,
+      "title": "龙餐馆",
+      "url": "https://s.weibo.com/weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86",
+      "hot_value": 390000
+    },
+    {
+      "rank": 15,
+      "title": "恋与深空",
+      "url": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA",
+      "hot_value": 390000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "胖东来将闭门店现大排长龙，附近商贩说要跟着搬迁，为啥这么多年过去了胖东来的客户粘性还这么强",
+      "url": "https://www.zhihu.com/question/2072261517668344757",
+      "hot_value": 7500000
+    },
+    {
+      "rank": 2,
+      "title": "为什么国内无法观看 IMAX 70mm 胶片版《奥德赛》",
+      "url": "https://www.zhihu.com/question/2064434098815374163",
+      "hot_value": 2750000
+    },
+    {
+      "rank": 3,
+      "title": "同样是独栋，为什么北美的独栋都有完备的设施，但国内农村做不到",
+      "url": "https://www.zhihu.com/question/2071306248780255535",
+      "hot_value": 2340000
+    },
+    {
+      "rank": 4,
+      "title": "《欢迎来龙餐馆》老扎为什么一直说菜咸了？有什么别的隐喻吗",
+      "url": "https://www.zhihu.com/question/2071658364904239886",
+      "hot_value": 1920000
+    },
+    {
+      "rank": 5,
+      "title": "「马云给你 5 亿元花呗额度」和「马化腾给你 1 亿 Q 币」，只能要一个，你要哪个",
+      "url": "https://www.zhihu.com/question/2063350913864054256",
+      "hot_value": 1920000
+    },
+    {
+      "rank": 6,
+      "title": "旺旺被指太甜后连夜晒出无糖低糖新品，企业这一听劝的行为能自救吗？看完后你会购买吗",
+      "url": "https://www.zhihu.com/question/2072246554115535950",
+      "hot_value": 1920000
+    },
+    {
+      "rank": 7,
+      "title": "乌克兰出现由日本人组成的战斗分队，与俄军作战，会对局势有哪些影响？日本未来会大规模介入俄乌冲突吗",
+      "url": "https://www.zhihu.com/question/2072370715114696836",
+      "hot_value": 1860000
+    },
+    {
+      "rank": 8,
+      "title": "为什么越南和印度也开始发钱「催生」了？此举能有效解决人口问题带来的挑战吗",
+      "url": "https://www.zhihu.com/question/2070635312297121770",
+      "hot_value": 1800000
+    },
+    {
+      "rank": 9,
+      "title": "如何评价《鸣潮美术设定集 Vol.01》标准定价 188 元，能预测销量大概有多少吗",
+      "url": "https://www.zhihu.com/question/2071724295840064707",
+      "hot_value": 1550000
+    },
+    {
+      "rank": 10,
+      "title": "李宗盛为什么口碑变差了",
+      "url": "https://www.zhihu.com/question/388993745",
+      "hot_value": 1450000
+    },
+    {
+      "rank": 11,
+      "title": "如何看待《欢迎到龙餐馆》讲中东故事，却全程国内取景拍摄，手搓一座乱世下的中东城",
+      "url": "https://www.zhihu.com/question/2071533521441485058",
+      "hot_value": 1350000
+    },
+    {
+      "rank": 12,
+      "title": "在古代还没有毒品概念的时候，天然成瘾植物为何没有成为顶级香料",
+      "url": "https://www.zhihu.com/question/2068587429079020879",
+      "hot_value": 1340000
+    },
+    {
+      "rank": 13,
+      "title": "研究称每天吃西红柿，6 周可显著减轻脂肪肝，是真的吗？怎么吃效果最好",
+      "url": "https://www.zhihu.com/question/2071202723014206803",
+      "hot_value": 1190000
+    },
+    {
+      "rank": 14,
+      "title": "韩国总统李在明称房地产泡沫已不容忽视，韩国楼市现在泡沫严重吗",
+      "url": "https://www.zhihu.com/question/2071334965493682184",
+      "hot_value": 1170000
+    },
+    {
+      "rank": 15,
+      "title": "2026WTT 瑞典大满贯男单半决赛，张本智和 4 比 3 再胜松岛辉空，如何评价这场比赛",
+      "url": "https://www.zhihu.com/question/2072425043506865754",
+      "hot_value": 1080000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "score": 99,
+      "author": "tosh",
+      "comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=49319556"
+    },
+    {
+      "rank": 2,
+      "title": "Firefox for iOS now has a native adblocker",
+      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+      "score": 57,
+      "author": "pentagrama",
+      "comments": 17,
+      "hn_url": "https://news.ycombinator.com/item?id=49319633"
+    },
+    {
+      "rank": 3,
+      "title": "A SAT Attack on Tarski's High School Algebra Problem",
+      "url": "https://arxiv.org/abs/2608.08421",
+      "score": 30,
+      "author": "matt_d",
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49268565"
+    },
+    {
+      "rank": 4,
+      "title": "Does anyone run Postgres without PgBouncer?",
+      "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
+      "score": 49,
+      "author": "abelanger",
+      "comments": 19,
+      "hn_url": "https://news.ycombinator.com/item?id=49277952"
+    },
+    {
+      "rank": 5,
+      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+      "score": 77,
+      "author": "Alifatisk",
+      "comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=49319389"
+    },
+    {
+      "rank": 6,
+      "title": "Asus Bike Booster",
+      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+      "score": 509,
+      "author": "wiradikusuma",
+      "comments": 355,
+      "hn_url": "https://news.ycombinator.com/item?id=49268580"
+    },
+    {
+      "rank": 7,
+      "title": "Chestnut – eGPU dock with open-source firmware",
+      "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
+      "score": 63,
+      "author": "txrx0000",
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=49292385"
+    },
+    {
+      "rank": 8,
+      "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+      "url": "https://tasklet.ai/careers/head-of-design-engineering",
+      "score": 1,
+      "author": "mayop100",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49319892"
+    },
+    {
+      "rank": 9,
+      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+      "url": "https://duckdb.org/2026/07/31/asynchronous-io",
+      "score": 216,
+      "author": "pdet",
+      "comments": 26,
+      "hn_url": "https://news.ycombinator.com/item?id=49243061"
+    },
+    {
+      "rank": 10,
+      "title": "Superconducting monolayer cuprate with a single CuO2 plane",
+      "url": "https://www.nature.com/articles/s41586-026-10857-1",
+      "score": 35,
+      "author": "sbulaev",
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=49277153"
+    },
+    {
+      "rank": 11,
+      "title": "Software Engineering fundamentals matter more",
+      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+      "score": 224,
+      "author": "ingve",
+      "comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=49314902"
+    },
+    {
+      "rank": 12,
+      "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+      "score": 323,
+      "author": "dgellow",
+      "comments": 211,
+      "hn_url": "https://news.ycombinator.com/item?id=49313428"
+    },
+    {
+      "rank": 13,
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "score": 215,
+      "author": "felixbraun",
+      "comments": 51,
+      "hn_url": "https://news.ycombinator.com/item?id=49314235"
+    },
+    {
+      "rank": 14,
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "score": 450,
+      "author": "randycupertino",
+      "comments": 339,
+      "hn_url": "https://news.ycombinator.com/item?id=49311651"
+    },
+    {
+      "rank": 15,
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "score": 147,
+      "author": "maxutility",
+      "comments": 102,
+      "hn_url": "https://news.ycombinator.com/item?id=49316271"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 与智能体",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。unsloth/unsloth[1] 是个本地 UI 界面，能直接跑和训练各种大模型和扩散模型，包括最新的 Qwen3.8 和 DeepSeek-V4，对不想折腾命令行的人来说太友好了，目前已经有超过 180,000+ star。akitaonrails/ai-memory[2] 则解决了智能体长期记忆和不同厂商之间交接的问题，这对构建复杂的自主智能体很关键。\n\nLobsters 上有个关于 LazyPromise 的讨论挺热烈，大家觉得它可能是 Effect 库的一个轻量级替代品，这种函数式编程思路在 JS 圈里越来越受欢迎。少数派这边也提到 DeepSeek 推出了开源的 Agent 框架 Harness[9]，看来国内大模型在生态建设上也在发力，值得关注。"
+      },
+      {
+        "name": "开发工具与底层技术",
+        "color": "devtools",
+        "summary": "GitHub 上的开源项目依然硬核。cordiverse/cordis[3] 搞了个时空可组合的元框架，听起来有点抽象，但在做复杂系统建模时可能很有用。basecamp/omarchy[4] 则是个意见鲜明、现代美观的 Linux 发行版，适合喜欢折腾桌面环境的朋友。cactus-compute/needle[5] 推出了一个仅 14MB 的基础模型，专门给手机、手表这些小设备用的，边缘 AI 的轻量化趋势很明显。\n\n社区讨论方面，Lobsters 上有篇文章说“万物即将变黑”（go dark），涉及加密和去中心化安全，搞安全的朋友值得深究。还有关于 Rust 标准库如何防止意外破坏的讨论，对于依赖 Rust 生态的开发者来说是个好事。少数派分享了一个不用改签名就能迁移 Mac 微信聊天记录的方法[10]，虽然不算底层技术，但对 Mac 用户来说是个实实在在的效率提升。"
+      },
+      {
+        "name": "系统与效率/数码产品",
+        "color": "efficiency",
+        "summary": "数码和效率工具这块也有不少动静。GitHub 上 OpenCut-app/OpenCut[6] 上线了，作为 CapCut 的开源替代品，给视频剪辑爱好者提供了一条免费路线。ToolJet/ToolJet[7] 则是企业级应用生成平台的基础设施，能快速搭建内部工具和仪表盘。\n\nLobsters 上有个关于 Firefox 和 uBlock Origin 的帖子很有意思，说 Firefox 现在是唯一还在支持 uBlock Origin 的主流浏览器，而 Chrome 已经屏蔽了，这让搞安全的朋友坐立难安。此外，关于 Zig 和 Haskell 的社区活动讨论也不少，说明这些老牌或新兴语言的生命力依然很强。少数派最近整理了一个浏览器扩展合集[12]，找了一些近期好用的“新玩意”，对于想提升浏览效率的人来说是个不错的清单。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thoughts",
+        "summary": "除了代码，今天还有几个值得深思的话题。Lobsters 上有作者自述为什么对“氛围编程”（vibecoding）保持怀疑，认为过度依赖直觉而忽略严谨设计是危险的，这在 AI 时代尤其需要警惕。还有关于软件应该“可复现构建”（reproducible builds）的讨论，这直接关系到软件供应链的安全。\n\n少数派有一篇文章讨论了“有毒职场”，提到 OKR 变 KPI、敏捷变瀑布的现象[11]，这种观察虽然不在技术领域，但反映了技术团队管理的现状，读来颇有共鸣。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "unsloth - Local UI to run and train LLMs",
+        "url": "https://github.com/unslothai/unsloth",
+        "source": "GitHub Trending",
+        "desc": "本地运行和训练大模型的 UI 工具"
+      },
+      {
+        "num": 2,
+        "title": "ai-memory - Long term memory for agent coding CLIs",
+        "url": "https://github.com/akitaonrails/ai-memory",
+        "source": "GitHub Trending",
+        "desc": "智能体长期记忆解决方案"
+      },
+      {
+        "num": 3,
+        "title": "cordis - Meta-Framework of Spatiotemporal Composability",
+        "url": "https://github.com/cordiverse/cordis",
+        "source": "GitHub Trending",
+        "desc": "时空可组合元框架"
+      },
+      {
+        "num": 4,
+        "title": "omarchy - Beautiful, Modern & Opinionated Linux",
+        "url": "https://github.com/basecamp/omarchy",
+        "source": "GitHub Trending",
+        "desc": "现代美观的 Linux 发行版"
+      },
+      {
+        "num": 5,
+        "title": "needle - 14MB foundation model for tiny devices",
+        "url": "https://github.com/cactus-compute/needle",
+        "source": "GitHub Trending",
+        "desc": "面向小设备的轻量化基础模型"
+      },
+      {
+        "num": 6,
+        "title": "OpenCut - The open-source CapCut alternative",
+        "url": "https://github.com/OpenCut-app/OpenCut",
+        "source": "GitHub Trending",
+        "desc": "开源视频剪辑工具"
+      },
+      {
+        "num": 7,
+        "title": "ToolJet - Enterprise app generation platform",
+        "url": "https://github.com/ToolJet/ToolJet",
+        "source": "GitHub Trending",
+        "desc": "企业级应用生成平台基础"
+      },
+      {
+        "num": 8,
+        "title": "Firefox and uBlock Origin support",
+        "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+        "source": "Lobsters",
+        "desc": "Firefox 成为唯一支持 uBlock Origin 的主流浏览器"
+      },
+      {
+        "num": 9,
+        "title": "DeepSeek Harness - Open source Agent framework",
+        "url": "https://sspai.com/post/113434",
+        "source": "少数派",
+        "desc": "深度求索推出开源 Agent 框架及插件生态"
+      },
+      {
+        "num": 10,
+        "title": "Mac 微信聊天记录迁移方法",
+        "url": "https://sspai.com/post/113225",
+        "source": "少数派",
+        "desc": "无需改签名迁移 Mac 微信聊天记录"
+      },
+      {
+        "num": 11,
+        "title": "有毒职场正在炼成：OKR 变成 KPI",
+        "url": "https://sspai.com/post/111974",
+        "source": "少数派",
+        "desc": "关于职场管理现状的观察"
+      },
+      {
+        "num": 12,
+        "title": "浏览器扩展合集：新玩意推荐",
+        "url": "https://sspai.com/post/113495",
+        "source": "少数派",
+        "desc": "近期实用的浏览器扩展推荐"
+      }
+    ],
+    "stats": {
+      "total_items": 12,
+      "total_categories": 4,
+      "total_sources": 12
+    }
+  }
+}
