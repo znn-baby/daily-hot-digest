@@ -1,0 +1,854 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "harry0703 / MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars": "105450",
+      "stars_today": "494 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 2,
+      "title": "usestrix / strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": "53753",
+      "stars_today": "856 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "nautechsystems / nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "stars": "25716",
+      "stars_today": "115 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 4,
+      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "stars": "28144",
+      "stars_today": "156 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "AlexsJones / llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "stars": "32065",
+      "stars_today": "187 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 6,
+      "title": "santifer / career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "stars": "64294",
+      "stars_today": "147 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 7,
+      "title": "jundot / omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "stars": "18868",
+      "stars_today": "60 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "immich-app / immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "stars": "110898",
+      "stars_today": "140 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 9,
+      "title": "cordiverse / cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "description": "Meta-Framework of Spatiotemporal Composability",
+      "stars": "5423",
+      "stars_today": "959 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 10,
+      "title": "agalwood / Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "stars": "52883",
+      "stars_today": "295 stars today",
+      "language": "TypeScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "I thought I was building a C replacement. I was wrong",
+      "url": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
+      "source_url": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
+      "tags": [
+        "c",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "A faster way to calculate the day-of-the-week",
+      "url": "https://www.benjoffe.com/fast-day-of-week",
+      "source_url": "https://www.benjoffe.com/fast-day-of-week",
+      "tags": [
+        "assembly",
+        "c++",
+        "math",
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "Every Fucking Website",
+      "url": "https://op.tngl.io/every-fucking-website/",
+      "source_url": "https://op.tngl.io/every-fucking-website/",
+      "tags": [
+        "satire",
+        "vibecoding",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Passphrase-less reboots using kexec under NixOS",
+      "url": "https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/",
+      "source_url": "https://www.bevuta.com/en/blog/passphraseless-reboots-using-kexec/",
+      "tags": [
+        "linux",
+        "nix",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "What are you doing this week?",
+      "url": "https://lobste.rs/s/5p0kgt/what_are_you_doing_this_week",
+      "source_url": "https://lobste.rs/s/5p0kgt/what_are_you_doing_this_week",
+      "tags": [
+        "ask",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Protecting the Rust standard library from accidental breakage",
+      "url": "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/",
+      "source_url": "https://predr.ag/blog/protecting-the-rust-stdlib-from-breakage/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Four levels of in-place initialization",
+      "url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
+      "source_url": "https://blog.yoshuawuyts.com/four-levels-of-in-place-initialization/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "Vetted AI code is hard to justify",
+      "url": "https://amoffat.github.io/blog/vetting-burnout.html",
+      "source_url": "https://amoffat.github.io/blog/vetting-burnout.html",
+      "tags": [
+        "ai",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "AI Software Development – What Does The Data Say?",
+      "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
+      "source_url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "Thinking about tests: assertions and matchers",
+      "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+      "source_url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+      "tags": [
+        "practices",
+        "ruby"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "AppleWorks on the Apple II",
+      "url": "https://stonetools.ghost.io/appleworks-apple2/",
+      "source_url": "https://stonetools.ghost.io/appleworks-apple2/",
+      "tags": [
+        "historical",
+        "retrocomputing"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Writing a Fast Compiler",
+      "url": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
+      "source_url": "https://tibleiz.net/blog/2024-02-04-writing-a-fast-compiler.html",
+      "tags": [
+        "compilers"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "MuQSS CPU scheduler for Linux 7.2 by Con Kolivas",
+      "url": "https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/",
+      "source_url": "https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "(What Comes) After FOSS?",
+      "url": "https://infrastructureinsights.fund/projects/what-comes-after-foss/",
+      "source_url": "https://infrastructureinsights.fund/projects/what-comes-after-foss/",
+      "tags": [
+        "philosophy"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0",
+      "url": "https://labs.leaningtech.com/blog/browserpod-rust.html",
+      "source_url": "https://labs.leaningtech.com/blog/browserpod-rust.html",
+      "tags": [
+        "linux",
+        "rust",
+        "wasm"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "派评 | 近期值得关注的 App少数派编辑部18:14",
+      "url": "https://sspai.com/post/113544",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 2,
+      "title": "分享我知识管理 12 年来最重要的经验：INL 结构羊清乐15:00视频",
+      "url": "https://sspai.com/post/113368",
+      "author": "羊清乐",
+      "summary": "分享我知识管理 12 年来最重要的经验：INL 结构"
+    },
+    {
+      "rank": 3,
+      "title": "当陶瓷水杯遇上像素屏：PixelMug 体验M00Nface13:55",
+      "url": "https://sspai.com/post/113448",
+      "author": "M00Nface",
+      "summary": "当陶瓷水杯遇上像素屏：PixelMug 体验"
+    },
+    {
+      "rank": 4,
+      "title": "成年人包里的唯一一支笔：模块笔入门导购如果你的包里想带一支笔以备不时之需，这支笔应该就是你想要的。北鸮11:00",
+      "url": "https://sspai.com/post/113445",
+      "author": "北鸮",
+      "summary": "成年人包里的唯一一支笔：模块笔入门导购"
+    },
+    {
+      "rank": 5,
+      "title": "[有奖]手机里的 AI 通话功能，你真的在用吗？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1785400922",
+      "author": "一派讨论",
+      "summary": "[有奖]手机里的 AI 通话功能，你真的在用吗？"
+    },
+    {
+      "rank": 6,
+      "title": "派早报：😭（放声大哭）成为最流行 emoji少数派编辑部06:54派早报",
+      "url": "https://sspai.com/post/113524",
+      "author": "少数派编辑部",
+      "summary": "派早报：😭（放声大哭）成为最流行 emoji"
+    },
+    {
+      "rank": 7,
+      "title": "浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？克莱德昨天 12:48",
+      "url": "https://sspai.com/post/113495",
+      "author": "克莱德",
+      "summary": "浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」"
+    },
+    {
+      "rank": 8,
+      "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布LOSSES前天 15:07Matrix精选",
+      "url": "https://sspai.com/post/111974",
+      "author": "LOSSES",
+      "summary": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布"
+    },
+    {
+      "rank": 9,
+      "title": "本周看什么 | 最近值得一看的 9 部作品少数派编辑部08/14",
+      "url": "https://sspai.com/post/113459",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 9 部作品"
+    },
+    {
+      "rank": 10,
+      "title": "你初高中时的书单里，总有本「东野圭吾」吧？纪念并且感谢他为我们留下的推理世界。潘誉晗08/14",
+      "url": "https://sspai.com/post/113416",
+      "author": "潘誉晗",
+      "summary": "你初高中时的书单里，总有本「东野圭吾」吧？"
+    },
+    {
+      "rank": 11,
+      "title": "声擎×少数派｜「角落新声」征文活动获奖结果公布少数派编辑部08/14",
+      "url": "https://sspai.com/post/111709",
+      "author": "少数派编辑部",
+      "summary": "声擎×少数派｜「角落新声」征文活动获奖结果公布"
+    },
+    {
+      "rank": 12,
+      "title": "快速投票：模型打平、Harness 见分晓，你平时用哪一款？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1785741878",
+      "author": "一派讨论",
+      "summary": "快速投票：模型打平、Harness 见分晓，你平时用哪一款？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "榴莲价格彻底崩了",
+      "url": "https://s.weibo.com/weibo?q=%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E5%BD%BB%E5%BA%95%E5%B4%A9%E4%BA%86",
+      "hot_value": 910000
+    },
+    {
+      "rank": 2,
+      "title": "未来5年我国能源蓝图划重点",
+      "url": "https://s.weibo.com/weibo?q=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%88%91%E5%9B%BD%E8%83%BD%E6%BA%90%E8%93%9D%E5%9B%BE%E5%88%92%E9%87%8D%E7%82%B9",
+      "hot_value": 880000
+    },
+    {
+      "rank": 3,
+      "title": "张艺谋电影 肖战",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%E7%94%B5%E5%BD%B1+%E8%82%96%E6%88%98",
+      "hot_value": 880000
+    },
+    {
+      "rank": 4,
+      "title": "只有中国人才能识别的加密暗号",
+      "url": "https://s.weibo.com/weibo?q=%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%89%8D%E8%83%BD%E8%AF%86%E5%88%AB%E7%9A%84%E5%8A%A0%E5%AF%86%E6%9A%97%E5%8F%B7",
+      "hot_value": 880000
+    },
+    {
+      "rank": 5,
+      "title": "郭敬明发百妖谱原始帧",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%E5%8F%91%E7%99%BE%E5%A6%96%E8%B0%B1%E5%8E%9F%E5%A7%8B%E5%B8%A7",
+      "hot_value": 600000
+    },
+    {
+      "rank": 6,
+      "title": "泡面不健康不是因为防腐剂",
+      "url": "https://s.weibo.com/weibo?q=%E6%B3%A1%E9%9D%A2%E4%B8%8D%E5%81%A5%E5%BA%B7%E4%B8%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E9%98%B2%E8%85%90%E5%89%82",
+      "hot_value": 480000
+    },
+    {
+      "rank": 7,
+      "title": "中国男篮不敌新西兰",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%96%B0%E8%A5%BF%E5%85%B0",
+      "hot_value": 460000
+    },
+    {
+      "rank": 8,
+      "title": "公积金用途又变多了",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%AC%E7%A7%AF%E9%87%91%E7%94%A8%E9%80%94%E5%8F%88%E5%8F%98%E5%A4%9A%E4%BA%86",
+      "hot_value": 400000
+    },
+    {
+      "rank": 9,
+      "title": "什么样的家庭可以买40万的车",
+      "url": "https://s.weibo.com/weibo?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%8F%AF%E4%BB%A5%E4%B9%B040%E4%B8%87%E7%9A%84%E8%BD%A6",
+      "hot_value": 400000
+    },
+    {
+      "rank": 10,
+      "title": "彭宇案 彭宇确实碰了老人",
+      "url": "https://s.weibo.com/weibo?q=%E5%BD%AD%E5%AE%87%E6%A1%88+%E5%BD%AD%E5%AE%87%E7%A1%AE%E5%AE%9E%E7%A2%B0%E4%BA%86%E8%80%81%E4%BA%BA",
+      "hot_value": 390000
+    },
+    {
+      "rank": 11,
+      "title": "陈奕恒腹肌",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E6%81%92%E8%85%B9%E8%82%8C",
+      "hot_value": 390000
+    },
+    {
+      "rank": 12,
+      "title": "女孩顺风车内暴晒2小时向家人求救",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E9%A1%BA%E9%A3%8E%E8%BD%A6%E5%86%85%E6%9A%B4%E6%99%922%E5%B0%8F%E6%97%B6%E5%90%91%E5%AE%B6%E4%BA%BA%E6%B1%82%E6%95%91",
+      "hot_value": 380000
+    },
+    {
+      "rank": 13,
+      "title": "大冰瘦了30斤",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E5%86%B0%E7%98%A6%E4%BA%8630%E6%96%A4",
+      "hot_value": 380000
+    },
+    {
+      "rank": 14,
+      "title": "茜拉自曝将移居中国",
+      "url": "https://s.weibo.com/weibo?q=%E8%8C%9C%E6%8B%89%E8%87%AA%E6%9B%9D%E5%B0%86%E7%A7%BB%E5%B1%85%E4%B8%AD%E5%9B%BD",
+      "hot_value": 380000
+    },
+    {
+      "rank": 15,
+      "title": "学籍顶替案哥哥称弟弟学籍也要撤销",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%A6%E7%B1%8D%E9%A1%B6%E6%9B%BF%E6%A1%88%E5%93%A5%E5%93%A5%E7%A7%B0%E5%BC%9F%E5%BC%9F%E5%AD%A6%E7%B1%8D%E4%B9%9F%E8%A6%81%E6%92%A4%E9%94%80",
+      "hot_value": 370000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局",
+      "url": "https://www.zhihu.com/question/2071644037833135057",
+      "hot_value": 3570000
+    },
+    {
+      "rank": 2,
+      "title": "为什么现在小区车位，越来越卖不动了",
+      "url": "https://www.zhihu.com/question/2050150582917259779",
+      "hot_value": 2160000
+    },
+    {
+      "rank": 3,
+      "title": "9 岁女童确诊性早熟，骨龄超实际年龄近 3 岁，长期大量摄入高碳水、经常熬夜是主要原因吗？怎样预防性早熟",
+      "url": "https://www.zhihu.com/question/2067878677702866490",
+      "hot_value": 1990000
+    },
+    {
+      "rank": 4,
+      "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地",
+      "url": "https://www.zhihu.com/question/2061136311206073648",
+      "hot_value": 1910000
+    },
+    {
+      "rank": 5,
+      "title": "多地严查社保缴纳，要求提高夯实率，有职员反映工资被下调，该如何理解",
+      "url": "https://www.zhihu.com/question/2071533345910022775",
+      "hot_value": 1880000
+    },
+    {
+      "rank": 6,
+      "title": "蔚来武汉换电站资产全面转由国资持有，其背后的商业考量是什么",
+      "url": "https://www.zhihu.com/question/2070987118307029732",
+      "hot_value": 1840000
+    },
+    {
+      "rank": 7,
+      "title": "一个每天要喝 8 杯血的吸血鬼，需要多大的贵族头衔与封地才能养活自己",
+      "url": "https://www.zhihu.com/question/2072526379137213344",
+      "hot_value": 1820000
+    },
+    {
+      "rank": 8,
+      "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗",
+      "url": "https://www.zhihu.com/question/2072598571090538898",
+      "hot_value": 1690000
+    },
+    {
+      "rank": 9,
+      "title": "《欢迎来龙餐馆》中，为什么所有对主角徐福好的人都死了",
+      "url": "https://www.zhihu.com/question/2071900200952665710",
+      "hot_value": 1660000
+    },
+    {
+      "rank": 10,
+      "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态",
+      "url": "https://www.zhihu.com/question/2072617673721226019",
+      "hot_value": 1640000
+    },
+    {
+      "rank": 11,
+      "title": "新规明确厨余垃圾不能直接喂猪，背后出于什么考量？会带来哪些影响",
+      "url": "https://www.zhihu.com/question/2072615174142255425",
+      "hot_value": 1620000
+    },
+    {
+      "rank": 12,
+      "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕",
+      "url": "https://www.zhihu.com/question/2072607943191696624",
+      "hot_value": 1420000
+    },
+    {
+      "rank": 13,
+      "title": "吴艳妮以 13 秒 12 夺得全锦赛女子 100 米栏冠军，成就三连冠和六冠王，如何评价她的表现",
+      "url": "https://www.zhihu.com/question/2072440886320019399",
+      "hot_value": 1400000
+    },
+    {
+      "rank": 14,
+      "title": "为什么拿破仑非常厉害？厉害在哪里？厉害在炮兵吗",
+      "url": "https://www.zhihu.com/question/1897758885521125838",
+      "hot_value": 1390000
+    },
+    {
+      "rank": 15,
+      "title": "如何看待 2026 年 8 月 17 日 A 股市场行情？逾 4300 只股上涨，发生了什么",
+      "url": "https://www.zhihu.com/question/2072617977044849633",
+      "hot_value": 1320000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "score": 109,
+      "author": "plurby",
+      "comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=49329575"
+    },
+    {
+      "rank": 2,
+      "title": "Incident with Github.com",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "score": 344,
+      "author": "kevcampb",
+      "comments": 272,
+      "hn_url": "https://news.ycombinator.com/item?id=49330684"
+    },
+    {
+      "rank": 3,
+      "title": "Show HN: Sokoban AI Solver",
+      "url": "https://mkornreich.me/projects/sokoban/",
+      "score": 24,
+      "author": "enjoyyourlife",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=49330215"
+    },
+    {
+      "rank": 4,
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "score": 654,
+      "author": "bilsbie",
+      "comments": 310,
+      "hn_url": "https://news.ycombinator.com/item?id=49324985"
+    },
+    {
+      "rank": 5,
+      "title": "Ask HN: Alternatives to GitHub",
+      "url": "https://news.ycombinator.com/item?id=49331033",
+      "score": 30,
+      "author": "dhruv3006",
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49331033"
+    },
+    {
+      "rank": 6,
+      "title": "GitHub down again? no PR access",
+      "url": "https://news.ycombinator.com/item?id=49330632",
+      "score": 91,
+      "author": "yodon",
+      "comments": 28,
+      "hn_url": "https://news.ycombinator.com/item?id=49330632"
+    },
+    {
+      "rank": 7,
+      "title": "How Go detects struct copies with sync.noCopy",
+      "url": "https://func25.dev/posts/go-sync-nocopy/",
+      "score": 33,
+      "author": "func25",
+      "comments": 26,
+      "hn_url": "https://news.ycombinator.com/item?id=49284983"
+    },
+    {
+      "rank": 8,
+      "title": "My Ten Years in No Man's Sky",
+      "url": "https://nmsspot.com/2026/08/09/my-ten-years-in-no-mans-sky/",
+      "score": 27,
+      "author": "blakespot",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49278577"
+    },
+    {
+      "rank": 9,
+      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "score": 3,
+      "author": "galnagli",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49331423"
+    },
+    {
+      "rank": 10,
+      "title": "Stripe to Buy OpenRouter for $7B",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "score": 67,
+      "author": "FinnLobsien",
+      "comments": 26,
+      "hn_url": "https://news.ycombinator.com/item?id=49330139"
+    },
+    {
+      "rank": 11,
+      "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+      "score": 4,
+      "author": "nyku",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49331222"
+    },
+    {
+      "rank": 12,
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "score": 3,
+      "author": "ColinWright",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49331220"
+    },
+    {
+      "rank": 13,
+      "title": "On A.I. regulation and messaging",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "score": 166,
+      "author": "jacquesm",
+      "comments": 325,
+      "hn_url": "https://news.ycombinator.com/item?id=49325789"
+    },
+    {
+      "rank": 14,
+      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "score": 519,
+      "author": "ropbear",
+      "comments": 467,
+      "hn_url": "https://news.ycombinator.com/item?id=49324087"
+    },
+    {
+      "rank": 15,
+      "title": "Mexico Crackdown on Coastal Development Underway",
+      "url": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
+      "score": 41,
+      "author": "untiledsource",
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49329583"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与自动化",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。MoneyPrinterTurbo[1] 利用大模型和自动化工作流，一键生成高清短视频，已经拿了 66,000+ star，搞内容创作的朋友可以看看。anthropic-cybersecurity-skills[2] 是个大合集，整理了 817 个结构化网络安全技能点映射到 6 大框架，想给 AI 助手喂安全知识的必看。LLMFit[3] 也是个神器，几百个模型和提供商，一条命令就能找到适合你硬件的配置，本地部署党刚需。\n\nLobsters 上关于 AI 开发的讨论挺有意思，有人发文质疑“经过审核的 AI 代码”很难说服老板买单，毕竟维护成本太高 [4]。少数派也在讨论手机里的 AI 通话功能到底是不是智商税，评论区吵翻了，看来大家还是对 AI 落地应用有分歧 [5]。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "系统底层这块今天动静不小。GitHub 上的 Strix[6] 是个开源的 AI 渗透测试工具，用来发现并修复应用漏洞，搞安全的朋友值得关注。Nautilus Trader[7] 是个基于 Rust 的生产级交易引擎，确定性事件驱动架构，性能这块没得说。\n\nLobsters 上有个帖子标题很炸：有个作者本来想造个 C 语言替代品，结果发现 C 的地位太稳，自己“彻底错了” [8]。还有篇关于快速计算星期几的汇编技巧文章，老程序员看了都得点个赞 [9]。另外，关于 Linux 内核调度器 MuQSS 的新讨论也挺多，看来 Con Kolivas 的方案还是有市场 [10]。"
+      },
+      {
+        "name": "开发工具与效率",
+        "color": "dev",
+        "summary": "搞开发的工具今天也没闲着。GitHub 上 Motrix[11] 这个下载管理器更新了，功能还是那么全，老用户回归率很高。Career-ops[12] 是个很有意思的开源求职工具，能自动扫描职位、打分评级、修改简历，还能跑在本地 AI CLI 里，不想被算法收割的打工人可以试试。\n\n少数派分享了一篇关于 INL（Input-Note-Learn）结构的知识管理经验，说是 12 年沉淀下来的精华，想优化知识管理的朋友值得细读 [13]。还有篇关于浏览器扩展的合集，推荐了几个近期好玩的“新玩意”，找灵感的时候扫一眼很合适 [14]。"
+      },
+      {
+        "name": "数码产品与生活",
+        "color": "life",
+        "summary": "数码产品这块，PixelMug 陶瓷水杯遇上像素屏的体验分享挺有质感，适合喜欢折腾复古科技的朋友 [15]。北鸮写的那支“成年人包里唯一一支笔”的导购也很实用，关键时刻能救场 [16]。\n\nLobsters 上有人分享了关于在浏览器中运行任意 Rust 应用的 BrowserPod 3.0，这算是 WASM 跑 Rust 的新突破，技术宅看了应该兴奋 [17]。还有篇回顾 AppleWorks 在 Apple II 上历史的怀旧文章，老苹果迷的情怀瞬间被拉满 [18]。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "MoneyPrinterTurbo",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+        "source": "GitHub Trending",
+        "desc": "利用 AI 大模型和自动化工作流生成短视频的项目"
+      },
+      {
+        "num": 2,
+        "title": "Anthropic-Cybersecurity-Skills",
+        "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+        "source": "GitHub Trending",
+        "desc": "映射到 6 大框架的 817 个 AI 网络安全技能结构"
+      },
+      {
+        "num": 3,
+        "title": "llmfit",
+        "url": "https://github.com/AlexsJones/llmfit",
+        "source": "GitHub Trending",
+        "desc": "统一查找和运行数百种 LLM 模型的工具"
+      },
+      {
+        "num": 4,
+        "title": "Vetted AI code is hard to justify",
+        "url": "https://amoffat.github.io/blog/vetting-burnout.html",
+        "source": "Lobsters",
+        "desc": "讨论经过审核的 AI 代码维护成本高，难以被商业接受"
+      },
+      {
+        "num": 5,
+        "title": "[有奖]手机里的 AI 通话功能，你真的在用吗？",
+        "url": "https://sspai.com/bullet/1785400922",
+        "source": "少数派",
+        "desc": "用户讨论手机 AI 通话功能的实用性与体验"
+      },
+      {
+        "num": 6,
+        "title": "strix",
+        "url": "https://github.com/usestrix/strix",
+        "source": "GitHub Trending",
+        "desc": "开源 AI 渗透测试工具，用于发现并修复应用漏洞"
+      },
+      {
+        "num": 7,
+        "title": "nautilus_trader",
+        "url": "https://github.com/nautechsystems/nautilus_trader",
+        "source": "GitHub Trending",
+        "desc": "基于 Rust 的生产级确定性事件驱动交易引擎"
+      },
+      {
+        "num": 8,
+        "title": "I thought I was building a C replacement. I was wrong",
+        "url": "https://c3-lang.org/blog/i_thought_i_was_building_a_c_replacement/",
+        "source": "Lobsters",
+        "desc": "开发者反思 C 语言不可替代性的博客文章"
+      },
+      {
+        "num": 9,
+        "title": "A faster way to calculate the day-of-the-week",
+        "url": "https://www.benjoffe.com/fast-day-of-week",
+        "source": "Lobsters",
+        "desc": "使用汇编和数学技巧快速计算星期几的算法文章"
+      },
+      {
+        "num": 10,
+        "title": "MuQSS CPU scheduler for Linux 7.2",
+        "url": "https://lore.kernel.org/lkml/CABqErrH=oQ3povVuSPhRON97v63=mB85jQmZjf443ofdYAuxxw@mail.gmail.com/",
+        "source": "Lobsters",
+        "desc": "Linux 内核调度器 MuQSS 的新版本讨论"
+      },
+      {
+        "num": 11,
+        "title": "Motrix",
+        "url": "https://github.com/agalwood/Motrix",
+        "source": "GitHub Trending",
+        "desc": "一款功能全面的开源下载管理器"
+      },
+      {
+        "num": 12,
+        "title": "career-ops",
+        "url": "https://github.com/santifer/career-ops",
+        "source": "GitHub Trending",
+        "desc": "基于本地 AI 的开源求职简历优化与追踪工具"
+      },
+      {
+        "num": 13,
+        "title": "分享我知识管理 12 年来最重要的经验：INL 结构",
+        "url": "https://sspai.com/post/113368",
+        "source": "少数派",
+        "desc": "关于 INL（输入 - 笔记 - 学习）结构的知识管理方法论"
+      },
+      {
+        "num": 14,
+        "title": "浏览器扩展合集：我们为你找到了这 6 款实用、有趣的「新玩意」",
+        "url": "https://sspai.com/post/113495",
+        "source": "少数派",
+        "desc": "推荐近期好用的浏览器扩展插件合集"
+      },
+      {
+        "num": 15,
+        "title": "当陶瓷水杯遇上像素屏：PixelMug 体验",
+        "url": "https://sspai.com/post/113448",
+        "source": "少数派",
+        "desc": "PixelMug 陶瓷像素杯的实物体验评测"
+      },
+      {
+        "num": 16,
+        "title": "成年人包里的唯一一支笔：模块笔入门导购",
+        "url": "https://sspai.com/post/113445",
+        "source": "少数派",
+        "desc": "模块化笔具的入门选购指南"
+      },
+      {
+        "num": 17,
+        "title": "Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0",
+        "url": "https://labs.leaningtech.com/blog/browserpod-rust.html",
+        "source": "Lobsters",
+        "desc": "在浏览器中运行任意 Rust 应用的新技术 BrowserPod 3.0"
+      },
+      {
+        "num": 18,
+        "title": "AppleWorks on the Apple II",
+        "url": "https://stonetools.ghost.io/appleworks-apple2/",
+        "source": "Lobsters",
+        "desc": "回顾 AppleWorks 软件在经典 Apple II 电脑上的历史"
+      }
+    ],
+    "stats": {
+      "total_items": 18,
+      "total_categories": 4,
+      "total_sources": 18
+    }
+  }
+}
