@@ -1,0 +1,903 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "harry0703 / MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars": "107818",
+      "stars_today": "2,306 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 2,
+      "title": "chaitanyagiri / munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "stars": "1750",
+      "stars_today": "256 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 3,
+      "title": "akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": "2519",
+      "stars_today": "207 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 4,
+      "title": "volcengine / OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "stars": "29119",
+      "stars_today": "239 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "mukul975 / Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "stars": "28880",
+      "stars_today": "726 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 6,
+      "title": "public-apis / public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "stars": "463925",
+      "stars_today": "1,907 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "basecamp / omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "stars": "26232",
+      "stars_today": "710 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 8,
+      "title": "agalwood / Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "stars": "53471",
+      "stars_today": "607 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 9,
+      "title": "NawfalMotii79 / PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "stars": "24187",
+      "stars_today": "204 stars today",
+      "language": "PLSQL"
+    },
+    {
+      "rank": 10,
+      "title": "jundot / omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "stars": "19245",
+      "stars_today": "366 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 11,
+      "title": "genlayerlabs / genlayer-project-boilerplate",
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "description": "",
+      "stars": "15827",
+      "stars_today": "543 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 12,
+      "title": "OpenCut-app / OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "stars": "84548",
+      "stars_today": "682 stars today",
+      "language": "TypeScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Rethinking Database Programming",
+      "url": "https://acadia.engineering/blog/rethinking-database-programming",
+      "source_url": "https://acadia.engineering/blog/rethinking-database-programming",
+      "tags": [
+        "databases",
+        "elm",
+        "plt"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "source_url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "tags": [
+        "ios"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "How I browse the Web with uBlock (Hard Mode)",
+      "url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+      "source_url": "https://untrusem.party/blog/how-I-browse-the-web-with-Ublock-Hard-Mode.html",
+      "tags": [
+        "browsers",
+        "privacy"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "GitHub has alternatives, but no replacement",
+      "url": "https://lalitm.com/post/github-alternatives/",
+      "source_url": "https://lalitm.com/post/github-alternatives/",
+      "tags": [
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Does it make sense to switch to a Github Alternative ?",
+      "url": "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github",
+      "source_url": "https://lobste.rs/s/0zdh32/does_it_make_sense_switch_github",
+      "tags": [
+        "ask",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Biboumi – XMPP gateway to IRC",
+      "url": "https://biboumi.codeberg.page/doc/",
+      "source_url": "https://biboumi.codeberg.page/doc/",
+      "tags": [
+        "networking"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "AI;DR (AI; Didn’t Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "source_url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "source_url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "tags": [
+        "games",
+        "historical",
+        "reversing"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "Using the railway network as a flatbed scanner",
+      "url": "https://philo.gay/linecam/",
+      "source_url": "https://philo.gay/linecam/",
+      "tags": [
+        "art"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+      "source_url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+      "tags": [
+        "ai",
+        "art"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "CSS: the bomb inside your inbox",
+      "url": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+      "source_url": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "The benchmarkpocalypse",
+      "url": "https://danluu.com/benchpocalypse/",
+      "source_url": "https://danluu.com/benchpocalypse/",
+      "tags": [
+        "performance",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
+      "source_url": "https://duckdb.org/2026/08/17/duckdb-20-highlights.html",
+      "tags": [
+        "databases"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "Actual Budget",
+      "url": "https://actualbudget.org/",
+      "source_url": "https://actualbudget.org/",
+      "tags": [
+        "finance",
+        "javascript"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Fairphone 6 + PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "source_url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "tags": [
+        "hardware",
+        "mobile"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机Matrix机器人17:01",
+      "url": "https://sspai.com/post/113593",
+      "author": "Matrix机器人",
+      "summary": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机"
+    },
+    {
+      "rank": 2,
+      "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会听歌的水獭15:05",
+      "url": "https://sspai.com/post/113564",
+      "author": "听歌的水獭",
+      "summary": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会"
+    },
+    {
+      "rank": 3,
+      "title": "App+1 | 让任务栏更有用：WindowSill北鸮14:30",
+      "url": "https://sspai.com/post/113438",
+      "author": "北鸮",
+      "summary": "App+1 | 让任务栏更有用：WindowSill"
+    },
+    {
+      "rank": 4,
+      "title": "7月音乐精选：夏天赠予我们的 9 张专辑麻乐10:52",
+      "url": "https://sspai.com/post/113454",
+      "author": "麻乐",
+      "summary": "7月音乐精选：夏天赠予我们的 9 张专辑"
+    },
+    {
+      "rank": 5,
+      "title": "派早报：阿里巴巴出售灵犀互娱，Linux 7.2 内核稳定版发布等少数派编辑部08:04派早报",
+      "url": "https://sspai.com/post/113566",
+      "author": "少数派编辑部",
+      "summary": "派早报：阿里巴巴出售灵犀互娱，Linux 7.2 内核稳定版发布等"
+    },
+    {
+      "rank": 6,
+      "title": "[有奖]手机里的 AI 通话功能，你真的在用吗？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1785400922",
+      "author": "一派讨论",
+      "summary": "[有奖]手机里的 AI 通话功能，你真的在用吗？"
+    },
+    {
+      "rank": 7,
+      "title": "派评 | 近期值得关注的 App少数派编辑部昨天 18:14",
+      "url": "https://sspai.com/post/113544",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 8,
+      "title": "分享我知识管理 12 年来最重要的经验：INL 结构羊清乐昨天 15:00视频",
+      "url": "https://sspai.com/post/113368",
+      "author": "羊清乐",
+      "summary": "分享我知识管理 12 年来最重要的经验：INL 结构"
+    },
+    {
+      "rank": 9,
+      "title": "当陶瓷水杯遇上像素屏：PixelMug 体验M00Nface昨天 13:55",
+      "url": "https://sspai.com/post/113448",
+      "author": "M00Nface",
+      "summary": "当陶瓷水杯遇上像素屏：PixelMug 体验"
+    },
+    {
+      "rank": 10,
+      "title": "成年人包里的唯一一支笔：模块笔入门导购如果你的包里想带一支笔以备不时之需，这支笔应该就是你想要的。北鸮昨天 11:00",
+      "url": "https://sspai.com/post/113445",
+      "author": "北鸮",
+      "summary": "成年人包里的唯一一支笔：模块笔入门导购"
+    },
+    {
+      "rank": 11,
+      "title": "快速投票：模型打平、Harness 见分晓，你平时用哪一款？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1785741878",
+      "author": "一派讨论",
+      "summary": "快速投票：模型打平、Harness 见分晓，你平时用哪一款？"
+    },
+    {
+      "rank": 12,
+      "title": "派早报：😭（放声大哭）成为最流行 emoji少数派编辑部昨天 06:54派早报",
+      "url": "https://sspai.com/post/113524",
+      "author": "少数派编辑部",
+      "summary": "派早报：😭（放声大哭）成为最流行 emoji"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "公积金条例修改",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%AC%E7%A7%AF%E9%87%91%E6%9D%A1%E4%BE%8B%E4%BF%AE%E6%94%B9",
+      "hot_value": 850000
+    },
+    {
+      "rank": 2,
+      "title": "第七届中非媒体合作论坛",
+      "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%83%E5%B1%8A%E4%B8%AD%E9%9D%9E%E5%AA%92%E4%BD%93%E5%90%88%E4%BD%9C%E8%AE%BA%E5%9D%9B",
+      "hot_value": 570000
+    },
+    {
+      "rank": 3,
+      "title": "公积金新规 通俗解读",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E8%A7%84+%E9%80%9A%E4%BF%97%E8%A7%A3%E8%AF%BB",
+      "hot_value": 560000
+    },
+    {
+      "rank": 4,
+      "title": "住房公积金新政来了",
+      "url": "https://s.weibo.com/weibo?q=%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E6%96%B0%E6%94%BF%E6%9D%A5%E4%BA%86",
+      "hot_value": 490000
+    },
+    {
+      "rank": 5,
+      "title": "苹果大波新品泄密",
+      "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%A4%A7%E6%B3%A2%E6%96%B0%E5%93%81%E6%B3%84%E5%AF%86",
+      "hot_value": 440000
+    },
+    {
+      "rank": 6,
+      "title": "重器男二",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%8D%E5%99%A8%E7%94%B7%E4%BA%8C",
+      "hot_value": 430000
+    },
+    {
+      "rank": 7,
+      "title": "披荆斩棘一公小考分组倒挂",
+      "url": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%B8%80%E5%85%AC%E5%B0%8F%E8%80%83%E5%88%86%E7%BB%84%E5%80%92%E6%8C%82",
+      "hot_value": 430000
+    },
+    {
+      "rank": 8,
+      "title": "外交部不再称靖国神社直接叫战犯神社",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%B8%8D%E5%86%8D%E7%A7%B0%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E7%9B%B4%E6%8E%A5%E5%8F%AB%E6%88%98%E7%8A%AF%E7%A5%9E%E7%A4%BE",
+      "hot_value": 430000
+    },
+    {
+      "rank": 9,
+      "title": "调查组通报杭州酒局事件",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%83%E6%9F%A5%E7%BB%84%E9%80%9A%E6%8A%A5%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E4%BA%8B%E4%BB%B6",
+      "hot_value": 420000
+    },
+    {
+      "rank": 10,
+      "title": "章子怡套现3亿",
+      "url": "https://s.weibo.com/weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E5%A5%97%E7%8E%B03%E4%BA%BF",
+      "hot_value": 410000
+    },
+    {
+      "rank": 11,
+      "title": "杭州酒局知情人称女生求助无果反抗",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E5%A5%B3%E7%94%9F%E6%B1%82%E5%8A%A9%E6%97%A0%E6%9E%9C%E5%8F%8D%E6%8A%97",
+      "hot_value": 390000
+    },
+    {
+      "rank": 12,
+      "title": "刘亦菲整个团队都穿黑色",
+      "url": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E6%95%B4%E4%B8%AA%E5%9B%A2%E9%98%9F%E9%83%BD%E7%A9%BF%E9%BB%91%E8%89%B2",
+      "hot_value": 380000
+    },
+    {
+      "rank": 13,
+      "title": "郭敬明把艾米婴儿肥减没了",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%E6%8A%8A%E8%89%BE%E7%B1%B3%E5%A9%B4%E5%84%BF%E8%82%A5%E5%87%8F%E6%B2%A1%E4%BA%86",
+      "hot_value": 360000
+    },
+    {
+      "rank": 14,
+      "title": "小米新一代玄戒芯片即将发布",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%96%B0%E4%B8%80%E4%BB%A3%E7%8E%84%E6%88%92%E8%8A%AF%E7%89%87%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83",
+      "hot_value": 340000
+    },
+    {
+      "rank": 15,
+      "title": "让迪丽热巴涨粉八百万的台词",
+      "url": "https://s.weibo.com/weibo?q=%E8%AE%A9%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B6%A8%E7%B2%89%E5%85%AB%E7%99%BE%E4%B8%87%E7%9A%84%E5%8F%B0%E8%AF%8D",
+      "hot_value": 340000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "康师傅、统一方便面业务上半年双双增长，是什么原因让方便面再度「香」起来",
+      "url": "https://www.zhihu.com/question/2070835091132125605",
+      "hot_value": 8300000
+    },
+    {
+      "rank": 2,
+      "title": "官方调整住房公积金政策，租房提取公积金取消收入比例门槛，装修自住住房可提取公积金，哪些变化值得关注",
+      "url": "https://www.zhihu.com/question/2073094932298822565",
+      "hot_value": 3770000
+    },
+    {
+      "rank": 3,
+      "title": "小米集团第二季度总收入 1089 亿元，经调整净利润 62 亿元，如何评价其业绩表现",
+      "url": "https://www.zhihu.com/question/2073101523161192426",
+      "hot_value": 2070000
+    },
+    {
+      "rank": 4,
+      "title": "如何看待王传君近年来多次与爱情公寓和解？为什么感觉他这几年 CUE 到爱情公寓比邓家佳孙艺洲等人还要多",
+      "url": "https://www.zhihu.com/question/2072445082930881876",
+      "hot_value": 2050000
+    },
+    {
+      "rank": 5,
+      "title": "官方通报杭州酒局事件，赵某峰、郁某栋已被刑拘，二人对被害人实施强制猥亵并致其受伤，哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2073089501455504915",
+      "hot_value": 2040000
+    },
+    {
+      "rank": 6,
+      "title": "日本正式实施高端机床出口管制新规，这意味着什么",
+      "url": "https://www.zhihu.com/question/2069052566969885450",
+      "hot_value": 2040000
+    },
+    {
+      "rank": 7,
+      "title": "罗斯柴尔德家族真的像《货币战争》中描述的那么厉害吗",
+      "url": "https://www.zhihu.com/question/29983694",
+      "hot_value": 2030000
+    },
+    {
+      "rank": 8,
+      "title": "档案袋被长辈不慎拆开，毕业生崩溃大吼，学生的档案袋里都有什么？不小心被拆开后如何补救",
+      "url": "https://www.zhihu.com/question/2072646823832031784",
+      "hot_value": 1390000
+    },
+    {
+      "rank": 9,
+      "title": "榴莲价格大幅回落，多地金枕榴莲售价降至 19.9 元一斤，为什么会降这么多？你最近买了吗",
+      "url": "https://www.zhihu.com/question/2072774044961788460",
+      "hot_value": 1310000
+    },
+    {
+      "rank": 10,
+      "title": "继林肯号后，华盛顿号航母也被曝厕所卫生状况恶劣，美航母卫生条件为啥这么差？会影响其在中东的军事部署吗",
+      "url": "https://www.zhihu.com/question/2073037772835615238",
+      "hot_value": 1260000
+    },
+    {
+      "rank": 11,
+      "title": "日媒称日本在「汇率战争」中「战败」，日本经济面临怎样的两难困境",
+      "url": "https://www.zhihu.com/question/2071248008604292675",
+      "hot_value": 1200000
+    },
+    {
+      "rank": 12,
+      "title": "如果没有中科大，合肥会沦为南昌，石家庄，太原之类二流城市，失去如今地位与潜力吗？科大是决定性要素吗",
+      "url": "https://www.zhihu.com/question/2069629696732553285",
+      "hot_value": 1090000
+    },
+    {
+      "rank": 13,
+      "title": "招商蛇口浙江公司负责人赵某峰涉嫌商务饭局中侵犯女性，目前已被免职，接受警方调查，有哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2072862065841198775",
+      "hot_value": 1050000
+    },
+    {
+      "rank": 14,
+      "title": "博主爆料 TI15 已经日薪 280 元请人暖场，为什么享受纯粹高水平游戏较量的观众这么少",
+      "url": "https://www.zhihu.com/question/2072631801164424275",
+      "hot_value": 1020000
+    },
+    {
+      "rank": 15,
+      "title": "诺兰在《奥德赛》中批判了木马计，认为诡计会摧毁文明的根基，这种崇尚仁义的战争观在现实中可行吗",
+      "url": "https://www.zhihu.com/question/2072765824906089347",
+      "hot_value": 980000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "The Amazon Tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "score": 85,
+      "author": "herbertl",
+      "comments": 42,
+      "hn_url": "https://news.ycombinator.com/item?id=49345263"
+    },
+    {
+      "rank": 2,
+      "title": "Using the railway network as a flatbed scanner",
+      "url": "https://philo.gay/linecam/",
+      "score": 130,
+      "author": "otherayden",
+      "comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=49344825"
+    },
+    {
+      "rank": 3,
+      "title": "Fixing a Bricked Framework Laptop",
+      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+      "score": 56,
+      "author": "jp_sc",
+      "comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=49345220"
+    },
+    {
+      "rank": 4,
+      "title": "Linux 7.3 improves performance when running out of vRAM",
+      "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+      "score": 349,
+      "author": "flaburgan",
+      "comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=49342719"
+    },
+    {
+      "rank": 5,
+      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+      "score": 23,
+      "author": "jeroenjanssens",
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49345476"
+    },
+    {
+      "rank": 6,
+      "title": "Teaching my kid to code with a modern MUD",
+      "url": "https://tau.dev/2026/08/07/canon",
+      "score": 86,
+      "author": "andrewjanke",
+      "comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=49272631"
+    },
+    {
+      "rank": 7,
+      "title": "Fairphone is now officially available in the United States",
+      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+      "score": 115,
+      "author": "Vinnl",
+      "comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=49344811"
+    },
+    {
+      "rank": 8,
+      "title": "Kent Beck: Composable Tests",
+      "url": "https://newsletter.kentbeck.com/p/composable-tests",
+      "score": 15,
+      "author": "vinipolicena",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49345094"
+    },
+    {
+      "rank": 9,
+      "title": "Google buys crashed airline Spirit's data at auction, because AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "score": 326,
+      "author": "pseudolus",
+      "comments": 209,
+      "hn_url": "https://news.ycombinator.com/item?id=49343559"
+    },
+    {
+      "rank": 10,
+      "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+      "url": "https://github.com/pitiflautico/neobrowser",
+      "score": 17,
+      "author": "pitiflautico",
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=49345320"
+    },
+    {
+      "rank": 11,
+      "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+      "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+      "score": 95,
+      "author": "DeepLogin",
+      "comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=49344654"
+    },
+    {
+      "rank": 12,
+      "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
+      "url": "https://github.com/mukundzha/avouch",
+      "score": 21,
+      "author": "mukundzha6",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=49345154"
+    },
+    {
+      "rank": 13,
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "score": 624,
+      "author": "gavide",
+      "comments": 391,
+      "hn_url": "https://news.ycombinator.com/item?id=49338459"
+    },
+    {
+      "rank": 14,
+      "title": "Deus Ex creator Warren Spector is retiring from game development",
+      "url": "https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/",
+      "score": 55,
+      "author": "danbolt",
+      "comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=49345070"
+    },
+    {
+      "rank": 15,
+      "title": "Show HN: A local MitM proxy to control TLS fingerprints",
+      "url": "https://github.com/ytkoka/impersonate-proxy",
+      "score": 7,
+      "author": "ytkoka",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49345091"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发",
+        "color": "ai",
+        "summary": "今天 GitHub 的 AI 智能体赛道彻底杀疯了。首先是 MoneyPrinterTurbo[1]，这个一键生成高清短视频的项目直接拿了 20k+ star，靠的是大模型加自动化工作流，搞创作的真的可以试试。还有 chaitanyagiri 的 munder-difflin[2]，搞本地多智能体编排的，架构挺有意思。akitaonrails 的 ai-memory[3] 解决的是智能体长期记忆痛点，方便不同厂商之间的交接。值得一提的是 volcengine 的 OpenViking[4]，把智能体记忆、知识库 RAG 和技能全统一了，这思路很清晰。搞安全的朋友必须看 mukul975 的 Anthropic-Cybersecurity-Skills[5]，800 多个结构化技能点，覆盖了 MITRE ATT&CK 等主流框架，简直是给 AI 智能体穿防弹衣。\n\n社区这边 Lobsters 上有个帖子 We Tracked a Shipment of Rare Books[6]，追踪了一批稀有书籍，最后发现去了亚马逊的 AI 训练设施，这操作有点细思极恐。少数派的文章里也提到了 AI 代码助手大乱斗[7]，讨论挺激烈，看来大家都在抢着给 AI 工具找定位。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术这块今天动静也不小。GitHub 上的 basecamp 推出了 omarchy[8]，号称是美丽、现代且观点鲜明的 Linux 发行版，这种“强主见”的系统还挺少见。jundot 的 omlx[9] 专门针对 Apple Silicon 做了 LLM 推理服务优化，直接从菜单栏管理，苹果用户很懂行。\n\nLobsters 上大家吵得最凶的是 GitHub 有替代品但没替代品[10]，讨论 VCS 的生态位。还有一篇关于如何只用 uBlock 浏览网页的“困难模式”指南[11]，隐私党狂喜。少数派早报里也提到了 Linux 7.2 内核稳定版发布[12]，算是给开源社区的一个好消息。"
+      },
+      {
+        "name": "效率工具与数码产品",
+        "color": "tools",
+        "summary": "工具类项目今天有几个实用的。public-apis[13] 依然是那个 API 集合列表，虽然老但常新。Motrix[14] 作为下载管理器也在榜，UI 确实做得不错。NawfalMotii79 搞了个开源的低成本相控阵雷达 PLFM_RADAR[15]，硬核程度满分。OpenCut-app[16] 是 CapCut 的开源替代品，功能还没完全对齐但方向对了。\n\n数码产品方面，少数派有个关于陶瓷水杯遇上像素屏的 PixelMug 体验[17]，这玩意儿看着就很治愈。还有一个关于成年人包里唯一一支笔的模块笔导购[18]，虽然小众但能看出大家开始回归实体工具了。Lobsters 上还有关于 Fairphone 6 搭配 PostmarketOS 主摄可用的帖子[19]，开源硬件党的福音。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天看到很多有深度的思考。Lobsters 上有个 CSS: the bomb inside your inbox[20]，讲 CSS 在邮件里的安全隐患，搞安全的朋友必看，这角度很刁钻。还有 The benchmarkpocalypse[21]，吐槽基准测试泛滥的问题，振振有词。\n\nRethinking Database Programming[22] 这篇文章在 Lobsters 上被推得很高，重新思考数据库编程范式，对 Elm 和 PLT 感兴趣的人可以看看。少数派里有一篇关于知识管理 12 年经验的 INL 结构分享[23]，干货满满，对于长期做知识沉淀的人很有参考价值。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "MoneyPrinterTurbo",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+        "source": "GitHub",
+        "desc": "利用 AI 大模型一键生成高清短视频的自动化工作流项目"
+      },
+      {
+        "num": 2,
+        "title": "munder-difflin",
+        "url": "https://github.com/chaitanyagiri/munder-difflin",
+        "source": "GitHub",
+        "desc": "本地多智能体编排工具"
+      },
+      {
+        "num": 3,
+        "title": "ai-memory",
+        "url": "https://github.com/akitaonrails/ai-memory",
+        "source": "GitHub",
+        "desc": "为 Agent CLI 提供长期记忆解决方案"
+      },
+      {
+        "num": 4,
+        "title": "OpenViking",
+        "url": "https://github.com/volcengine/OpenViking",
+        "source": "GitHub",
+        "desc": "AI 智能体的自进化上下文数据库"
+      },
+      {
+        "num": 5,
+        "title": "Anthropic-Cybersecurity-Skills",
+        "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+        "source": "GitHub",
+        "desc": "800+ 个结构化的网络安全技能映射，适用于各类 AI 工具"
+      },
+      {
+        "num": 6,
+        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+        "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+        "source": "Lobsters",
+        "desc": "追踪稀有书籍流向亚马逊 AI 训练设施的观察"
+      },
+      {
+        "num": 7,
+        "title": "社区速递 154 | AI 代码助手大乱斗",
+        "url": "https://sspai.com/post/113593",
+        "source": "少数派",
+        "desc": "关于 AI 代码助手市场竞争的社区讨论"
+      },
+      {
+        "num": 8,
+        "title": "omarchy",
+        "url": "https://github.com/basecamp/omarchy",
+        "source": "GitHub",
+        "desc": "Basecamp 推出的现代且观点鲜明的 Linux 发行版"
+      },
+      {
+        "num": 9,
+        "title": "omlx",
+        "url": "https://github.com/jundot/omlx",
+        "source": "GitHub",
+        "desc": "针对 Apple Silicon 优化的 LLM 推理服务器"
+      },
+      {
+        "num": 10,
+        "title": "GitHub has alternatives, but no replacement",
+        "url": "https://lalitm.com/post/github-alternatives/",
+        "source": "Lobsters",
+        "desc": "探讨是否存在能完全替代 GitHub 的 VCS 平台"
+      },
+      {
+        "num": 11,
+        "title": "How I browse the Web with uBlock (Hard Mode)",
+        "url": "https://untrusem.party/blog/how-I-browse-the-Web-with-Ublock-Hard-Mode.html",
+        "source": "Lobsters",
+        "desc": "仅使用 uBlock 进行极致隐私浏览的教程"
+      },
+      {
+        "num": 12,
+        "title": "派早报：阿里巴巴出售灵犀互娱，Linux 7.2 内核稳定版发布等",
+        "url": "https://sspai.com/post/113566",
+        "source": "少数派",
+        "desc": "包含 Linux 7.2 内核发布在内的行业快讯"
+      },
+      {
+        "num": 13,
+        "title": "public-apis",
+        "url": "https://github.com/public-apis/public-apis",
+        "source": "GitHub",
+        "desc": "免费的公共 API 集合列表"
+      },
+      {
+        "num": 14,
+        "title": "Motrix",
+        "url": "https://github.com/agalwood/Motrix",
+        "source": "GitHub",
+        "desc": "全功能的下载管理器"
+      },
+      {
+        "num": 15,
+        "title": "PLFM_RADAR",
+        "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+        "source": "GitHub",
+        "desc": "开源低成本相控阵雷达系统"
+      },
+      {
+        "num": 16,
+        "title": "OpenCut",
+        "url": "https://github.com/OpenCut-app/OpenCut",
+        "source": "GitHub",
+        "desc": "开源的 CapCut 替代品"
+      },
+      {
+        "num": 17,
+        "title": "当陶瓷水杯遇上像素屏：PixelMug 体验",
+        "url": "https://sspai.com/post/113448",
+        "source": "少数派",
+        "desc": "像素屏幕陶瓷水杯的评测体验"
+      },
+      {
+        "num": 18,
+        "title": "成年人包里的唯一一支笔：模块笔入门导购",
+        "url": "https://sspai.com/post/113445",
+        "source": "少数派",
+        "desc": "模块笔的入门使用指南"
+      },
+      {
+        "num": 19,
+        "title": "Fairphone 6 + PostmarketOS working main camera",
+        "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+        "source": "Lobsters",
+        "desc": "Fairphone 6 在 PostmarketOS 下主摄可用的测试"
+      },
+      {
+        "num": 20,
+        "title": "CSS: the bomb inside your inbox",
+        "url": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+        "source": "Lobsters",
+        "desc": "揭示邮件中 CSS 代码的安全隐患"
+      },
+      {
+        "num": 21,
+        "title": "The benchmarkpocalypse",
+        "url": "https://danluu.com/benchpocalypse/",
+        "source": "Lobsters",
+        "desc": "对当前基准测试泛滥现象的批评"
+      },
+      {
+        "num": 22,
+        "title": "Rethinking Database Programming",
+        "url": "https://acadia.engineering/blog/rethinking-database-programming",
+        "source": "Lobsters",
+        "desc": "重新思考数据库编程范式的文章"
+      },
+      {
+        "num": 23,
+        "title": "分享我知识管理 12 年来最重要的经验：INL 结构",
+        "url": "https://sspai.com/post/113368",
+        "source": "少数派",
+        "desc": "资深用户的知识管理方法论分享"
+      }
+    ],
+    "stats": {
+      "total_items": 23,
+      "total_categories": 4,
+      "total_sources": 23
+    }
+  }
+}
