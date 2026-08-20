@@ -1,0 +1,873 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "modular / modular",
+      "url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "stars": "27610",
+      "stars_today": "340 stars today",
+      "language": "Mojo"
+    },
+    {
+      "rank": 2,
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": "225273",
+      "stars_today": "2,267 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 3,
+      "title": "AprilNEA / OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "stars": "11286",
+      "stars_today": "1,225 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 4,
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": "274722",
+      "stars_today": "749 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 5,
+      "title": "cursor / plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": "3907",
+      "stars_today": "473 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 6,
+      "title": "santifer / career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "stars": "66320",
+      "stars_today": "855 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 7,
+      "title": "akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": "3424",
+      "stars_today": "335 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 8,
+      "title": "harry0703 / MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars": "112501",
+      "stars_today": "2,774 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "agent-substrate / substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "stars": "1313",
+      "stars_today": "26 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 10,
+      "title": "chaitanyagiri / munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "stars": "2992",
+      "stars_today": "517 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 11,
+      "title": "PostHog / posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "stars": "37852",
+      "stars_today": "41 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 12,
+      "title": "mahlernim / google-timeline-visualizer",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "stars": "1138",
+      "stars_today": "575 stars today",
+      "language": "Kotlin"
+    },
+    {
+      "rank": 13,
+      "title": "volcengine / OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "stars": "30820",
+      "stars_today": "955 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 14,
+      "title": "JuliusBrussee / caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": "99423",
+      "stars_today": "286 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 15,
+      "title": "makeplane / plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "stars": "56268",
+      "stars_today": "54 stars today",
+      "language": "TypeScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "What Zig felt like, coming from Rust",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "source_url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "tags": [
+        "rust",
+        "vibecoding",
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "HTML Can Do That",
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "source_url": "https://chrisburnell.com/html-can-do-that/",
+      "tags": [
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "Plain Text Accounting is Pretty Cool",
+      "url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
+      "source_url": "https://sumnerevans.com/posts/money/plain-text-accounting/",
+      "tags": [
+        "finance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Reclaim the terminal",
+      "url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+      "source_url": "https://nishantjosh.dev/blogs/reclaim-the-terminal/",
+      "tags": [
+        "rust",
+        "unix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Supply chain attack on arrayref",
+      "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+      "source_url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+      "tags": [
+        "rust",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Go 1.27 is released",
+      "url": "https://go.dev/blog/go1.27",
+      "source_url": "https://go.dev/blog/go1.27",
+      "tags": [
+        "go",
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Why I still hand write my commit messages",
+      "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
+      "source_url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
+      "tags": [
+        "practices",
+        "vcs",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "Sing-song: a speakable encoding for long numbers and keys",
+      "url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+      "source_url": "https://blog.vrypan.net/2026/08/19/260819-sing-song/",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "source_url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "tags": [
+        "browsers",
+        "privacy"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "Bun 1.4 Rust rewrite is not looking good",
+      "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+      "source_url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "If this is true, the hyperscalers are toast",
+      "url": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
+      "source_url": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Why compiling Rust to WebAssembly is slow",
+      "url": "https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow/",
+      "source_url": "https://00f.net/2026/08/19/why-compiling-rust-to-webassembly-is-slow/",
+      "tags": [
+        "rust",
+        "wasm"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "How a joke domain purchase turned into geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "source_url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "Ploopy A+ (external trackball)",
+      "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+      "source_url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Reverse-engineering Find My People to stalk ̶m̶y̶ ̶e̶x̶ a friend, cause I can",
+      "url": "https://zerotistic.blog/posts/find-my-people-linux/",
+      "source_url": "https://zerotistic.blog/posts/find-my-people-linux/",
+      "tags": [
+        "reversing"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "新玩意 249｜少数派的编辑们最近买了啥？少数派编辑部17:30",
+      "url": "https://sspai.com/post/113650",
+      "author": "少数派编辑部",
+      "summary": "新玩意 249｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 2,
+      "title": "十年阅读历程，这是我的阅读工具推荐ElijahLee15:25",
+      "url": "https://sspai.com/post/113567",
+      "author": "ElijahLee",
+      "summary": "十年阅读历程，这是我的阅读工具推荐"
+    },
+    {
+      "rank": 3,
+      "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测WangMT10:41Matrix精选",
+      "url": "https://sspai.com/post/113497",
+      "author": "WangMT",
+      "summary": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本少数派编辑部08:46派早报",
+      "url": "https://sspai.com/post/113638",
+      "author": "少数派编辑部",
+      "summary": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本"
+    },
+    {
+      "rank": 5,
+      "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息Vanilla昨天 17:39",
+      "url": "https://sspai.com/post/113618",
+      "author": "Vanilla",
+      "summary": "iOS 27 测试版近期动向，还有 Apple 产品新消息"
+    },
+    {
+      "rank": 6,
+      "title": "[有奖]手机里的 AI 通话功能，你真的在用吗？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1785400922",
+      "author": "一派讨论",
+      "summary": "[有奖]手机里的 AI 通话功能，你真的在用吗？"
+    },
+    {
+      "rank": 7,
+      "title": "《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了游研社昨天 15:20",
+      "url": "https://sspai.com/post/113588",
+      "author": "游研社",
+      "summary": "《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了"
+    },
+    {
+      "rank": 8,
+      "title": "App+1 | Inkive：把纸质书上划好的线存进 Obsidianjiyee昨天 10:54Matrix精选",
+      "url": "https://sspai.com/post/111936",
+      "author": "jiyee",
+      "summary": "App+1 | Inkive：把纸质书上划好的线存进 Obsidian"
+    },
+    {
+      "rank": 9,
+      "title": "派早报：iQOO 发布手机新品、闪极举行 Loomos AI 眼镜发布会等少数派编辑部昨天 08:30派早报",
+      "url": "https://sspai.com/post/113607",
+      "author": "少数派编辑部",
+      "summary": "派早报：iQOO 发布手机新品、闪极举行 Loomos AI 眼镜发布会等"
+    },
+    {
+      "rank": 10,
+      "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机Matrix机器人前天 17:01",
+      "url": "https://sspai.com/post/113593",
+      "author": "Matrix机器人",
+      "summary": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机"
+    },
+    {
+      "rank": 11,
+      "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会听歌的水獭前天 15:05",
+      "url": "https://sspai.com/post/113564",
+      "author": "听歌的水獭",
+      "summary": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会"
+    },
+    {
+      "rank": 12,
+      "title": "快速投票：模型打平、Harness 见分晓，你平时用哪一款？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1785741878",
+      "author": "一派讨论",
+      "summary": "快速投票：模型打平、Harness 见分晓，你平时用哪一款？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "日本旅游业凉了",
+      "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B8%9A%E5%87%89%E4%BA%86",
+      "hot_value": 830000
+    },
+    {
+      "rank": 2,
+      "title": "县域消费跑出加速度",
+      "url": "https://s.weibo.com/weibo?q=%E5%8E%BF%E5%9F%9F%E6%B6%88%E8%B4%B9%E8%B7%91%E5%87%BA%E5%8A%A0%E9%80%9F%E5%BA%A6",
+      "hot_value": 640000
+    },
+    {
+      "rank": 3,
+      "title": "癌症疫苗",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97",
+      "hot_value": 540000
+    },
+    {
+      "rank": 4,
+      "title": "小沈阳发言时孙楠表情",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%8F%91%E8%A8%80%E6%97%B6%E5%AD%99%E6%A5%A0%E8%A1%A8%E6%83%85",
+      "hot_value": 430000
+    },
+    {
+      "rank": 5,
+      "title": "致孕妇误服液体医生被停职",
+      "url": "https://s.weibo.com/weibo?q=%E8%87%B4%E5%AD%95%E5%A6%87%E8%AF%AF%E6%9C%8D%E6%B6%B2%E4%BD%93%E5%8C%BB%E7%94%9F%E8%A2%AB%E5%81%9C%E8%81%8C",
+      "hot_value": 420000
+    },
+    {
+      "rank": 6,
+      "title": "王安宇赵今麦脸颊吻",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E8%B5%B5%E4%BB%8A%E9%BA%A6%E8%84%B8%E9%A2%8A%E5%90%BB",
+      "hot_value": 400000
+    },
+    {
+      "rank": 7,
+      "title": "樊振东正式亮相杜塞尔多夫",
+      "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8%E6%9D%9C%E5%A1%9E%E5%B0%94%E5%A4%9A%E5%A4%AB",
+      "hot_value": 270000
+    },
+    {
+      "rank": 8,
+      "title": "父女黄河大堤失踪车上录音曝光",
+      "url": "https://s.weibo.com/weibo?q=%E7%88%B6%E5%A5%B3%E9%BB%84%E6%B2%B3%E5%A4%A7%E5%A0%A4%E5%A4%B1%E8%B8%AA%E8%BD%A6%E4%B8%8A%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89",
+      "hot_value": 270000
+    },
+    {
+      "rank": 9,
+      "title": "医院能办结婚证了",
+      "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E9%99%A2%E8%83%BD%E5%8A%9E%E7%BB%93%E5%A9%9A%E8%AF%81%E4%BA%86",
+      "hot_value": 270000
+    },
+    {
+      "rank": 10,
+      "title": "沈腾又忘记扶杨幂了",
+      "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E5%8F%88%E5%BF%98%E8%AE%B0%E6%89%B6%E6%9D%A8%E5%B9%82%E4%BA%86",
+      "hot_value": 260000
+    },
+    {
+      "rank": 11,
+      "title": "Selina父亲力挺女儿",
+      "url": "https://s.weibo.com/weibo?q=Selina%E7%88%B6%E4%BA%B2%E5%8A%9B%E6%8C%BA%E5%A5%B3%E5%84%BF",
+      "hot_value": 250000
+    },
+    {
+      "rank": 12,
+      "title": "月薪4000存款20w",
+      "url": "https://s.weibo.com/weibo?q=%E6%9C%88%E8%96%AA4000%E5%AD%98%E6%AC%BE20w",
+      "hot_value": 250000
+    },
+    {
+      "rank": 13,
+      "title": "檀健次给朱一龙让C位",
+      "url": "https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E7%BB%99%E6%9C%B1%E4%B8%80%E9%BE%99%E8%AE%A9C%E4%BD%8D",
+      "hot_value": 250000
+    },
+    {
+      "rank": 14,
+      "title": "张凌赫商务资源现状",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%95%86%E5%8A%A1%E8%B5%84%E6%BA%90%E7%8E%B0%E7%8A%B6",
+      "hot_value": 240000
+    },
+    {
+      "rank": 15,
+      "title": "孕妇误服甲醇前曾反复向医生确认",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%95%E5%A6%87%E8%AF%AF%E6%9C%8D%E7%94%B2%E9%86%87%E5%89%8D%E6%9B%BE%E5%8F%8D%E5%A4%8D%E5%90%91%E5%8C%BB%E7%94%9F%E7%A1%AE%E8%AE%A4",
+      "hot_value": 220000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "蟹塘每天被国宝「东方白鹳」吃掉三四万元螃蟹，塘主直呼扛不住，有哪些好的解决办法吗？塘主的损失谁该负责",
+      "url": "https://www.zhihu.com/question/2073078431583921634",
+      "hot_value": 6170000
+    },
+    {
+      "rank": 2,
+      "title": "抖音推出「馋猫外卖」虚拟点餐，订单不会送达，金额存入「一起攒」，如何看待这一功能？怎样从商业角度解读",
+      "url": "https://www.zhihu.com/question/2073021871205913577",
+      "hot_value": 3670000
+    },
+    {
+      "rank": 3,
+      "title": "「司令」和「司令员」，差了一个字，到底有什么不同",
+      "url": "https://www.zhihu.com/question/2071867429039378493",
+      "hot_value": 3070000
+    },
+    {
+      "rank": 4,
+      "title": "顾客曝全季酒店敞房门 8 小时，20 万财产无人看管，片区主管称再追究下去对你我都不好，哪些问题值得关注",
+      "url": "https://www.zhihu.com/question/2073689240164988172",
+      "hot_value": 2710000
+    },
+    {
+      "rank": 5,
+      "title": "《黑神话：钟馗》主角钟馗首次露脸亮相，如何评价这版青年钟馗的形象设计",
+      "url": "https://www.zhihu.com/question/2073712813759887078",
+      "hot_value": 2430000
+    },
+    {
+      "rank": 6,
+      "title": "同样是反战片，为什么《欢迎来龙餐馆》的味道和好莱坞完全不一样",
+      "url": "https://www.zhihu.com/question/2072778047816783102",
+      "hot_value": 2190000
+    },
+    {
+      "rank": 7,
+      "title": "如何评价华为发布阔直板？为什么华为和苹果都在把手机做阔",
+      "url": "https://www.zhihu.com/question/2073734322373267652",
+      "hot_value": 2120000
+    },
+    {
+      "rank": 8,
+      "title": "如果半岛没有分裂（韩国继承半岛全境），今天的朝鲜地区城市，如平壤、元山会发展成什么样",
+      "url": "https://www.zhihu.com/question/1954481061263312821",
+      "hot_value": 1740000
+    },
+    {
+      "rank": 9,
+      "title": "如何看待《诡秘之主》称游戏开发总成本已达 12 亿，大型 MMO 没 10 亿上不了桌？钱都烧哪了？能回本吗",
+      "url": "https://www.zhihu.com/question/2073537903460706263",
+      "hot_value": 1710000
+    },
+    {
+      "rank": 10,
+      "title": "如何看待 8 月 19 日下午 DeepSeek 被曝再次开始灰度测试，能力超过上次灰测",
+      "url": "https://www.zhihu.com/question/2073476043097359622",
+      "hot_value": 1660000
+    },
+    {
+      "rank": 11,
+      "title": "RTX5060Ti 显卡价格暴涨至 6000 元，其背后可能存在哪些原因",
+      "url": "https://www.zhihu.com/question/2071930729903174962",
+      "hot_value": 1610000
+    },
+    {
+      "rank": 12,
+      "title": "多地商场外墙撤下商业广告，挂上钱学森、邓稼先等多名科学家公益海报，这么做背后可能有哪些考量",
+      "url": "https://www.zhihu.com/question/2073026704260469328",
+      "hot_value": 1470000
+    },
+    {
+      "rank": 13,
+      "title": "如何看待杨国福麻辣烫宣称花滑名将羽生结弦为开业送花，被打假后公开致歉",
+      "url": "https://www.zhihu.com/question/2073080946471989340",
+      "hot_value": 1410000
+    },
+    {
+      "rank": 14,
+      "title": "《黑神话：钟馗》发布 15 分钟实机演示视频，有哪些细节设计值得关注",
+      "url": "https://www.zhihu.com/question/2073711181198357987",
+      "hot_value": 1340000
+    },
+    {
+      "rank": 15,
+      "title": "恒大总计被罚 88.2+70 亿元，2.4 万亿的惊天债务和 1300 个烂尾项目的窟窿该怎么填平",
+      "url": "https://www.zhihu.com/question/2073764863961034872",
+      "hot_value": 1160000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "score": 115,
+      "author": "abhisek",
+      "comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=49374269"
+    },
+    {
+      "rank": 2,
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "score": 351,
+      "author": "emctech",
+      "comments": 114,
+      "hn_url": "https://news.ycombinator.com/item?id=49372583"
+    },
+    {
+      "rank": 3,
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "score": 166,
+      "author": "simedw",
+      "comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=49373456"
+    },
+    {
+      "rank": 4,
+      "title": "DiffusionGemma Technical Report",
+      "url": "https://arxiv.org/abs/2608.00146",
+      "score": 35,
+      "author": "gmays",
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49374287"
+    },
+    {
+      "rank": 5,
+      "title": "I Spent Twenty Years Becoming Good at the Wrong Game",
+      "url": "https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/",
+      "score": 26,
+      "author": "speckx",
+      "comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=49374437"
+    },
+    {
+      "rank": 6,
+      "title": "Hacking with Claude on a $27 Smart Watch",
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "score": 12,
+      "author": "speckx",
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49374772"
+    },
+    {
+      "rank": 7,
+      "title": "Stwipe Acquires OpenWouter",
+      "url": "https://stwipe.com/",
+      "score": 33,
+      "author": "eatonphil",
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49374738"
+    },
+    {
+      "rank": 8,
+      "title": "Windows brings out the Rorschach test in everyone (2003)",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "score": 284,
+      "author": "luu",
+      "comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=49371006"
+    },
+    {
+      "rank": 9,
+      "title": "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
+      "url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
+      "score": 15,
+      "author": "sohkamyung",
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49374036"
+    },
+    {
+      "rank": 10,
+      "title": "Every Model Cheats",
+      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+      "score": 6,
+      "author": "vga805",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49374635"
+    },
+    {
+      "rank": 11,
+      "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+      "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+      "score": 1,
+      "author": "timshell",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49373423"
+    },
+    {
+      "rank": 12,
+      "title": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "score": 924,
+      "author": "rvz",
+      "comments": 473,
+      "hn_url": "https://news.ycombinator.com/item?id=49364559"
+    },
+    {
+      "rank": 13,
+      "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+      "score": 33,
+      "author": "leanderjanssen",
+      "comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=49372994"
+    },
+    {
+      "rank": 14,
+      "title": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
+      "url": "https://www.bbc.com/news/articles/clyq011414eo",
+      "score": 8,
+      "author": "jonathanlydall",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49374920"
+    },
+    {
+      "rank": 15,
+      "title": "Turns are Better than Radians (2022)",
+      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "score": 289,
+      "author": "mayoff",
+      "comments": 154,
+      "hn_url": "https://news.ycombinator.com/item?id=49369408"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发效率",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI 智能体生态的动静真不小，尤其是本地化和本体框架。OpenLogi[1] 是个很有意思的 Rust 写的项目，作为 Logitech Options+ 的本地替代品，主打无账号无遥测，对隐私党很友好。santifer 的 career-ops[2] 把 AI 求职流程自动化了，能自动打分简历和匹配岗位，这界面看着挺实用。还有那个 MoneyPrinterTurbo[3]，号称一键生成高清短视频，虽然名字很“赛博”，但确实反映了大家搞副业的热情。社区里也在讨论，Lobsters 上有人提到 Bun 1.4 的 Rust 重写让人有点担心性能问题[4]，感觉大家都在观望新的运行时会不会是下一个热点。少数派那边也有动静，比如 App+1 里的 Inkive[5]，能把纸质书划线直接存进 Obsidian，这种打通物理和数字阅读的工具，对深度阅读者来说简直是神器。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术这块今天有点“硬核”甚至有点“惊悚”。Lobsters 上有个讨论挺吓人的，说阿里速卖通的网页用 WebAudio 指纹技术强行激活你的多连接蓝牙耳机[6]，这属于浏览器隐私边界被突破的典型例子，搞安全的朋友必须看看。另外，Zig 语言给 Rust 开发者带来的体验差异也在社区引发热议[7]，看来语言之争远未结束。少数派也报道了夏普 AQUOS R9[8] 这款日系次旗舰的评测，虽然不算底层，但这种把“务实高效”刻在骨子里的产品思路，其实和 Unix 哲学是一脉相承的。最后不得不提的是 Go 1.27 正式发布了[9]，虽然对于老手来说可能只是常规更新，但对于 Go 生态的稳定性来说是个重要节点。"
+      },
+      {
+        "name": "数码产品与极客生活",
+        "color": "gadget",
+        "summary": "数码圈今天的内容很丰富，既有硬核外设也有生活小物。GitHub 上有个叫 mahlernim/google-timeline-visualizer[10] 的项目，能把谷歌地图的位置历史做成旅行时间轴，这种个人数据可视化的东西，用来做年度旅行总结特别带感。Lobsters 上还有关于 Ploopy A+ 轨迹球鼠标的讨论[11]，这种复古硬件的魅力就在于它带来的独特手感。少数派那边，编辑部分享了自己最近买的“新玩意”[12]，包括一些租房用的电钻组合和神奇实体卡片故事机，感觉现在的数码生活已经不仅仅是手机电脑了，更多是各种能提升生活质感的“奇技淫巧”。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天的观点类内容让我印象最深的是 Lobsters 上那个关于“如果这是真的，超大规模云厂商就完蛋了”的帖子[13]。文章探讨了一种假设场景，如果某些技术假设成立，现有的云巨头可能要面临颠覆，这种思维实验总能激发新的讨论。另外，有人分享了自己坚持手写 commit 消息的原因[14]，在这个 AI 自动写代码的时代，这种“笨办法”反而成了某种仪式感。少数派也有个话题讨论手机里的 AI 通话功能到底有没有用[15]，这其实触及了 AI 功能落地“最后一公里”的痛点——很多时候功能有了，但用户真的需要吗？"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "OpenLogi: A native, local-first alternative to Logitech Options+",
+        "url": "https://github.com/AprilNEA/OpenLogi",
+        "source": "GitHub Trending",
+        "desc": "Rust 编写的本地化鼠标键盘映射工具"
+      },
+      {
+        "num": 2,
+        "title": "career-ops: Open-source AI job search",
+        "url": "https://github.com/santifer/career-ops",
+        "source": "GitHub Trending",
+        "desc": "利用 AI 自动化求职流程的开源项目"
+      },
+      {
+        "num": 3,
+        "title": "MoneyPrinterTurbo: Generate HD short videos from a topic",
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+        "source": "GitHub Trending",
+        "desc": "基于 AI 工作流的一键短视频生成工具"
+      },
+      {
+        "num": 4,
+        "title": "Bun 1.4 Rust rewrite is not looking good",
+        "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+        "source": "Lobsters",
+        "desc": "社区对 Bun 1.4 Rust 重写版本的担忧讨论"
+      },
+      {
+        "num": 5,
+        "title": "Inkive：把纸质书上划好的线存进 Obsidian",
+        "url": "https://sspai.com/post/111936",
+        "source": "少数派",
+        "desc": "连接纸质书与数字笔记的工具推荐"
+      },
+      {
+        "num": 6,
+        "title": "AliExpress keeps multipoint Bluetooth headphones active with WebAudio fingerprinting",
+        "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+        "source": "Lobsters",
+        "desc": "关于电商网页利用 WebAudio 技术干扰蓝牙耳机的隐私分析"
+      },
+      {
+        "num": 7,
+        "title": "What Zig felt like, coming from Rust",
+        "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+        "source": "Lobsters",
+        "desc": "Rust 开发者转用 Zig 后的体验对比"
+      },
+      {
+        "num": 8,
+        "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测",
+        "url": "https://sspai.com/post/113497",
+        "source": "少数派",
+        "desc": "夏普 AQUOS R9 手机深度评测"
+      },
+      {
+        "num": 9,
+        "title": "Go 1.27 is released",
+        "url": "https://go.dev/blog/go1.27",
+        "source": "Lobsters",
+        "desc": "Go 语言 1.27 版本发布官方公告"
+      },
+      {
+        "num": 10,
+        "title": "google-timeline-visualizer",
+        "url": "https://github.com/mahlernim/google-timeline-visualizer",
+        "source": "GitHub Trending",
+        "desc": "将谷歌位置历史数据可视化为旅行时间轴的工具"
+      },
+      {
+        "num": 11,
+        "title": "Ploopy A+ (external trackball)",
+        "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+        "source": "Lobsters",
+        "desc": "Ploopy A+ 轨迹球鼠标开箱/评测讨论"
+      },
+      {
+        "num": 12,
+        "title": "新玩意 249｜少数派的编辑们最近买了啥？",
+        "url": "https://sspai.com/post/113650",
+        "source": "少数派",
+        "desc": "少数派编辑部分享近期购入的生活好物"
+      },
+      {
+        "num": 13,
+        "title": "If this is true, the hyperscalers are toast",
+        "url": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
+        "source": "Lobsters",
+        "desc": "关于超大规模云厂商可能面临的颠覆性假设讨论"
+      },
+      {
+        "num": 14,
+        "title": "Why I still hand write my commit messages",
+        "url": "https://www.jvt.me/posts/2026/08/17/hand-write-commits/",
+        "source": "Lobsters",
+        "desc": "关于坚持手写 Git Commit 消息的随笔"
+      },
+      {
+        "num": 15,
+        "title": "[有奖]手机里的 AI 通话功能，你真的在用吗？",
+        "url": "https://sspai.com/bullet/1785400922",
+        "source": "少数派",
+        "desc": "关于手机 AI 通话功能实用性的社区讨论"
+      }
+    ],
+    "stats": {
+      "total_items": 15,
+      "total_categories": 4,
+      "total_sources": 15
+    }
+  }
+}
