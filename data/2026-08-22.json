@@ -1,0 +1,854 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "openai / codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "stars": "112291",
+      "stars_today": "4,159 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 2,
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": "231066",
+      "stars_today": "2,684 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 3,
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "242013",
+      "stars_today": "357 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 4,
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": "275957",
+      "stars_today": "592 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 5,
+      "title": "Wei-Shaw / sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "stars": "38697",
+      "stars_today": "673 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 6,
+      "title": "makeplane / plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "stars": "57073",
+      "stars_today": "263 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 7,
+      "title": "n8n-io / n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "stars": "201619",
+      "stars_today": "193 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 8,
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": "142384",
+      "stars_today": "170 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "AprilNEA / OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "stars": "13500",
+      "stars_today": "959 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 10,
+      "title": "modular / modular",
+      "url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "stars": "28779",
+      "stars_today": "395 stars today",
+      "language": "Mojo"
+    },
+    {
+      "rank": 11,
+      "title": "multica-ai / andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "205077",
+      "stars_today": "589 stars today",
+      "language": ""
+    },
+    {
+      "rank": 12,
+      "title": "mahlernim / google-timeline-visualizer",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "description": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "stars": "2476",
+      "stars_today": "441 stars today",
+      "language": "Kotlin"
+    },
+    {
+      "rank": 13,
+      "title": "ripienaar / free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "stars": "133658",
+      "stars_today": "915 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 14,
+      "title": "microsoft / TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "stars": "110465",
+      "stars_today": "65 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 15,
+      "title": "cursor / plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": "4552",
+      "stars_today": "286 stars today",
+      "language": "TypeScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Enabling the next-generation trait solver on nightly",
+      "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+      "source_url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "The cool things of Gleam",
+      "url": "https://a.baez.link/3mtdbbp2dmc27",
+      "source_url": "https://a.baez.link/3mtdbbp2dmc27",
+      "tags": [
+        "gleam"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
+      "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+      "source_url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+      "tags": [
+        "distributed"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "You should never be angry at work",
+      "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+      "source_url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+      "tags": [
+        "practices"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "source_url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
+      "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+      "source_url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+      "tags": [
+        "historical",
+        "osdev",
+        "retrocomputing"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Felony Bench: Be AI, Do Crime",
+      "url": "https://www.felonybench.com/",
+      "source_url": "https://www.felonybench.com/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "Turning My CASIO F-91W Into a Contactless Payment Device",
+      "url": "https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device",
+      "source_url": "https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "Compile-Time Improvements in LLVM 23",
+      "url": "https://aengelke.net/llvm23-ct.html",
+      "source_url": "https://aengelke.net/llvm23-ct.html",
+      "tags": [
+        "compilers"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "Stop Making TUIs",
+      "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+      "source_url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "Better Batteries",
+      "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
+      "source_url": "https://matklad.github.io/2026/08/20/better-batteries.html",
+      "tags": [
+        "plt",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Programming Language Semantics and Memory Safety",
+      "url": "https://burakemir.ch/post/formal-semantics/",
+      "source_url": "https://burakemir.ch/post/formal-semantics/",
+      "tags": [
+        "plt"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "The Schrödinger Email",
+      "url": "https://yashgarg.dev/posts/the-schrodinger-email/",
+      "source_url": "https://yashgarg.dev/posts/the-schrodinger-email/",
+      "tags": [
+        "email"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "Music theory for programmers",
+      "url": "https://runjs.app/blog/music-theory-for-programmers",
+      "source_url": "https://runjs.app/blog/music-theory-for-programmers",
+      "tags": [
+        "art",
+        "math"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Roomy is generally available",
+      "url": "https://blog.roomy.space/3mplw6vvw4s23",
+      "source_url": "https://blog.roomy.space/3mplw6vvw4s23",
+      "tags": [
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展听歌的水獭11:00",
+      "url": "https://sspai.com/post/113675",
+      "author": "听歌的水獭",
+      "summary": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展"
+    },
+    {
+      "rank": 2,
+      "title": "本周看什么 | 最近值得一看的 10 部作品少数派编辑部昨天 18:08",
+      "url": "https://sspai.com/post/113693",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 10 部作品"
+    },
+    {
+      "rank": 3,
+      "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验KingTsui昨天 11:05",
+      "url": "https://sspai.com/post/113586",
+      "author": "KingTsui",
+      "summary": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：华为发布 Pura X View、享界 G9 等多款新品少数派编辑部昨天 07:00派早报",
+      "url": "https://sspai.com/post/113666",
+      "author": "少数派编辑部",
+      "summary": "派早报：华为发布 Pura X View、享界 G9 等多款新品"
+    },
+    {
+      "rank": 5,
+      "title": "新玩意 249｜少数派的编辑们最近买了啥？少数派编辑部前天 17:30",
+      "url": "https://sspai.com/post/113650",
+      "author": "少数派编辑部",
+      "summary": "新玩意 249｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 6,
+      "title": "十年阅读历程，这是我的阅读工具推荐ElijahLee前天 15:25",
+      "url": "https://sspai.com/post/113567",
+      "author": "ElijahLee",
+      "summary": "十年阅读历程，这是我的阅读工具推荐"
+    },
+    {
+      "rank": 7,
+      "title": "你给自己搭建过哪些「反投喂」信息源？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1787035394",
+      "author": "一派投票",
+      "summary": "你给自己搭建过哪些「反投喂」信息源？"
+    },
+    {
+      "rank": 8,
+      "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测WangMT前天 10:41Matrix精选",
+      "url": "https://sspai.com/post/113497",
+      "author": "WangMT",
+      "summary": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测"
+    },
+    {
+      "rank": 9,
+      "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本少数派编辑部前天 08:46派早报",
+      "url": "https://sspai.com/post/113638",
+      "author": "少数派编辑部",
+      "summary": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本"
+    },
+    {
+      "rank": 10,
+      "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息Vanilla08/19",
+      "url": "https://sspai.com/post/113618",
+      "author": "Vanilla",
+      "summary": "iOS 27 测试版近期动向，还有 Apple 产品新消息"
+    },
+    {
+      "rank": 11,
+      "title": "《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了游研社08/19",
+      "url": "https://sspai.com/post/113588",
+      "author": "游研社",
+      "summary": "《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "走马太好听了",
+      "url": "https://s.weibo.com/weibo?q=%E8%B5%B0%E9%A9%AC%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86",
+      "hot_value": 790000
+    },
+    {
+      "rank": 2,
+      "title": "越来越多宝藏小城藏不住了",
+      "url": "https://s.weibo.com/weibo?q=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%AE%9D%E8%97%8F%E5%B0%8F%E5%9F%8E%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%86",
+      "hot_value": 650000
+    },
+    {
+      "rank": 3,
+      "title": "开学上拼多多买立白 香到没朋友",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%80%E5%AD%A6%E4%B8%8A%E6%8B%BC%E5%A4%9A%E5%A4%9A%E4%B9%B0%E7%AB%8B%E7%99%BD+%E9%A6%99%E5%88%B0%E6%B2%A1%E6%9C%8B%E5%8F%8B",
+      "hot_value": 650000
+    },
+    {
+      "rank": 4,
+      "title": "那英演唱会包厢堪比春晚",
+      "url": "https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8C%85%E5%8E%A2%E5%A0%AA%E6%AF%94%E6%98%A5%E6%99%9A",
+      "hot_value": 650000
+    },
+    {
+      "rank": 5,
+      "title": "桃酥是没有一滴水的",
+      "url": "https://s.weibo.com/weibo?q=%E6%A1%83%E9%85%A5%E6%98%AF%E6%B2%A1%E6%9C%89%E4%B8%80%E6%BB%B4%E6%B0%B4%E7%9A%84",
+      "hot_value": 620000
+    },
+    {
+      "rank": 6,
+      "title": "零食占座当事人母亲发声",
+      "url": "https://s.weibo.com/weibo?q=%E9%9B%B6%E9%A3%9F%E5%8D%A0%E5%BA%A7%E5%BD%93%E4%BA%8B%E4%BA%BA%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0",
+      "hot_value": 610000
+    },
+    {
+      "rank": 7,
+      "title": "8.99万起大众5S夯爆了",
+      "url": "https://s.weibo.com/weibo?q=8.99%E4%B8%87%E8%B5%B7%E5%A4%A7%E4%BC%975S%E5%A4%AF%E7%88%86%E4%BA%86",
+      "hot_value": 610000
+    },
+    {
+      "rank": 8,
+      "title": "欢子入院 美容院",
+      "url": "https://s.weibo.com/weibo?q=%E6%AC%A2%E5%AD%90%E5%85%A5%E9%99%A2+%E7%BE%8E%E5%AE%B9%E9%99%A2",
+      "hot_value": 590000
+    },
+    {
+      "rank": 9,
+      "title": "台湾节目嘉宾说北京没有冰箱引群嘲",
+      "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E8%8A%82%E7%9B%AE%E5%98%89%E5%AE%BE%E8%AF%B4%E5%8C%97%E4%BA%AC%E6%B2%A1%E6%9C%89%E5%86%B0%E7%AE%B1%E5%BC%95%E7%BE%A4%E5%98%B2",
+      "hot_value": 580000
+    },
+    {
+      "rank": 10,
+      "title": "千家兰州拉面更换门头",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E5%AE%B6%E5%85%B0%E5%B7%9E%E6%8B%89%E9%9D%A2%E6%9B%B4%E6%8D%A2%E9%97%A8%E5%A4%B4",
+      "hot_value": 580000
+    },
+    {
+      "rank": 11,
+      "title": "那英演唱会 肖战",
+      "url": "https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A+%E8%82%96%E6%88%98",
+      "hot_value": 560000
+    },
+    {
+      "rank": 12,
+      "title": "网友把蔡徐坤当路人p掉了",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E6%8A%8A%E8%94%A1%E5%BE%90%E5%9D%A4%E5%BD%93%E8%B7%AF%E4%BA%BAp%E6%8E%89%E4%BA%86",
+      "hot_value": 550000
+    },
+    {
+      "rank": 13,
+      "title": "多方回应23楼开灯被对面20楼投诉",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%9423%E6%A5%BC%E5%BC%80%E7%81%AF%E8%A2%AB%E5%AF%B9%E9%9D%A220%E6%A5%BC%E6%8A%95%E8%AF%89",
+      "hot_value": 540000
+    },
+    {
+      "rank": 14,
+      "title": "谁给王传君化的妆",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E7%BB%99%E7%8E%8B%E4%BC%A0%E5%90%9B%E5%8C%96%E7%9A%84%E5%A6%86",
+      "hot_value": 530000
+    },
+    {
+      "rank": 15,
+      "title": "披荆斩棘直播",
+      "url": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9B%B4%E6%92%AD",
+      "hot_value": 370000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "《GTA6》遭大规模泄露：两段实机视频、一张完整地图，R 星紧急发起 DMCA 投诉，你怎么看",
+      "url": "https://www.zhihu.com/question/2073370343264219476",
+      "hot_value": 3040000
+    },
+    {
+      "rank": 2,
+      "title": "三张银行卡，初始金额人民币 1 亿，1 万，1 元，日利息分别是 0.01%，1%，10%，怎么选择呢",
+      "url": "https://www.zhihu.com/question/2065514457850176456",
+      "hot_value": 2320000
+    },
+    {
+      "rank": 3,
+      "title": "罗永浩公关称曾劝西贝拦住贾国龙，现在复盘的话哪些细节值得一聊？若当时真拦住了，会有怎样的不同",
+      "url": "https://www.zhihu.com/question/2074422136400082078",
+      "hot_value": 2080000
+    },
+    {
+      "rank": 4,
+      "title": "年轻人开始流行「养砖头」，这种看似无意义的爱好为什么会戳中年轻人的心？「养砖头」要注意什么",
+      "url": "https://www.zhihu.com/question/2074081143159371309",
+      "hot_value": 2020000
+    },
+    {
+      "rank": 5,
+      "title": "如何看待高校录取通知书回归「一页纸」后，清华大学推出立体二校门版「入学纪念证书」",
+      "url": "https://www.zhihu.com/question/2074541381372965994",
+      "hot_value": 1870000
+    },
+    {
+      "rank": 6,
+      "title": "怎么看彭博社发布的「美国 AI 优势正在被中国迅速缩小」",
+      "url": "https://www.zhihu.com/question/2074086385397544896",
+      "hot_value": 1800000
+    },
+    {
+      "rank": 7,
+      "title": "奢侈品牌 LV 全国多地门店关闭，西南门店腰斩过半，为何收缩线下渠道？对中国奢侈品市场意味着什么",
+      "url": "https://www.zhihu.com/question/2074164491798028674",
+      "hot_value": 1600000
+    },
+    {
+      "rank": 8,
+      "title": "孙悟空比太上老君差多少？为什么感觉太上老君怕孙悟空",
+      "url": "https://www.zhihu.com/question/1945376533322629616",
+      "hot_value": 1540000
+    },
+    {
+      "rank": 9,
+      "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格",
+      "url": "https://www.zhihu.com/question/2074077084964733784",
+      "hot_value": 1490000
+    },
+    {
+      "rank": 10,
+      "title": "零食占座当事人母亲否认故意占座，称儿童票捆绑成人票销售，退成人票后儿童会被要求下车，哪些问题值得关注",
+      "url": "https://www.zhihu.com/question/2074588443309340001",
+      "hot_value": 1390000
+    },
+    {
+      "rank": 11,
+      "title": "林肯号危机「吹哨人」遭清算，因曝光林肯号糟糕处境，美国军报总编辑、发行人、记者均被解雇，如何看待此事",
+      "url": "https://www.zhihu.com/question/2074570591689089958",
+      "hot_value": 1290000
+    },
+    {
+      "rank": 12,
+      "title": "什么操作会对电脑造成永久性伤害",
+      "url": "https://www.zhihu.com/question/275468231",
+      "hot_value": 1220000
+    },
+    {
+      "rank": 13,
+      "title": "中国有哪些不为人知的濒危物种",
+      "url": "https://www.zhihu.com/question/363711872",
+      "hot_value": 1210000
+    },
+    {
+      "rank": 14,
+      "title": "英雄联盟的 「 连招 」 概念为什么消失了",
+      "url": "https://www.zhihu.com/question/2066201611286885601",
+      "hot_value": 1200000
+    },
+    {
+      "rank": 15,
+      "title": "网友发现 18 岁黑龙江速滑运动员王新睿被冰刀割伤左腿截肢，具体是怎么回事？若如网传是他人撞伤，能赔偿吗",
+      "url": "https://www.zhihu.com/question/2074085560356792017",
+      "hot_value": 1190000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+      "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+      "score": 46,
+      "author": "altmanaltman",
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49399524"
+    },
+    {
+      "rank": 2,
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "url": "https://munderdiffl.in/",
+      "score": 125,
+      "author": "simonpure",
+      "comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=49398152"
+    },
+    {
+      "rank": 3,
+      "title": "The New MCP Roadmap",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "score": 11,
+      "author": "pentagrama",
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49399591"
+    },
+    {
+      "rank": 4,
+      "title": "Z80–The 1970s Microprocessor Still Alive",
+      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "score": 57,
+      "author": "asdefghyk",
+      "comments": 24,
+      "hn_url": "https://news.ycombinator.com/item?id=49398158"
+    },
+    {
+      "rank": 5,
+      "title": "A formal degree and algorithmic problem-solving is the answer. Always has been",
+      "url": "https://zaksa.zip/blog/formal-education-is-the-answer/",
+      "score": 12,
+      "author": "zaksa",
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=49398710"
+    },
+    {
+      "rank": 6,
+      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+      "score": 90,
+      "author": "sbulaev",
+      "comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=49398904"
+    },
+    {
+      "rank": 7,
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "score": 322,
+      "author": "matklad",
+      "comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=49393052"
+    },
+    {
+      "rank": 8,
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "score": 770,
+      "author": "colinprince",
+      "comments": 302,
+      "hn_url": "https://news.ycombinator.com/item?id=49389430"
+    },
+    {
+      "rank": 9,
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "score": 597,
+      "author": "thepoet",
+      "comments": 193,
+      "hn_url": "https://news.ycombinator.com/item?id=49390427"
+    },
+    {
+      "rank": 10,
+      "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+      "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+      "score": 514,
+      "author": "backlit4034",
+      "comments": 428,
+      "hn_url": "https://news.ycombinator.com/item?id=49398304"
+    },
+    {
+      "rank": 11,
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "score": 894,
+      "author": "floathub",
+      "comments": 1068,
+      "hn_url": "https://news.ycombinator.com/item?id=49386895"
+    },
+    {
+      "rank": 12,
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "score": 598,
+      "author": "gavide",
+      "comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=49387570"
+    },
+    {
+      "rank": 13,
+      "title": "There's no reason for software to be slow anymore",
+      "url": "https://danluu.com/perf-opt/",
+      "score": 528,
+      "author": "Jach",
+      "comments": 384,
+      "hn_url": "https://news.ycombinator.com/item?id=49395628"
+    },
+    {
+      "rank": 14,
+      "title": "Stop Making TUIs",
+      "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+      "score": 241,
+      "author": "underdeserver",
+      "comments": 321,
+      "hn_url": "https://news.ycombinator.com/item?id=49384210"
+    },
+    {
+      "rank": 15,
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "score": 1183,
+      "author": "speckx",
+      "comments": 371,
+      "hn_url": "https://news.ycombinator.com/item?id=49388154"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发效能",
+        "color": "ai",
+        "summary": "今天 GitHub Trending 被 AI Coding Agent 彻底刷屏了。OpenAI 的 Codex [1] 作为轻量级终端编码助手很吸睛，而 Anthropic 的 Claude Code [5] 更是直接进榜，主打自然语言理解代码库和 Git 工作流，这对开发者来说简直是解放双手的神器。另外，专门优化 Agent 性能的系统 ECC [3] 和 obra 的 Superpowers 框架 [4] 也在榜，看来大家都在疯狂尝试让 AI 更懂“干活”。\n\nLobsters 上的讨论则更偏向底层原理和哲学思考。关于 LLVM 23 的编译期优化 [9]，搞编译器的朋友肯定兴奋；而 Matklad 提到的\"Better Batteries\" [11] 也在引发社区对语言特性的热议。不过最让我咋舌的是那篇关于“停止制造 TUIs\"的文章 [13]，作者居然觉得终端界面该被抛弃了？这在极客圈子里可是个大争议，不知道大家怎么看。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "系统底层这块今天动静不小。Rust 的最新夜间版启用下一代 trait solver [2]，这玩意儿对泛型性能提升巨大，迟早是 Rust 的标配。另外，关于 OTEL（OpenTelemetry）的吐槽文章 [4] 也在 Lobsters 上挺火，作者甚至做了个表格吐槽它的状态，搞分布式系统的兄弟们应该深有同感。\n\n少数派那边则有更接地气的硬件新闻。华为 Pura X View 和享界 G9 上市，还有石头 A30 Pro 洗地机发布 [10]，这些“派早报”虽然碎，但确实能反映消费电子市场的节奏。特别是 Framework 升级 Laptop 12 的消息，对于追求可维修性的极客来说绝对是好消息。"
+      },
+      {
+        "name": "安全、隐私与黑客文化",
+        "color": "sec",
+        "summary": "安全话题今天有点“重口味”。Lobsters 上有一篇文章揭露了意外记录到数十万通电话打到军事基地的趣事 [6]，这种旁路攻击的边界确实值得警惕。而 HackerNoon 上的那篇把卡西欧 F-91W 手表改造成非接触支付设备 [7] 的教程，虽然现在看有点复古，但那种硬件黑客的浪漫精神还是让人热血沸腾。\n\nGitHub 上也有个叫 sub2api 的项目 [6]，号称统一接入各大 AI 模型并支持拼车分摊成本。这种“降本增效”的开源中转服务，虽然听起来像灰色地带，但确实解决了订阅太贵的问题，搞安全的朋友可能会关注这种 API 聚合背后的风险。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "dev",
+        "summary": "效率工具这块，GitHub 上的 Plane [7] 项目号称是 Jira 和 Linear 的开源替代品，界面现代且支持任务管理，想自建私有化工作流的团队可以试试。还有 n8n 这个工作流自动化平台 [7]，原生 AI 能力加上 400+ 集成，已经是很多工程团队的必备了。\n\n少数派的文章里，关于 Nothing Ear (3a) 的降噪体验评测 [3] 和夏普 AQUOS R9 的次旗舰评测 [8] 都值得看。特别是那个苹果 iOS 27 测试版的动向 [9]，虽然版本号跨度有点大，但如果是真消息，那意味着 iOS 生态又要大更新了。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "openai / codex",
+        "url": "https://github.com/openai/codex",
+        "source": "GitHub Trending",
+        "desc": "OpenAI 推出的轻量级终端编码代理"
+      },
+      {
+        "num": 2,
+        "title": "Enabling the next-generation trait solver on nightly",
+        "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+        "source": "Lobsters",
+        "desc": "Rust 语言启用下一代 trait 求解器"
+      },
+      {
+        "num": 3,
+        "title": "affaan-m / ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "source": "GitHub Trending",
+        "desc": "Agent 性能优化系统，包含技能、记忆与安全"
+      },
+      {
+        "num": 4,
+        "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
+        "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+        "source": "Lobsters",
+        "desc": "吐槽 OpenTelemetry 现状并附带数据表格"
+      },
+      {
+        "num": 5,
+        "title": "anthropics / claude-code",
+        "url": "https://github.com/anthropics/claude-code",
+        "source": "GitHub Trending",
+        "desc": "Anthropic 的终端编码工具，理解代码库并执行任务"
+      },
+      {
+        "num": 6,
+        "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+        "url": "https://lina.sh/blog/hijacking-e164-arpa",
+        "source": "Lobsters",
+        "desc": "关于意外记录到军事基地电话的安全博文"
+      },
+      {
+        "num": 7,
+        "title": "makeplane / plane",
+        "url": "https://github.com/makeplane/plane",
+        "source": "GitHub Trending",
+        "desc": "开源项目管理平台，对标 Jira 和 Linear"
+      },
+      {
+        "num": 8,
+        "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
+        "url": "https://sspai.com/post/113586",
+        "source": "少数派",
+        "desc": "Nothing Ear (3a) 耳机深度评测"
+      },
+      {
+        "num": 9,
+        "title": "派早报：华为发布 Pura X View、享界 G9 等多款新品",
+        "url": "https://sspai.com/post/113666",
+        "source": "少数派",
+        "desc": "华为最新硬件产品发布汇总"
+      },
+      {
+        "num": 10,
+        "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
+        "url": "https://sspai.com/post/113638",
+        "source": "少数派",
+        "desc": "石头科技洗地机与 Framework 笔记本更新"
+      },
+      {
+        "num": 11,
+        "title": "Better Batteries",
+        "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
+        "source": "Lobsters",
+        "desc": "关于编程语言特性优化的讨论"
+      },
+      {
+        "num": 12,
+        "title": "Turning My CASIO F-91W Into a Contactless Payment Device",
+        "url": "https://hackernoon.com/how-i-hacked-and-turned-my-casio-f-91w-into-a-contactless-payment-device",
+        "source": "Lobsters",
+        "desc": "将卡西欧手表改装为支付设备的硬件黑客教程"
+      },
+      {
+        "num": 13,
+        "title": "Stop Making TUIs",
+        "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+        "source": "Lobsters",
+        "desc": "关于停止开发终端用户界面（TUI）的观点文章"
+      },
+      {
+        "num": 14,
+        "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
+        "url": "https://sspai.com/post/113618",
+        "source": "少数派",
+        "desc": "iOS 27 测试版及苹果新品动态"
+      }
+    ],
+    "stats": {
+      "total_items": 14,
+      "total_categories": 4,
+      "total_sources": 3
+    }
+  }
+}
