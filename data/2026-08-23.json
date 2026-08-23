@@ -1,0 +1,883 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "openai / codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "stars": "114839",
+      "stars_today": "2,729 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 2,
+      "title": "freestylefly / awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": "12503",
+      "stars_today": "628 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 3,
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": "233320",
+      "stars_today": "2,448 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 4,
+      "title": "basecamp / omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "stars": "28719",
+      "stars_today": "803 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 5,
+      "title": "AprilNEA / OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "stars": "14499",
+      "stars_today": "1,008 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 6,
+      "title": "block / buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "stars": "29926",
+      "stars_today": "564 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 7,
+      "title": "apache / maka",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "stars": "2214",
+      "stars_today": "49 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 8,
+      "title": "Alishahryar1 / free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "stars": "47656",
+      "stars_today": "1,040 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "tinyhumansai / openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "stars": "36557",
+      "stars_today": "51 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 10,
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "242389",
+      "stars_today": "427 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 11,
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": "68944",
+      "stars_today": "134 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 12,
+      "title": "VoltAgent / awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "stars": "31061",
+      "stars_today": "237 stars today",
+      "language": ""
+    },
+    {
+      "rank": 13,
+      "title": "virgiliojr94 / book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "stars": "24385",
+      "stars_today": "423 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 14,
+      "title": "dani-garcia / vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "stars": "65893",
+      "stars_today": "68 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 15,
+      "title": "anthropics / claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "stars": "753",
+      "stars_today": "190 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "And then the men with guns tell you to do it anyway",
+      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+      "source_url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+      "tags": [
+        "philosophy",
+        "privacy",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "Hister - A private, full content search index that you control",
+      "url": "https://hister.org/",
+      "source_url": "https://hister.org/",
+      "tags": [
+        "browsers",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "You should never be angry at work",
+      "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+      "source_url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+      "tags": [
+        "practices"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "There continue to be reasons for software to be slow",
+      "url": "https://typesanitizer.com/blog/performance-issues.html",
+      "source_url": "https://typesanitizer.com/blog/performance-issues.html",
+      "tags": [
+        "performance",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "NetBSD and my life (2005)",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "source_url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "tags": [
+        "netbsd"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Are there any decent programs for pdf viewing and editing for Linux that replace Adobe Acrobat?",
+      "url": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
+      "source_url": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
+      "tags": [
+        "ask",
+        "linux",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "A 2026 Survey of Rust GUI Libraries",
+      "url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
+      "source_url": "https://blog.wybxc.cc/blog/rust-gui-survey-2026/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "Why aren't my two Cortex-A9 cores cache coherent?",
+      "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
+      "source_url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
+      "tags": [
+        "hardware",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
+      "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+      "source_url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+      "tags": [
+        "linux",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "The immortal 1984 Macintosh (restoration diary)",
+      "url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
+      "source_url": "https://www.thebyteattic.com/2026/08/the-immortal-macintosh-restoration-diary.html",
+      "tags": [
+        "mac",
+        "retrocomputing"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "OTel Isn't Going Well (And I Made A Spreadsheet About It)",
+      "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+      "source_url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+      "tags": [
+        "distributed"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "JIT Compiling Code in 5μs",
+      "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+      "source_url": "https://malisper.me/jit-compiling-code-in-5-us/",
+      "tags": [
+        "compilers",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "The cool things of Gleam",
+      "url": "https://a.baez.link/3mtdbbp2dmc27",
+      "source_url": "https://a.baez.link/3mtdbbp2dmc27",
+      "tags": [
+        "gleam"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "nss-userhosts - hosts files for unprivileged users",
+      "url": "https://codeberg.org/felixs/nss-userhosts",
+      "source_url": "https://codeberg.org/felixs/nss-userhosts",
+      "tags": [
+        "show",
+        "linux",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "A Friendly Introduction to Racket",
+      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+      "source_url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+      "tags": [
+        "lisp"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本neyham15:25会员内容",
+      "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
+      "author": "neyham",
+      "summary": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本"
+    },
+    {
+      "rank": 2,
+      "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCastisayyeah11:00Matrix精选",
+      "url": "https://sspai.com/post/113002",
+      "author": "isayyeah",
+      "summary": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast"
+    },
+    {
+      "rank": 3,
+      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展听歌的水獭昨天 11:00",
+      "url": "https://sspai.com/post/113675",
+      "author": "听歌的水獭",
+      "summary": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展"
+    },
+    {
+      "rank": 4,
+      "title": "本周看什么 | 最近值得一看的 10 部作品少数派编辑部前天 18:08",
+      "url": "https://sspai.com/post/113693",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 10 部作品"
+    },
+    {
+      "rank": 5,
+      "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验KingTsui前天 11:05",
+      "url": "https://sspai.com/post/113586",
+      "author": "KingTsui",
+      "summary": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验"
+    },
+    {
+      "rank": 6,
+      "title": "你给自己搭建过哪些「反投喂」信息源？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1787035394",
+      "author": "一派投票",
+      "summary": "你给自己搭建过哪些「反投喂」信息源？"
+    },
+    {
+      "rank": 7,
+      "title": "派早报：华为发布 Pura X View、享界 G9 等多款新品少数派编辑部前天 07:00派早报",
+      "url": "https://sspai.com/post/113666",
+      "author": "少数派编辑部",
+      "summary": "派早报：华为发布 Pura X View、享界 G9 等多款新品"
+    },
+    {
+      "rank": 8,
+      "title": "新玩意 249｜少数派的编辑们最近买了啥？少数派编辑部08/20",
+      "url": "https://sspai.com/post/113650",
+      "author": "少数派编辑部",
+      "summary": "新玩意 249｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 9,
+      "title": "十年阅读历程，这是我的阅读工具推荐ElijahLee08/20",
+      "url": "https://sspai.com/post/113567",
+      "author": "ElijahLee",
+      "summary": "十年阅读历程，这是我的阅读工具推荐"
+    },
+    {
+      "rank": 10,
+      "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测WangMT08/20Matrix精选",
+      "url": "https://sspai.com/post/113497",
+      "author": "WangMT",
+      "summary": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测"
+    },
+    {
+      "rank": 11,
+      "title": "快速投票：模型打平、Harness 见分晓，你平时用哪一款？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1785741878",
+      "author": "一派讨论",
+      "summary": "快速投票：模型打平、Harness 见分晓，你平时用哪一款？"
+    },
+    {
+      "rank": 12,
+      "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本少数派编辑部08/20派早报",
+      "url": "https://sspai.com/post/113638",
+      "author": "少数派编辑部",
+      "summary": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "3姐弟太饿报警求助民警上门做饭",
+      "url": "https://s.weibo.com/weibo?q=3%E5%A7%90%E5%BC%9F%E5%A4%AA%E9%A5%BF%E6%8A%A5%E8%AD%A6%E6%B1%82%E5%8A%A9%E6%B0%91%E8%AD%A6%E4%B8%8A%E9%97%A8%E5%81%9A%E9%A5%AD",
+      "hot_value": 820000
+    },
+    {
+      "rank": 2,
+      "title": "2万件中央救灾物资支持广西",
+      "url": "https://s.weibo.com/weibo?q=2%E4%B8%87%E4%BB%B6%E4%B8%AD%E5%A4%AE%E6%95%91%E7%81%BE%E7%89%A9%E8%B5%84%E6%94%AF%E6%8C%81%E5%B9%BF%E8%A5%BF",
+      "hot_value": 760000
+    },
+    {
+      "rank": 3,
+      "title": "张元英走路姿势",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%85%83%E8%8B%B1%E8%B5%B0%E8%B7%AF%E5%A7%BF%E5%8A%BF",
+      "hot_value": 760000
+    },
+    {
+      "rank": 4,
+      "title": "一代人有一代人的隐形家务",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%BB%A3%E4%BA%BA%E6%9C%89%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%9A%84%E9%9A%90%E5%BD%A2%E5%AE%B6%E5%8A%A1",
+      "hot_value": 760000
+    },
+    {
+      "rank": 5,
+      "title": "原来内向的人都是这样交朋友的",
+      "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%86%85%E5%90%91%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E8%BF%99%E6%A0%B7%E4%BA%A4%E6%9C%8B%E5%8F%8B%E7%9A%84",
+      "hot_value": 740000
+    },
+    {
+      "rank": 6,
+      "title": "芒果新人向王一博道歉",
+      "url": "https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E6%96%B0%E4%BA%BA%E5%90%91%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%81%93%E6%AD%89",
+      "hot_value": 630000
+    },
+    {
+      "rank": 7,
+      "title": "梁伟铿王昶 决赛战谢苏",
+      "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E4%BC%9F%E9%93%BF%E7%8E%8B%E6%98%B6+%E5%86%B3%E8%B5%9B%E6%88%98%E8%B0%A2%E8%8B%8F",
+      "hot_value": 340000
+    },
+    {
+      "rank": 8,
+      "title": "DOTA2",
+      "url": "https://s.weibo.com/weibo?q=DOTA2",
+      "hot_value": 320000
+    },
+    {
+      "rank": 9,
+      "title": "夏英杰下线",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%8F%E8%8B%B1%E6%9D%B0%E4%B8%8B%E7%BA%BF",
+      "hot_value": 270000
+    },
+    {
+      "rank": 10,
+      "title": "傅首尔前夫发文怼留几手",
+      "url": "https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%E5%89%8D%E5%A4%AB%E5%8F%91%E6%96%87%E6%80%BC%E7%95%99%E5%87%A0%E6%89%8B",
+      "hot_value": 270000
+    },
+    {
+      "rank": 11,
+      "title": "HR笑了半天才给她办入职",
+      "url": "https://s.weibo.com/weibo?q=HR%E7%AC%91%E4%BA%86%E5%8D%8A%E5%A4%A9%E6%89%8D%E7%BB%99%E5%A5%B9%E5%8A%9E%E5%85%A5%E8%81%8C",
+      "hot_value": 270000
+    },
+    {
+      "rank": 12,
+      "title": "芒果新人撞脸王一博",
+      "url": "https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E6%96%B0%E4%BA%BA%E6%92%9E%E8%84%B8%E7%8E%8B%E4%B8%80%E5%8D%9A",
+      "hot_value": 270000
+    },
+    {
+      "rank": 13,
+      "title": "永康公厕被打女子发声",
+      "url": "https://s.weibo.com/weibo?q=%E6%B0%B8%E5%BA%B7%E5%85%AC%E5%8E%95%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0",
+      "hot_value": 270000
+    },
+    {
+      "rank": 14,
+      "title": "张韶涵演唱会吸氧",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E6%B0%A7",
+      "hot_value": 270000
+    },
+    {
+      "rank": 15,
+      "title": "哈兰德剪头发了",
+      "url": "https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%89%AA%E5%A4%B4%E5%8F%91%E4%BA%86",
+      "hot_value": 260000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "北大报到日校园内满是「扛床垫的爸」，如何看待这个现象？大学新生入学，家长应该帮到何种程度",
+      "url": "https://www.zhihu.com/question/2073677302911842045",
+      "hot_value": 4950000
+    },
+    {
+      "rank": 2,
+      "title": "如何评价《凡人修仙传》动画 188 集，黄龙山大战正式开始，但在线人数却依旧下跌，才十万左右？你怎么看",
+      "url": "https://www.zhihu.com/question/2074457746506892269",
+      "hot_value": 3300000
+    },
+    {
+      "rank": 3,
+      "title": "时隔 9 年口碑大反转，《我的前半生》2026 年突然全网爆火，真正原因到底是什么",
+      "url": "https://www.zhihu.com/question/2072741297400685952",
+      "hot_value": 2800000
+    },
+    {
+      "rank": 4,
+      "title": "孕妇产检时误服含甲醇有毒液体，服药前两次向医生确认，当地卫健委已介入，哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2073817492271772349",
+      "hot_value": 2700000
+    },
+    {
+      "rank": 5,
+      "title": "阿里巴巴拟配售 800 亿港元新股，全部投入 AI 建设，怎样解读这一操作？对市场有哪些影响",
+      "url": "https://www.zhihu.com/question/2074867306811881229",
+      "hot_value": 2520000
+    },
+    {
+      "rank": 6,
+      "title": "宇树机器人 100 米预赛小组垫底，同组第一名 100 米 9 秒 39 打破人类纪录，如何本场比赛各家机器人表现",
+      "url": "https://www.zhihu.com/question/2074793323445711007",
+      "hot_value": 2420000
+    },
+    {
+      "rank": 7,
+      "title": "古代士兵中箭后没有消炎药，伤口感染了还能扛过去吗",
+      "url": "https://www.zhihu.com/question/2062593631098343674",
+      "hot_value": 2410000
+    },
+    {
+      "rank": 8,
+      "title": "古人是否真的没有肉可以吃",
+      "url": "https://www.zhihu.com/question/34020226",
+      "hot_value": 2140000
+    },
+    {
+      "rank": 9,
+      "title": "TI15 决赛 Spirit 3:2 击败 VISION 夺得队史第三座 TI 冠军，如何评价本场比赛",
+      "url": "https://www.zhihu.com/question/2074784919734183469",
+      "hot_value": 2060000
+    },
+    {
+      "rank": 10,
+      "title": "美加贸易谈判最后时刻破裂，美国将加征 50% 关税，加拿大将对美实施对等关税，将产生哪些影响",
+      "url": "https://www.zhihu.com/question/2074490542076052322",
+      "hot_value": 1950000
+    },
+    {
+      "rank": 11,
+      "title": "如何评价美国海军最新公开的 AIM-424「恶意」远程空空导弹",
+      "url": "https://www.zhihu.com/question/2074785102589072121",
+      "hot_value": 1900000
+    },
+    {
+      "rank": 12,
+      "title": "反复观摩《教父》真的能让一个男人更成熟通透吗",
+      "url": "https://www.zhihu.com/question/660307217",
+      "hot_value": 1870000
+    },
+    {
+      "rank": 13,
+      "title": "乐山大佛景区有男子将松鼠踩死，游客称其是工作人员并言「松鼠是害虫」，如何看待这一行为",
+      "url": "https://www.zhihu.com/question/2074564481695344190",
+      "hot_value": 1850000
+    },
+    {
+      "rank": 14,
+      "title": "如果有一本「地球友情图鉴」，你希望收录哪些友情故事",
+      "url": "https://www.zhihu.com/question/2073041250924458364",
+      "hot_value": 1750000
+    },
+    {
+      "rank": 15,
+      "title": "郭德纲被立案调查，三场演出延期，会对其演艺事业产生哪些影响",
+      "url": "https://www.zhihu.com/question/2073858330158699952",
+      "hot_value": 1710000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
+      "score": 68,
+      "author": "campuscodi",
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=49408550"
+    },
+    {
+      "rank": 2,
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+      "score": 10,
+      "author": "bwb",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49408858"
+    },
+    {
+      "rank": 3,
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+      "score": 77,
+      "author": "epestr",
+      "comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=49407576"
+    },
+    {
+      "rank": 4,
+      "title": "To become a better writer, read as much as you can",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "score": 290,
+      "author": "andsoitis",
+      "comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=49405870"
+    },
+    {
+      "rank": 5,
+      "title": "The End of an Athlon",
+      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "score": 138,
+      "author": "userbinator",
+      "comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=49406333"
+    },
+    {
+      "rank": 6,
+      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+      "url": "https://skylens.yantraai.app/",
+      "score": 32,
+      "author": "skylensspace",
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49407309"
+    },
+    {
+      "rank": 7,
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "score": 127,
+      "author": "raybb",
+      "comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=49407507"
+    },
+    {
+      "rank": 8,
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "url": "https://martypc.net/",
+      "score": 149,
+      "author": "boilerupnc",
+      "comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=49405816"
+    },
+    {
+      "rank": 9,
+      "title": "JIT Compiling Code in 5μs",
+      "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+      "score": 114,
+      "author": "zX41ZdbW",
+      "comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=49406387"
+    },
+    {
+      "rank": 10,
+      "title": "Fast and Hard Code",
+      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+      "score": 75,
+      "author": "tosh",
+      "comments": 37,
+      "hn_url": "https://news.ycombinator.com/item?id=49406285"
+    },
+    {
+      "rank": 11,
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "score": 404,
+      "author": "felineflock",
+      "comments": 165,
+      "hn_url": "https://news.ycombinator.com/item?id=49402232"
+    },
+    {
+      "rank": 12,
+      "title": "The Art and Beauty of Blade Runner (2015)",
+      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+      "score": 128,
+      "author": "cocacola1",
+      "comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=49405331"
+    },
+    {
+      "rank": 13,
+      "title": "Hister – A private, full content search index that you control",
+      "url": "https://hister.org/",
+      "score": 411,
+      "author": "auraham",
+      "comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=49351802"
+    },
+    {
+      "rank": 14,
+      "title": "Thinking in Python",
+      "url": "https://thinkinginpython.com/",
+      "score": 235,
+      "author": "pjacotg",
+      "comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=49402202"
+    },
+    {
+      "rank": 15,
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "score": 433,
+      "author": "jemoka",
+      "comments": 129,
+      "hn_url": "https://news.ycombinator.com/item?id=49400408"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发效能",
+        "color": "ai",
+        "summary": "今天 GitHub 上的 AI Agent 简直是炸裂，OpenAI 的 Codex[1] 依然是轻量级终端编码代理的标杆。特别值得一提的是 AprilNEA 的 OpenLogi[6]，这是一个完全本地运行、无需账号且无遥测的 Logitech Options+ 替代品，支持 Rust 编写，搞外设折腾的朋友绝对要关注。还有 Apache 的 Maka[7]，作为本地优先的 AI 工作区，它把模型消息、工具调用都记录为追加日志，这种可观测性设计非常扎实。Virtus 的 ECC[10] 是个性能优化系统，专门针对 Claude Code 和 Cursor 等工具进行技能、记忆和安全优化。社区里 Lobsters 上有人讨论了 Linus Torvalds 用 AI 调试 Intel GPU 驱动 bug[13] 的事，这不仅是技术突破，更是工作流变革的信号。少数派也有文章探讨了 AI 时代的 Surface Pro 7 改造指南[18]，把旧设备变成轻量工作站，这种“反消费主义”的极客精神还是值得点赞的。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "system",
+        "summary": "底层技术这次动静也不小。Basecamp 推出的 Omarchy[4] 号称是 Beautiful, Modern & Opinionated Linux，这种带点观点的发行版往往最耐看。Lobsters 上有一篇关于 NetBSD 作者的个人回忆录，聊了聊内核开发的往事[14]，搞系统的朋友读读很有情怀。另外，关于 JIT 编译代码在 5 微秒内完成的文章[16] 在性能圈子里转得飞快，这种极限优化太硬核了。少数派最近也关注到华为发布 Pura X View 和享界 G9 等新品的动态[20]，虽然偏硬件，但反映了底层硬件生态的变化。还有那个关于为什么我的两个 Cortex-A9 核心缓存不一致的问题[15]，这种深水区的技术探讨才是硬道理。"
+      },
+      {
+        "name": "隐私安全与开源协作",
+        "color": "security",
+        "summary": "安全和隐私这块，GitHub 上 Vaultwarden[14] 依然是 Bitwarden 兼容服务器的事实标准，Rust 写的，稳稳当当。Anthropic 的 Claude 插件社区[15] 也在不断壮大，生态越来越丰富。Lobsters 上有个帖子标题很扎心：\"And then the men with guns tell you to do it anyway\"[2]，聊的是隐私和安全在权力面前的无奈，搞安全的朋友必须看看。还有 Hister 项目[3]，一个完全由你控制的全内容搜索索引，不想被大厂数据追踪的可以试试。少数派也发起了一个投票，问大家平时用哪款 AI 模型Harness见分晓[21]，看来大家在工具选择上还是很有分歧的。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "gadget",
+        "summary": "数码党今天有得聊。AprilNEA 的 OpenLogi[6] 再次出现，作为本地优先的外设控制工具，它避开了账号和遥测，这在隐私敏感时期太重要了。少数派有一篇关于 Nothing Ear (3a) 降噪真无线耳机的深度体验[19]，听起来像是个不错的入手选择。还有 Framework 升级 Laptop 12 笔记本的消息[20]，模块化笔记本依然是极客们的宠儿。Lobsters 上有人问 Linux 下有没有好的 PDF 阅读器替代 Adobe[9]，这种问题永远有，说明开源生态在努力填补商业软件的空缺。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "openai / codex",
+        "url": "https://github.com/openai/codex",
+        "source": "GitHub",
+        "desc": "Lightweight coding agent that runs in your terminal"
+      },
+      {
+        "num": 2,
+        "title": "And then the men with guns tell you to do it anyway",
+        "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+        "source": "Lobsters",
+        "desc": "关于隐私和安全的哲学思考"
+      },
+      {
+        "num": 3,
+        "title": "Hister - A private, full content search index",
+        "url": "https://hister.org/",
+        "source": "Lobsters",
+        "desc": "由你控制的全内容搜索索引"
+      },
+      {
+        "num": 4,
+        "title": "basecamp / omarchy",
+        "url": "https://github.com/basecamp/omarchy",
+        "source": "GitHub",
+        "desc": "Beautiful, Modern & Opinionated Linux"
+      },
+      {
+        "num": 5,
+        "title": "AprilNEA / OpenLogi",
+        "url": "https://github.com/AprilNEA/OpenLogi",
+        "source": "GitHub",
+        "desc": "本地优先的 Logitech Options+ 替代品"
+      },
+      {
+        "num": 6,
+        "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
+        "url": "https://github.com/torvalds/linux/commit/81bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+        "source": "Lobsters",
+        "desc": "Linus 使用 AI 调试驱动 bug 的 commit"
+      },
+      {
+        "num": 7,
+        "title": "Apache Maka",
+        "url": "https://github.com/apache/maka",
+        "source": "GitHub",
+        "desc": "本地优先的 AI 工作区，记录所有模型交互"
+      },
+      {
+        "num": 8,
+        "title": "dani-garcia / vaultwarden",
+        "url": "https://github.com/dani-garcia/vaultwarden",
+        "source": "GitHub",
+        "desc": "Rust 编写的 Bitwarden 兼容服务器"
+      },
+      {
+        "num": 9,
+        "title": "Are there any decent programs for pdf viewing and editing for Linux",
+        "url": "https://lobste.rs/s/kxualw/are_there_any_decent_programs_for_pdf",
+        "source": "Lobsters",
+        "desc": "Linux 下寻找优秀的 PDF 编辑工具讨论"
+      },
+      {
+        "num": 10,
+        "title": "affaan-m / ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "source": "GitHub",
+        "desc": "针对 AI Agent 的性能优化系统"
+      },
+      {
+        "num": 11,
+        "title": "Why aren't my two Cortex-A9 cores cache coherent?",
+        "url": "https://thejpster.org.uk/blog/blog-2026-08-22/",
+        "source": "Lobsters",
+        "desc": "关于 ARM 架构核心缓存一致性的硬核讨论"
+      },
+      {
+        "num": 12,
+        "title": "JIT Compiling Code in 5μs",
+        "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+        "source": "Lobsters",
+        "desc": "5 微秒内完成 JIT 编译的技术分享"
+      },
+      {
+        "num": 13,
+        "title": "AI 时代的 Surface Pro 7 改造指南",
+        "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
+        "source": "少数派",
+        "desc": "将旧 Surface Pro 7 改造成 AI 工作站的指南"
+      },
+      {
+        "num": 14,
+        "title": "派早报：华为发布 Pura X View、享界 G9 等多款新品",
+        "url": "https://sspai.com/post/113666",
+        "source": "少数派",
+        "desc": "华为最新硬件产品发布动态"
+      },
+      {
+        "num": 15,
+        "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
+        "url": "https://sspai.com/post/113586",
+        "source": "少数派",
+        "desc": "Nothing Ear (3a) 深度评测"
+      },
+      {
+        "num": 16,
+        "title": "快速投票：模型打平、Harness 见分晓",
+        "url": "https://sspai.com/bullet/1785741878",
+        "source": "少数派",
+        "desc": "社区关于 AI 模型选择的投票讨论"
+      }
+    ],
+    "stats": {
+      "total_items": 16,
+      "total_categories": 4,
+      "total_sources": 3
+    }
+  }
+}
