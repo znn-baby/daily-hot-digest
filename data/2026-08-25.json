@@ -1,0 +1,963 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "freestylefly / awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": "16855",
+      "stars_today": "1,698 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 2,
+      "title": "anthropics / claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "stars": "1581",
+      "stars_today": "350 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "MadsLorentzen / ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": "34892",
+      "stars_today": "1,266 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "apache / maka",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "stars": "3176",
+      "stars_today": "538 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 5,
+      "title": "TauricResearch / TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "99943",
+      "stars_today": "191 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 6,
+      "title": "AgriciDaniel / claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "stars": "12410",
+      "stars_today": "810 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": "48694",
+      "stars_today": "572 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "tinyhumansai / openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "stars": "37589",
+      "stars_today": "541 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 9,
+      "title": "basecamp / omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "stars": "30865",
+      "stars_today": "1,080 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 10,
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": "134058",
+      "stars_today": "161 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 11,
+      "title": "multica-ai / andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "206980",
+      "stars_today": "828 stars today",
+      "language": ""
+    },
+    {
+      "rank": 12,
+      "title": "openai / codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "stars": "117889",
+      "stars_today": "1,183 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 13,
+      "title": "marin-community / marin",
+      "url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "stars": "1970",
+      "stars_today": "214 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 14,
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": "110493",
+      "stars_today": "944 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 15,
+      "title": "anthropics / claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": "33974",
+      "stars_today": "47 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "I cannot survive from burnout",
+      "url": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
+      "source_url": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
+      "tags": [
+        "person"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "MNT Station - A modular, open hardware desktop computer and server",
+      "url": "https://www.crowdsupply.com/mnt-research/mnt-station",
+      "source_url": "https://www.crowdsupply.com/mnt-research/mnt-station",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "An interactive introduction to the spanning tree protocol",
+      "url": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
+      "source_url": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
+      "tags": [
+        "networking"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Migrating from Codeberg Pages to an OpenBSD VPS",
+      "url": "https://nemin.hu/vps/index.html",
+      "source_url": "https://nemin.hu/vps/index.html",
+      "tags": [
+        "openbsd",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Intent to Ship: JPEG XL",
+      "url": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
+      "source_url": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
+      "tags": [
+        "browsers",
+        "graphics"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Solving the 1+N query problem",
+      "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+      "source_url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+      "tags": [
+        "databases"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Your executable is a SQLite database",
+      "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+      "source_url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+      "tags": [
+        "databases",
+        "linux",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "Can a blog post be handwritten?",
+      "url": "https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/",
+      "source_url": "https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/",
+      "tags": [
+        "a11y",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "Hunting Down a Go Runtime Bug on 32-bit Embedded Systems",
+      "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+      "source_url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+      "tags": [
+        "go",
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "AI Coding will Prevent Expertise",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "source_url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "Emacs 31.1 released",
+      "url": "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html",
+      "source_url": "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html",
+      "tags": [
+        "emacs",
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Porffor goes alpha August 11th",
+      "url": "https://honk.foo/porffor-alpha/",
+      "source_url": "https://honk.foo/porffor-alpha/",
+      "tags": [
+        "compilers",
+        "javascript"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "Perspec 1.0: A Haskell desktop app for perspective correction of document photos",
+      "url": "https://adriansieber.com/announcing-perspec-1-0/",
+      "source_url": "https://adriansieber.com/announcing-perspec-1-0/",
+      "tags": [
+        "graphics",
+        "haskell",
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "Another look at SQLite's WAL-Reset bug",
+      "url": "https://theconsensus.dev/p/2026/08/23/another-look-at-sqlite-wal-reset.html",
+      "source_url": "https://theconsensus.dev/p/2026/08/23/another-look-at-sqlite-wal-reset.html",
+      "tags": [
+        "databases"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Adding CPU affinity in a 24-core build machine made builds take longer",
+      "url": "https://infosec.exchange/@david_chisnall/117156204452541109",
+      "source_url": "https://infosec.exchange/@david_chisnall/117156204452541109",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "社区速递 155 | 适马千元人像神头与七月派友剁手清单Matrix机器人17:00",
+      "url": "https://sspai.com/post/113828",
+      "author": "Matrix机器人",
+      "summary": "社区速递 155 | 适马千元人像神头与七月派友剁手清单"
+    },
+    {
+      "rank": 2,
+      "title": "台湾打工换宿｜用人与人的喜好串起淡水的地图许万里Alva15:00Matrix精选",
+      "url": "https://sspai.com/post/113673",
+      "author": "许万里Alva",
+      "summary": "台湾打工换宿｜用人与人的喜好串起淡水的地图"
+    },
+    {
+      "rank": 3,
+      "title": "App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙ArkLab11:13",
+      "url": "https://sspai.com/post/112442",
+      "author": "ArkLab",
+      "summary": "App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等少数派编辑部08:28派早报",
+      "url": "https://sspai.com/post/113813",
+      "author": "少数派编辑部",
+      "summary": "派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等"
+    },
+    {
+      "rank": 5,
+      "title": "派评 | 近期值得关注的 App少数派编辑部昨天 17:52",
+      "url": "https://sspai.com/post/113795",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 6,
+      "title": "[共创]什么样的周边 T 恤，会让你愿意买单？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1787556583",
+      "author": "一派投票",
+      "summary": "[共创]什么样的周边 T 恤，会让你愿意买单？"
+    },
+    {
+      "rank": 7,
+      "title": "Windows On ARM 原生应用少？你可以试试这些改造方法化学心情下2昨天 16:28会员内容",
+      "url": "https://sspai.com/prime/story/create-your-own-windows-apps",
+      "author": "化学心情下2",
+      "summary": "Windows On ARM 原生应用少？你可以试试这些改造方法"
+    },
+    {
+      "rank": 8,
+      "title": "AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……dong4j昨天 15:14",
+      "url": "https://sspai.com/post/113563",
+      "author": "dong4j",
+      "summary": "AI 助力改造非智能升降桌：智能升降、语音控制、多端联动……"
+    },
+    {
+      "rank": 9,
+      "title": "快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制谷雨G2rain昨天 11:30Matrix精选",
+      "url": "https://sspai.com/post/112983",
+      "author": "谷雨G2rain",
+      "summary": "快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制"
+    },
+    {
+      "rank": 10,
+      "title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车少数派编辑部昨天 07:13派早报",
+      "url": "https://sspai.com/post/113767",
+      "author": "少数派编辑部",
+      "summary": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车"
+    },
+    {
+      "rank": 11,
+      "title": "你给自己搭建过哪些「反投喂」信息源？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1787035394",
+      "author": "一派投票",
+      "summary": "你给自己搭建过哪些「反投喂」信息源？"
+    },
+    {
+      "rank": 12,
+      "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本neyham前天 15:25会员内容",
+      "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
+      "author": "neyham",
+      "summary": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "奔驰宝马发短片讽刺速成车",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E5%8F%91%E7%9F%AD%E7%89%87%E8%AE%BD%E5%88%BA%E9%80%9F%E6%88%90%E8%BD%A6",
+      "hot_value": 1640000
+    },
+    {
+      "rank": 2,
+      "title": "读懂下半年中国经济发力方向",
+      "url": "https://s.weibo.com/weibo?q=%E8%AF%BB%E6%87%82%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%8A%9B%E6%96%B9%E5%90%91",
+      "hot_value": 1350000
+    },
+    {
+      "rank": 3,
+      "title": "在韩失联女生已在国内找到工作",
+      "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E9%9F%A9%E5%A4%B1%E8%81%94%E5%A5%B3%E7%94%9F%E5%B7%B2%E5%9C%A8%E5%9B%BD%E5%86%85%E6%89%BE%E5%88%B0%E5%B7%A5%E4%BD%9C",
+      "hot_value": 1200000
+    },
+    {
+      "rank": 4,
+      "title": "金鹰奖提名名单",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95",
+      "hot_value": 590000
+    },
+    {
+      "rank": 5,
+      "title": "杭州警方通报女子称在电梯遭骚扰",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9C%A8%E7%94%B5%E6%A2%AF%E9%81%AD%E9%AA%9A%E6%89%B0",
+      "hot_value": 540000
+    },
+    {
+      "rank": 6,
+      "title": "网络辟谣标签",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E7%BB%9C%E8%BE%9F%E8%B0%A3%E6%A0%87%E7%AD%BE",
+      "hot_value": 540000
+    },
+    {
+      "rank": 7,
+      "title": "原来大家都是这样防止被套话的",
+      "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AE%B6%E9%83%BD%E6%98%AF%E8%BF%99%E6%A0%B7%E9%98%B2%E6%AD%A2%E8%A2%AB%E5%A5%97%E8%AF%9D%E7%9A%84",
+      "hot_value": 530000
+    },
+    {
+      "rank": 8,
+      "title": "警方确认失联中国女生无韩出境记录",
+      "url": "https://s.weibo.com/weibo?q=%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E5%A4%B1%E8%81%94%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E6%97%A0%E9%9F%A9%E5%87%BA%E5%A2%83%E8%AE%B0%E5%BD%95",
+      "hot_value": 450000
+    },
+    {
+      "rank": 9,
+      "title": "原来只有我上班在乱穿",
+      "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%8F%AA%E6%9C%89%E6%88%91%E4%B8%8A%E7%8F%AD%E5%9C%A8%E4%B9%B1%E7%A9%BF",
+      "hot_value": 450000
+    },
+    {
+      "rank": 10,
+      "title": "金鹰奖热门男女主掉提名单",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%B9%B0%E5%A5%96%E7%83%AD%E9%97%A8%E7%94%B7%E5%A5%B3%E4%B8%BB%E6%8E%89%E6%8F%90%E5%90%8D%E5%8D%95",
+      "hot_value": 390000
+    },
+    {
+      "rank": 11,
+      "title": "赵丽颖突发身体不适",
+      "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%AA%81%E5%8F%91%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82",
+      "hot_value": 390000
+    },
+    {
+      "rank": 12,
+      "title": "韩国愈演愈烈的失踪事件",
+      "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%84%88%E6%BC%94%E6%84%88%E7%83%88%E7%9A%84%E5%A4%B1%E8%B8%AA%E4%BA%8B%E4%BB%B6",
+      "hot_value": 380000
+    },
+    {
+      "rank": 13,
+      "title": "刘亦菲茜茜公主大片",
+      "url": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E8%8C%9C%E8%8C%9C%E5%85%AC%E4%B8%BB%E5%A4%A7%E7%89%87",
+      "hot_value": 380000
+    },
+    {
+      "rank": 14,
+      "title": "乳房触诊当事医生称已起诉",
+      "url": "https://s.weibo.com/weibo?q=%E4%B9%B3%E6%88%BF%E8%A7%A6%E8%AF%8A%E5%BD%93%E4%BA%8B%E5%8C%BB%E7%94%9F%E7%A7%B0%E5%B7%B2%E8%B5%B7%E8%AF%89",
+      "hot_value": 370000
+    },
+    {
+      "rank": 15,
+      "title": "惠英红撞车戏 朱莉跳楼戏",
+      "url": "https://s.weibo.com/weibo?q=%E6%83%A0%E8%8B%B1%E7%BA%A2%E6%92%9E%E8%BD%A6%E6%88%8F+%E6%9C%B1%E8%8E%89%E8%B7%B3%E6%A5%BC%E6%88%8F",
+      "hot_value": 370000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "舍友们提议轮流请客吃饭，不想参加也不想请，如何礼貌拒绝不被孤立",
+      "url": "https://www.zhihu.com/question/2072469113600055036",
+      "hot_value": 10630000
+    },
+    {
+      "rank": 2,
+      "title": "希尔顿花园等贴牌外资酒店遇冷，消费者吐槽「还不如全季亚朵」，外资酒店贴牌大法不灵了吗？为什么会这样",
+      "url": "https://www.zhihu.com/question/2075239391585484937",
+      "hot_value": 2940000
+    },
+    {
+      "rank": 3,
+      "title": "媒体报道一斤鸭脖能买一斤牛肉一斤排骨，为什么会出现这种价格倒挂现象？鸭货真的降完价还是「刺客」吗",
+      "url": "https://www.zhihu.com/question/2074470804750854041",
+      "hot_value": 2090000
+    },
+    {
+      "rank": 4,
+      "title": "大批 AI 博主集中停更，背后真实原因是什么，AI 内容赛道接下来会如何发展",
+      "url": "https://www.zhihu.com/question/2072979072867747736",
+      "hot_value": 1260000
+    },
+    {
+      "rank": 5,
+      "title": "蚊子只是叮了人一下，人就要蚊子的命，这对蚊子来说公平吗",
+      "url": "https://www.zhihu.com/question/2074337665013629862",
+      "hot_value": 1240000
+    },
+    {
+      "rank": 6,
+      "title": "多名农民称莫名成企业法人「被贷款」千万元，涉事银行已启动调查，哪些问题值得关注",
+      "url": "https://www.zhihu.com/question/2074828820763369479",
+      "hot_value": 1230000
+    },
+    {
+      "rank": 7,
+      "title": "法国团队利用离体死后人脑组织控制机械手弹钢琴，该实验有何科学原理和伦理意义",
+      "url": "https://www.zhihu.com/question/2072671013171728562",
+      "hot_value": 1200000
+    },
+    {
+      "rank": 8,
+      "title": "如何看待丁俊晖连续首轮出局后表示「不知道你们在期待什么」，丁俊晖现在在国内排第几，状态还能恢复吗",
+      "url": "https://www.zhihu.com/question/2075194548683104847",
+      "hot_value": 1180000
+    },
+    {
+      "rank": 9,
+      "title": "为什么童星的发展都很一般？戏路都很窄",
+      "url": "https://www.zhihu.com/question/426538873",
+      "hot_value": 1160000
+    },
+    {
+      "rank": 10,
+      "title": "如何看待东华理工大学本科生一年发含 JACS 在内的七篇论文",
+      "url": "https://www.zhihu.com/question/2075174016571138731",
+      "hot_value": 1150000
+    },
+    {
+      "rank": 11,
+      "title": "2026 金鹰奖提名揭晓，于和伟王宝强胡歌争视帝，闫妮宋佳马伊俐杨紫争视后，杨幂掉提，你看好哪些获奖",
+      "url": "https://www.zhihu.com/question/2075603608276394254",
+      "hot_value": 1140000
+    },
+    {
+      "rank": 12,
+      "title": "如何看待诺兰《奥德赛》全球吸金超 13.52 亿，力压《死侍与金刚狼》登顶影史票房最高 R 级电影",
+      "url": "https://www.zhihu.com/question/2074082605125694308",
+      "hot_value": 1110000
+    },
+    {
+      "rank": 13,
+      "title": "想跟领导提升职的事情，又不敢当面说，发了微信没收到回复，还有必要再当面说么",
+      "url": "https://www.zhihu.com/question/2013899900576866847",
+      "hot_value": 1030000
+    },
+    {
+      "rank": 14,
+      "title": "Shein 上市估值从 1000 亿缩水到 270 亿美元，跨境电商快时尚的「黄金时代」是不是过去了",
+      "url": "https://www.zhihu.com/question/2075160925938479869",
+      "hot_value": 940000
+    },
+    {
+      "rank": 15,
+      "title": "美国宣布对伊朗实施「经济孤立」新措施，涉航空、黄金、航运等五大领域，这会切断伊朗「所有经济命脉」吗",
+      "url": "https://www.zhihu.com/question/2075544793917272111",
+      "hot_value": 880000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "score": 264,
+      "author": "interpol_p",
+      "comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=49433316"
+    },
+    {
+      "rank": 2,
+      "title": "Apple's new Mac mini, featuring M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "score": 68,
+      "author": "runako",
+      "comments": 38,
+      "hn_url": "https://news.ycombinator.com/item?id=49433450"
+    },
+    {
+      "rank": 3,
+      "title": "France's tax agency got hacked (in French)",
+      "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
+      "score": 79,
+      "author": "zakxxi",
+      "comments": 40,
+      "hn_url": "https://news.ycombinator.com/item?id=49433064"
+    },
+    {
+      "rank": 4,
+      "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+      "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+      "score": 112,
+      "author": "garo-pro",
+      "comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=49432317"
+    },
+    {
+      "rank": 5,
+      "title": "Don't Wordle",
+      "url": "https://dontwordle.com/",
+      "score": 143,
+      "author": "Hbruz0",
+      "comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=49432319"
+    },
+    {
+      "rank": 6,
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "score": 329,
+      "author": "interpol_p",
+      "comments": 283,
+      "hn_url": "https://news.ycombinator.com/item?id=49433292"
+    },
+    {
+      "rank": 7,
+      "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
+      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+      "score": 19,
+      "author": "speckx",
+      "comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=49434820"
+    },
+    {
+      "rank": 8,
+      "title": "Building a backyard office, the build and cost breakdown",
+      "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+      "score": 22,
+      "author": "surprisetalk",
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49434645"
+    },
+    {
+      "rank": 9,
+      "title": "HelloAssembly The smallest possible complete Windows application",
+      "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
+      "score": 43,
+      "author": "Bluestein",
+      "comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=49432227"
+    },
+    {
+      "rank": 10,
+      "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
+      "url": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
+      "score": 4,
+      "author": "gpaulbagetti",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49434613"
+    },
+    {
+      "rank": 11,
+      "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+      "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
+      "score": 82,
+      "author": "MC995",
+      "comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=49432879"
+    },
+    {
+      "rank": 12,
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "score": 548,
+      "author": "K7PJP",
+      "comments": 173,
+      "hn_url": "https://news.ycombinator.com/item?id=49426564"
+    },
+    {
+      "rank": 13,
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "score": 793,
+      "author": "ComputerGuru",
+      "comments": 394,
+      "hn_url": "https://news.ycombinator.com/item?id=49421158"
+    },
+    {
+      "rank": 14,
+      "title": "Anthropic tells staff to work from home due to possible security team strike",
+      "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+      "score": 32,
+      "author": "DGAP",
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=49434291"
+    },
+    {
+      "rank": 15,
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "url": "https://twitter.com/lemire/status/2091894299289874926",
+      "score": 936,
+      "author": "tosh",
+      "comments": 670,
+      "hn_url": "https://news.ycombinator.com/item?id=49420873"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI/智能体/大模型",
+        "color": "ai",
+        "summary": "今天 GitHub 上的 AI Agent 赛道简直是疯狂，Anthropic 的官方插件市场 [1] 和镜像库 [2] 双更新，Claude 的生态位稳如泰山，社区也在疯狂挖掘 Claude Code 的本地化玩法。MadsLorentzen 的 AI 求职框架 [3] 已经拿了 1.2k+ star，主打一个本地运行保护隐私，搞求职的朋友可以直接 Fork 玩一玩。AgriciDaniel 的 Obsidian+Claude 第二大脑 [4] 也很绝，把 Karpathy 的 Wiki 模式落地了，搞 PKM 的真的要看。有意思的是 TinyHumansAI 的 OpenHuman [5]，号称你的个人超级智能，本地记忆加多智能体编排，这个概念有点超前。还有那个让 AI 像“最懒的资深开发”一样写的 Ponytail [6]，简直是代码生成界的清流，追求极致简洁。社区里 Lobsters 上有人发帖说 AI 编程可能会扼杀专家精神 [7]，这个观点挺犀利，AI 太强的时候，我们是不是连“不懂”的资格都没了？搞 AI 应用的朋友可得思考下这个问题。"
+      },
+      {
+        "name": "开发工具/开源生态",
+        "color": "dev",
+        "summary": "开发工具这块动静也不小。GitHub 上那个 Awesome GPT-Image-2 [8] 很有意思，把工业级提示词逆向工程做了个样本库，20 多套模板，搞 AIGC 的不妨去瞅瞅。Apache Maka [9] 作为本地优先的 AI 工作区被收录进来，这种不依赖云端的架构越来越吃香。Lobsters 上 Emacs 31.1 发布了 [10]，老牌编辑器依然稳。另外，有个叫 Porffor 的编译器前端项目 [11] 宣布进入 Alpha，还有 Perspec [12] 这个 Haskell 写的文档照片透视修正工具也发布了 1.0，搞设计或者扫图的朋友可以考虑。少数派上有 Windows On ARM 的改造指南 [13]，还有 AI 改造 Surface Pro 7 的教程 [14]，感觉老设备焕发新生成了新的潮流。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术方面，Lobsters 上关于 Spanning Tree Protocol 的交互介绍 [15] 很实用，网络工程师应该会收藏。还有个挺硬核的帖子，讲在 32 位嵌入式系统上追踪 Go 运行时 Bug 的过程 [16]，搞嵌入式的朋友可以看看。数据库方面，SQLite 的 WAL-Reset 漏洞又被深挖了一遍 [17]，还有关于解决 1+N 查询问题的方案 [18]，这两个对做高性能存储的朋友来说是必修课。另外，有个观点说你的可执行文件本质上就是个 SQLite 数据库 [19]，这个角度很新颖，值得琢磨一下。"
+      },
+      {
+        "name": "数码产品/效率工具",
+        "color": "tools",
+        "summary": "数码和效率这块，少数派早报 [20] 提到了阿里云 Wan3.0 和小米玄戒芯片，硬件圈又有新动作。社区里有个关于“反投喂”信息源的投票 [21]，现在信息过载，大家都在找纯净的信息源，这个共鸣很强。还有个关于 App+1 的 ArkFlow [22]，专门给信用卡做卡面墙，这种收集癖工具总能火一把。Lobsters 上有人吐槽硬件，说加 CPU 亲和性反而让构建变慢了 [23]，这种“好心办坏事”的调试经历大家应该都遇到过。还有台湾打工换宿的地图项目 [24]，虽然不是纯技术，但这种用代码串起人情的项目也值得点赞。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "最后聊聊今天的思考。Lobsters 上有人发帖说自己快 burnout 了 [25]，在这个 AI 狂飙的时代，人的精力反而成了稀缺资源，这个话题太真实了。还有一个关于 JPEG XL 即将发布的帖子 [26]，图形压缩格式的更迭永远在驱动生态变化。少数派上有个投票问什么样的周边 T 恤愿意买单 [27]，看似无关，其实反映了开发者对社区认同感的需求。总的来说，技术越来越卷，但“以人为本”和“小而美”的东西反而更让人安心。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "anthropics / claude-plugins-community",
+        "url": "https://github.com/anthropics/claude-plugins-community",
+        "source": "GitHub Trending",
+        "desc": "Claude 社区插件市场镜像"
+      },
+      {
+        "num": 2,
+        "title": "anthropics / claude-plugins-official",
+        "url": "https://github.com/anthropics/claude-plugins-official",
+        "source": "GitHub Trending",
+        "desc": "Anthropic 官方管理的高质量插件目录"
+      },
+      {
+        "num": 3,
+        "title": "MadsLorentzen / ai-job-search",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "source": "GitHub Trending",
+        "desc": "基于 Claude Code 的本地 AI 求职框架"
+      },
+      {
+        "num": 4,
+        "title": "AgriciDaniel / claude-obsidian",
+        "url": "https://github.com/AgriciDaniel/claude-obsidian",
+        "source": "GitHub Trending",
+        "desc": "Obsidian 与 Claude Code 结合的第二大脑"
+      },
+      {
+        "num": 5,
+        "title": "tinyhumansai / openhuman",
+        "url": "https://github.com/tinyhumansai/openhuman",
+        "source": "GitHub Trending",
+        "desc": "个人本地超级智能与多智能体编排"
+      },
+      {
+        "num": 6,
+        "title": "DietrichGebert / ponytail",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "source": "GitHub Trending",
+        "desc": "让 AI 像最懒的资深开发一样写代码"
+      },
+      {
+        "num": 7,
+        "title": "AI Coding will Prevent Expertise",
+        "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+        "source": "Lobsters",
+        "desc": "讨论 AI 编程是否会扼杀专家精神"
+      },
+      {
+        "num": 8,
+        "title": "freestylefly / awesome-gpt-image-2",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+        "source": "GitHub Trending",
+        "desc": "GPT-Image2 工业级提示词引擎与模板库"
+      },
+      {
+        "num": 9,
+        "title": "apache / maka",
+        "url": "https://github.com/apache/maka",
+        "source": "GitHub Trending",
+        "desc": "Apache 本地优先 AI 智能体工作区"
+      },
+      {
+        "num": 10,
+        "title": "Emacs 31.1 released",
+        "url": "https://lists.gnu.org/archive/html/info-gnu-emacs/2026-08/msg00004.html",
+        "source": "Lobsters",
+        "desc": "Emacs 编辑器 31.1 版本发布"
+      },
+      {
+        "num": 11,
+        "title": "Porffor goes alpha",
+        "url": "https://honk.foo/porffor-alpha/",
+        "source": "Lobsters",
+        "desc": "Porffor 编译器前端进入 Alpha 阶段"
+      },
+      {
+        "num": 12,
+        "title": "Perspec 1.0",
+        "url": "https://adriansieber.com/announcing-perspec-1-0/",
+        "source": "Lobsters",
+        "desc": "Haskell 桌面应用照片透视修正工具发布"
+      },
+      {
+        "num": 13,
+        "title": "Windows On ARM 原生应用少？改造方法",
+        "url": "https://sspai.com/prime/story/create-your-own-windows-apps",
+        "source": "少数派",
+        "desc": "Windows On ARM 原生应用改造指南"
+      },
+      {
+        "num": 14,
+        "title": "AI 时代的 Surface Pro 7 改造指南",
+        "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
+        "source": "少数派",
+        "desc": "Surface Pro 7 变身看板与 Linux 工作站"
+      },
+      {
+        "num": 15,
+        "title": "An interactive introduction to the spanning tree protocol",
+        "url": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
+        "source": "Lobsters",
+        "desc": "生成树协议交互式教程"
+      },
+      {
+        "num": 16,
+        "title": "Hunting Down a Go Runtime Bug on 32-bit Embedded Systems",
+        "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+        "source": "Lobsters",
+        "desc": "32 位嵌入式系统 Go 运行时 Bug 追踪"
+      },
+      {
+        "num": 17,
+        "title": "Another look at SQLite's WAL-Reset bug",
+        "url": "https://theconsensus.dev/p/2026/08/23/another-look-at-sqlite-wal-reset.html",
+        "source": "Lobsters",
+        "desc": "SQLite WAL-Reset 漏洞深度分析"
+      },
+      {
+        "num": 18,
+        "title": "Solving the 1+N query problem",
+        "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+        "source": "Lobsters",
+        "desc": "解决数据库 1+N 查询问题方案"
+      },
+      {
+        "num": 19,
+        "title": "Your executable is a SQLite database",
+        "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+        "source": "Lobsters",
+        "desc": "观点：你的可执行文件本质上是个 SQLite 数据库"
+      },
+      {
+        "num": 20,
+        "title": "派早报：阿里云视频生成模型 Wan3.0 上线",
+        "url": "https://sspai.com/post/113813",
+        "source": "少数派",
+        "desc": "Wan3.0 模型及小米玄戒芯片等资讯"
+      },
+      {
+        "num": 21,
+        "title": "你给自己搭建过哪些「反投喂」信息源？",
+        "url": "https://sspai.com/bullet/1787035394",
+        "source": "少数派",
+        "desc": "关于反投喂信息源的社区投票"
+      },
+      {
+        "num": 22,
+        "title": "App+1｜ArkFlow：满足你的卡面收集癖",
+        "url": "https://sspai.com/post/112442",
+        "source": "少数派",
+        "desc": "信用卡卡面墙管理工具 ArkFlow"
+      },
+      {
+        "num": 23,
+        "title": "Adding CPU affinity in a 24-core build machine made builds take longer",
+        "url": "https://infosec.exchange/@david_chisnall/117156204452541109",
+        "source": "Lobsters",
+        "desc": "硬件调试：加 CPU 亲和性导致构建变慢"
+      },
+      {
+        "num": 24,
+        "title": "台湾打工换宿｜用人与人的喜好串起淡水的地图",
+        "url": "https://sspai.com/post/113673",
+        "source": "少数派",
+        "desc": "基于用户喜好的淡水地图项目"
+      },
+      {
+        "num": 25,
+        "title": "I cannot survive from burnout",
+        "url": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
+        "source": "Lobsters",
+        "desc": "用户发帖倾诉无法从职业倦怠中恢复"
+      },
+      {
+        "num": 26,
+        "title": "Intent to Ship: JPEG XL",
+        "url": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
+        "source": "Lobsters",
+        "desc": "JPEG XL 格式发布意向"
+      },
+      {
+        "num": 27,
+        "title": "[共创]什么样的周边 T 恤，会让你愿意买单？",
+        "url": "https://sspai.com/bullet/1787556583",
+        "source": "少数派",
+        "desc": "关于开发者周边 T 恤偏好的投票"
+      }
+    ],
+    "stats": {
+      "total_items": 27,
+      "total_categories": 5,
+      "total_sources": 27
+    }
+  }
+}
