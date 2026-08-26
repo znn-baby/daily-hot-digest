@@ -1,0 +1,908 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "tt-a1i / archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": "17119",
+      "stars_today": "1,002 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 2,
+      "title": "freestylefly / awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": "20796",
+      "stars_today": "4,044 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 3,
+      "title": "anthropics / claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": "34270",
+      "stars_today": "307 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "Alishahryar1 / free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "stars": "50147",
+      "stars_today": "1,047 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "MadsLorentzen / ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": "36103",
+      "stars_today": "1,299 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 6,
+      "title": "AgriciDaniel / claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "stars": "13188",
+      "stars_today": "812 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "basecamp / omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "stars": "31783",
+      "stars_today": "1,021 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 8,
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": "49446",
+      "stars_today": "837 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "tinyhumansai / openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "stars": "38075",
+      "stars_today": "522 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 10,
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": "112046",
+      "stars_today": "1,598 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 11,
+      "title": "anthropics / claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "stars": "2072",
+      "stars_today": "537 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 12,
+      "title": "ConardLi / garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "stars": "10797",
+      "stars_today": "136 stars today",
+      "language": "CSS"
+    },
+    {
+      "rank": 13,
+      "title": "browser-use / browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": "110691",
+      "stars_today": "135 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 14,
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": "34579",
+      "stars_today": "130 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 15,
+      "title": "marin-community / marin",
+      "url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "stars": "2372",
+      "stars_today": "443 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "The Move to Python 3 Begins",
+      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "source_url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "tags": [
+        "python"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "I stabilized never type",
+      "url": "https://blog.ihatereality.space/0C-never-type/",
+      "source_url": "https://blog.ihatereality.space/0C-never-type/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "Casey Muratori – The Root of The Root of All Evil – BSC 2026",
+      "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+      "source_url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+      "tags": [
+        "video",
+        "historical",
+        "programming",
+        "retrocomputing"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "C2PA Cameras Do Not Survive Contact With Reality",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "source_url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "tags": [
+        "android",
+        "cryptography",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "mold: A Massively Parallel Linker",
+      "url": "https://arxiv.org/abs/2608.23228",
+      "source_url": "https://arxiv.org/abs/2608.23228",
+      "tags": [
+        "pdf",
+        "compilers",
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Why Google stores billions of lines of code in a single repository (2016)",
+      "url": "https://dl.acm.org/doi/fullHtml/10.1145/2854146",
+      "source_url": "https://dl.acm.org/doi/fullHtml/10.1145/2854146",
+      "tags": [
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "MNT Station - A modular, open hardware desktop computer and server",
+      "url": "https://www.crowdsupply.com/mnt-research/mnt-station",
+      "source_url": "https://www.crowdsupply.com/mnt-research/mnt-station",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "What's in a tag name? JavaScript, apparently",
+      "url": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
+      "source_url": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "Understanding Go's sync.Map from API to Hash Trie",
+      "url": "https://victoriametrics.com/blog/go-sync-map-hash-trie/",
+      "source_url": "https://victoriametrics.com/blog/go-sync-map-hash-trie/",
+      "tags": [
+        "go"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "Using TypeScript to Obtain One of the Rarest License Plates (2025)",
+      "url": "https://www.jack.bio/blog/licenseplate",
+      "source_url": "https://www.jack.bio/blog/licenseplate",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "Adding CPU affinity in a 24-core build machine made builds take longer",
+      "url": "https://infosec.exchange/@david_chisnall/117156204452541109",
+      "source_url": "https://infosec.exchange/@david_chisnall/117156204452541109",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Run OpenBSD on DigitalOcean for $4/month",
+      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "source_url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "tags": [
+        "openbsd",
+        "unix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "Problem with concurrent linter fixes",
+      "url": "https://jfmengels.net/concurrent-linter-fixes/",
+      "source_url": "https://jfmengels.net/concurrent-linter-fixes/",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "Beyond recall and the illusion of competence",
+      "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+      "source_url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Migrating from Codeberg Pages to an OpenBSD VPS",
+      "url": "https://nemin.hu/vps/index.html",
+      "source_url": "https://nemin.hu/vps/index.html",
+      "tags": [
+        "openbsd",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？少数派编辑部15:59会员内容",
+      "url": "https://sspai.com/prime/story/zhuanglesha-260826",
+      "author": "少数派编辑部",
+      "summary": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？"
+    },
+    {
+      "rank": 2,
+      "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱学生党到底有哪些专享福利？看这一篇就对了。jijiali16:25",
+      "url": "https://sspai.com/post/68227",
+      "author": "jijiali",
+      "summary": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱"
+    },
+    {
+      "rank": 3,
+      "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总机核GCORES15:11",
+      "url": "https://sspai.com/post/113851",
+      "author": "机核GCORES",
+      "summary": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总"
+    },
+    {
+      "rank": 4,
+      "title": "在正镶白旗，用五天共同生活理解现代牧场PJHubs10:39Matrix精选",
+      "url": "https://sspai.com/post/113714",
+      "author": "PJHubs",
+      "summary": "在正镶白旗，用五天共同生活理解现代牧场"
+    },
+    {
+      "rank": 5,
+      "title": "[共创]什么样的周边 T 恤，会让你愿意买单？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1787556583",
+      "author": "一派投票",
+      "summary": "[共创]什么样的周边 T 恤，会让你愿意买单？"
+    },
+    {
+      "rank": 6,
+      "title": "派早报：Apple 发布新款 Mac mini 和 Mac Studio 等少数派编辑部08:09派早报",
+      "url": "https://sspai.com/post/113847",
+      "author": "少数派编辑部",
+      "summary": "派早报：Apple 发布新款 Mac mini 和 Mac Studio 等"
+    },
+    {
+      "rank": 7,
+      "title": "社区速递 155 | 适马千元人像神头与七月派友剁手清单Matrix机器人昨天 17:00",
+      "url": "https://sspai.com/post/113828",
+      "author": "Matrix机器人",
+      "summary": "社区速递 155 | 适马千元人像神头与七月派友剁手清单"
+    },
+    {
+      "rank": 8,
+      "title": "台湾打工换宿｜用人与人的喜好串起淡水的地图许万里Alva昨天 15:00Matrix精选",
+      "url": "https://sspai.com/post/113673",
+      "author": "许万里Alva",
+      "summary": "台湾打工换宿｜用人与人的喜好串起淡水的地图"
+    },
+    {
+      "rank": 9,
+      "title": "App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙ArkLab昨天 11:13",
+      "url": "https://sspai.com/post/112442",
+      "author": "ArkLab",
+      "summary": "App+1｜ArkFlow：满足你的卡面收集癖，给信用卡做个卡面墙"
+    },
+    {
+      "rank": 10,
+      "title": "你给自己搭建过哪些「反投喂」信息源？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1787035394",
+      "author": "一派投票",
+      "summary": "你给自己搭建过哪些「反投喂」信息源？"
+    },
+    {
+      "rank": 11,
+      "title": "派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等少数派编辑部昨天 08:28派早报",
+      "url": "https://sspai.com/post/113813",
+      "author": "少数派编辑部",
+      "summary": "派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等"
+    },
+    {
+      "rank": 12,
+      "title": "派评 | 近期值得关注的 App少数派编辑部前天 17:52",
+      "url": "https://sspai.com/post/113795",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "刘翔年保底收入1400万元",
+      "url": "https://s.weibo.com/weibo?q=%E5%88%98%E7%BF%94%E5%B9%B4%E4%BF%9D%E5%BA%95%E6%94%B6%E5%85%A51400%E4%B8%87%E5%85%83",
+      "hot_value": 4320000
+    },
+    {
+      "rank": 2,
+      "title": "中国新能源汽车为何能领跑全球",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%B8%BA%E4%BD%95%E8%83%BD%E9%A2%86%E8%B7%91%E5%85%A8%E7%90%83",
+      "hot_value": 1240000
+    },
+    {
+      "rank": 3,
+      "title": "肖战的鲜奶选择",
+      "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%9A%84%E9%B2%9C%E5%A5%B6%E9%80%89%E6%8B%A9",
+      "hot_value": 1200000
+    },
+    {
+      "rank": 4,
+      "title": "尼泊尔北部山洪致近400人失联",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%8C%97%E9%83%A8%E5%B1%B1%E6%B4%AA%E8%87%B4%E8%BF%91400%E4%BA%BA%E5%A4%B1%E8%81%94",
+      "hot_value": 1130000
+    },
+    {
+      "rank": 5,
+      "title": "刘翔如果买断安置费有多少",
+      "url": "https://s.weibo.com/weibo?q=%E5%88%98%E7%BF%94%E5%A6%82%E6%9E%9C%E4%B9%B0%E6%96%AD%E5%AE%89%E7%BD%AE%E8%B4%B9%E6%9C%89%E5%A4%9A%E5%B0%91",
+      "hot_value": 890000
+    },
+    {
+      "rank": 6,
+      "title": "西藏泥石流救援现场",
+      "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA",
+      "hot_value": 890000
+    },
+    {
+      "rank": 7,
+      "title": "成毅用工作人员肩膀压腿",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E7%94%A8%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%82%A9%E8%86%80%E5%8E%8B%E8%85%BF",
+      "hot_value": 820000
+    },
+    {
+      "rank": 8,
+      "title": "年轻人不会被电诈的原因",
+      "url": "https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E4%BC%9A%E8%A2%AB%E7%94%B5%E8%AF%88%E7%9A%84%E5%8E%9F%E5%9B%A0",
+      "hot_value": 820000
+    },
+    {
+      "rank": 9,
+      "title": "泥石流致西藏吉隆重大人员伤亡失联",
+      "url": "https://s.weibo.com/weibo?q=%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%87%B4%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E9%87%8D%E5%A4%A7%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1%E5%A4%B1%E8%81%94",
+      "hot_value": 800000
+    },
+    {
+      "rank": 10,
+      "title": "王安宇晒与贾冰白敬亭合照放C位",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E6%99%92%E4%B8%8E%E8%B4%BE%E5%86%B0%E7%99%BD%E6%95%AC%E4%BA%AD%E5%90%88%E7%85%A7%E6%94%BEC%E4%BD%8D",
+      "hot_value": 770000
+    },
+    {
+      "rank": 11,
+      "title": "西藏泥石流",
+      "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81",
+      "hot_value": 760000
+    },
+    {
+      "rank": 12,
+      "title": "侯卓成起诉王垲智",
+      "url": "https://s.weibo.com/weibo?q=%E4%BE%AF%E5%8D%93%E6%88%90%E8%B5%B7%E8%AF%89%E7%8E%8B%E5%9E%B2%E6%99%BA",
+      "hot_value": 740000
+    },
+    {
+      "rank": 13,
+      "title": "尼泊尔山洪航拍",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%B1%B1%E6%B4%AA%E8%88%AA%E6%8B%8D",
+      "hot_value": 730000
+    },
+    {
+      "rank": 14,
+      "title": "宋雨琦肿成蜜蜂小狗",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%8B%E9%9B%A8%E7%90%A6%E8%82%BF%E6%88%90%E8%9C%9C%E8%9C%82%E5%B0%8F%E7%8B%97",
+      "hot_value": 560000
+    },
+    {
+      "rank": 15,
+      "title": "吉隆口岸",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8",
+      "hot_value": 550000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "如何评价粥饼伦天津鸡蛋灌饼店因为房租从 13 万上涨到 20 万被迫宣布暂停营业？为什么现在房东矛盾这么大",
+      "url": "https://www.zhihu.com/question/2075488229747339425",
+      "hot_value": 16810000
+    },
+    {
+      "rank": 2,
+      "title": "德芙就「趁男朋友不在跟暧昧对象分享」文案道歉，称由第三方运营团队创作发布，德芙在管理上存在哪些问题",
+      "url": "https://www.zhihu.com/question/2075743712588608931",
+      "hot_value": 3620000
+    },
+    {
+      "rank": 3,
+      "title": "为什么看不到男人四五个人结伴一起去旅行的",
+      "url": "https://www.zhihu.com/question/2074380142697244011",
+      "hot_value": 1650000
+    },
+    {
+      "rank": 4,
+      "title": "直播：西藏吉隆遭受泥石流灾害，关注最新情况",
+      "url": "https://www.zhihu.com/theater/74689",
+      "hot_value": 1380000
+    },
+    {
+      "rank": 5,
+      "title": "瓶装水在开封后，多久会变质",
+      "url": "https://www.zhihu.com/question/2074882831344460896",
+      "hot_value": 1110000
+    },
+    {
+      "rank": 6,
+      "title": "《欢迎来龙餐馆》如果徐福死了，这部电影会不会效果更好",
+      "url": "https://www.zhihu.com/question/2075247117547868427",
+      "hot_value": 830000
+    },
+    {
+      "rank": 7,
+      "title": "我妈把芒果核留给我老公，我指出这样做不对，我错了么",
+      "url": "https://www.zhihu.com/question/2075499349363245933",
+      "hot_value": 820000
+    },
+    {
+      "rank": 8,
+      "title": "为什么身边的中年男人不是热衷炒股，就是热衷钓鱼",
+      "url": "https://www.zhihu.com/question/1908287806243046421",
+      "hot_value": 810000
+    },
+    {
+      "rank": 9,
+      "title": "「帮扶老人反被索赔」事件，老人家属算敲诈勒索吗？为何法律无责却仍需赔偿？该怎样终结「和稀泥式调解」",
+      "url": "https://www.zhihu.com/question/2075893197289383268",
+      "hot_value": 790000
+    },
+    {
+      "rank": 10,
+      "title": "如何评价在科隆游戏展上米哈游新作《星布谷地》官宣将在 2026 年冬季公测上线",
+      "url": "https://www.zhihu.com/question/2075783610246894954",
+      "hot_value": 750000
+    },
+    {
+      "rank": 11,
+      "title": "古代的水井把木制水桶扔下去真的能打到水吗，不会浮在水面上吗",
+      "url": "https://www.zhihu.com/question/2075142319532160961",
+      "hot_value": 590000
+    },
+    {
+      "rank": 12,
+      "title": "宇树科技股价跌破 600 元，市值一周缩水超 2000 亿元，如何看待这一轮估值大幅回撤",
+      "url": "https://www.zhihu.com/question/2075971828472877691",
+      "hot_value": 590000
+    },
+    {
+      "rank": 13,
+      "title": "网传 DeepSeek 深度思考模式会偷偷给用户取外号，这是真的吗？为什么会出现这种情况",
+      "url": "https://www.zhihu.com/question/2070165569941287944",
+      "hot_value": 590000
+    },
+    {
+      "rank": 14,
+      "title": "赛力斯中报巨亏，问界 M6 走量预期落空，如何评价华为智选车模式",
+      "url": "https://www.zhihu.com/question/2074228962302093110",
+      "hot_value": 590000
+    },
+    {
+      "rank": 15,
+      "title": "统计学有没有很接近纯数前沿的理论",
+      "url": "https://www.zhihu.com/question/664125088",
+      "hot_value": 590000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "AWS Acquires DuckDB",
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+      "score": 430,
+      "author": "onderkalaci",
+      "comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=49448321"
+    },
+    {
+      "rank": 2,
+      "title": "GLM-5.3-Flash",
+      "url": "https://z.ai/blog/glm-5.3-flash",
+      "score": 162,
+      "author": "Philpax",
+      "comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=49449507"
+    },
+    {
+      "rank": 3,
+      "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "score": 239,
+      "author": "tosh",
+      "comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=49448210"
+    },
+    {
+      "rank": 4,
+      "title": "RAG Is Simpler Than You Think",
+      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "score": 265,
+      "author": "j0selit0",
+      "comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=49445727"
+    },
+    {
+      "rank": 5,
+      "title": "A curmudgeon tries a language server",
+      "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+      "score": 38,
+      "author": "crescit_eundo",
+      "comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=49448150"
+    },
+    {
+      "rank": 6,
+      "title": "Oldinsurancemaps.net is now a Charter Project",
+      "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+      "score": 124,
+      "author": "altilunium",
+      "comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=49445873"
+    },
+    {
+      "rank": 7,
+      "title": "Meta reaches $16.68B settlement over social media harms to children",
+      "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+      "score": 184,
+      "author": "bhouston",
+      "comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=49448819"
+    },
+    {
+      "rank": 8,
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "score": 317,
+      "author": "garo-pro",
+      "comments": 117,
+      "hn_url": "https://news.ycombinator.com/item?id=49446422"
+    },
+    {
+      "rank": 9,
+      "title": "Twitter Viewer – View Twitter Without Account",
+      "url": "https://twitterwebviewer.com/",
+      "score": 24,
+      "author": "motownphilly",
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49449576"
+    },
+    {
+      "rank": 10,
+      "title": "Apple introduces M6 and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "score": 1251,
+      "author": "interpol_p",
+      "comments": 1193,
+      "hn_url": "https://news.ycombinator.com/item?id=49433292"
+    },
+    {
+      "rank": 11,
+      "title": "Beyond Recall and the Illusion of Competence",
+      "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+      "score": 58,
+      "author": "tuxie_",
+      "comments": 18,
+      "hn_url": "https://news.ycombinator.com/item?id=49446442"
+    },
+    {
+      "rank": 12,
+      "title": "Proliferate (YC S25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
+      "score": 1,
+      "author": "pablo24602",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49447480"
+    },
+    {
+      "rank": 13,
+      "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
+      "url": "https://www.youtube.com/watch?v=656058JxTM0",
+      "score": 182,
+      "author": "zoenolan",
+      "comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=49395802"
+    },
+    {
+      "rank": 14,
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "score": 466,
+      "author": "sunnynagra",
+      "comments": 214,
+      "hn_url": "https://news.ycombinator.com/item?id=49439017"
+    },
+    {
+      "rank": 15,
+      "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
+      "score": 37,
+      "author": "mikhael",
+      "comments": 18,
+      "hn_url": "https://news.ycombinator.com/item?id=49448560"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与工作流",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。tt-a1i/archify[1] 是个能让代码生成精美架构图的工具，支持动态展示和数据流分析，对于写文档的朋友太友好了。MadsLorentzen/ai-job-search[2] 直接把求职流程自动化，用 Claude Code 帮你改简历、写求职信，这在当前环境下简直是“生存神器”。还有 tinyhumansai/openhuman[3]，主打个人记忆和智能体编排，想打造个人超级大脑的可以考虑。\n\n社区那边也在聊这些新工具。少数派最近盘点了编辑部都在用的“特别篇”[4]，里面提到的 ArkFlow[5] 专门用来收集信用卡卡面，这种数字收集癖的乐子确实能让人会心一笑。搞开发的大家可能更关心 Claude 的生态，Anthropic 官方把插件目录搬到了 GitHub[6]，社区版也同步更新，这标志着 Claude 生态正在彻底开源化，值得关注。"
+      },
+      {
+        "name": "开发工具与系统底层",
+        "color": "dev",
+        "summary": "工具和底层技术这块动静不小。basecamp/omarchy[7] 是个颜值极高的 Linux 发行版，主打现代和观点鲜明，喜欢折腾桌面体验的可以试试。Lobsters 上有个帖子说 Google 居然把几十亿行代码存在一个仓库里[8]，这操作在 2016 年看了都晕，现在 VCS 的边界越来越模糊。另外，关于 Go 语言 sync.Map 的实现细节，有文章从 API 讲到了 Hash Trie[9]，搞底层的朋友建议去读读，理解数据结构对性能影响很大。\n\n技术圈最近也有点“卷”。Lobsters 上有人分享了自己稳定住“永不打字”（never type）的 Rust 经验[10]，这其实是类型系统的一个有趣实验。还有帖子讨论 C2PA 相机标准在现实中遇到的各种“翻车”情况[11]，搞安全和摄影的朋友看看这个，技术落地往往比理论复杂得多。"
+      },
+      {
+        "name": "数码产品与效率生活",
+        "color": "product",
+        "summary": "数码产品方面，派早报里提到 Apple 发布了新款 Mac mini 和 Mac Studio[12]，性能党懂的都懂。小米也发布了三款玄戒芯片[13]，国产芯片的消息总是让人关注。对于学生党，开学季的软件教育优惠汇总能省不少钱[14]，这波福利别错过。\n\n生活流方面，有个帖子记录了在内蒙古正镶白旗牧场共同生活的五天体验[15]，这种数字游民式的记录在少数派很受欢迎。还有关于台湾打工换宿的内容[16]，用人与人的喜好串起地图，这种慢生活的视角在快节奏的技术圈里挺难得的。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天看了一些很有意思的观点。比如《巫师 3》重制版在科隆展的消息汇总[17]，虽然游戏和代码不是一回事，但看到经典 IP 复活还是让人兴奋。Lobsters 上有一篇关于“超越回忆与能力错觉”的文章[18]，探讨在 AI 时代我们如何定义“胜任力”，这个角度挺深刻，不仅仅是技术问题，更是哲学问题。\n\n还有一个挺有意思的点，有人用 TypeScript 生成了一组最罕见的车牌号[19]，这种“用代码解构生活”的创意很符合现在的编程文化。虽然 Lobsters 上也有吐槽并发代码检查器修复问题导致构建变慢的帖子[20]，但这又提醒我们，工具越强大，带来的新坑也越多。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "Agent skill for beautiful, verifiable architecture...",
+        "url": "https://github.com/tt-a1i/archify",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 2,
+        "title": "The job search that runs on your machine",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 3,
+        "title": "Your Personal AI super intelligence",
+        "url": "https://github.com/tinyhumansai/openhuman",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 4,
+        "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
+        "url": "https://sspai.com/prime/story/zhuanglesha-260826",
+        "source": "少数派",
+        "desc": "少数派文章"
+      },
+      {
+        "num": 5,
+        "title": "App+1｜ArkFlow：满足你的卡面收集癖",
+        "url": "https://sspai.com/post/112442",
+        "source": "少数派",
+        "desc": "少数派文章"
+      },
+      {
+        "num": 6,
+        "title": "Official, Anthropic-managed directory of high quality Claude Code Plugins",
+        "url": "https://github.com/anthropics/claude-plugins-official",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 7,
+        "title": "Beautiful, Modern & Opinionated Linux",
+        "url": "https://github.com/basecamp/omarchy",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 8,
+        "title": "Why Google stores billions of lines of code in a single repository (2016)",
+        "url": "https://dl.acm.org/doi/fullHtml/10.1145/2854146",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 9,
+        "title": "Understanding Go's sync.Map from API to Hash Trie",
+        "url": "https://victoriametrics.com/blog/go-sync-map-hash-trie/",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 10,
+        "title": "I stabilized never type",
+        "url": "https://blog.ihatereality.space/0C-never-type/",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 11,
+        "title": "C2PA Cameras Do Not Survive Contact With Reality",
+        "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 12,
+        "title": "派早报：Apple 发布新款 Mac mini 和 Mac Studio 等",
+        "url": "https://sspai.com/post/113847",
+        "source": "少数派",
+        "desc": "少数派文章"
+      },
+      {
+        "num": 13,
+        "title": "派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等",
+        "url": "https://sspai.com/post/113813",
+        "source": "少数派",
+        "desc": "少数派文章"
+      },
+      {
+        "num": 14,
+        "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱",
+        "url": "https://sspai.com/post/68227",
+        "source": "少数派",
+        "desc": "少数派文章"
+      },
+      {
+        "num": 15,
+        "title": "在正镶白旗，用五天共同生活理解现代牧场",
+        "url": "https://sspai.com/post/113714",
+        "source": "少数派",
+        "desc": "少数派文章"
+      },
+      {
+        "num": 16,
+        "title": "台湾打工换宿｜用人与人的喜好串起淡水的地图",
+        "url": "https://sspai.com/post/113673",
+        "source": "少数派",
+        "desc": "少数派文章"
+      },
+      {
+        "num": 17,
+        "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
+        "url": "https://sspai.com/post/113851",
+        "source": "少数派",
+        "desc": "少数派文章"
+      },
+      {
+        "num": 18,
+        "title": "Beyond recall and the illusion of competence",
+        "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 19,
+        "title": "Using TypeScript to Obtain One of the Rarest License Plates (2025)",
+        "url": "https://www.jack.bio/blog/licenseplate",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 20,
+        "title": "Problem with concurrent linter fixes",
+        "url": "https://jfmengels.net/concurrent-linter-fixes/",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      }
+    ],
+    "stats": {
+      "total_items": 20,
+      "total_categories": 4,
+      "total_sources": 20
+    }
+  }
+}
