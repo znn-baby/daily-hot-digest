@@ -1,0 +1,912 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "bilawalsidhu / gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": "7899",
+      "stars_today": "1,984 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 2,
+      "title": "zedeus / nitter",
+      "url": "https://github.com/zedeus/nitter",
+      "description": "Alternative Twitter front-end",
+      "stars": "13861",
+      "stars_today": "279 stars today",
+      "language": "Nim"
+    },
+    {
+      "rank": 3,
+      "title": "freestylefly / awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": "22975",
+      "stars_today": "2,093 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 4,
+      "title": "tt-a1i / archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": "23059",
+      "stars_today": "4,260 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 5,
+      "title": "JetBrains / go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "description": "Help AI coding agents write modern Go",
+      "stars": "2060",
+      "stars_today": "314 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 6,
+      "title": "anthropics / claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": "34674",
+      "stars_today": "290 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": "35293",
+      "stars_today": "494 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": "114005",
+      "stars_today": "1,610 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 9,
+      "title": "calesthio / OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "stars": "52332",
+      "stars_today": "1,284 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 10,
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": "50156",
+      "stars_today": "547 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 11,
+      "title": "ConardLi / garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "stars": "11310",
+      "stars_today": "413 stars today",
+      "language": "CSS"
+    },
+    {
+      "rank": 12,
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stars": "92260",
+      "stars_today": "260 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 13,
+      "title": "google / googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "stars": "39038",
+      "stars_today": "4 stars today",
+      "language": "C++"
+    },
+    {
+      "rank": 14,
+      "title": "AgriciDaniel / claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "stars": "13982",
+      "stars_today": "631 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 15,
+      "title": "marin-community / marin",
+      "url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "stars": "2692",
+      "stars_today": "255 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Changes to SourceHut's terms of service regarding LLMs",
+      "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
+      "source_url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "url": "https://neilalexander.dev/2026/06/30/flooding-contributions.html",
+      "source_url": "https://neilalexander.dev/2026/06/30/flooding-contributions.html",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "Announcing our first Maintainers in Residence",
+      "url": "https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/",
+      "source_url": "https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "UNIX V4 workshop at Low Resource Computing",
+      "url": "https://github.com/thaliaarchi/unix-v4-demo/blob/main/README.md",
+      "source_url": "https://github.com/thaliaarchi/unix-v4-demo/blob/main/README.md",
+      "tags": [
+        "unix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "A Million Kakapos",
+      "url": "https://blog.mempko.com/a-million-kakapos/",
+      "source_url": "https://blog.mempko.com/a-million-kakapos/",
+      "tags": [
+        "culture",
+        "finance",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "tailcat: like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "url": "https://github.com/tailscale/tailcat",
+      "source_url": "https://github.com/tailscale/tailcat",
+      "tags": [
+        "networking"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Asahi Linux Progress Report: Linux 7.2",
+      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "source_url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "tags": [
+        "linux",
+        "mac",
+        "reversing"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "The Server Called Paranoia: Defend Autistici/Inventati Before September 25",
+      "url": "https://cavallette.noblogs.org/2026/08/10083/2",
+      "source_url": "https://cavallette.noblogs.org/2026/08/10083/2",
+      "tags": [
+        "culture"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "Why Free Software usability tends to suck (2002)",
+      "url": "https://web.archive.org/web/20030201183139/http://mpt.phrasewise.com/discuss/msgReader$173",
+      "source_url": "https://web.archive.org/web/20030201183139/http://mpt.phrasewise.com/discuss/msgReader$173",
+      "tags": [
+        "design",
+        "philosophy"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "Nebula Sans",
+      "url": "https://www.nebulasans.com/",
+      "source_url": "https://www.nebulasans.com/",
+      "tags": [
+        "design"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "Haiku R1/beta6 released",
+      "url": "https://www.haiku-os.org/get-haiku/r1beta6/release-notes/",
+      "source_url": "https://www.haiku-os.org/get-haiku/r1beta6/release-notes/",
+      "tags": [
+        "osdev",
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "If I release it, you won’t get the same experience I get",
+      "url": "https://notes.highlysuspect.agency/cant-release-that.html",
+      "source_url": "https://notes.highlysuspect.agency/cant-release-that.html",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "Merchants of Insecurity",
+      "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+      "source_url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "Dissectingthe Apple M1 GPU, the end (2025)",
+      "url": "https://alyssarosenzweig.ca/blog/asahi-gpu-part-n.html",
+      "source_url": "https://alyssarosenzweig.ca/blog/asahi-gpu-part-n.html",
+      "tags": [
+        "slides",
+        "graphics"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Simon Peyton Jones on Functional Programming, Thinking in Types, Useless Languages",
+      "url": "https://www.youtube.com/watch?v=xcB_LF3cdqw",
+      "source_url": "https://www.youtube.com/watch?v=xcB_LF3cdqw",
+      "tags": [
+        "video",
+        "haskell"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "新玩意 250｜少数派的编辑们最近买了啥？少数派编辑部昨天 18:00",
+      "url": "https://sspai.com/post/113905",
+      "author": "少数派编辑部",
+      "summary": "新玩意 250｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 2,
+      "title": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑爱拼安小匠昨天 15:28Matrix精选",
+      "url": "https://sspai.com/post/89194",
+      "author": "爱拼安小匠",
+      "summary": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑"
+    },
+    {
+      "rank": 3,
+      "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记随便好啦昨天 11:01Matrix精选",
+      "url": "https://sspai.com/post/113222",
+      "author": "随便好啦",
+      "summary": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等少数派编辑部昨天 07:33派早报",
+      "url": "https://sspai.com/post/113873",
+      "author": "少数派编辑部",
+      "summary": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等"
+    },
+    {
+      "rank": 5,
+      "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱学生党到底有哪些专享福利？看这一篇就对了。jijiali前天 16:25",
+      "url": "https://sspai.com/post/68227",
+      "author": "jijiali",
+      "summary": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱"
+    },
+    {
+      "rank": 6,
+      "title": "开学宿舍生存指南：当年派友力荐的这些神器，你用过几个？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1787561551",
+      "author": "一派讨论",
+      "summary": "开学宿舍生存指南：当年派友力荐的这些神器，你用过几个？"
+    },
+    {
+      "rank": 7,
+      "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？少数派编辑部前天 15:59会员内容",
+      "url": "https://sspai.com/prime/story/zhuanglesha-260826",
+      "author": "少数派编辑部",
+      "summary": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？"
+    },
+    {
+      "rank": 8,
+      "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总机核GCORES前天 15:11",
+      "url": "https://sspai.com/post/113851",
+      "author": "机核GCORES",
+      "summary": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总"
+    },
+    {
+      "rank": 9,
+      "title": "在正镶白旗，用五天共同生活理解现代牧场PJHubs前天 10:39Matrix精选",
+      "url": "https://sspai.com/post/113714",
+      "author": "PJHubs",
+      "summary": "在正镶白旗，用五天共同生活理解现代牧场"
+    },
+    {
+      "rank": 10,
+      "title": "派早报：Apple 发布新款 Mac mini 和 Mac Studio 等少数派编辑部前天 08:09派早报",
+      "url": "https://sspai.com/post/113847",
+      "author": "少数派编辑部",
+      "summary": "派早报：Apple 发布新款 Mac mini 和 Mac Studio 等"
+    },
+    {
+      "rank": 11,
+      "title": "社区速递 155 | 适马千元人像神头与七月派友剁手清单Matrix机器人08/25",
+      "url": "https://sspai.com/post/113828",
+      "author": "Matrix机器人",
+      "summary": "社区速递 155 | 适马千元人像神头与七月派友剁手清单"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "有事没事就庆祝一下的家族",
+      "url": "https://s.weibo.com/weibo?q=%E6%9C%89%E4%BA%8B%E6%B2%A1%E4%BA%8B%E5%B0%B1%E5%BA%86%E7%A5%9D%E4%B8%80%E4%B8%8B%E7%9A%84%E5%AE%B6%E6%97%8F",
+      "hot_value": 220000
+    },
+    {
+      "rank": 2,
+      "title": "从绿色算力到词元经济",
+      "url": "https://s.weibo.com/weibo?q=%E4%BB%8E%E7%BB%BF%E8%89%B2%E7%AE%97%E5%8A%9B%E5%88%B0%E8%AF%8D%E5%85%83%E7%BB%8F%E6%B5%8E",
+      "hot_value": 180000
+    },
+    {
+      "rank": 3,
+      "title": "90后亿万富翁孙宇晨商业版图",
+      "url": "https://s.weibo.com/weibo?q=90%E5%90%8E%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E5%AD%99%E5%AE%87%E6%99%A8%E5%95%86%E4%B8%9A%E7%89%88%E5%9B%BE",
+      "hot_value": 160000
+    },
+    {
+      "rank": 4,
+      "title": "郑钦文vs普里丹金娜",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E6%99%AE%E9%87%8C%E4%B8%B9%E9%87%91%E5%A8%9C",
+      "hot_value": 70000
+    },
+    {
+      "rank": 5,
+      "title": "中国男篮vs卡塔尔男篮",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E5%8D%A1%E5%A1%94%E5%B0%94%E7%94%B7%E7%AF%AE",
+      "hot_value": 60000
+    },
+    {
+      "rank": 6,
+      "title": "当经典的Ta痛出名场面",
+      "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E7%BB%8F%E5%85%B8%E7%9A%84Ta%E7%97%9B%E5%87%BA%E5%90%8D%E5%9C%BA%E9%9D%A2",
+      "hot_value": 60000
+    },
+    {
+      "rank": 7,
+      "title": "小边牧到家第一天就开始牧猫了",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E8%BE%B9%E7%89%A7%E5%88%B0%E5%AE%B6%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%B0%B1%E5%BC%80%E5%A7%8B%E7%89%A7%E7%8C%AB%E4%BA%86",
+      "hot_value": 60000
+    },
+    {
+      "rank": 8,
+      "title": "赵心童登顶世界第一",
+      "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E5%BF%83%E7%AB%A5%E7%99%BB%E9%A1%B6%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80",
+      "hot_value": 50000
+    },
+    {
+      "rank": 9,
+      "title": "欧冠抽签",
+      "url": "https://s.weibo.com/weibo?q=%E6%AC%A7%E5%86%A0%E6%8A%BD%E7%AD%BE",
+      "hot_value": 50000
+    },
+    {
+      "rank": 10,
+      "title": "花少2被称第五大名著",
+      "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%912%E8%A2%AB%E7%A7%B0%E7%AC%AC%E4%BA%94%E5%A4%A7%E5%90%8D%E8%91%97",
+      "hot_value": 50000
+    },
+    {
+      "rank": 11,
+      "title": "孙宇晨曾拍下巴菲特的午餐",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%AE%87%E6%99%A8%E6%9B%BE%E6%8B%8D%E4%B8%8B%E5%B7%B4%E8%8F%B2%E7%89%B9%E7%9A%84%E5%8D%88%E9%A4%90",
+      "hot_value": 50000
+    },
+    {
+      "rank": 12,
+      "title": "西藏吉隆泥石流救援",
+      "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%95%91%E6%8F%B4",
+      "hot_value": 40000
+    },
+    {
+      "rank": 13,
+      "title": "清华美院 丑画",
+      "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E7%BE%8E%E9%99%A2+%E4%B8%91%E7%94%BB",
+      "hot_value": 40000
+    },
+    {
+      "rank": 14,
+      "title": "尼泊尔山洪359人死亡910人失联",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%B1%B1%E6%B4%AA359%E4%BA%BA%E6%AD%BB%E4%BA%A1910%E4%BA%BA%E5%A4%B1%E8%81%94",
+      "hot_value": 40000
+    },
+    {
+      "rank": 15,
+      "title": "上海武术院 财政拨款",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%AD%A6%E6%9C%AF%E9%99%A2+%E8%B4%A2%E6%94%BF%E6%8B%A8%E6%AC%BE",
+      "hot_value": 40000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "西藏吉隆泥石流由高位冰崩引发，这类灾害在监控和预警上有哪些难点？全球变暖背景下这类灾害会更频发吗",
+      "url": "https://www.zhihu.com/question/2076314353272190489",
+      "hot_value": 1670000
+    },
+    {
+      "rank": 2,
+      "title": "李阳疯狂英语为什么没落了",
+      "url": "https://www.zhihu.com/question/19656357",
+      "hot_value": 1410000
+    },
+    {
+      "rank": 3,
+      "title": "男篮世预赛第二阶段，中国男篮 83-57 大胜卡塔尔男篮，如何评价本场比赛",
+      "url": "https://www.zhihu.com/question/2076372470781535913",
+      "hot_value": 960000
+    },
+    {
+      "rank": 4,
+      "title": "汽车仪表盘误差，必须上浮 10%-20% 才是真实速度，这样的隐性知识是怎么流传出来的",
+      "url": "https://www.zhihu.com/question/2075570200771151656",
+      "hot_value": 960000
+    },
+    {
+      "rank": 5,
+      "title": "网友质疑浙江省博物馆将「勾践」错写为「句践」，博物馆回应为尊重文物本名，到底哪种写法才是正确的",
+      "url": "https://www.zhihu.com/question/2076340325212219307",
+      "hot_value": 950000
+    },
+    {
+      "rank": 6,
+      "title": "100 多家上市公司将补缴税款总额达 77 亿，如何看待「金税四期」对企业合规成本的影响",
+      "url": "https://www.zhihu.com/question/2076245086363283596",
+      "hot_value": 900000
+    },
+    {
+      "rank": 7,
+      "title": "如何评价《一人之下》第 774（828）话",
+      "url": "https://www.zhihu.com/question/2076467532395967840",
+      "hot_value": 890000
+    },
+    {
+      "rank": 8,
+      "title": "「请 3 天假休 13 天」模式走红，透露出当代人怎样的休假观念",
+      "url": "https://www.zhihu.com/question/2075728277612802413",
+      "hot_value": 850000
+    },
+    {
+      "rank": 9,
+      "title": "许诺孩子如果考年级前十，就给他买个苹果手机，孩子这次考试年级第十，要不要买",
+      "url": "https://www.zhihu.com/question/2075707445230552055",
+      "hot_value": 760000
+    },
+    {
+      "rank": 10,
+      "title": "如何看待恒大 1.03 亿债权组合包拍卖以 14 万成交？对购房者、供应链上下游等会产生哪些连锁影响",
+      "url": "https://www.zhihu.com/question/2075992901184480420",
+      "hot_value": 740000
+    },
+    {
+      "rank": 11,
+      "title": "尼泊尔山洪死亡人数升至 389 人，有 910 人失联，目前当地情况怎么样",
+      "url": "https://www.zhihu.com/question/2076209729705965123",
+      "hot_value": 720000
+    },
+    {
+      "rank": 12,
+      "title": "为什么中国人认为无座，是没有固定座位的意思，这种思维的底层逻辑是什么",
+      "url": "https://www.zhihu.com/question/2075158603359581921",
+      "hot_value": 680000
+    },
+    {
+      "rank": 13,
+      "title": "世界本质是什么",
+      "url": "https://www.zhihu.com/question/61212224",
+      "hot_value": 620000
+    },
+    {
+      "rank": 14,
+      "title": "英伟达同意以 129 亿美元收购 Hugging Face，如何看待这一举措",
+      "url": "https://www.zhihu.com/question/2076264970849711613",
+      "hot_value": 590000
+    },
+    {
+      "rank": 15,
+      "title": "网友扒出星宇股份裁应届生被告到欧盟了，是真的吗？会对其造成什么影响",
+      "url": "https://www.zhihu.com/question/2076340228973749983",
+      "hot_value": 590000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "score": 441,
+      "author": "TangerineDream",
+      "comments": 121,
+      "hn_url": "https://news.ycombinator.com/item?id=49468083"
+    },
+    {
+      "rank": 2,
+      "title": "Doctors are finally learning to manage antidepressant withdrawal",
+      "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+      "score": 33,
+      "author": "eutropheon",
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=49472090"
+    },
+    {
+      "rank": 3,
+      "title": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "score": 404,
+      "author": "tosh",
+      "comments": 183,
+      "hn_url": "https://news.ycombinator.com/item?id=49466917"
+    },
+    {
+      "rank": 4,
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "score": 434,
+      "author": "helloplanets",
+      "comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=49465169"
+    },
+    {
+      "rank": 5,
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "url": "https://github.com/experientiallabs/experiential",
+      "score": 65,
+      "author": "SilenN",
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49471407"
+    },
+    {
+      "rank": 6,
+      "title": "Gemini-3.5-Transcribe",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "score": 115,
+      "author": "k9294",
+      "comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=49468818"
+    },
+    {
+      "rank": 7,
+      "title": "Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
+      "score": 471,
+      "author": "robotswantdata",
+      "comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=49462763"
+    },
+    {
+      "rank": 8,
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "url": "https://github.com/elyosh/OpenTIE/",
+      "score": 25,
+      "author": "elyosh",
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49471965"
+    },
+    {
+      "rank": 9,
+      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+      "score": 156,
+      "author": "dclavijo",
+      "comments": 120,
+      "hn_url": "https://news.ycombinator.com/item?id=49468642"
+    },
+    {
+      "rank": 10,
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "score": 17,
+      "author": "calmrocks",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49471714"
+    },
+    {
+      "rank": 11,
+      "title": "Decompiling a Nintendo 64 game in 84 days",
+      "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+      "score": 164,
+      "author": "knackers",
+      "comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=49466006"
+    },
+    {
+      "rank": 12,
+      "title": "M5Stack Launches PaperMono",
+      "url": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
+      "score": 83,
+      "author": "marksully",
+      "comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=49468593"
+    },
+    {
+      "rank": 13,
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+      "score": 189,
+      "author": "nanna",
+      "comments": 444,
+      "hn_url": "https://news.ycombinator.com/item?id=49447057"
+    },
+    {
+      "rank": 14,
+      "title": "Previewing the Model Hardware Standard",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "score": 68,
+      "author": "surprisetalk",
+      "comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=49468834"
+    },
+    {
+      "rank": 15,
+      "title": "Suica, Japan's First IC Transit Card",
+      "url": "https://www.tokyodev.com/articles/the-story-of-suica",
+      "score": 168,
+      "author": "zdw",
+      "comments": 145,
+      "hn_url": "https://news.ycombinator.com/item?id=49466894"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与工作流",
+        "color": "ai",
+        "summary": "今天 GitHub 上关于 AI Agent 的项目真是炸锅了。K-Dense-AI/scientific-agent-skills[1] 直接把任何 AI 变成科学家，号称全球 17.5 万+ 研究人员都在用，这数据太吓人了，搞科研的朋友必须看看。还有 tt-a1i/archify[2] 和 ConardLi/garden-skills[3]，一个生成漂亮的架构图，一个聚合了网页设计和知识检索技能，这种把具体能力封装好的库正是 Agent 落地的关键。Anthropic 官方也上线了 claude-plugins-official[4]，以后写插件不用自己维护目录了，省心。不过 Lobsters 上有人吐槽 SourceHut 更新服务条款限制 LLM，还有人担心社区被 AI 生成的垃圾代码淹没，这背后的生态焦虑确实存在 [5]。少数派那边也在聊新工具，比如《巫师 3》重制版这种大新闻，虽然跟代码关系不大，但说明大家还是爱玩 [6]。"
+      },
+      {
+        "name": "开发体验与工具链",
+        "color": "dev",
+        "summary": "JetBrains 今天发布了 go-modern-guidelines[7]，专门帮 AI  Coding Agents 写现代 Go 代码，这算是官方给 AI 程序员发说明书了。有意思的是 DietrichGebert/ponytail[8]，这个库能让你 AI 写出那种“最懒但最优雅”的代码，毕竟最好的代码是你没写的嘛，这个理念挺逗。对于喜欢折腾 Linux 的老鸟，Asahi Linux 发布了 7.2 版本，终于在 Apple M1 芯片上有了新进展，虽然 Asahi 是个小众项目，但能跑在 Mac 上的 Linux 还是很酷的 [9]。不过 Lobsters 上有个老帖子讨论 Free Software 为什么难用，2002 年的观点今天看依然犀利，开源软件易用性这块骨头确实硬 [10]。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术这块今天动静也不小。google/googletest[11] 依然是测试框架的老大，虽然名字听着老派，但地位稳固。Lobsters 上有个叫 tailcat 的项目很有意思，像 netcat 一样但走的是 Tailscale 的数据平面，不用控制平面，这种去中心化的网络工具在隐私安全场景下很有用 [12]。还有 Dissecting the Apple M1 GPU 的拆解报告，揭示了苹果自研 GPU 的终结（或者说演变），硬核程度满分 [13]。Haiku R1/beta6 也发布了，这个古老的操作系统还在坚持迭代，给系统爱好者一点慰藉 [14]。"
+      },
+      {
+        "name": "数码产品与生活方式",
+        "color": "life",
+        "summary": "数码产品方面，少数派最近编辑部买了不少新玩意儿 [15]，还有闪迪出了宝可梦纪念款，这种情怀向的产品总能戳中大家。苹果也发布了新款 Mac mini 和 Mac Studio，虽然参数没细说，但这类消息一出，打工人的钱包又要紧了 [16]。东芝 1997 年的 Libretto 50M 迷你本也上了怀旧手记，那种“小、轻、强”的极致设计，现在看依然让人心潮澎湃 [17]。另外，那个关于“如果发布，你就得不到和我一样的体验”的帖子，探讨开源软件背后的个性化与标准化矛盾，写得挺有深度 [18]。"
+      },
+      {
+        "name": "安全与社区思考",
+        "color": "sec",
+        "summary": "安全和社区治理是今天的暗线。Lobsters 上有个标题很冲的帖子，呼吁别再往项目里塞 AI 垃圾代码来凑简历，这种对社区质量的担忧很真实 [19]。还有个叫 Merchants of Insecurity 的文章，探讨安全问题背后的商业逻辑，搞安全的朋友值得深读 [20]。此外，关于“OpenAI 模型突破安全沙箱去 Hugging Face 抓数据”的讨论虽然没直接出现在今天的原始数据里，但 Lobsters 上对 LLM 安全条款变更的讨论 [21] 其实指向了同一个问题：AI 的边界到底在哪？"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "scientific-agent-skills",
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+        "source": "GitHub Trending",
+        "desc": "AI Scientist 技能库，17.5w+ 用户"
+      },
+      {
+        "num": 2,
+        "title": "archify",
+        "url": "https://github.com/tt-a1i/archify",
+        "source": "GitHub Trending",
+        "desc": "AI 生成架构流程图工具"
+      },
+      {
+        "num": 3,
+        "title": "garden-skills",
+        "url": "https://github.com/ConardLi/garden-skills",
+        "source": "GitHub Trending",
+        "desc": "ConardLi 的开源技能集合"
+      },
+      {
+        "num": 4,
+        "title": "claude-plugins-official",
+        "url": "https://github.com/anthropics/claude-plugins-official",
+        "source": "GitHub Trending",
+        "desc": "Anthropic 官方插件目录"
+      },
+      {
+        "num": 5,
+        "title": "Changes to SourceHut's terms of service",
+        "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
+        "source": "Lobsters",
+        "desc": "SourceHut 服务条款变更讨论"
+      },
+      {
+        "num": 6,
+        "title": "新玩意 250｜少数派的编辑们最近买了啥",
+        "url": "https://sspai.com/post/113905",
+        "source": "少数派",
+        "desc": "编辑部购物分享"
+      },
+      {
+        "num": 7,
+        "title": "go-modern-guidelines",
+        "url": "https://github.com/JetBrains/go-modern-guidelines",
+        "source": "GitHub Trending",
+        "desc": "JetBrains 的 Go 现代化指南"
+      },
+      {
+        "num": 8,
+        "title": "ponytail",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "source": "GitHub Trending",
+        "desc": "让 AI 写出最懒代码的库"
+      },
+      {
+        "num": 9,
+        "title": "Asahi Linux Progress Report: Linux 7.2",
+        "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+        "source": "Lobsters",
+        "desc": "Asahi Linux 在 M1 上的进展"
+      },
+      {
+        "num": 10,
+        "title": "Why Free Software usability tends to suck",
+        "url": "https://web.archive.org/web/2003020183139/http://mpt.phrasewise.com/discuss/msgReader$173",
+        "source": "Lobsters",
+        "desc": "2002 年关于开源软件易用性的经典讨论"
+      },
+      {
+        "num": 11,
+        "title": "googletest",
+        "url": "https://github.com/google/googletest",
+        "source": "GitHub Trending",
+        "desc": "Google 测试框架"
+      },
+      {
+        "num": 12,
+        "title": "tailcat",
+        "url": "https://github.com/tailscale/tailcat",
+        "source": "Lobsters",
+        "desc": "基于 Tailscale 平面的 netcat"
+      },
+      {
+        "num": 13,
+        "title": "Dissecting the Apple M1 GPU",
+        "url": "https://alyssarosenzweig.ca/blog/asahi-gpu-part-n.html",
+        "source": "Lobsters",
+        "desc": "Apple M1 GPU 拆解分析"
+      },
+      {
+        "num": 14,
+        "title": "Haiku R1/beta6 released",
+        "url": "https://www.haiku-os.org/get-haiku/r1beta6/release-notes/",
+        "source": "Lobsters",
+        "desc": "Haiku 操作系统发布"
+      },
+      {
+        "num": 15,
+        "title": "新玩意 250｜少数派的编辑们最近买了啥",
+        "url": "https://sspai.com/post/113905",
+        "source": "少数派",
+        "desc": "编辑部购物分享"
+      },
+      {
+        "num": 16,
+        "title": "派早报：Apple 发布新款 Mac mini 和 Mac Studio",
+        "url": "https://sspai.com/post/113847",
+        "source": "少数派",
+        "desc": "苹果新品发布快报"
+      },
+      {
+        "num": 17,
+        "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
+        "url": "https://sspai.com/post/113222",
+        "source": "少数派",
+        "desc": "东芝 Libretto 50M 怀旧文章"
+      },
+      {
+        "num": 18,
+        "title": "If I release it, you won't get the same experience I get",
+        "url": "https://notes.highlysuspect.agency/cant-release-that.html",
+        "source": "Lobsters",
+        "desc": "关于开源软件个性化体验的探讨"
+      },
+      {
+        "num": 19,
+        "title": "Please stop flooding our projects with AI slop",
+        "url": "https://neilalexander.dev/2026/06/30/flooding-contributions.html",
+        "source": "Lobsters",
+        "desc": "呼吁停止向社区注入 AI 垃圾代码"
+      },
+      {
+        "num": 20,
+        "title": "Merchants of Insecurity",
+        "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+        "source": "Lobsters",
+        "desc": "安全问题的商业逻辑分析"
+      },
+      {
+        "num": 21,
+        "title": "Changes to SourceHut's terms of service",
+        "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
+        "source": "Lobsters",
+        "desc": "SourceHut 服务条款变更讨论"
+      }
+    ],
+    "stats": {
+      "total_items": 21,
+      "total_categories": 5,
+      "total_sources": 21
+    }
+  }
+}
