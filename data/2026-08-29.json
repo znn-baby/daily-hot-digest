@@ -1,0 +1,894 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "tt-a1i / archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": "27245",
+      "stars_today": "4,561 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 2,
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": "36540",
+      "stars_today": "720 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "anthropics / claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": "35010",
+      "stars_today": "457 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "bilawalsidhu / gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": "11016",
+      "stars_today": "3,398 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 5,
+      "title": "abhigyanpatwari / GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "stars": "46152",
+      "stars_today": "189 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 6,
+      "title": "JetBrains / go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "description": "Help AI coding agents write modern Go",
+      "stars": "2581",
+      "stars_today": "574 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 7,
+      "title": "calesthio / OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "stars": "53277",
+      "stars_today": "1,144 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "abi / screenshot-to-code",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "stars": "75532",
+      "stars_today": "309 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "cursor / plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": "5942",
+      "stars_today": "257 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 10,
+      "title": "freestylefly / awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": "24219",
+      "stars_today": "1,687 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 11,
+      "title": "tailscale / tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "stars": "2642",
+      "stars_today": "986 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 12,
+      "title": "NationalSecurityAgency / ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": "73320",
+      "stars_today": "205 stars today",
+      "language": "Java"
+    },
+    {
+      "rank": 13,
+      "title": "swoole / typephp",
+      "url": "https://github.com/swoole/typephp",
+      "description": "Compile PHP to Native Binaries",
+      "stars": "804",
+      "stars_today": "188 stars today",
+      "language": "PHP"
+    },
+    {
+      "rank": 14,
+      "title": "marin-community / marin",
+      "url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "stars": "2889",
+      "stars_today": "236 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 15,
+      "title": "tashfeenahmed / freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "stars": "21594",
+      "stars_today": "477 stars today",
+      "language": "TypeScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Yap: a particular kind of slop",
+      "url": "https://mckayla.blog/posts/yap.html",
+      "source_url": "https://mckayla.blog/posts/yap.html",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "htmx 4.0.0 has been released",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "source_url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "tags": [
+        "release",
+        "vibecoding",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "OpenOffice does not print on Tuesdays (2009)",
+      "url": "https://beza1e1.tuxen.de/lore/print_on_tuesday.html",
+      "source_url": "https://beza1e1.tuxen.de/lore/print_on_tuesday.html",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality",
+      "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+      "source_url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Quest for eternal dock on Wayland - lambdock (C + GTK4 + Lisp GNU Guile Scheme)",
+      "url": "https://jointhefreeworld.org/blog/articles/gnu-linux/quest-for-eternal-dock/index.html",
+      "source_url": "https://jointhefreeworld.org/blog/articles/gnu-linux/quest-for-eternal-dock/index.html",
+      "tags": [
+        "c",
+        "lisp"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "How I made Rustdoc 33% faster in one week",
+      "url": "https://noahlev.org/blog/2026/08/27/making-rustdoc-faster/",
+      "source_url": "https://noahlev.org/blog/2026/08/27/making-rustdoc-faster/",
+      "tags": [
+        "performance",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Now Hiring: Senior Open Source Maintainer",
+      "url": "https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html",
+      "source_url": "https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html",
+      "tags": [
+        "satire"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "How cats.txt showed llms.txt evidence is GEO astrology",
+      "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
+      "source_url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "What are you doing this weekend?",
+      "url": "https://lobste.rs/s/oveaa3/what_are_you_doing_this_weekend",
+      "source_url": "https://lobste.rs/s/oveaa3/what_are_you_doing_this_weekend",
+      "tags": [
+        "ask",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "Zero-Cost 'Tagless Final' in Rust with GADT-style Enums",
+      "url": "https://inferara.com/blog/rust-tagless-final-gadt/",
+      "source_url": "https://inferara.com/blog/rust-tagless-final-gadt/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "source_url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "source_url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "tags": [
+        "distributed",
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "Announcing Sovereign Tech Agency Investment in Flatpak",
+      "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+      "source_url": "https://modal.cx/blog/announcing-flatpak-sta/",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "Nobody Argued For Your Stack",
+      "url": "https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj",
+      "source_url": "https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj",
+      "tags": [
+        "vibecoding",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Changes to SourceHut's terms of service regarding LLMs",
+      "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
+      "source_url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "本周看什么 | 最近值得一看的 10 部作品少数派编辑部昨天 17:44",
+      "url": "https://sspai.com/post/113944",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 10 部作品"
+    },
+    {
+      "rank": 2,
+      "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理这些内容，即使毕了业也能有所帮助。北鸮昨天 15:04",
+      "url": "https://sspai.com/post/68623",
+      "author": "北鸮",
+      "summary": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理"
+    },
+    {
+      "rank": 3,
+      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验少数派编辑部昨天 12:00",
+      "url": "https://sspai.com/post/113883",
+      "author": "少数派编辑部",
+      "summary": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验"
+    },
+    {
+      "rank": 4,
+      "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验Microhoo昨天 09:56",
+      "url": "https://sspai.com/post/113909",
+      "author": "Microhoo",
+      "summary": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验"
+    },
+    {
+      "rank": 5,
+      "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等少数派编辑部昨天 08:29派早报",
+      "url": "https://sspai.com/post/113922",
+      "author": "少数派编辑部",
+      "summary": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等"
+    },
+    {
+      "rank": 6,
+      "title": "新玩意 250｜少数派的编辑们最近买了啥？少数派编辑部前天 18:00",
+      "url": "https://sspai.com/post/113905",
+      "author": "少数派编辑部",
+      "summary": "新玩意 250｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 7,
+      "title": "开学宿舍生存指南：当年派友力荐的这些神器，你用过几个？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1787561551",
+      "author": "一派讨论",
+      "summary": "开学宿舍生存指南：当年派友力荐的这些神器，你用过几个？"
+    },
+    {
+      "rank": 8,
+      "title": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑爱拼安小匠前天 15:28Matrix精选",
+      "url": "https://sspai.com/post/89194",
+      "author": "爱拼安小匠",
+      "summary": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑"
+    },
+    {
+      "rank": 9,
+      "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记随便好啦前天 11:01Matrix精选",
+      "url": "https://sspai.com/post/113222",
+      "author": "随便好啦",
+      "summary": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记"
+    },
+    {
+      "rank": 10,
+      "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等少数派编辑部前天 07:33派早报",
+      "url": "https://sspai.com/post/113873",
+      "author": "少数派编辑部",
+      "summary": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等"
+    },
+    {
+      "rank": 11,
+      "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱学生党到底有哪些专享福利？看这一篇就对了。jijiali08/26",
+      "url": "https://sspai.com/post/68227",
+      "author": "jijiali",
+      "summary": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "黄金",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91",
+      "hot_value": 240000
+    },
+    {
+      "rank": 2,
+      "title": "消防救援队已抵达受灾核心区",
+      "url": "https://s.weibo.com/weibo?q=%E6%B6%88%E9%98%B2%E6%95%91%E6%8F%B4%E9%98%9F%E5%B7%B2%E6%8A%B5%E8%BE%BE%E5%8F%97%E7%81%BE%E6%A0%B8%E5%BF%83%E5%8C%BA",
+      "hot_value": 190000
+    },
+    {
+      "rank": 3,
+      "title": "英国姑娘打假中国留学生的切面包",
+      "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E5%9B%BD%E5%A7%91%E5%A8%98%E6%89%93%E5%81%87%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E7%9A%84%E5%88%87%E9%9D%A2%E5%8C%85",
+      "hot_value": 110000
+    },
+    {
+      "rank": 4,
+      "title": "低分班教师被安排耻辱合影官方致歉",
+      "url": "https://s.weibo.com/weibo?q=%E4%BD%8E%E5%88%86%E7%8F%AD%E6%95%99%E5%B8%88%E8%A2%AB%E5%AE%89%E6%8E%92%E8%80%BB%E8%BE%B1%E5%90%88%E5%BD%B1%E5%AE%98%E6%96%B9%E8%87%B4%E6%AD%89",
+      "hot_value": 100000
+    },
+    {
+      "rank": 5,
+      "title": "尼泊尔山洪已致579死1924失联",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%B1%B1%E6%B4%AA%E5%B7%B2%E8%87%B4579%E6%AD%BB1924%E5%A4%B1%E8%81%94",
+      "hot_value": 90000
+    },
+    {
+      "rank": 6,
+      "title": "一汽大众T6把4.8米纯电SUV打到13万",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E6%B1%BD%E5%A4%A7%E4%BC%97T6%E6%8A%8A4.8%E7%B1%B3%E7%BA%AF%E7%94%B5SUV%E6%89%93%E5%88%B013%E4%B8%87",
+      "hot_value": 90000
+    },
+    {
+      "rank": 7,
+      "title": "房贷",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%BF%E8%B4%B7",
+      "hot_value": 90000
+    },
+    {
+      "rank": 8,
+      "title": "胡连馨 京洛再无佳人",
+      "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E8%BF%9E%E9%A6%A8+%E4%BA%AC%E6%B4%9B%E5%86%8D%E6%97%A0%E4%BD%B3%E4%BA%BA",
+      "hot_value": 90000
+    },
+    {
+      "rank": 9,
+      "title": "青簪行天价版权",
+      "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%B0%AA%E8%A1%8C%E5%A4%A9%E4%BB%B7%E7%89%88%E6%9D%83",
+      "hot_value": 80000
+    },
+    {
+      "rank": 10,
+      "title": "当地回应教师与耻辱合影",
+      "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%95%99%E5%B8%88%E4%B8%8E%E8%80%BB%E8%BE%B1%E5%90%88%E5%BD%B1",
+      "hot_value": 80000
+    },
+    {
+      "rank": 11,
+      "title": "吉隆口岸警察的笑让网友哭了",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E8%AD%A6%E5%AF%9F%E7%9A%84%E7%AC%91%E8%AE%A9%E7%BD%91%E5%8F%8B%E5%93%AD%E4%BA%86",
+      "hot_value": 80000
+    },
+    {
+      "rank": 12,
+      "title": "房贷40年利息",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%BF%E8%B4%B740%E5%B9%B4%E5%88%A9%E6%81%AF",
+      "hot_value": 70000
+    },
+    {
+      "rank": 13,
+      "title": "2025年中国新生儿792万人",
+      "url": "https://s.weibo.com/weibo?q=2025%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%94%9F%E5%84%BF792%E4%B8%87%E4%BA%BA",
+      "hot_value": 70000
+    },
+    {
+      "rank": 14,
+      "title": "白敬亭P图为井柏然剧宣",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%ADP%E5%9B%BE%E4%B8%BA%E4%BA%95%E6%9F%8F%E7%84%B6%E5%89%A7%E5%AE%A3",
+      "hot_value": 70000
+    },
+    {
+      "rank": 15,
+      "title": "100万房贷月供可减少635元",
+      "url": "https://s.weibo.com/weibo?q=100%E4%B8%87%E6%88%BF%E8%B4%B7%E6%9C%88%E4%BE%9B%E5%8F%AF%E5%87%8F%E5%B0%91635%E5%85%83",
+      "hot_value": 60000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "「地方附加税法」征求意见稿出台，实行 11%-13% 幅度税率，这一新税种对经济意味着什么",
+      "url": "https://www.zhihu.com/question/2076724095819964981",
+      "hot_value": 2080000
+    },
+    {
+      "rank": 2,
+      "title": "蜜雪冰城半年报净利下降 14.7%，如何看待其上市以来首次出现净利润同比下滑",
+      "url": "https://www.zhihu.com/question/2076612668605952164",
+      "hot_value": 1900000
+    },
+    {
+      "rank": 3,
+      "title": "上海 92% 班主任不愿任职，年轻教师用诊断书回避，背后原因是什么",
+      "url": "https://www.zhihu.com/question/2071548641035149706",
+      "hot_value": 1720000
+    },
+    {
+      "rank": 4,
+      "title": "用了 5 年的合法固定车位，被邻楼老太强行霸占，放完杂物直接砌水泥墩，物业管不了我该怎么办",
+      "url": "https://www.zhihu.com/question/2038383492602532826",
+      "hot_value": 1310000
+    },
+    {
+      "rank": 5,
+      "title": "为什么王尼玛、英国报姐、同道大叔等博主不愿意露脸",
+      "url": "https://www.zhihu.com/question/270496733",
+      "hot_value": 1090000
+    },
+    {
+      "rank": 6,
+      "title": "孩子读书优秀学历越高，换来的是赚钱晚，结婚晚，生子晚，家庭长期只投入得不到回报，你们觉得值吗",
+      "url": "https://www.zhihu.com/question/2053868628034971005",
+      "hot_value": 1080000
+    },
+    {
+      "rank": 7,
+      "title": "媒体人称姚明 NBA 收入也曾面临分成，舆论施压后最终只缴税后 3%-5%，这意味着什么",
+      "url": "https://www.zhihu.com/question/2076400121282147077",
+      "hot_value": 1070000
+    },
+    {
+      "rank": 8,
+      "title": "撞脸周杰伦走红的粥饼伦因房租暴涨 5 成关店，从胖东来到粥饼伦，实体店面对大幅涨租有破局的办法吗",
+      "url": "https://www.zhihu.com/question/2075913079498306003",
+      "hot_value": 1060000
+    },
+    {
+      "rank": 9,
+      "title": "如何评价育碧在 Steam 上架《英雄无敌 3》却忘记发游戏文件，玩家仅下载到 23KB 占位符",
+      "url": "https://www.zhihu.com/question/2076243232774677882",
+      "hot_value": 1040000
+    },
+    {
+      "rank": 10,
+      "title": "小米被曝更新售后政策，二手设备直接失去官方保修，怎么看待这件事",
+      "url": "https://www.zhihu.com/question/2075363668737499639",
+      "hot_value": 930000
+    },
+    {
+      "rank": 11,
+      "title": "21 岁大学生 3 年考 100 个证引热议，考证越多越好吗？对未来发展有什么帮助",
+      "url": "https://www.zhihu.com/question/2076707196251928036",
+      "hot_value": 820000
+    },
+    {
+      "rank": 12,
+      "title": "中国新能源车出现「太长、太宽、太重」趋势，是何原因，发展合理吗",
+      "url": "https://www.zhihu.com/question/2004696556515910185",
+      "hot_value": 800000
+    },
+    {
+      "rank": 13,
+      "title": "没有人胁迫作者的情况下，谏山创为什么一定要写艾伦指挥巨人吃掉自己的母亲呢",
+      "url": "https://www.zhihu.com/question/2074064627382621576",
+      "hot_value": 710000
+    },
+    {
+      "rank": 14,
+      "title": "5G 商用七年了，除了手机右上角多 5G 标识，网速体验和 4G 没差别，信号甚至更差，我该如何反驳这种观点",
+      "url": "https://www.zhihu.com/question/2076052849881104673",
+      "hot_value": 680000
+    },
+    {
+      "rank": 15,
+      "title": "连云港集中销毁烟花时发生爆炸，致邻市 570 多户房屋受损，为何会有这么大威力？此次事故暴露出哪些问题",
+      "url": "https://www.zhihu.com/question/2076310314954534916",
+      "hot_value": 670000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "score": 522,
+      "author": "ckardaris",
+      "comments": 273,
+      "hn_url": "https://news.ycombinator.com/item?id=49479837"
+    },
+    {
+      "rank": 2,
+      "title": "Htmx 4.0",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "score": 463,
+      "author": "rmsaksida",
+      "comments": 113,
+      "hn_url": "https://news.ycombinator.com/item?id=49478178"
+    },
+    {
+      "rank": 3,
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "score": 225,
+      "author": "avsm",
+      "comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=49480466"
+    },
+    {
+      "rank": 4,
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "score": 439,
+      "author": "exiguus",
+      "comments": 407,
+      "hn_url": "https://news.ycombinator.com/item?id=49477854"
+    },
+    {
+      "rank": 5,
+      "title": "Inception-style curved map for turn-by-turn directions",
+      "url": "https://www.orbify.eu/demo/",
+      "score": 398,
+      "author": "smoser",
+      "comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=49477564"
+    },
+    {
+      "rank": 6,
+      "title": "Curvature Beziers: Improving on a timeless recipe",
+      "url": "https://acko.net/blog/curvature-beziers/",
+      "score": 63,
+      "author": "leephillips",
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=49422743"
+    },
+    {
+      "rank": 7,
+      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "score": 478,
+      "author": "jbegley",
+      "comments": 345,
+      "hn_url": "https://news.ycombinator.com/item?id=49473522"
+    },
+    {
+      "rank": 8,
+      "title": "The Twelve-Factor App (2025)",
+      "url": "https://12factor.net/",
+      "score": 208,
+      "author": "jxmorris12",
+      "comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=49472216"
+    },
+    {
+      "rank": 9,
+      "title": "Processing in Memory: DRAM Is About to Do Math",
+      "url": "https://ben3d.ca/blog/processing-in-memory",
+      "score": 46,
+      "author": "bhouston",
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49454182"
+    },
+    {
+      "rank": 10,
+      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "score": 72,
+      "author": "stephenchung",
+      "comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=49481455"
+    },
+    {
+      "rank": 11,
+      "title": "GLM-5.3 is now open-weight",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "score": 546,
+      "author": "jeudesprits",
+      "comments": 196,
+      "hn_url": "https://news.ycombinator.com/item?id=49479878"
+    },
+    {
+      "rank": 12,
+      "title": "Visual Analysis of Binary Files",
+      "url": "https://binvis.io/#/",
+      "score": 54,
+      "author": "vismit2000",
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49443783"
+    },
+    {
+      "rank": 13,
+      "title": "Show HN: Sesame - a local-first, open-source password manager",
+      "url": "https://usesesame.app/",
+      "score": 24,
+      "author": "d0mkaaa",
+      "comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=49483038"
+    },
+    {
+      "rank": 14,
+      "title": "Identifying fake cosmetics using AI",
+      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+      "score": 5,
+      "author": "wgrover",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49484925"
+    },
+    {
+      "rank": 15,
+      "title": "Stopping the smart TV from being used against you",
+      "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
+      "score": 128,
+      "author": "speckx",
+      "comments": 102,
+      "hn_url": "https://news.ycombinator.com/item?id=49483816"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发效能",
+        "color": "ai",
+        "summary": "今天 GitHub 的 AI 圈简直炸了，全是关于 Agent 的新玩法。tt-a1i / archify[1] 做出了一个超酷的 Agent 技能，能把复杂的架构、工作流和生命周期用动态 HTML 图可视化，还自带动画和导出功能，搞架构的绝对要收藏。还有 K-Dense-AI / scientific-agent-skills[2]，号称全球 17.5 万科学家都在用的库，直接把 AI 升级成\"AI 科学家”，内置了生物学、医学等 100+ 数据库，想搞科研自动化的赶紧看。另外，abi / screenshot-to-code[3] 依然是视觉转代码的神器，丢张截图就能生成干净的 React 或 Vue 代码，这种工具对前端效率提升太大了。Lobsters 那边也在聊类似话题，有人吐槽现在的\"vibecoding\"太随意，像 yap 这种做法虽然快但代码质量堪忧，让人担心长期维护[4]。少数派也报道了智谱 GLM-5.3-Flash 原生多模态模型的开源[5]，看来多模态能力是今年 AI 的大趋势，值得关注。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术这块儿，JetBrains 给 Go 语言 AI 编程出了新指南 go-modern-guidelines[6]，帮助 AI 写出更现代的 Go 代码，这对 Go 生态挺重要的。 tailscale / tailcat[7] 也是个神器，像 netcat 但跑在 Tailscale 的数据平面上，不用控制平面就能穿透内网，搞运维和安全的朋友能省不少事。NationalSecurityAgency 的 ghidra[8] 作为逆向工程框架也是老牌劲旅了。Lobsters 上有篇云flare 的文章挺硬核，说他们通过优化 DNS 缓存节省了 100TB 内存[9]，这种性能优化细节一般用户感受不到，但工程师看了直呼内行。还有关于 Rust 性能优化的讨论，有人分享了一周内让 Rustdoc 提速 33% 的硬核经验[10]，Rust 社区对性能的追求真是没话说。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "tool",
+        "summary": "数码和效率工具方面，华为 Pura X View 作为全球首款阔直板手机曝光，少数派做了有奖体验招募[11]，这种形态的创新挺有意思。明基的 iScreenBar 屏幕挂灯也更新了体验内容[12]，毕竟屏幕护眼现在太重要了。少数派还整理了开学季的软件教育优惠，学生党能省不少钱[13]。Lobsters 上有人怀念 EasyEffects，呼吁把它集成进所有 Linux 发行版来提升笔记本扬声器音质[14]，看来硬件被集成软件救活的故事还有很多。另外，SourceHut 最近改了 ToS 关于 LLM 的内容[15]，这对开源社区是个信号。少数派还回顾了东芝 Libretto 50M 这款 1997 年的迷你笔记本，怀旧党看了会心一笑[16]。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "think",
+        "summary": "最后聊聊今天的观点类内容。Lobsters 上有个帖子叫《Nobody Argued For Your Stack》[17]，讽刺现在开发者盲目跟风技术栈，没人真正争论过你的选择对不对，这点挺扎心的。还有人讨论 GUI 应该完全由键盘驱动[18]，虽然极端但也值得思考无障碍和效率的平衡。少数派编辑部发了本周值得看的 10 部作品推荐[19]，算是给忙碌的技术人一点文化充电站。总的来说，今天技术圈既有硬核的代码和架构，也有对开发文化和产品形态的反思，内容很丰富。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "tt-a1i / archify: Agent skill for beautiful, verifiable architecture...",
+        "url": "https://github.com/tt-a1i/archify",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，提供架构可视化的 Agent 技能。"
+      },
+      {
+        "num": 2,
+        "title": "K-Dense-AI / scientific-agent-skills: Turn any AI agent into an AI Scientist...",
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，将 AI 转化为科学家的技能库。"
+      },
+      {
+        "num": 3,
+        "title": "abi / screenshot-to-code: Drop in a screenshot and convert it to clean code...",
+        "url": "https://github.com/abi/screenshot-to-code",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，截图转代码工具。"
+      },
+      {
+        "num": 4,
+        "title": "Yap: a particular kind of slop [practices, vibecoding]",
+        "url": "https://mckayla.blog/posts/yap.html",
+        "source": "Lobsters",
+        "desc": "讨论帖，关于快速编码实践'yap'的批评。"
+      },
+      {
+        "num": 5,
+        "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等",
+        "url": "https://sspai.com/post/113922",
+        "source": "少数派",
+        "desc": "文章，报道智谱最新开源的多模态模型。"
+      },
+      {
+        "num": 6,
+        "title": "JetBrains / go-modern-guidelines: Help AI coding agents write modern Go",
+        "url": "https://github.com/JetBrains/go-modern-guidelines",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，Go 语言现代编程指南。"
+      },
+      {
+        "num": 7,
+        "title": "tailscale / tailcat: like netcat, but over Tailscale's data plane...",
+        "url": "https://github.com/tailscale/tailcat",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，基于 Tailscale 平面的网络工具。"
+      },
+      {
+        "num": 8,
+        "title": "NationalSecurityAgency / ghidra: Ghidra is a software reverse engineering...",
+        "url": "https://github.com/NationalSecurityAgency/ghidra",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，逆向工程框架 Ghidra。"
+      },
+      {
+        "num": 9,
+        "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+        "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+        "source": "Lobsters",
+        "desc": "讨论帖，Cloudflare 关于 DNS 缓存内存优化的技术分享。"
+      },
+      {
+        "num": 10,
+        "title": "How I made Rustdoc 33% faster in one week",
+        "url": "https://noahlev.org/blog/2026/08/27/making-rustdoc-faster/",
+        "source": "Lobsters",
+        "desc": "讨论帖，Rustdoc 性能优化经验。"
+      },
+      {
+        "num": 11,
+        "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+        "url": "https://sspai.com/post/113883",
+        "source": "少数派",
+        "desc": "文章，华为 Pura X View 新品体验招募。"
+      },
+      {
+        "num": 12,
+        "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验",
+        "url": "https://sspai.com/post/113909",
+        "source": "少数派",
+        "desc": "文章，明基屏幕挂灯体验报告。"
+      },
+      {
+        "num": 13,
+        "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱",
+        "url": "https://sspai.com/post/68227",
+        "source": "少数派",
+        "desc": "文章，软件教育优惠整理。"
+      },
+      {
+        "num": 14,
+        "title": "EasyEffects should be part of every Linux distribution...",
+        "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+        "source": "Lobsters",
+        "desc": "讨论帖，呼吁将 EasyEffects 集成进 Linux 发行版。"
+      },
+      {
+        "num": 15,
+        "title": "Changes to SourceHut's terms of service regarding LLMs",
+        "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
+        "source": "Lobsters",
+        "desc": "讨论帖，SourceHut 服务条款关于 LLM 的变更。"
+      },
+      {
+        "num": 16,
+        "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
+        "url": "https://sspai.com/post/113222",
+        "source": "少数派",
+        "desc": "文章，东芝 Libretto 50M 怀旧笔记。"
+      },
+      {
+        "num": 17,
+        "title": "Nobody Argued For Your Stack",
+        "url": "https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj",
+        "source": "Lobsters",
+        "desc": "讨论帖，讽刺盲目跟风技术栈现象。"
+      },
+      {
+        "num": 18,
+        "title": "GUIs should be fully keyboard-driven",
+        "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+        "source": "Lobsters",
+        "desc": "讨论帖，关于 GUI 应完全键盘驱动的观点。"
+      },
+      {
+        "num": 19,
+        "title": "本周看什么 | 最近值得一看的 10 部作品",
+        "url": "https://sspai.com/post/113944",
+        "source": "少数派",
+        "desc": "文章，本周推荐作品列表。"
+      }
+    ],
+    "stats": {
+      "total_items": 19,
+      "total_categories": 4,
+      "total_sources": 19
+    }
+  }
+}
