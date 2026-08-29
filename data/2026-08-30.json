@@ -1,0 +1,912 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "tt-a1i / archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": "30332",
+      "stars_today": "3,927 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 2,
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": "37711",
+      "stars_today": "1,604 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "anthropics / claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": "35294",
+      "stars_today": "356 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "bilawalsidhu / gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": "12241",
+      "stars_today": "1,870 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 5,
+      "title": "abhigyanpatwari / GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "stars": "46348",
+      "stars_today": "273 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 6,
+      "title": "JetBrains / go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "description": "Help AI coding agents write modern Go",
+      "stars": "2813",
+      "stars_today": "294 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 7,
+      "title": "calesthio / OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "stars": "53882",
+      "stars_today": "809 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "abi / screenshot-to-code",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "stars": "75930",
+      "stars_today": "558 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "cursor / plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": "6121",
+      "stars_today": "257 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 10,
+      "title": "freestylefly / awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": "24973",
+      "stars_today": "767 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 11,
+      "title": "tailscale / tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "stars": "3335",
+      "stars_today": "790 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 12,
+      "title": "NationalSecurityAgency / ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": "73580",
+      "stars_today": "375 stars today",
+      "language": "Java"
+    },
+    {
+      "rank": 13,
+      "title": "swoole / typephp",
+      "url": "https://github.com/swoole/typephp",
+      "description": "Compile PHP to Native Binaries",
+      "stars": "924",
+      "stars_today": "166 stars today",
+      "language": "PHP"
+    },
+    {
+      "rank": 14,
+      "title": "marin-community / marin",
+      "url": "https://github.com/marin-community/marin",
+      "description": "Open-source framework for the research and development of foundation models.",
+      "stars": "3000",
+      "stars_today": "163 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 15,
+      "title": "tashfeenahmed / freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "stars": "22119",
+      "stars_today": "612 stars today",
+      "language": "TypeScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Being kicked out of the tech industry",
+      "url": "https://www.jacky.wtf/essays/2026/kicked-out/",
+      "source_url": "https://www.jacky.wtf/essays/2026/kicked-out/",
+      "tags": [
+        "person"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "Yap: a particular kind of slop",
+      "url": "https://mckayla.blog/posts/yap.html",
+      "source_url": "https://mckayla.blog/posts/yap.html",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "LLM usage in Debian neither endorsed nor prohibited",
+      "url": "https://www.debian.org/vote/2026/vote_002#texte",
+      "source_url": "https://www.debian.org/vote/2026/vote_002#texte",
+      "tags": [
+        "linux",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Debian and the sirens",
+      "url": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
+      "source_url": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
+      "tags": [
+        "linux",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Parsing the Infamous Japanese Postal CSV",
+      "url": "https://www.dampfkraft.com/posuto.html",
+      "source_url": "https://www.dampfkraft.com/posuto.html",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "htmx 4.0.0 has been released",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "source_url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "tags": [
+        "release",
+        "vibecoding",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Creepy crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "source_url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "tags": [
+        "devops",
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+      "source_url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+      "tags": [
+        "philosophy",
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
+      "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+      "source_url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+      "tags": [
+        "linux",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "OpenOffice does not print on Tuesdays (2009)",
+      "url": "https://beza1e1.tuxen.de/lore/print_on_tuesday.html",
+      "source_url": "https://beza1e1.tuxen.de/lore/print_on_tuesday.html",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "Just a rumour of a bug is enough to find a security exploit these days",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "source_url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "tags": [
+        "ml",
+        "security",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "How cats.txt showed llms.txt evidence is GEO astrology",
+      "url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
+      "source_url": "https://markwilliamscook.substack.com/p/how-catstxt-showed-llmstxt-evidence",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality",
+      "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+      "source_url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "source_url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Any true alternatives to electron JavaScript?",
+      "url": "https://lobste.rs/s/vji9aj/any_true_alternatives_electron",
+      "source_url": "https://lobste.rs/s/vji9aj/any_true_alternatives_electron",
+      "tags": [
+        "ask",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "2026 烟灶选购指南真叫浩南昨天 09:20Matrix精选",
+      "url": "https://sspai.com/post/112775",
+      "author": "真叫浩南",
+      "summary": "2026 烟灶选购指南"
+    },
+    {
+      "rank": 2,
+      "title": "本周看什么 | 最近值得一看的 10 部作品少数派编辑部前天 17:44",
+      "url": "https://sspai.com/post/113944",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 10 部作品"
+    },
+    {
+      "rank": 3,
+      "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理这些内容，即使毕了业也能有所帮助。北鸮前天 15:04",
+      "url": "https://sspai.com/post/68623",
+      "author": "北鸮",
+      "summary": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理"
+    },
+    {
+      "rank": 4,
+      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验少数派编辑部前天 12:00",
+      "url": "https://sspai.com/post/113883",
+      "author": "少数派编辑部",
+      "summary": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验"
+    },
+    {
+      "rank": 5,
+      "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验Microhoo前天 09:56",
+      "url": "https://sspai.com/post/113909",
+      "author": "Microhoo",
+      "summary": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验"
+    },
+    {
+      "rank": 6,
+      "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等少数派编辑部前天 08:29派早报",
+      "url": "https://sspai.com/post/113922",
+      "author": "少数派编辑部",
+      "summary": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等"
+    },
+    {
+      "rank": 7,
+      "title": "开学宿舍生存指南：当年派友力荐的这些神器，你用过几个？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1787561551",
+      "author": "一派讨论",
+      "summary": "开学宿舍生存指南：当年派友力荐的这些神器，你用过几个？"
+    },
+    {
+      "rank": 8,
+      "title": "新玩意 250｜少数派的编辑们最近买了啥？少数派编辑部08/27",
+      "url": "https://sspai.com/post/113905",
+      "author": "少数派编辑部",
+      "summary": "新玩意 250｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 9,
+      "title": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑爱拼安小匠08/27Matrix精选",
+      "url": "https://sspai.com/post/89194",
+      "author": "爱拼安小匠",
+      "summary": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑"
+    },
+    {
+      "rank": 10,
+      "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记随便好啦08/27Matrix精选",
+      "url": "https://sspai.com/post/113222",
+      "author": "随便好啦",
+      "summary": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记"
+    },
+    {
+      "rank": 11,
+      "title": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等少数派编辑部08/27派早报",
+      "url": "https://sspai.com/post/113873",
+      "author": "少数派编辑部",
+      "summary": "派早报：Apple 调整妙控键盘的键帽符号、闪迪推出宝可梦纪念款产品等"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "樊振东2比3户上隼辅",
+      "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C2%E6%AF%943%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85",
+      "hot_value": 880000
+    },
+    {
+      "rank": 2,
+      "title": "中国成功研制近200项AI关键标准",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E7%A0%94%E5%88%B6%E8%BF%91200%E9%A1%B9AI%E5%85%B3%E9%94%AE%E6%A0%87%E5%87%86",
+      "hot_value": 750000
+    },
+    {
+      "rank": 3,
+      "title": "细胞抗老是智商税么",
+      "url": "https://s.weibo.com/weibo?q=%E7%BB%86%E8%83%9E%E6%8A%97%E8%80%81%E6%98%AF%E6%99%BA%E5%95%86%E7%A8%8E%E4%B9%88",
+      "hot_value": 730000
+    },
+    {
+      "rank": 4,
+      "title": "黄景瑜疯狂拥抱宋亚东",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%AF%E7%91%9C%E7%96%AF%E7%8B%82%E6%8B%A5%E6%8A%B1%E5%AE%8B%E4%BA%9A%E4%B8%9C",
+      "hot_value": 730000
+    },
+    {
+      "rank": 5,
+      "title": "长大后先对什么祛魅了",
+      "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E5%A4%A7%E5%90%8E%E5%85%88%E5%AF%B9%E4%BB%80%E4%B9%88%E7%A5%9B%E9%AD%85%E4%BA%86",
+      "hot_value": 640000
+    },
+    {
+      "rank": 6,
+      "title": "房子薄成这样原来真的有人住在里面",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%BF%E5%AD%90%E8%96%84%E6%88%90%E8%BF%99%E6%A0%B7%E5%8E%9F%E6%9D%A5%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BA%BA%E4%BD%8F%E5%9C%A8%E9%87%8C%E9%9D%A2",
+      "hot_value": 630000
+    },
+    {
+      "rank": 7,
+      "title": "宋亚东KO乌马尔",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BA%9A%E4%B8%9CKO%E4%B9%8C%E9%A9%AC%E5%B0%94",
+      "hot_value": 320000
+    },
+    {
+      "rank": 8,
+      "title": "樊振东无缘德国杯8强",
+      "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%97%A0%E7%BC%98%E5%BE%B7%E5%9B%BD%E6%9D%AF8%E5%BC%BA",
+      "hot_value": 310000
+    },
+    {
+      "rank": 9,
+      "title": "早春晴朗要开虐了",
+      "url": "https://s.weibo.com/weibo?q=%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E8%A6%81%E5%BC%80%E8%99%90%E4%BA%86",
+      "hot_value": 300000
+    },
+    {
+      "rank": 10,
+      "title": "王菲李嫣看窦靖童音乐节",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%B2%E6%9D%8E%E5%AB%A3%E7%9C%8B%E7%AA%A6%E9%9D%96%E7%AB%A5%E9%9F%B3%E4%B9%90%E8%8A%82",
+      "hot_value": 300000
+    },
+    {
+      "rank": 11,
+      "title": "户上隼辅首胜樊振东官网都崩了",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85%E9%A6%96%E8%83%9C%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%AE%98%E7%BD%91%E9%83%BD%E5%B4%A9%E4%BA%86",
+      "hot_value": 300000
+    },
+    {
+      "rank": 12,
+      "title": "央视曝光保温杯造假套路",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%BF%9D%E6%B8%A9%E6%9D%AF%E9%80%A0%E5%81%87%E5%A5%97%E8%B7%AF",
+      "hot_value": 300000
+    },
+    {
+      "rank": 13,
+      "title": "王一博ins素颜自拍",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9Ains%E7%B4%A0%E9%A2%9C%E8%87%AA%E6%8B%8D",
+      "hot_value": 290000
+    },
+    {
+      "rank": 14,
+      "title": "吉隆口岸入警1年樊乐乐失联",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%85%A5%E8%AD%A61%E5%B9%B4%E6%A8%8A%E4%B9%90%E4%B9%90%E5%A4%B1%E8%81%94",
+      "hot_value": 280000
+    },
+    {
+      "rank": 15,
+      "title": "面馆偶遇王菲李嫣",
+      "url": "https://s.weibo.com/weibo?q=%E9%9D%A2%E9%A6%86%E5%81%B6%E9%81%87%E7%8E%8B%E8%8F%B2%E6%9D%8E%E5%AB%A3",
+      "hot_value": 280000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "樊振东 11-13 惜败户上隼辅，其所在球队 1-3 不敌对手，无缘德国杯 8 强，如何评价他的表现",
+      "url": "https://www.zhihu.com/question/2077132758401246582",
+      "hot_value": 11460000
+    },
+    {
+      "rank": 2,
+      "title": "六岁男童旅游被烟花炸伤右眼几近失明，半年找不到放烟花的人，妈妈称「连告谁都不清楚」，到底谁该对此负责",
+      "url": "https://www.zhihu.com/question/2076749706848383726",
+      "hot_value": 2490000
+    },
+    {
+      "rank": 3,
+      "title": "新加坡人几乎都是在外面吃饭，他们有没有预制菜",
+      "url": "https://www.zhihu.com/question/2076313906579096130",
+      "hot_value": 2110000
+    },
+    {
+      "rank": 4,
+      "title": "男子面试提交方案，被拒后收到公司一千元「车马费与茶水费」，男子称「感受到尊重」，如何评价该做法",
+      "url": "https://www.zhihu.com/question/2076742550052922141",
+      "hot_value": 1960000
+    },
+    {
+      "rank": 5,
+      "title": "《爱情公寓》羽墨的角色为什么被放弃了？而悠悠却被保留下来",
+      "url": "https://www.zhihu.com/question/49771510",
+      "hot_value": 1420000
+    },
+    {
+      "rank": 6,
+      "title": "《爱情公寓》官方六年首次换头像，主演频繁合体，引发「回归季」猜测，可能性有多大",
+      "url": "https://www.zhihu.com/question/2076069365967844870",
+      "hot_value": 1410000
+    },
+    {
+      "rank": 7,
+      "title": "乒协公示亚锦赛选拔办法，王楚钦、孙颖莎等 5 人放弃参赛，背后有哪些原因？国乒亚锦赛前景如何",
+      "url": "https://www.zhihu.com/question/2076988218390442126",
+      "hot_value": 1400000
+    },
+    {
+      "rank": 8,
+      "title": "UFC 上海站宋亚东第二回合 KO 战胜乌马尔，如何评价这场比赛",
+      "url": "https://www.zhihu.com/question/2077159437056173685",
+      "hot_value": 1400000
+    },
+    {
+      "rank": 9,
+      "title": "郑州北龙湖疑现多条巨型鱼类，网友推测为「水老虎」 ，这可能是什么鱼？出现在城市内湖会有哪些潜在影响",
+      "url": "https://www.zhihu.com/question/2075494563582407902",
+      "hot_value": 1360000
+    },
+    {
+      "rank": 10,
+      "title": "看到有人说，孩子上幼儿园不哭的，都是因为平时就没有安全感，是这样吗",
+      "url": "https://www.zhihu.com/question/2075675286998345413",
+      "hot_value": 1220000
+    },
+    {
+      "rank": 11,
+      "title": "LPL2026 第三赛段季后赛 TES 2:3 不敌 LGD 跌入败者组，如何评价这场比赛",
+      "url": "https://www.zhihu.com/question/2077063958318600636",
+      "hot_value": 1180000
+    },
+    {
+      "rank": 12,
+      "title": "涉教师耻辱合影县是国家重点帮扶县，教师每天实时监测辍学人数，这项工作反映了当地教育面临哪些深层挑战",
+      "url": "https://www.zhihu.com/question/2076709478544757704",
+      "hot_value": 1170000
+    },
+    {
+      "rank": 13,
+      "title": "国家卫健委宣布白血病已非「不治之症」，多数患者可治愈，这一突破是如何实现的？背后有哪些医学原理",
+      "url": "https://www.zhihu.com/question/2074455186999984199",
+      "hot_value": 1160000
+    },
+    {
+      "rank": 14,
+      "title": "尼泊尔山洪遇难人数升至 669 人、 2426 人失联，目前当地情况如何",
+      "url": "https://www.zhihu.com/question/2076729617759432953",
+      "hot_value": 1150000
+    },
+    {
+      "rank": 15,
+      "title": "怎么看 OpenAI 因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型",
+      "url": "https://www.zhihu.com/question/2076984800188093248",
+      "hot_value": 1080000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "score": 362,
+      "author": "pluc",
+      "comments": 278,
+      "hn_url": "https://news.ycombinator.com/item?id=49489982"
+    },
+    {
+      "rank": 2,
+      "title": "SQLite as a Document Database (2020)",
+      "url": "https://dgl.cx/2020/06/sqlite-json-support",
+      "score": 72,
+      "author": "lioeters",
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=49426995"
+    },
+    {
+      "rank": 3,
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
+      "score": 71,
+      "author": "zackb",
+      "comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=49415386"
+    },
+    {
+      "rank": 4,
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "url": "https://uecker.codeberg.page/2026-08-29.html",
+      "score": 39,
+      "author": "uecker",
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=49490138"
+    },
+    {
+      "rank": 5,
+      "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+      "url": "https://typebase.io",
+      "score": 53,
+      "author": "andrewww-dev",
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=49447178"
+    },
+    {
+      "rank": 6,
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "score": 202,
+      "author": "ingve",
+      "comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=49487341"
+    },
+    {
+      "rank": 7,
+      "title": "Glacier Mice",
+      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+      "score": 164,
+      "author": "ostacke",
+      "comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=49424320"
+    },
+    {
+      "rank": 8,
+      "title": "Creating the Aetheryte Radio",
+      "url": "https://haz.ee/posts/aetheryte-radio.html",
+      "score": 36,
+      "author": "wonger_",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49479546"
+    },
+    {
+      "rank": 9,
+      "title": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "score": 45,
+      "author": "JumpCrisscross",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49490870"
+    },
+    {
+      "rank": 10,
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "score": 969,
+      "author": "ckardaris",
+      "comments": 477,
+      "hn_url": "https://news.ycombinator.com/item?id=49479837"
+    },
+    {
+      "rank": 11,
+      "title": "EVE Online moves to Python 3",
+      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "score": 176,
+      "author": "TylerJaacks",
+      "comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=49433328"
+    },
+    {
+      "rank": 12,
+      "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
+      "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
+      "score": 7,
+      "author": "defrost",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49428756"
+    },
+    {
+      "rank": 13,
+      "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+      "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+      "score": 71,
+      "author": "400thecat",
+      "comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=49490702"
+    },
+    {
+      "rank": 14,
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "score": 349,
+      "author": "hentrep",
+      "comments": 94,
+      "hn_url": "https://news.ycombinator.com/item?id=49485267"
+    },
+    {
+      "rank": 15,
+      "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
+      "url": "https://galaxium.app",
+      "score": 72,
+      "author": "guillaumec",
+      "comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=49420524"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与工作流",
+        "color": "ai",
+        "summary": "今天的 GitHub Trending 被 AI Agent 相关项目刷屏了。tt-a1i/archify[1] 是个超酷的工具，能把你的架构、数据流变成带动画的精美 HTML 图表，star 数已经破万，搞技术文档的绝对利器。K-Dense-AI/scientific-agent-skills[2] 更是不得了，号称全球 19 万+科学家都在用的科学智能体技能库，涵盖生物、化学等领域，想给 AI 装上“科学大脑”的必看。anthropics/claude-plugins-official[3] 作为官方插件目录，质量很稳；abi/screenshot-to-code[4] 那个“截图转代码”功能我也用过，生成 React 代码挺准，效率提升明显。\n\nLobsters 上关于“Vibe Coding”的讨论挺有意思，有人发帖说试着用 AI 写个记忆工具结果陷入了哲学困境[5]，这种“代码写得飞起，逻辑一塌糊涂”的现象确实值得警惕。少数派那篇《开学季 | 学习不止在课堂》[6] 其实也侧面反映了大家开始寻求更高效的知识管理方式，而 AI 智能体或许就是下一个知识管理的突破口。搞 Agent 开发的朋友，今天的这些项目确实值得关注。"
+      },
+      {
+        "name": "开源生态与社区观察",
+        "color": "dev",
+        "summary": "开源社区最近动静不少。GitHub 上 JetBrains/go-modern-guidelines[7] 在帮 AI 写现代 Go 代码，还有 freestylefly/awesome-gpt-image-2[8] 整理了 500 多个 GPT-Image2 的工业级提示词案例，逆向工程做得很细，提示词工程师们有口福了。Lobsters 上关于 Debian 允许“负责任的生成式 AI 使用”的投票[9] 引发了热议，看来传统开源社区对 AI 的接纳态度正在微妙变化，从“禁止”转向了“监管”。\n\n少数派昨天发了《全球首款阔直板探索计划：华为 Pura X View 新品有奖体验》[10]，这种形态创新挺大胆，不知道手感咋样。另外，Lobsters 上还有一篇关于“如何解析那个臭名昭著的日本邮政 CSV\"的文章[11]，这种看似枯燥的脏数据处理问题，往往藏着最深刻的编程智慧，读来让人会心一笑。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "系统层面的更新值得关注。GitHub 上 tailscale/tailcat[12] 提供了类似 netcat 但基于 Tailscale 数据平面的功能，适合在安全网络内做文件传输。NationalSecurityAgency/ghidra[13] 作为逆向工程框架，依然是安全研究者的标配。swoole/typephp[14] 试图将 PHP 编译为原生二进制，这对 Web 性能优化是个大胆尝试。\n\n少数派那篇《日常使用 Linux 的第六个年头》[15] 分享了不少实战经验，特别是关于如何打消对 Linux 桌面使用顾虑的部分，很接地气。Lobsters 上也有人提议 EasyEffects 应该成为所有 Linux 发行版的标配，毕竟笔记本外放音质优化太重要了[16]。搞运维的朋友，这些底层工具的更新和体验分享都能帮上忙。"
+      },
+      {
+        "name": "效率工具与数码生活",
+        "color": "eff",
+        "summary": "提升效率的工具层出不穷。bilawalsidhu/gods-eye-view[17] 这个开源卫星模拟项目太有意思了，用真实数据在 3D 地球仪上展示全球情报，算是把“上帝视角”玩明白了。Cursor plugins[18] 作为官方插件规范，对开发者友好度很高。另外，abi/screenshot-to-code[19] 前面提过了，它不仅能写代码，其实也算是一个极致的效率工具。\n\n少数派那篇《桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验》[20] 提醒我们，工欲善其事，必先利其器，环境光对视觉疲劳的影响被很多人忽视了。还有《来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记》[21]，这种复古硬件的回归，或许也是对抗数字焦虑的一种方式。今天的内容既有硬核工具，也有生活美学，搭配着看挺舒服。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "tt-a1i/archify",
+        "url": "https://github.com/tt-a1i/archify",
+        "source": "GitHub Trending",
+        "desc": "Agent skill for beautiful, verifiable architecture diagrams"
+      },
+      {
+        "num": 2,
+        "title": "K-Dense-AI / scientific-agent-skills",
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+        "source": "GitHub Trending",
+        "desc": "Turn any AI agent into an AI Scientist"
+      },
+      {
+        "num": 3,
+        "title": "anthropics / claude-plugins-official",
+        "url": "https://github.com/anthropics/claude-plugins-official",
+        "source": "GitHub Trending",
+        "desc": "Official Anthropic-managed directory of high quality Claude Code Plugins"
+      },
+      {
+        "num": 4,
+        "title": "abi / screenshot-to-code",
+        "url": "https://github.com/abi/screenshot-to-code",
+        "source": "GitHub Trending",
+        "desc": "Drop in a screenshot and convert it to clean code"
+      },
+      {
+        "num": 5,
+        "title": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+        "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+        "source": "Lobsters",
+        "desc": "Philosophy and practices discussion on vibe coding"
+      },
+      {
+        "num": 6,
+        "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
+        "url": "https://sspai.com/post/68623",
+        "source": "少数派",
+        "desc": "知识管理方法与技巧分享"
+      },
+      {
+        "num": 7,
+        "title": "JetBrains / go-modern-guidelines",
+        "url": "https://github.com/JetBrains/go-modern-guidelines",
+        "source": "GitHub Trending",
+        "desc": "Help AI coding agents write modern Go"
+      },
+      {
+        "num": 8,
+        "title": "freestylefly / awesome-gpt-image-2",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+        "source": "GitHub Trending",
+        "desc": "GPT-Image2 工业级提示词引擎与模板库"
+      },
+      {
+        "num": 9,
+        "title": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
+        "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+        "source": "Lobsters",
+        "desc": "Debian community voting on AI usage policy"
+      },
+      {
+        "num": 10,
+        "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+        "url": "https://sspai.com/post/113883",
+        "source": "少数派",
+        "desc": "华为 Pura X View 新品体验"
+      },
+      {
+        "num": 11,
+        "title": "Parsing the Infamous Japanese Postal CSV",
+        "url": "https://www.dampfkraft.com/posuto.html",
+        "source": "Lobsters",
+        "desc": "Discussion on parsing difficult CSV data"
+      },
+      {
+        "num": 12,
+        "title": "tailscale / tailcat",
+        "url": "https://github.com/tailscale/tailcat",
+        "source": "GitHub Trending",
+        "desc": "like netcat, but over Tailscale's data plane"
+      },
+      {
+        "num": 13,
+        "title": "NationalSecurityAgency / ghidra",
+        "url": "https://github.com/NationalSecurityAgency/ghidra",
+        "source": "GitHub Trending",
+        "desc": "Ghidra is a software reverse engineering framework"
+      },
+      {
+        "num": 14,
+        "title": "swoole / typephp",
+        "url": "https://github.com/swoole/typephp",
+        "source": "GitHub Trending",
+        "desc": "Compile PHP to Native Binaries"
+      },
+      {
+        "num": 15,
+        "title": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑",
+        "url": "https://sspai.com/post/89194",
+        "source": "少数派",
+        "desc": "Linux 桌面使用经验分享"
+      },
+      {
+        "num": 16,
+        "title": "EasyEffects should be part of every Linux distribution...",
+        "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+        "source": "Lobsters",
+        "desc": "Discussion on improving laptop audio quality"
+      },
+      {
+        "num": 17,
+        "title": "bilawalsidhu / gods-eye-view",
+        "url": "https://github.com/bilawalsidhu/gods-eye-view",
+        "source": "GitHub Trending",
+        "desc": "A spy satellite simulator in your browser with real data"
+      },
+      {
+        "num": 18,
+        "title": "cursor / plugins",
+        "url": "https://github.com/cursor/plugins",
+        "source": "GitHub Trending",
+        "desc": "Cursor plugin specification and official plugins"
+      },
+      {
+        "num": 19,
+        "title": "abi / screenshot-to-code",
+        "url": "https://github.com/abi/screenshot-to-code",
+        "source": "GitHub Trending",
+        "desc": "Drop in a screenshot and convert it to clean code"
+      },
+      {
+        "num": 20,
+        "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验",
+        "url": "https://sspai.com/post/113909",
+        "source": "少数派",
+        "desc": "BenQ ScreenBar 体验报告"
+      },
+      {
+        "num": 21,
+        "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
+        "url": "https://sspai.com/post/113222",
+        "source": "少数派",
+        "desc": "东芝 Libretto 50M 怀旧手记"
+      }
+    ],
+    "stats": {
+      "total_items": 21,
+      "total_categories": 4,
+      "total_sources": 21
+    }
+  }
+}
