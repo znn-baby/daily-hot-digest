@@ -1,0 +1,906 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "THU-MAIC / OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars": "23568",
+      "stars_today": "907 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": "38874",
+      "stars_today": "1,113 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "Lakr233 / vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "description": "",
+      "stars": "9495",
+      "stars_today": "341 stars today",
+      "language": "Swift"
+    },
+    {
+      "rank": 4,
+      "title": "tt-a1i / archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": "33872",
+      "stars_today": "3,730 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 5,
+      "title": "p-e-w / heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "stars": "29041",
+      "stars_today": "150 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 6,
+      "title": "unclecode / crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+      "stars": "80123",
+      "stars_today": "229 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "mvanhorn / last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": "60415",
+      "stars_today": "271 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "majd / ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "stars": "10122",
+      "stars_today": "56 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 9,
+      "title": "punkpeye / awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "stars": "93221",
+      "stars_today": "65 stars today",
+      "language": ""
+    },
+    {
+      "rank": 10,
+      "title": "checkstyle / checkstyle",
+      "url": "https://github.com/checkstyle/checkstyle",
+      "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+      "stars": "9153",
+      "stars_today": "78 stars today",
+      "language": "Java"
+    },
+    {
+      "rank": 11,
+      "title": "NationalSecurityAgency / ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": "73782",
+      "stars_today": "196 stars today",
+      "language": "Java"
+    },
+    {
+      "rank": 12,
+      "title": "pollen-robotics / microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "description": "RL training environments for Microduck (mjlab)",
+      "stars": "735",
+      "stars_today": "147 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 13,
+      "title": "handsomestWei / patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "stars": "5600",
+      "stars_today": "38 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 14,
+      "title": "corsairdev / corsair",
+      "url": "https://github.com/corsairdev/corsair",
+      "description": "Connect your users to their apps",
+      "stars": "10876",
+      "stars_today": "99 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 15,
+      "title": "every-app / open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "stars": "15019",
+      "stars_today": "517 stars today",
+      "language": "TypeScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "There's no such thing as Just a Tool",
+      "url": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool",
+      "source_url": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool",
+      "tags": [
+        "philosophy",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "But where does taste come from?",
+      "url": "https://dustycloud.org/blog/but-where-does-taste-come-from/",
+      "source_url": "https://dustycloud.org/blog/but-where-does-taste-come-from/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "Gram Editor 3.3.0 Released",
+      "url": "https://gram-editor.com/posts/release-3.3.0/",
+      "source_url": "https://gram-editor.com/posts/release-3.3.0/",
+      "tags": [
+        "editors",
+        "release",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Rust Function Overloading - Call for Experimentation",
+      "url": "https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/",
+      "source_url": "https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Being kicked out of the tech industry",
+      "url": "https://www.jacky.wtf/essays/2026/kicked-out/",
+      "source_url": "https://www.jacky.wtf/essays/2026/kicked-out/",
+      "tags": [
+        "person"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Creepy crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "source_url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "tags": [
+        "devops",
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Transfer files over an ethernet patch cable",
+      "url": "https://maurycyz.com/misc/etherfiles/",
+      "source_url": "https://maurycyz.com/misc/etherfiles/",
+      "tags": [
+        "networking"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "California Passes AB-1856 For Open-Source Relief Over Age Verification",
+      "url": "https://www.phoronix.com/news/California-AB-1856-Passes",
+      "source_url": "https://www.phoronix.com/news/California-AB-1856-Passes",
+      "tags": [
+        "law"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "Automating immersive reading",
+      "url": "https://smoores.dev/post/automating_immersive_reading/",
+      "source_url": "https://smoores.dev/post/automating_immersive_reading/",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "Interview with oofoe about REBOL, Forth, Decker, Janet and the VFx Industry",
+      "url": "https://alexalejandre.com/interviews/interview-with-oofoe/",
+      "source_url": "https://alexalejandre.com/interviews/interview-with-oofoe/",
+      "tags": [
+        "person"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "Debian and the sirens",
+      "url": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
+      "source_url": "https://joeyh.name/blog/entry/Debian_and_the_sirens/",
+      "tags": [
+        "linux",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Prompt Injection in Claude Code Opus 5 Auto Mode",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "source_url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "Small and reasonably fast QOI decoder written in zig",
+      "url": "https://github.com/sorvi-platform/dekoodaaja",
+      "source_url": "https://github.com/sorvi-platform/dekoodaaja",
+      "tags": [
+        "show",
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "What GLM-5.3 Flash running on Chinese hardware actually means",
+      "url": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
+      "source_url": "https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/",
+      "tags": [
+        "hardware",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Bug blindness",
+      "url": "https://danluu.com/bug-blind/",
+      "source_url": "https://danluu.com/bug-blind/",
+      "tags": [
+        "practices"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "城市漫步指南 | 佛罗伦萨：来自六月的梦幻艺术夏令营程天冲昨天 15:00",
+      "url": "https://sspai.com/post/113974",
+      "author": "程天冲",
+      "summary": "城市漫步指南 | 佛罗伦萨：来自六月的梦幻艺术夏令营"
+    },
+    {
+      "rank": 2,
+      "title": "2026 烟灶选购指南真叫浩南前天 09:20Matrix精选",
+      "url": "https://sspai.com/post/112775",
+      "author": "真叫浩南",
+      "summary": "2026 烟灶选购指南"
+    },
+    {
+      "rank": 3,
+      "title": "本周看什么 | 最近值得一看的 10 部作品少数派编辑部08/28",
+      "url": "https://sspai.com/post/113944",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 10 部作品"
+    },
+    {
+      "rank": 4,
+      "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理这些内容，即使毕了业也能有所帮助。北鸮08/28",
+      "url": "https://sspai.com/post/68623",
+      "author": "北鸮",
+      "summary": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理"
+    },
+    {
+      "rank": 5,
+      "title": "开学宿舍生存指南：当年派友力荐的这些神器，你用过几个？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1787561551",
+      "author": "一派讨论",
+      "summary": "开学宿舍生存指南：当年派友力荐的这些神器，你用过几个？"
+    },
+    {
+      "rank": 6,
+      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验少数派编辑部08/28",
+      "url": "https://sspai.com/post/113883",
+      "author": "少数派编辑部",
+      "summary": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验"
+    },
+    {
+      "rank": 7,
+      "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验Microhoo08/28",
+      "url": "https://sspai.com/post/113909",
+      "author": "Microhoo",
+      "summary": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验"
+    },
+    {
+      "rank": 8,
+      "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等少数派编辑部08/28派早报",
+      "url": "https://sspai.com/post/113922",
+      "author": "少数派编辑部",
+      "summary": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型等"
+    },
+    {
+      "rank": 9,
+      "title": "新玩意 250｜少数派的编辑们最近买了啥？少数派编辑部08/27",
+      "url": "https://sspai.com/post/113905",
+      "author": "少数派编辑部",
+      "summary": "新玩意 250｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 10,
+      "title": "[共创]什么样的周边 T 恤，会让你愿意买单？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1787556583",
+      "author": "一派投票",
+      "summary": "[共创]什么样的周边 T 恤，会让你愿意买单？"
+    },
+    {
+      "rank": 11,
+      "title": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑爱拼安小匠08/27Matrix精选",
+      "url": "https://sspai.com/post/89194",
+      "author": "爱拼安小匠",
+      "summary": "日常使用 Linux 的第六个年头，这些经验希望能打消你的顾虑"
+    },
+    {
+      "rank": 12,
+      "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记随便好啦08/27Matrix精选",
+      "url": "https://sspai.com/post/113222",
+      "author": "随便好啦",
+      "summary": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "早春晴朗",
+      "url": "https://s.weibo.com/weibo?q=%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97",
+      "hot_value": 790000
+    },
+    {
+      "rank": 2,
+      "title": "2026数博会上的数字经济实力",
+      "url": "https://s.weibo.com/weibo?q=2026%E6%95%B0%E5%8D%9A%E4%BC%9A%E4%B8%8A%E7%9A%84%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E5%AE%9E%E5%8A%9B",
+      "hot_value": 780000
+    },
+    {
+      "rank": 3,
+      "title": "许晴花少2表现被理解",
+      "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E6%99%B4%E8%8A%B1%E5%B0%912%E8%A1%A8%E7%8E%B0%E8%A2%AB%E7%90%86%E8%A7%A3",
+      "hot_value": 760000
+    },
+    {
+      "rank": 4,
+      "title": "当动物可以变幻成高跟鞋",
+      "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E5%8A%A8%E7%89%A9%E5%8F%AF%E4%BB%A5%E5%8F%98%E5%B9%BB%E6%88%90%E9%AB%98%E8%B7%9F%E9%9E%8B",
+      "hot_value": 760000
+    },
+    {
+      "rank": 5,
+      "title": "花少2心眼子排名",
+      "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%912%E5%BF%83%E7%9C%BC%E5%AD%90%E6%8E%92%E5%90%8D",
+      "hot_value": 740000
+    },
+    {
+      "rank": 6,
+      "title": "网友面试2000多工资的工作",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E9%9D%A2%E8%AF%952000%E5%A4%9A%E5%B7%A5%E8%B5%84%E7%9A%84%E5%B7%A5%E4%BD%9C",
+      "hot_value": 730000
+    },
+    {
+      "rank": 7,
+      "title": "金饰销量暴跌34%",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E9%A5%B0%E9%94%80%E9%87%8F%E6%9A%B4%E8%B7%8C34%25",
+      "hot_value": 710000
+    },
+    {
+      "rank": 8,
+      "title": "吉隆泥石流痕迹有20层楼高",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%97%95%E8%BF%B9%E6%9C%8920%E5%B1%82%E6%A5%BC%E9%AB%98",
+      "hot_value": 690000
+    },
+    {
+      "rank": 9,
+      "title": "中国女排亚锦赛亚军",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%BA%9A%E9%94%A6%E8%B5%9B%E4%BA%9A%E5%86%9B",
+      "hot_value": 690000
+    },
+    {
+      "rank": 10,
+      "title": "王菲朝窦靖童喊老母亲在这呢",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%B2%E6%9C%9D%E7%AA%A6%E9%9D%96%E7%AB%A5%E5%96%8A%E8%80%81%E6%AF%8D%E4%BA%B2%E5%9C%A8%E8%BF%99%E5%91%A2",
+      "hot_value": 680000
+    },
+    {
+      "rank": 11,
+      "title": "花少2杨洋走丢事件",
+      "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%912%E6%9D%A8%E6%B4%8B%E8%B5%B0%E4%B8%A2%E4%BA%8B%E4%BB%B6",
+      "hot_value": 490000
+    },
+    {
+      "rank": 12,
+      "title": "谁来管管现在的配音",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%9D%A5%E7%AE%A1%E7%AE%A1%E7%8E%B0%E5%9C%A8%E7%9A%84%E9%85%8D%E9%9F%B3",
+      "hot_value": 410000
+    },
+    {
+      "rank": 13,
+      "title": "唐嫣资助的女孩 放弃上大学",
+      "url": "https://s.weibo.com/weibo?q=%E5%94%90%E5%AB%A3%E8%B5%84%E5%8A%A9%E7%9A%84%E5%A5%B3%E5%AD%A9+%E6%94%BE%E5%BC%83%E4%B8%8A%E5%A4%A7%E5%AD%A6",
+      "hot_value": 400000
+    },
+    {
+      "rank": 14,
+      "title": "陈妍希儿子出镜了我家那闺女",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%A6%8D%E5%B8%8C%E5%84%BF%E5%AD%90%E5%87%BA%E9%95%9C%E4%BA%86%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3",
+      "hot_value": 390000
+    },
+    {
+      "rank": 15,
+      "title": "这是我的岛节目遗留道具成海滩垃圾",
+      "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E5%B2%9B%E8%8A%82%E7%9B%AE%E9%81%97%E7%95%99%E9%81%93%E5%85%B7%E6%88%90%E6%B5%B7%E6%BB%A9%E5%9E%83%E5%9C%BE",
+      "hot_value": 330000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "网易云音乐疑似官宣适配鸿蒙，长期缺席后为何选择此时适配？能否挽回此前流失的部分用户",
+      "url": "https://www.zhihu.com/question/2077426554766713765",
+      "hot_value": 4650000
+    },
+    {
+      "rank": 2,
+      "title": "婚宴上，新郎的舅舅坐上席，新郎的叔叔不乐意了，扭头就走，舅舅应不应该坐上席",
+      "url": "https://www.zhihu.com/question/2075696679496504350",
+      "hot_value": 2990000
+    },
+    {
+      "rank": 3,
+      "title": "如何评价清华大学宣布废除 GPA 排名，实施推免综合评价",
+      "url": "https://www.zhihu.com/question/2076406082747090665",
+      "hot_value": 2340000
+    },
+    {
+      "rank": 4,
+      "title": "2026 女排亚锦赛决赛，中国女排 2 比 3 不敌泰国女排，无缘直通奥运，如何评价这场比赛",
+      "url": "https://www.zhihu.com/question/2077503530332415035",
+      "hot_value": 1140000
+    },
+    {
+      "rank": 5,
+      "title": "为什么很多大学生更喜欢买标准版 iPhone，而不是 Pro",
+      "url": "https://www.zhihu.com/question/2075613391306208746",
+      "hot_value": 960000
+    },
+    {
+      "rank": 6,
+      "title": "为什么魏晋南北朝时期的权臣，不能和日本幕府将军那样，在不篡位的情况下，大权独揽",
+      "url": "https://www.zhihu.com/question/11125002424",
+      "hot_value": 930000
+    },
+    {
+      "rank": 7,
+      "title": "轻薄本疯狂砍掉 A 口、 HDMI，全靠 Type‑C，为轻薄牺牲接口，到底是进步还是对普通用户不负责任",
+      "url": "https://www.zhihu.com/question/2076757072998293859",
+      "hot_value": 910000
+    },
+    {
+      "rank": 8,
+      "title": "老师补课费用太贵了，不好意思拒绝，怎么办",
+      "url": "https://www.zhihu.com/question/661570834",
+      "hot_value": 890000
+    },
+    {
+      "rank": 9,
+      "title": "诺基亚疑加快收缩中国业务，发言人称正调整在中国的运营布局，这是要退出中国市场了吗？其面临怎样的处境",
+      "url": "https://www.zhihu.com/question/2073296164783502306",
+      "hot_value": 860000
+    },
+    {
+      "rank": 10,
+      "title": "如何评价《空枪》中檀健次的表演",
+      "url": "https://www.zhihu.com/question/2073894907534746957",
+      "hot_value": 820000
+    },
+    {
+      "rank": 11,
+      "title": "医生说「先不用治」，到底是什么意思",
+      "url": "https://www.zhihu.com/question/2075924028439672235",
+      "hot_value": 810000
+    },
+    {
+      "rank": 12,
+      "title": "如果用一种水果来形容友情，你会选什么？为什么",
+      "url": "https://www.zhihu.com/question/2074226925464245948",
+      "hot_value": 740000
+    },
+    {
+      "rank": 13,
+      "title": "国家自然基金委通报 31 个项目并追回资助，这暴露出我国科研管理存在哪些问题",
+      "url": "https://www.zhihu.com/question/2077042396831946679",
+      "hot_value": 700000
+    },
+    {
+      "rank": 14,
+      "title": "霍金举办的时间旅行宴会为何无人露面",
+      "url": "https://www.zhihu.com/question/337260240",
+      "hot_value": 690000
+    },
+    {
+      "rank": 15,
+      "title": "如何看待工信部通报一致性检测典型案例，比亚迪一款插混车型因油耗过高上榜",
+      "url": "https://www.zhihu.com/question/2076734017597194663",
+      "hot_value": 680000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Creepy Crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "score": 360,
+      "author": "zdw",
+      "comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=49491791"
+    },
+    {
+      "rank": 2,
+      "title": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "score": 92,
+      "author": "metrofun",
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49499867"
+    },
+    {
+      "rank": 3,
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "url": "https://komoroske.com/slime-mold/",
+      "score": 31,
+      "author": "rzk",
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49499891"
+    },
+    {
+      "rank": 4,
+      "title": "Omarchy: Any User Process Can Escalate to Root",
+      "url": "https://0xcc.io/posts/omarchy-root-creds/",
+      "score": 176,
+      "author": "trap0xcc",
+      "comments": 151,
+      "hn_url": "https://news.ycombinator.com/item?id=49499854"
+    },
+    {
+      "rank": 5,
+      "title": "Hacking IKEA Furniture",
+      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+      "score": 180,
+      "author": "greenlightning",
+      "comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=49497810"
+    },
+    {
+      "rank": 6,
+      "title": "Electric rain can eat through metal",
+      "url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
+      "score": 30,
+      "author": "sohkamyung",
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49463397"
+    },
+    {
+      "rank": 7,
+      "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+      "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+      "score": 157,
+      "author": "nickslaughter02",
+      "comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=49499394"
+    },
+    {
+      "rank": 8,
+      "title": "Artie (YC S23) Is Hiring Technical AES",
+      "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
+      "score": 1,
+      "author": "j-cheong",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49500471"
+    },
+    {
+      "rank": 9,
+      "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+      "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+      "score": 212,
+      "author": "surprisetalk",
+      "comments": 102,
+      "hn_url": "https://news.ycombinator.com/item?id=49463888"
+    },
+    {
+      "rank": 10,
+      "title": "Zig: Pointer Stability for ArrayLists",
+      "url": "https://ziglang.org/devlog/2026/#2026-08-27",
+      "score": 28,
+      "author": "tosh",
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49499095"
+    },
+    {
+      "rank": 11,
+      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+      "score": 38,
+      "author": "catbird",
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49498787"
+    },
+    {
+      "rank": 12,
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "score": 163,
+      "author": "vntok",
+      "comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=49496918"
+    },
+    {
+      "rank": 13,
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "score": 168,
+      "author": "joebig",
+      "comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=49496782"
+    },
+    {
+      "rank": 14,
+      "title": "Dad's Custom Atari Peripherals – By Jim Trageser",
+      "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
+      "score": 35,
+      "author": "rbanffy",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49468126"
+    },
+    {
+      "rank": 15,
+      "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+      "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+      "score": 114,
+      "author": "Brajeshwar",
+      "comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=49498978"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与自动化",
+        "color": "ai",
+        "summary": "今天的 GitHub Trending 里，AI Agent 相关项目简直炸了。OpenMAIC [1] 搞了一个多智能体互动课堂，点击就能体验沉浸式学习，这种教育科技方向越来越有意思。更硬核的是 scientific-agent-skills [2]，号称能把任何 AI 变成科学家，拥有 165 个现成的科研技能，全球已有 19 万+ 科学家在用，想搞科研自动化的朋友必看。还有个 patent-disclosure-skill [3] 专门挖掘中国专利，能辅助审查答复，对于知识产权领域的从业者来说简直是刚需工具。\n\nLobsters 上大家也在疯狂讨论 AI 的安全边界问题。有个帖子提到了 Prompt Injection 在 Claude Code Opus 5 自动模式下的突破 [4]，这让我们开始思考：当 AI 能自主行动时，安全沙箱到底还有没有意义？另外，关于“工具只是工具”的哲学探讨 [5] 也很火，提醒我们在追求效率时别忘了调试用户本身的价值。"
+      },
+      {
+        "name": "开发工具与语言生态",
+        "color": "dev",
+        "summary": "对于开发者来说，GitHub 上有个开源 SEO 工具 open-seo [6] 值得关注，它是 Semrush 和 Ahrefs 的开源替代方案，这对独立开发者或小团队做网站优化很友好。还有 archify [7] 能自动生成漂亮的架构图，支持导出 HTML 和动态效果，写技术文档的人会很喜欢。Checkstyle [8] 虽然是个老项目，但作为 Java 代码规范检查的标杆，依然值得维护者致敬。\n\n社区讨论里，Rust 语言社区搞了个 Function Overloading 的实验性提案 [9]，这可能会改变 Rust 的类型系统，搞 Rust 的朋友一定要去关注。还有个小众但有趣的项目 dekoodaaja [10]，用 Zig 写了一个小巧快速的 QOI 图片解码器，这种追求极致性能的小工具往往藏着大智慧。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术方面，Ghidra [11] 作为逆向工程框架，依然是安全领域的重镇，搞安全的朋友肯定不陌生。Microduck RL [12] 这个环境允许用强化学习训练 Microduck 机器人，算是机器人控制领域的最新尝试。Linux 社区也不甘寂寞，有个帖子叫“Creepy crawlies” [13]，讲的是那些让人抓狂的系统进程，搞运维的看了估计会心一笑。\n\n少数派上也有不少硬核内容。一篇关于日常使用 Linux 第六年的经验分享 [14]，打消了很多人对 Linux 桌面环境的顾虑，看来更多人开始接受 Linux 作为主力系统了。还有关于 1997 年东芝 Libretto 50M 的怀旧手记 [15]，那种迷你笔记本的情怀，现在很难再找到了。"
+      },
+      {
+        "name": "数码产品与生活",
+        "color": "life",
+        "summary": "数码产品这块，华为 Pura X View 作为全球首款阔直板手机引起了关注 [16]，这种形态设计算是探索新方向。明基的 iScreenBar 护眼灯体验 [17] 也很实用，毕竟长时间盯着屏幕，护眼灯确实是提升幸福感的小物。开学季到了，少数派还推荐了一些宿舍生存神器 [18]，对于那些还在学校或者刚搬宿舍的朋友来说，这些实用建议能省不少事。\n\nLobsters 上有个帖子叫“Transfer files over an ethernet patch cable” [19]，虽然有点复古，但用网线直接传文件这种极客玩法，在断网环境下依然很酷。此外，加州通过的 AB-1856 法案 [20]，为开源软件年龄验证问题提供了法律缓解方案，这对软件开发者来说是个好消息。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "Open Multi-Agent Interactive Classroom",
+        "url": "https://github.com/THU-MAIC/OpenMAIC",
+        "source": "GitHub Trending",
+        "desc": "多智能体互动课堂项目"
+      },
+      {
+        "num": 2,
+        "title": "scientific-agent-skills",
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+        "source": "GitHub Trending",
+        "desc": "AI 科学家技能库，19 万+ 用户使用"
+      },
+      {
+        "num": 3,
+        "title": "patent-disclosure-skill",
+        "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+        "source": "GitHub Trending",
+        "desc": "中国专利点挖掘与交底书编写工具"
+      },
+      {
+        "num": 4,
+        "title": "Prompt Injection in Claude Code Opus 5 Auto Mode",
+        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+        "source": "Lobsters",
+        "desc": "讨论 Claude Code 自动模式下的提示注入问题"
+      },
+      {
+        "num": 5,
+        "title": "There's no such thing as Just a Tool",
+        "url": "https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool",
+        "source": "Lobsters",
+        "desc": "关于工具与用户关系的哲学探讨"
+      },
+      {
+        "num": 6,
+        "title": "open-seo",
+        "url": "https://github.com/every-app/open-seo",
+        "source": "GitHub Trending",
+        "desc": "开源 SEO 工具，替代 Semrush 和 Ahrefs"
+      },
+      {
+        "num": 7,
+        "title": "archify",
+        "url": "https://github.com/tt-a1i/archify",
+        "source": "GitHub Trending",
+        "desc": "自动生成精美架构图的工具"
+      },
+      {
+        "num": 8,
+        "title": "checkstyle",
+        "url": "https://github.com/checkstyle/checkstyle",
+        "source": "GitHub Trending",
+        "desc": "Java 代码风格检查工具"
+      },
+      {
+        "num": 9,
+        "title": "Rust Function Overloading - Call for Experimentation",
+        "url": "https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/",
+        "source": "Lobsters",
+        "desc": "Rust 函数重载实验提案"
+      },
+      {
+        "num": 10,
+        "title": "dekoodaaja",
+        "url": "https://github.com/sorvi-platform/dekoodaaja",
+        "source": "Lobsters",
+        "desc": "Zig 编写的快速 QOI 解码器"
+      },
+      {
+        "num": 11,
+        "title": "Ghidra",
+        "url": "https://github.com/NationalSecurityAgency/ghidra",
+        "source": "GitHub Trending",
+        "desc": "软件逆向工程框架"
+      },
+      {
+        "num": 12,
+        "title": "microduck_rl",
+        "url": "https://github.com/pollen-robotics/microduck_rl",
+        "source": "GitHub Trending",
+        "desc": "Microduck 机器人强化学习环境"
+      },
+      {
+        "num": 13,
+        "title": "Creepy crawlies",
+        "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+        "source": "Lobsters",
+        "desc": "关于 Linux 系统中令人困惑的进程讨论"
+      },
+      {
+        "num": 14,
+        "title": "日常使用 Linux 的第六个年头",
+        "url": "https://sspai.com/post/89194",
+        "source": "少数派",
+        "desc": "资深 Linux 用户的使用经验与建议"
+      },
+      {
+        "num": 15,
+        "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
+        "url": "https://sspai.com/post/113222",
+        "source": "少数派",
+        "desc": "回顾经典的东芝 Libretto 迷你笔记本"
+      },
+      {
+        "num": 16,
+        "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+        "url": "https://sspai.com/post/113883",
+        "source": "少数派",
+        "desc": "华为新款阔直板手机体验招募"
+      },
+      {
+        "num": 17,
+        "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 ScreenBar Max 体验",
+        "url": "https://sspai.com/post/113909",
+        "source": "少数派",
+        "desc": "明基智能护眼灯使用体验"
+      },
+      {
+        "num": 18,
+        "title": "开学宿舍生存指南：当年派友力荐的这些神器",
+        "url": "https://sspai.com/bullet/1787561551",
+        "source": "少数派",
+        "desc": "大学生宿舍必备神器推荐"
+      },
+      {
+        "num": 19,
+        "title": "Transfer files over an ethernet patch cable",
+        "url": "https://maurycyz.com/misc/etherfiles/",
+        "source": "Lobsters",
+        "desc": "通过网线传输文件的复古极客玩法"
+      },
+      {
+        "num": 20,
+        "title": "California Passes AB-1856 For Open-Source Relief Over Age Verification",
+        "url": "https://www.phoronix.com/news/California-AB-1856-Passes",
+        "source": "Lobsters",
+        "desc": "加州通过法案为开源软件年龄验证提供法律缓解"
+      }
+    ],
+    "stats": {
+      "total_items": 20,
+      "total_categories": 4,
+      "total_sources": 3
+    }
+  }
+}
