@@ -1,0 +1,860 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "fmtlib / fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "stars": "24917",
+      "stars_today": "955 stars today",
+      "language": "C++"
+    },
+    {
+      "rank": 2,
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": "246830",
+      "stars_today": "1,576 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 3,
+      "title": "NousResearch / hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": "240688",
+      "stars_today": "778 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": "123126",
+      "stars_today": "2,138 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 5,
+      "title": "anthropics / skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": "173541",
+      "stars_today": "277 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 6,
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "246925",
+      "stars_today": "749 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 7,
+      "title": "JuliusBrussee / caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "stars": "102986",
+      "stars_today": "545 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 8,
+      "title": "blader / humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "stars": "41268",
+      "stars_today": "1,214 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "google-research / timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars": "30622",
+      "stars_today": "1,626 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 10,
+      "title": "averygan / reclip",
+      "url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "stars": "8266",
+      "stars_today": "123 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 11,
+      "title": "bannedbook / fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "stars": "52069",
+      "stars_today": "539 stars today",
+      "language": "Kotlin"
+    },
+    {
+      "rank": 12,
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": "91943",
+      "stars_today": "260 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 13,
+      "title": "ByteByteGoHq / system-design-101",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "stars": "88224",
+      "stars_today": "158 stars today",
+      "language": ""
+    },
+    {
+      "rank": 14,
+      "title": "magnitudedev / magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "stars": "1854",
+      "stars_today": "130 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 15,
+      "title": "Imbad0202 / academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "stars": "45935",
+      "stars_today": "498 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "source_url": "https://neil.fraser.name/news/2026/09/03/",
+      "tags": [
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
+      "url": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL",
+      "source_url": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "Audacity 4.0.0 Released",
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "source_url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "tags": [
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "jujutsu 0.45.0",
+      "url": "https://github.com/jj-vcs/jj/releases/tag/v0.45.0",
+      "source_url": "https://github.com/jj-vcs/jj/releases/tag/v0.45.0",
+      "tags": [
+        "release",
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "What's in the Emacs newcomers-presets theme?",
+      "url": "https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/",
+      "source_url": "https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/",
+      "tags": [
+        "emacs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "I Think the Military Commissary Freezers Were Hacked",
+      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+      "source_url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Revo Programming language",
+      "url": "https://revo.lung.fyi/",
+      "source_url": "https://revo.lung.fyi/",
+      "tags": [
+        "programming",
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "You Don't Need Initial-Scale In Your HTML",
+      "url": "https://vale.rocks/micros/20260902-1350",
+      "source_url": "https://vale.rocks/micros/20260902-1350",
+      "tags": [
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "A note on subscription prices from LWN",
+      "url": "https://lwn.net/Articles/1090585/",
+      "source_url": "https://lwn.net/Articles/1090585/",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "How Swiss Tables Work in Go’s Built-in Map",
+      "url": "https://victoriametrics.com/blog/go-swiss-table-map/",
+      "source_url": "https://victoriametrics.com/blog/go-swiss-table-map/",
+      "tags": [
+        "go"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "Static Allocation, Constant Work",
+      "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+      "source_url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+      "tags": [
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Normalized Fascism in Open Source: $12 Million Given to DHH",
+      "url": "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/",
+      "source_url": "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/",
+      "tags": [
+        "culture"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "Announcing Rust 1.98.1",
+      "url": "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
+      "source_url": "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "deforester - Logging for Janet",
+      "url": "https://codeberg.org/veqq/deforester",
+      "source_url": "https://codeberg.org/veqq/deforester",
+      "tags": [
+        "show",
+        "lisp"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Dependent if expressions without dependent types",
+      "url": "https://haskellforall.com/2026/09/dependent-if-expressions",
+      "source_url": "https://haskellforall.com/2026/09/dependent-if-expressions",
+      "tags": [
+        "plt"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "新玩意 251｜少数派的编辑们最近买了啥？少数派编辑部昨天 18:18",
+      "url": "https://sspai.com/post/114154",
+      "author": "少数派编辑部",
+      "summary": "新玩意 251｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 2,
+      "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验经过一个季度的使用，聊聊这个此前不会考虑其数码产品的品牌。KingTsui昨天 15:00",
+      "url": "https://sspai.com/post/113998",
+      "author": "KingTsui",
+      "summary": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验"
+    },
+    {
+      "rank": 3,
+      "title": "当说起「Hi-Fi」时，我们到底在追求什么？DerQi昨天 11:32Matrix精选",
+      "url": "https://sspai.com/post/113159",
+      "author": "DerQi",
+      "summary": "当说起「Hi-Fi」时，我们到底在追求什么？"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等少数派编辑部昨天 08:31派早报",
+      "url": "https://sspai.com/post/114113",
+      "author": "少数派编辑部",
+      "summary": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等"
+    },
+    {
+      "rank": 5,
+      "title": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？Vanilla前天 17:40",
+      "url": "https://sspai.com/post/114084",
+      "author": "Vanilla",
+      "summary": "除了折叠屏 iPhone，Apple 发布会还有哪些看点？"
+    },
+    {
+      "rank": 6,
+      "title": "一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间Levinson前天 15:22",
+      "url": "https://sspai.com/post/80562",
+      "author": "Levinson",
+      "summary": "一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间"
+    },
+    {
+      "rank": 7,
+      "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1788244609",
+      "author": "一派投票",
+      "summary": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？"
+    },
+    {
+      "rank": 8,
+      "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响听歌的水獭前天 11:00",
+      "url": "https://sspai.com/post/113581",
+      "author": "听歌的水獭",
+      "summary": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响"
+    },
+    {
+      "rank": 9,
+      "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等少数派编辑部前天 07:58派早报",
+      "url": "https://sspai.com/post/114093",
+      "author": "少数派编辑部",
+      "summary": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等"
+    },
+    {
+      "rank": 10,
+      "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验Matrix机器人09/01",
+      "url": "https://sspai.com/post/114078",
+      "author": "Matrix机器人",
+      "summary": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验"
+    },
+    {
+      "rank": 11,
+      "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会少数派编辑部09/01",
+      "url": "https://sspai.com/post/114071",
+      "author": "少数派编辑部",
+      "summary": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "微信 液态玻璃",
+      "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1+%E6%B6%B2%E6%80%81%E7%8E%BB%E7%92%83",
+      "hot_value": 750000
+    },
+    {
+      "rank": 2,
+      "title": "195名消防员轮流深度搜救",
+      "url": "https://s.weibo.com/weibo?q=195%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E8%BD%AE%E6%B5%81%E6%B7%B1%E5%BA%A6%E6%90%9C%E6%95%91",
+      "hot_value": 610000
+    },
+    {
+      "rank": 3,
+      "title": "问界M9Ultimate展车进店",
+      "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8CM9Ultimate%E5%B1%95%E8%BD%A6%E8%BF%9B%E5%BA%97",
+      "hot_value": 610000
+    },
+    {
+      "rank": 4,
+      "title": "长生 退役",
+      "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E7%94%9F+%E9%80%80%E5%BD%B9",
+      "hot_value": 600000
+    },
+    {
+      "rank": 5,
+      "title": "原来洗洁精是这么用来洗碗的",
+      "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%B4%97%E6%B4%81%E7%B2%BE%E6%98%AF%E8%BF%99%E4%B9%88%E7%94%A8%E6%9D%A5%E6%B4%97%E7%A2%97%E7%9A%84",
+      "hot_value": 350000
+    },
+    {
+      "rank": 6,
+      "title": "心疼一诺",
+      "url": "https://s.weibo.com/weibo?q=%E5%BF%83%E7%96%BC%E4%B8%80%E8%AF%BA",
+      "hot_value": 330000
+    },
+    {
+      "rank": 7,
+      "title": "长生说打完今年不想打了",
+      "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E7%94%9F%E8%AF%B4%E6%89%93%E5%AE%8C%E4%BB%8A%E5%B9%B4%E4%B8%8D%E6%83%B3%E6%89%93%E4%BA%86",
+      "hot_value": 280000
+    },
+    {
+      "rank": 8,
+      "title": "一年级 陈学冬综艺",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%B9%B4%E7%BA%A7+%E9%99%88%E5%AD%A6%E5%86%AC%E7%BB%BC%E8%89%BA",
+      "hot_value": 260000
+    },
+    {
+      "rank": 9,
+      "title": "AG老五人组倒计时",
+      "url": "https://s.weibo.com/weibo?q=AG%E8%80%81%E4%BA%94%E4%BA%BA%E7%BB%84%E5%80%92%E8%AE%A1%E6%97%B6",
+      "hot_value": 240000
+    },
+    {
+      "rank": 10,
+      "title": "特斯拉预告新时代即将到来",
+      "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E9%A2%84%E5%91%8A%E6%96%B0%E6%97%B6%E4%BB%A3%E5%8D%B3%E5%B0%86%E5%88%B0%E6%9D%A5",
+      "hot_value": 210000
+    },
+    {
+      "rank": 11,
+      "title": "如是书院教学内容曝光",
+      "url": "https://s.weibo.com/weibo?q=%E5%A6%82%E6%98%AF%E4%B9%A6%E9%99%A2%E6%95%99%E5%AD%A6%E5%86%85%E5%AE%B9%E6%9B%9D%E5%85%89",
+      "hot_value": 210000
+    },
+    {
+      "rank": 12,
+      "title": "曝时代峰峻下半年将资源重整",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%B0%86%E8%B5%84%E6%BA%90%E9%87%8D%E6%95%B4",
+      "hot_value": 210000
+    },
+    {
+      "rank": 13,
+      "title": "ChatGPT崩了",
+      "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86",
+      "hot_value": 210000
+    },
+    {
+      "rank": 14,
+      "title": "武大被举报女教授与博导共申多项专利",
+      "url": "https://s.weibo.com/weibo?q=%E6%AD%A6%E5%A4%A7%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A5%B3%E6%95%99%E6%8E%88%E4%B8%8E%E5%8D%9A%E5%AF%BC%E5%85%B1%E7%94%B3%E5%A4%9A%E9%A1%B9%E4%B8%93%E5%88%A9",
+      "hot_value": 210000
+    },
+    {
+      "rank": 15,
+      "title": "美国癌症治疗",
+      "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E7%99%8C%E7%97%87%E6%B2%BB%E7%96%97",
+      "hot_value": 210000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "张继科乒乓球班录取率低于 5%，比 985 还难进，还实行集训末位淘汰 45% 的机制，怎样看待这种方式",
+      "url": "https://www.zhihu.com/question/2078490276004377362",
+      "hot_value": 4930000
+    },
+    {
+      "rank": 2,
+      "title": "为什么《欢迎来龙餐馆》在上映之前专业机构预测票房能过 50 亿，但现在连 20 亿都困难",
+      "url": "https://www.zhihu.com/question/2076943722588156867",
+      "hot_value": 4390000
+    },
+    {
+      "rank": 3,
+      "title": "你觉得中国女篮李月汝「护照遗失」的理由成立吗，因公护照和个人护照补办的流程差在哪里，真的完全来不及吗",
+      "url": "https://www.zhihu.com/question/2078792215732512237",
+      "hot_value": 2380000
+    },
+    {
+      "rank": 4,
+      "title": "为什么大家造车都去抄保时捷，没有抄兰博基尼的",
+      "url": "https://www.zhihu.com/question/2077456156444963826",
+      "hot_value": 2370000
+    },
+    {
+      "rank": 5,
+      "title": "上海多家银行明确，1991 年以前出生的人不能新办理 40 年期个人房贷，如何看待这一标准",
+      "url": "https://www.zhihu.com/question/2078861981591905362",
+      "hot_value": 2370000
+    },
+    {
+      "rank": 6,
+      "title": "从小沉迷游戏的父亲不给 10 岁女儿买 NS2，被一句「你当年还不是打游戏」怼到沉默，你怎么看",
+      "url": "https://www.zhihu.com/question/2077910656204927732",
+      "hot_value": 2360000
+    },
+    {
+      "rank": 7,
+      "title": "爸爸肺癌晚期，老公答应卖房去美国治疗了，但他现在反悔了怎么办",
+      "url": "https://www.zhihu.com/question/542192203",
+      "hot_value": 2360000
+    },
+    {
+      "rank": 8,
+      "title": "越南被中国统治上千年为什么语言没有被同化为汉语族",
+      "url": "https://www.zhihu.com/question/1905626878913548857",
+      "hot_value": 2360000
+    },
+    {
+      "rank": 9,
+      "title": "9 月 3 日晚 ChatGPT 、 Grok 、 Claude 、 Cursor 集体突发故障，怎么回事？带来哪些影响",
+      "url": "https://www.zhihu.com/question/2078984478073136308",
+      "hot_value": 2350000
+    },
+    {
+      "rank": 10,
+      "title": "家长自报干部身份，希望老师多关照孩子，保定纪检组介入调查，反映了哪些问题？家长会受到处罚吗",
+      "url": "https://www.zhihu.com/question/2078756520523719478",
+      "hot_value": 2220000
+    },
+    {
+      "rank": 11,
+      "title": "上海交大内部 PPT 曝光高校 AI 教育困局，课程迭代远落后技术发展，学生反超老师成常态，该怎样破解",
+      "url": "https://www.zhihu.com/question/2078852068052137174",
+      "hot_value": 1820000
+    },
+    {
+      "rank": 12,
+      "title": "香港中文大学（深圳）校长呼吁新生「不要看不起高考成绩不如自己的同学」，如何看待本科生对高考分数的执着",
+      "url": "https://www.zhihu.com/question/2078500603819566178",
+      "hot_value": 1580000
+    },
+    {
+      "rank": 13,
+      "title": "香港演员刘兆铭去世，曾在《倩女幽魂》中饰演树妖姥姥，他在影坛留下了哪些经典作品？你对他有哪些记忆",
+      "url": "https://www.zhihu.com/question/2078679838966151040",
+      "hot_value": 1320000
+    },
+    {
+      "rank": 14,
+      "title": "如何看待李飞飞团队发布的多模态世界模型 Atlas？有哪些值得关注的亮点",
+      "url": "https://www.zhihu.com/question/2078435061808849862",
+      "hot_value": 1310000
+    },
+    {
+      "rank": 15,
+      "title": "如何评价剧版《哈利波特》新预告",
+      "url": "https://www.zhihu.com/question/2078776438505976023",
+      "hot_value": 1240000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "score": 518,
+      "author": "pavel_lishin",
+      "comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=49550772"
+    },
+    {
+      "rank": 2,
+      "title": "Audacity 4.0",
+      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+      "score": 846,
+      "author": "ClydeN",
+      "comments": 187,
+      "hn_url": "https://news.ycombinator.com/item?id=49548395"
+    },
+    {
+      "rank": 3,
+      "title": "K2 Horizon: Frontier Performance, Radically Open",
+      "url": "https://ifm.ai/blog/k2/",
+      "score": 110,
+      "author": "karimf",
+      "comments": 28,
+      "hn_url": "https://news.ycombinator.com/item?id=49551760"
+    },
+    {
+      "rank": 4,
+      "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
+      "url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
+      "score": 174,
+      "author": "ChrisArchitect",
+      "comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=49549919"
+    },
+    {
+      "rank": 5,
+      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+      "url": "https://anyhumanever.com/",
+      "score": 177,
+      "author": "thinkingemote",
+      "comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=49550698"
+    },
+    {
+      "rank": 6,
+      "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+      "url": "https://www.mireye.com",
+      "score": 11,
+      "author": "anshchokshi",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49552616"
+    },
+    {
+      "rank": 7,
+      "title": "Founding Creative Engineer – Gooseworks (YC W23) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer",
+      "score": 1,
+      "author": "shivsak",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49553173"
+    },
+    {
+      "rank": 8,
+      "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
+      "url": "https://news.ycombinator.com/item?id=49551096",
+      "score": 150,
+      "author": "halcdev",
+      "comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=49551096"
+    },
+    {
+      "rank": 9,
+      "title": "Sony makes bold claim about game ownership",
+      "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
+      "score": 125,
+      "author": "speckx",
+      "comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=49551925"
+    },
+    {
+      "rank": 10,
+      "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+      "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+      "score": 143,
+      "author": "tosh",
+      "comments": 93,
+      "hn_url": "https://news.ycombinator.com/item?id=49548452"
+    },
+    {
+      "rank": 11,
+      "title": "Static Allocation, Constant Work",
+      "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+      "score": 26,
+      "author": "surprisetalk",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49539556"
+    },
+    {
+      "rank": 12,
+      "title": "Pre-Release of Polars 2.0",
+      "url": "https://pola.rs/posts/announcing-polars-2/",
+      "score": 341,
+      "author": "komape",
+      "comments": 107,
+      "hn_url": "https://news.ycombinator.com/item?id=49546753"
+    },
+    {
+      "rank": 13,
+      "title": "The browser's main thread is expensive",
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "score": 311,
+      "author": "kciter",
+      "comments": 102,
+      "hn_url": "https://news.ycombinator.com/item?id=49522137"
+    },
+    {
+      "rank": 14,
+      "title": "Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB",
+      "url": "https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb",
+      "score": 6,
+      "author": "LouDNL",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49553303"
+    },
+    {
+      "rank": 15,
+      "title": "Nvidia to Acquire Hugging Face",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "score": 240,
+      "author": "tosh",
+      "comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=49548952"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发效能",
+        "color": "ai",
+        "summary": "今天 GitHub 上 Agent 生态简直热闹得不行，全是关于怎么让 AI 干活更顺手的内容。DietrichGebert 的 ponytail[1] 号称能让你的 AI 代理人像最懒的资深工程师一样思考，只写最必要的代码，这种“极简主义”开发观挺有意思。还有 JuliusBrussee 的 caveman[2] 项目，让 AI 用“原始人”般的语言交流，居然能帮 Claude Code 省掉 65% 的 Token，这波优化太狠了。anthropics/skills[3] 和 addyosmani/agent-skills[4] 则是分别提供了大厂和资深工程师视角的 Agent 技能集，想搞 Agent 开发的话，这些基础库必须收起来。值得一提的是 magnitudedev/magnitude[5]，这是个开源推理服务器，能把各种本地模型塞进你的硬件里，直接对接现有的 Agent 工具，搞本地部署的朋友值得试试。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "系统圈今天有两个大新闻。一个是 CERN 这个大机构终于把工业电脑从 RHEL 换成了 Debian[6]，毕竟作为 Linux 发源地之一，回归 Debian 也算是一种情怀落地吧。另一个是 Go 语言内部实现的一个小细节被扒出来了，关于 Go 内置 Map 的瑞士表（Swiss Tables）机制[7]，这对搞底层语言设计或者性能优化的人是个不错的知识点。另外 Lobsters 上还有一篇关于 Zig 语言静态分配的文章[8]，讲怎么做到常量时间复杂度，这种硬核的编译原理内容虽然枯燥但含金量很高，搞语言的朋友可以深挖一下。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "gadget",
+        "summary": "数码圈最近动静也挺大。少数派编辑部刚发了新玩意 251 的盘点[9]，看看编辑们最近买了啥，总能发现些小众好东西。KingTsui 评测了无印良品的 MUJI 头戴式蓝牙降噪耳机[10]，本来觉得这种品牌做耳机挺意外，但经过一个季度实测，发现它确实有独特的调音风格，适合办公听播客。还有那个 reclip[11] 项目，是个轻量级的视频下载器，能扒各种网站的视频，界面清爽，适合自媒体人或者需要素材的朋友。另外，PowerShell 自定义暂停 Windows 更新的功能[12] 也值得折腾一下，毕竟谁不想在重要会议时让电脑安静一会儿呢。"
+      },
+      {
+        "name": "安全与社区观点",
+        "color": "sec",
+        "summary": "今天最让人后背发凉的是 Lobsters 上的一篇帖子，说某军事补给站的冷冻柜系统疑似被黑[13]，这提醒我们生活中看似普通的系统也可能藏着漏洞。社区里还在讨论 Normalized Fascism in Open Source 这篇文章[14]，吐槽 DHH 拿了 1200 万美元资助，引发了关于开源社区政治化的激烈争论，这种文化层面的讨论往往比技术本身更烧脑。顺便提一下 Google Research 新出的 TimesFM[15]，这是个时间序列基础模型，虽然技术很前沿，但应用落地还得看后续案例。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "ponytail: Makes your AI agent think like the laziest senior dev",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "source": "GitHub Trending",
+        "desc": "让 AI 代理人只写必要代码的项目"
+      },
+      {
+        "num": 2,
+        "title": "caveman: Claude Code skill that cuts 65% of tokens",
+        "url": "https://github.com/JuliusBrussee/caveman",
+        "source": "GitHub Trending",
+        "desc": "通过简化对话减少 Token 消耗的 Agent 技能"
+      },
+      {
+        "num": 3,
+        "title": "skills: Public repository for Agent Skills",
+        "url": "https://github.com/anthropics/skills",
+        "source": "GitHub Trending",
+        "desc": "Anthropic 官方发布的 Agent 技能仓库"
+      },
+      {
+        "num": 4,
+        "title": "agent-skills: Production-grade engineering skills for AI coding agents",
+        "url": "https://github.com/addyosmani/agent-skills",
+        "source": "GitHub Trending",
+        "desc": "Addy Osmani 打造的工程级 Agent 技能集"
+      },
+      {
+        "num": 5,
+        "title": "magnitude: Open source inference server for local models",
+        "url": "https://github.com/magnitudedev/magnitude",
+        "source": "GitHub Trending",
+        "desc": "支持多种 Agent 工具的本地开源推理服务器"
+      },
+      {
+        "num": 6,
+        "title": "CERN transitioning industrial computers to Debian after being a longtime RHEL institution",
+        "url": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL",
+        "source": "Lobsters",
+        "desc": "CERN 将工业计算机从 RHEL 迁移至 Debian"
+      },
+      {
+        "num": 7,
+        "title": "How Swiss Tables Work in Go's Built-in Map",
+        "url": "https://victoriametrics.com/blog/go-swiss-table-map/",
+        "source": "Lobsters",
+        "desc": "深入解析 Go 语言内置 Map 的瑞士表机制"
+      },
+      {
+        "num": 8,
+        "title": "Static Allocation, Constant Work",
+        "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+        "source": "Lobsters",
+        "desc": "关于 Zig 语言静态分配与常量的技术讨论"
+      },
+      {
+        "num": 9,
+        "title": "新玩意 251｜少数派的编辑们最近买了啥？",
+        "url": "https://sspai.com/post/114154",
+        "source": "少数派",
+        "desc": "少数派编辑部发布的编辑近期购物清单"
+      },
+      {
+        "num": 10,
+        "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
+        "url": "https://sspai.com/post/113998",
+        "source": "少数派",
+        "desc": "对 MUJI 降噪耳机的深度评测"
+      },
+      {
+        "num": 11,
+        "title": "reclip: Download videos from almost any website",
+        "url": "https://github.com/averygan/reclip",
+        "source": "GitHub Trending",
+        "desc": "轻量级自托管视频下载工具"
+      },
+      {
+        "num": 12,
+        "title": "一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间",
+        "url": "https://sspai.com/post/80562",
+        "source": "少数派",
+        "desc": "使用 PowerShell 灵活控制 Windows 更新"
+      },
+      {
+        "num": 13,
+        "title": "I Think the Military Commissary Freezers Were Hacked",
+        "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+        "source": "Lobsters",
+        "desc": "关于军事补给站冷冻系统疑似被入侵的讨论"
+      },
+      {
+        "num": 14,
+        "title": "Normalized Fascism in Open Source: $12 Million Given to DHH",
+        "url": "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/",
+        "source": "Lobsters",
+        "desc": "分析开源社区中关于 DHH 资助的文化争议"
+      },
+      {
+        "num": 15,
+        "title": "TimesFM (Time Series Foundation Model)",
+        "url": "https://github.com/google-research/timesfm",
+        "source": "GitHub Trending",
+        "desc": "Google Research 推出的时间序列基础模型"
+      }
+    ],
+    "stats": {
+      "total_items": 15,
+      "total_categories": 4,
+      "total_sources": 5
+    }
+  }
+}
