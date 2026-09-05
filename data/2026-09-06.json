@@ -1,0 +1,929 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": "251955",
+      "stars_today": "2,666 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 2,
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "249434",
+      "stars_today": "1,325 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 3,
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": "127507",
+      "stars_today": "2,813 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 4,
+      "title": "NousResearch / hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": "241857",
+      "stars_today": "573 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "fmtlib / fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "stars": "25551",
+      "stars_today": "133 stars today",
+      "language": "C++"
+    },
+    {
+      "rank": 6,
+      "title": "anthropics / skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": "174448",
+      "stars_today": "472 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "31518",
+      "stars_today": "852 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 8,
+      "title": "anomalyco / opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": "204524",
+      "stars_today": "725 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 9,
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": "70609",
+      "stars_today": "127 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 10,
+      "title": "humanlayer / skills",
+      "url": "https://github.com/humanlayer/skills",
+      "description": "",
+      "stars": "2591",
+      "stars_today": "408 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 11,
+      "title": "blader / humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "stars": "43275",
+      "stars_today": "988 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 12,
+      "title": "BraveOPotato / FckSignups",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "stars": "2748",
+      "stars_today": "50 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 13,
+      "title": "WorldFlowAI / everything-claude-code",
+      "url": "https://github.com/WorldFlowAI/everything-claude-code",
+      "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+      "stars": "2237",
+      "stars_today": "139 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 14,
+      "title": "magnitudedev / magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "stars": "2997",
+      "stars_today": "686 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 15,
+      "title": "bikini / exploitarium",
+      "url": "https://github.com/bikini/exploitarium",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "stars": "4646",
+      "stars_today": "232 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "source_url": "https://arxiv.org/abs/2607.24888",
+      "tags": [
+        "linux",
+        "nix",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "zopt: low-ceremony command line parsing for Zig",
+      "url": "https://codeberg.org/hgrsd/zopt",
+      "source_url": "https://codeberg.org/hgrsd/zopt",
+      "tags": [
+        "show",
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "Surviving Code Reviews in the era of AI",
+      "url": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
+      "source_url": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
+      "tags": [
+        "ask"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Is AI ruining my brain?",
+      "url": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
+      "source_url": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Babashka 1.13.220 gets FFI",
+      "url": "https://blog.michielborkent.nl/babashka-ffi.html",
+      "source_url": "https://blog.michielborkent.nl/babashka-ffi.html",
+      "tags": [
+        "clojure"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Bespoke: A Programming Language for People Who Say Please",
+      "url": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
+      "source_url": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
+      "tags": [
+        "programming",
+        "satire"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Is it too much to ask devs to use AI to review their hand-crafted code?",
+      "url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
+      "source_url": "https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their",
+      "tags": [
+        "programming",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "NYC PIT Crew",
+      "url": "https://www.nyc.gov/content/pitcrew/pages/",
+      "source_url": "https://www.nyc.gov/content/pitcrew/pages/",
+      "tags": [
+        "job"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "FLT: Anthropic has beaten me to it",
+      "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+      "source_url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+      "tags": [
+        "math",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "Knowing Where to Type ‘Zero’ (2015)",
+      "url": "https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/",
+      "source_url": "https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/",
+      "tags": [
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "source_url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Gleam and BEAM- Looking beyond the JVM",
+      "url": "https://vimeo.com/1223666800",
+      "source_url": "https://vimeo.com/1223666800",
+      "tags": [
+        "video",
+        "gleam",
+        "java"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "source_url": "https://collusion.wiki/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "jank reimagines C++ errors and gets an official native package repo",
+      "url": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
+      "source_url": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
+      "tags": [
+        "c++",
+        "clojure",
+        "compilers",
+        "plt"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "source_url": "https://neil.fraser.name/news/2026/09/03/",
+      "tags": [
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "最值得买的顶级公路车？TREK 八代 Madone 评测写小黑文的Alex昨天 16:00Matrix精选",
+      "url": "https://sspai.com/post/114040",
+      "author": "写小黑文的Alex",
+      "summary": "最值得买的顶级公路车？TREK 八代 Madone 评测"
+    },
+    {
+      "rank": 2,
+      "title": "本周看什么 | 最近值得一看的 8 部作品少数派编辑部前天 17:32",
+      "url": "https://sspai.com/post/114175",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 8 部作品"
+    },
+    {
+      "rank": 3,
+      "title": "新学期，新气象：正版软件 & 付费栏目限时优惠多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。福利派前天 15:11商店",
+      "url": "https://sspai.com/post/114110",
+      "author": "福利派",
+      "summary": "新学期，新气象：正版软件 & 付费栏目限时优惠"
+    },
+    {
+      "rank": 4,
+      "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点谷雨G2rain前天 15:01",
+      "url": "https://sspai.com/post/114117",
+      "author": "谷雨G2rain",
+      "summary": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点"
+    },
+    {
+      "rank": 5,
+      "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1788244609",
+      "author": "一派投票",
+      "summary": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？"
+    },
+    {
+      "rank": 6,
+      "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p随便好啦前天 11:25Matrix精选",
+      "url": "https://sspai.com/post/113990",
+      "author": "随便好啦",
+      "summary": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p"
+    },
+    {
+      "rank": 7,
+      "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等少数派编辑部前天 08:47派早报",
+      "url": "https://sspai.com/post/114164",
+      "author": "少数派编辑部",
+      "summary": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等"
+    },
+    {
+      "rank": 8,
+      "title": "新玩意 251｜少数派的编辑们最近买了啥？少数派编辑部09/03",
+      "url": "https://sspai.com/post/114154",
+      "author": "少数派编辑部",
+      "summary": "新玩意 251｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 9,
+      "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验经过一个季度的使用，聊聊这个此前不会考虑其数码产品的品牌。KingTsui09/03",
+      "url": "https://sspai.com/post/113998",
+      "author": "KingTsui",
+      "summary": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验"
+    },
+    {
+      "rank": 10,
+      "title": "八月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1787798597",
+      "author": "一派讨论",
+      "summary": "八月买了什么好东西？"
+    },
+    {
+      "rank": 11,
+      "title": "当说起「Hi-Fi」时，我们到底在追求什么？DerQi09/03Matrix精选",
+      "url": "https://sspai.com/post/113159",
+      "author": "DerQi",
+      "summary": "当说起「Hi-Fi」时，我们到底在追求什么？"
+    },
+    {
+      "rank": 12,
+      "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等少数派编辑部09/03派早报",
+      "url": "https://sspai.com/post/114113",
+      "author": "少数派编辑部",
+      "summary": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "叶润泽淘汰",
+      "url": "https://s.weibo.com/weibo?q=%E5%8F%B6%E6%B6%A6%E6%B3%BD%E6%B7%98%E6%B1%B0",
+      "hot_value": 1120000
+    },
+    {
+      "rank": 2,
+      "title": "青春华章",
+      "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0",
+      "hot_value": 1000000
+    },
+    {
+      "rank": 3,
+      "title": "编制不等于绝对稳定",
+      "url": "https://s.weibo.com/weibo?q=%E7%BC%96%E5%88%B6%E4%B8%8D%E7%AD%89%E4%BA%8E%E7%BB%9D%E5%AF%B9%E7%A8%B3%E5%AE%9A",
+      "hot_value": 900000
+    },
+    {
+      "rank": 4,
+      "title": "避孕药 血栓",
+      "url": "https://s.weibo.com/weibo?q=%E9%81%BF%E5%AD%95%E8%8D%AF+%E8%A1%80%E6%A0%93",
+      "hot_value": 830000
+    },
+    {
+      "rank": 5,
+      "title": "张雅琪被花少8剪掉了",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E8%A2%AB%E8%8A%B1%E5%B0%918%E5%89%AA%E6%8E%89%E4%BA%86",
+      "hot_value": 740000
+    },
+    {
+      "rank": 6,
+      "title": "郑钦文vs凯斯",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E5%87%AF%E6%96%AF",
+      "hot_value": 710000
+    },
+    {
+      "rank": 7,
+      "title": "我一个变态的都觉得变态",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%91%E4%B8%80%E4%B8%AA%E5%8F%98%E6%80%81%E7%9A%84%E9%83%BD%E8%A7%89%E5%BE%97%E5%8F%98%E6%80%81",
+      "hot_value": 590000
+    },
+    {
+      "rank": 8,
+      "title": "医生说坚持为了那8%",
+      "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%94%9F%E8%AF%B4%E5%9D%9A%E6%8C%81%E4%B8%BA%E4%BA%86%E9%82%A38%25",
+      "hot_value": 480000
+    },
+    {
+      "rank": 9,
+      "title": "鞠婧祎扇巴掌给我看爽了",
+      "url": "https://s.weibo.com/weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%89%87%E5%B7%B4%E6%8E%8C%E7%BB%99%E6%88%91%E7%9C%8B%E7%88%BD%E4%BA%86",
+      "hot_value": 420000
+    },
+    {
+      "rank": 10,
+      "title": "取消英语主科 教育公平争议",
+      "url": "https://s.weibo.com/weibo?q=%E5%8F%96%E6%B6%88%E8%8B%B1%E8%AF%AD%E4%B8%BB%E7%A7%91+%E6%95%99%E8%82%B2%E5%85%AC%E5%B9%B3%E4%BA%89%E8%AE%AE",
+      "hot_value": 420000
+    },
+    {
+      "rank": 11,
+      "title": "汤家凤邀请胡锡进公开辩论",
+      "url": "https://s.weibo.com/weibo?q=%E6%B1%A4%E5%AE%B6%E5%87%A4%E9%82%80%E8%AF%B7%E8%83%A1%E9%94%A1%E8%BF%9B%E5%85%AC%E5%BC%80%E8%BE%A9%E8%AE%BA",
+      "hot_value": 420000
+    },
+    {
+      "rank": 12,
+      "title": "剧本杀 色情服务",
+      "url": "https://s.weibo.com/weibo?q=%E5%89%A7%E6%9C%AC%E6%9D%80+%E8%89%B2%E6%83%85%E6%9C%8D%E5%8A%A1",
+      "hot_value": 410000
+    },
+    {
+      "rank": 13,
+      "title": "蒙娜丽莎的舞蹈呢",
+      "url": "https://s.weibo.com/weibo?q=%E8%92%99%E5%A8%9C%E4%B8%BD%E8%8E%8E%E7%9A%84%E8%88%9E%E8%B9%88%E5%91%A2",
+      "hot_value": 410000
+    },
+    {
+      "rank": 14,
+      "title": "获救中国公民爬到了隧道最高处",
+      "url": "https://s.weibo.com/weibo?q=%E8%8E%B7%E6%95%91%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E7%88%AC%E5%88%B0%E4%BA%86%E9%9A%A7%E9%81%93%E6%9C%80%E9%AB%98%E5%A4%84",
+      "hot_value": 390000
+    },
+    {
+      "rank": 15,
+      "title": "郝熠然演唱会",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%9D%E7%86%A0%E7%84%B6%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "hot_value": 390000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "德甲第四轮，樊振东第一盘 3-0 胜鲁伊斯，第四盘 3-0 胜杜达锁定胜局，如何评价本场比赛",
+      "url": "https://www.zhihu.com/question/2079658519846807013",
+      "hot_value": 4650000
+    },
+    {
+      "rank": 2,
+      "title": "如何看待因被要求补缴社保，老板在店门口滚屏抱怨「选择员工需谨慎」",
+      "url": "https://www.zhihu.com/question/2079235027733423233",
+      "hot_value": 3500000
+    },
+    {
+      "rank": 3,
+      "title": "明朝科技曾经领先世界，为啥没能像欧洲一样开启工业革命？是被清朝打断了，还是从根上就不行",
+      "url": "https://www.zhihu.com/question/2000764064549344974",
+      "hot_value": 2770000
+    },
+    {
+      "rank": 4,
+      "title": "LPL2026 赛季季后赛 iG 鏖战五局淘汰 TES，如何评价这场比赛",
+      "url": "https://www.zhihu.com/question/2079554956902899901",
+      "hot_value": 2760000
+    },
+    {
+      "rank": 5,
+      "title": "如何看待乌克兰两大情报部门 GUR 和 SBU 爆发内讧，视频显示双方发生枪战？背后有何矛盾",
+      "url": "https://www.zhihu.com/question/2078445433446314558",
+      "hot_value": 2740000
+    },
+    {
+      "rank": 6,
+      "title": "《周处除三害》导演新作《荡荡荡寇志》剧照流出，张家辉、阮经天、贾静雯造型颠覆，能复刻前作的口碑吗",
+      "url": "https://www.zhihu.com/question/2078796105559400662",
+      "hot_value": 2730000
+    },
+    {
+      "rank": 7,
+      "title": "中国会出现公认的第五个一线城市吗",
+      "url": "https://www.zhihu.com/question/1965402803242529580",
+      "hot_value": 2690000
+    },
+    {
+      "rank": 8,
+      "title": "为何张继科退役后体脂率还是这么低",
+      "url": "https://www.zhihu.com/question/1899194637576574527",
+      "hot_value": 2630000
+    },
+    {
+      "rank": 9,
+      "title": "福建莆田特大暴雨一天下了北方多地全年降水量，有人员失联，宁德多地内涝，为什么雨量这么大？目前情况如何",
+      "url": "https://www.zhihu.com/question/2078856515239108892",
+      "hot_value": 2340000
+    },
+    {
+      "rank": 10,
+      "title": "你的学校发生过最扯的事是什么",
+      "url": "https://www.zhihu.com/question/635512035",
+      "hot_value": 1650000
+    },
+    {
+      "rank": 11,
+      "title": "今年为什么各大手机厂商都在出阔折叠",
+      "url": "https://www.zhihu.com/question/2075539956064333862",
+      "hot_value": 1570000
+    },
+    {
+      "rank": 12,
+      "title": "美国『林肯』号航母现身油漆脱落、遍布锈迹，这在航母日常维护中属于正常现象吗",
+      "url": "https://www.zhihu.com/question/2079118182971920391",
+      "hot_value": 1480000
+    },
+    {
+      "rank": 13,
+      "title": "王楚钦退赛「1000」分卫冕积分将清零，如何影响其世界排名及赛程",
+      "url": "https://www.zhihu.com/question/2079351258750641660",
+      "hot_value": 1430000
+    },
+    {
+      "rank": 14,
+      "title": "传播武汉大学举报 PDF 会涉嫌违法吗？如何从法律角度解读",
+      "url": "https://www.zhihu.com/question/2079244427155829785",
+      "hot_value": 1410000
+    },
+    {
+      "rank": 15,
+      "title": "联合国警告称升温 1.5℃已无法避免，能做的只有压低超额升温，这是否意味着变暖要失控了",
+      "url": "https://www.zhihu.com/question/2079482537852811188",
+      "hot_value": 1380000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods",
+      "url": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods",
+      "score": 33,
+      "author": "paimapi",
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49577985"
+    },
+    {
+      "rank": 2,
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "score": 118,
+      "author": "networked",
+      "comments": 37,
+      "hn_url": "https://news.ycombinator.com/item?id=49576386"
+    },
+    {
+      "rank": 3,
+      "title": "How the Planet-Altering Disaster of \"Forever Chemicals\" Was Kept Secret",
+      "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
+      "score": 128,
+      "author": "stevenwoo",
+      "comments": 24,
+      "hn_url": "https://news.ycombinator.com/item?id=49576986"
+    },
+    {
+      "rank": 4,
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "score": 656,
+      "author": "negura",
+      "comments": 372,
+      "hn_url": "https://news.ycombinator.com/item?id=49570669"
+    },
+    {
+      "rank": 5,
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "score": 1900,
+      "author": "moultano",
+      "comments": 1447,
+      "hn_url": "https://news.ycombinator.com/item?id=49563355"
+    },
+    {
+      "rank": 6,
+      "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
+      "url": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
+      "score": 3,
+      "author": "robin_reala",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49577975"
+    },
+    {
+      "rank": 7,
+      "title": "Git hosting that never leaves Europe",
+      "url": "https://pushin.eu",
+      "score": 206,
+      "author": "sevenseacat",
+      "comments": 106,
+      "hn_url": "https://news.ycombinator.com/item?id=49573680"
+    },
+    {
+      "rank": 8,
+      "title": "Nitter has more working instances than before the takedowns",
+      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "score": 437,
+      "author": "Cider9986",
+      "comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=49571634"
+    },
+    {
+      "rank": 9,
+      "title": "Terpstra Keyboard",
+      "url": "http://terpstrakeyboard.com/",
+      "score": 59,
+      "author": "cl3misch",
+      "comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=49575150"
+    },
+    {
+      "rank": 10,
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "score": 696,
+      "author": "jlebar",
+      "comments": 434,
+      "hn_url": "https://news.ycombinator.com/item?id=49568506"
+    },
+    {
+      "rank": 11,
+      "title": "Singapore subway (mrt) information display types",
+      "url": "https://www.sgtrains.com/technology-infosys.html",
+      "score": 9,
+      "author": "gregorvand",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49535940"
+    },
+    {
+      "rank": 12,
+      "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+      "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+      "score": 274,
+      "author": "daniel_iversen",
+      "comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=49575034"
+    },
+    {
+      "rank": 13,
+      "title": "A Million Falcons Went Missing. Here’s How They Were Found",
+      "url": "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis",
+      "score": 26,
+      "author": "bryanrasmussen",
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49540253"
+    },
+    {
+      "rank": 14,
+      "title": "Statichost.eu – European static site hosting",
+      "url": "https://www.statichost.eu/",
+      "score": 380,
+      "author": "p4bl0",
+      "comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=49569896"
+    },
+    {
+      "rank": 15,
+      "title": "Meet the Ig Nobel Prize Winners",
+      "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
+      "score": 50,
+      "author": "mkl",
+      "comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=49576611"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发工具",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。Skills 类项目成了绝对主力，mattpocock 的 skills[1] 主打实用主义，直接列出工程师必备技能树，4.5k+ star 的增长速度让很多人刮目相看。anthropics/skills[2] 则是官方下场，专门收集 Agent 技能，想接入 Claude 生态的开发者可以参考。更有意思的是 affaan-m/ECC[3]，号称是 Agent 的“外骨骼”，把记忆、安全这些复杂能力封装好了，直接给 Claude Code 这种工具赋能，这种“中间件”思路现在特别流行。还有 blader/humanizer[4]，专门帮 AI 写的东西去 AI 味，这在内容创作场景下实用性拉满。\n\nLobsters 社区今天也在吵 AI 代码审查的事，有人发帖问“在 AI 时代如何 survive Code Review”，讨论区里大家分歧很大，一方觉得 AI 能过滤低级错误，另一方担心过度依赖会退化人的编程直觉 [5]。另外还有个挺有趣的帖子，发现了一个 OpenAI 的 Agent 留言板，大家居然在 AI 之间沟通，这画面感太强了 [6]。少数派那边也有一篇派早报 [7]，汇总了 OpenAI GPT-6 和 Meta Muse 的最新动态，虽然标题很卷，但确实提醒大家大模型迭代太快，得保持关注。"
+      },
+      {
+        "name": "系统底层与安全",
+        "color": "security",
+        "summary": "搞安全的朋友今天必须看 Lobsters 上的这条 [8]，有个研究团队发现了针对整个 Linux 发行版的信任攻击，居然通过 strip 工具就能绕过安全限制，这简直是给内核安全敲了个警钟。社区里也在热议 Rust 的 Vtables 可视化 [9]，动态特性在内存里到底长什么样，这种底层原理解析对想深入理解系统语言的朋友很有帮助。\n\nGitHub 上有个项目 bikini/exploitarium[10] 虽然看起来有点极客，但它是公开漏洞 PoC 的仓库，作者初衷是吸引人入行安全研究，这种开源界的“诱饵”策略其实挺有意思的。少数派里随便好了一篇老但新的文章 [11]，聊那台最后的 4:3 版 ThinkPad T61p，虽然年代久远，但那种对经典硬件的怀旧感，在屏幕普及的今天反而成了稀缺的讨论话题。"
+      },
+      {
+        "name": "编程语言与编译器",
+        "color": "dev",
+        "summary": "Lobsters 上 Zig 社区很活跃，zopt[12] 是个低门槛的命令行解析库，解决了 Zig 写 CLI 时的痛点。Clojure 那边也没闲着，Babashka 1.13.220 正式支持了 FFI[13]，这是跨语言调用的一大步。还有 jank 语言 [14] 搞出了官方包仓库，重新定义了 C++ 错误处理，这种“造轮子”的精神在编译器领域总是能冒出点新花样。\n\n少数派福利派的文章 [15] 虽然主要是讲正版软件优惠，但提到了很多开发工具和正版软件的搭配使用，对于学生党或者想规范开发环境的读者来说，是个不错的入手指南。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "hardware",
+        "summary": "数码爱好者今天可以逛逛少数派，写小黑文的 Alex 评测了最新的 TREK 八代 Madone[16]，公路车党又有新谈资了。耳机党可以看看 TDS REVIEW 关于无印良品降噪耳机的体验 [17]，毕竟 MUJI 进音频圈，大家期待值都很高。\n\nLobsters 上还有个 Gleam 和 BEAM 的视频 [18]，讨论 Erlang 虚拟机在通用语言里的可能性，虽然有点硬核，但对语言设计感兴趣的人值得深究。少数派编辑部还发了个 Tim Cook 掌舵十五年的投票 [19]，回顾苹果那些改变数字生活的产品，算是给科技史做个小结。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天 Lobsters 上有个话题挺扎心：\"AI 正在毁掉我的大脑吗？\"[20]，这反映了现在很多开发者对 AI 辅助编程的焦虑，是效率提升还是思维退化？另外还有个反讽之作 Bespoke[21]，造了一种“不给别人说 Please 的人”用的编程语言，这种幽默感在开源社区里总是能引发不少共鸣。\n\n少数派新玩意栏目 [22] 分享了编辑们最近买的东西，通常这些“非典型”好物能反映出最近的技术趋势和审美变化，有时候比硬参数更有参考价值。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "Skills for Real Engineers",
+        "url": "https://github.com/mattpocock/skills",
+        "source": "GitHub Trending",
+        "desc": "工程师必备技能树"
+      },
+      {
+        "num": 2,
+        "title": "Public repository for Agent Skills",
+        "url": "https://github.com/anthropics/skills",
+        "source": "GitHub Trending",
+        "desc": "Anthropic 官方 Agent 技能库"
+      },
+      {
+        "num": 3,
+        "title": "The agent harness performance optimization system",
+        "url": "https://github.com/affaan-m/ECC",
+        "source": "GitHub Trending",
+        "desc": "Agent 外骨骼系统"
+      },
+      {
+        "num": 4,
+        "title": "Agent skill that removes signs of AI-generated writing",
+        "url": "https://github.com/blader/humanizer",
+        "source": "GitHub Trending",
+        "desc": "去 AI 味工具"
+      },
+      {
+        "num": 5,
+        "title": "Surviving Code Reviews in the era of AI",
+        "url": "https://lobste.rs/s/7tpc5q/surviving_code_reviews_era_ai",
+        "source": "Lobsters",
+        "desc": "AI 时代的代码审查"
+      },
+      {
+        "num": 6,
+        "title": "Discovery of a new OpenAI agent message board",
+        "url": "https://collusion.wiki/",
+        "source": "Lobsters",
+        "desc": "OpenAI Agent 留言板发现"
+      },
+      {
+        "num": 7,
+        "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等",
+        "url": "https://sspai.com/post/114164",
+        "source": "少数派",
+        "desc": "大模型动态汇总"
+      },
+      {
+        "num": 8,
+        "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+        "url": "https://arxiv.org/abs/2607.24888",
+        "source": "Lobsters",
+        "desc": "Linux 信任攻击研究"
+      },
+      {
+        "num": 9,
+        "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+        "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+        "source": "Lobsters",
+        "desc": "Rust Vtables 内存可视化"
+      },
+      {
+        "num": 10,
+        "title": "A single archive of public exploit PoCs",
+        "url": "https://github.com/bikini/exploitarium",
+        "source": "GitHub Trending",
+        "desc": "公开漏洞 PoC 仓库"
+      },
+      {
+        "num": 11,
+        "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p",
+        "url": "https://sspai.com/post/113990",
+        "source": "少数派",
+        "desc": "经典 ThinkPad 回顾"
+      },
+      {
+        "num": 12,
+        "title": "zopt: low-ceremony command line parsing for Zig",
+        "url": "https://codeberg.org/hgrsd/zopt",
+        "source": "Lobsters",
+        "desc": "Zig 命令行解析库"
+      },
+      {
+        "num": 13,
+        "title": "Babashka 1.13.220 gets FFI",
+        "url": "https://blog.michielborkent.nl/babashka-ffi.html",
+        "source": "Lobsters",
+        "desc": "Babashka 支持 FFI"
+      },
+      {
+        "num": 14,
+        "title": "jank reimagines C++ errors and gets an official native package repo",
+        "url": "https://jank-lang.org/blog/2026-09-04-better-and-better/",
+        "source": "Lobsters",
+        "desc": "Jank 语言官方包仓库"
+      },
+      {
+        "num": 15,
+        "title": "福利派：正版软件 & 付费栏目限时优惠",
+        "url": "https://sspai.com/post/114110",
+        "source": "少数派",
+        "desc": "软件正版优惠"
+      },
+      {
+        "num": 16,
+        "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
+        "url": "https://sspai.com/post/114040",
+        "source": "少数派",
+        "desc": "TREK Madone 评测"
+      },
+      {
+        "num": 17,
+        "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
+        "url": "https://sspai.com/post/113998",
+        "source": "少数派",
+        "desc": "MUJI 耳机体验"
+      },
+      {
+        "num": 18,
+        "title": "Gleam and BEAM- Looking beyond the JVM",
+        "url": "https://vimeo.com/1223666800",
+        "source": "Lobsters",
+        "desc": "Gleam 与 BEAM 虚拟机"
+      },
+      {
+        "num": 19,
+        "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？",
+        "url": "https://sspai.com/bullet/1788244609",
+        "source": "少数派",
+        "desc": "苹果产品回顾投票"
+      },
+      {
+        "num": 20,
+        "title": "Is AI ruining my brain?",
+        "url": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
+        "source": "Lobsters",
+        "desc": "AI 是否毁掉大脑"
+      },
+      {
+        "num": 21,
+        "title": "Bespoke: A Programming Language for People Who Say Please",
+        "url": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
+        "source": "Lobsters",
+        "desc": "说 Please 专用编程语言"
+      },
+      {
+        "num": 22,
+        "title": "新玩意 251｜少数派的编辑们最近买了啥？",
+        "url": "https://sspai.com/post/114154",
+        "source": "少数派",
+        "desc": "编辑好物分享"
+      }
+    ],
+    "stats": {
+      "total_items": 22,
+      "total_categories": 5,
+      "total_sources": 22
+    }
+  }
+}
