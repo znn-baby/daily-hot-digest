@@ -1,0 +1,961 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "250809",
+      "stars_today": "1,486 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 2,
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": "254079",
+      "stars_today": "2,206 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 3,
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "32141",
+      "stars_today": "621 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 4,
+      "title": "NousResearch / hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": "242375",
+      "stars_today": "520 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "openai / skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "stars": "25515",
+      "stars_today": "44 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 6,
+      "title": "anomalyco / opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": "205065",
+      "stars_today": "552 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 7,
+      "title": "blader / humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "stars": "44017",
+      "stars_today": "748 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "llvm / llvm-project",
+      "url": "https://github.com/llvm/llvm-project",
+      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "stars": "40159",
+      "stars_today": "35 stars today",
+      "language": "LLVM"
+    },
+    {
+      "rank": 9,
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": "128957",
+      "stars_today": "1,539 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 10,
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": "70884",
+      "stars_today": "276 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 11,
+      "title": "magnitudedev / magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "stars": "3557",
+      "stars_today": "604 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 12,
+      "title": "BraveOPotato / FckSignups",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "stars": "3167",
+      "stars_today": "436 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 13,
+      "title": "coreyhaines31 / marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars": "47359",
+      "stars_today": "172 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 14,
+      "title": "aipoch / open-science",
+      "url": "https://github.com/aipoch/open-science",
+      "description": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.",
+      "stars": "3743",
+      "stars_today": "145 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 15,
+      "title": "OpenWhispr / openwhispr",
+      "url": "https://github.com/OpenWhispr/openwhispr",
+      "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+      "stars": "7138",
+      "stars_today": "274 stars today",
+      "language": "JavaScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "source_url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
+      "url": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
+      "source_url": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
+      "tags": [
+        "go",
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "Terence Tao on “prematurely solving [a maths] problem by purely AI-powered methods”",
+      "url": "https://mathstodon.xyz/@tao/117207856734787448",
+      "source_url": "https://mathstodon.xyz/@tao/117207856734787448",
+      "tags": [
+        "math",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Any Nix package, live in your browser",
+      "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
+      "source_url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
+      "tags": [
+        "nix",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "There's No Limit to How Bad Code Can Get",
+      "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+      "source_url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+      "tags": [
+        "practices"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "M2: Episode 1 (or, Asahi Linux on M3)",
+      "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "source_url": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "tags": [
+        "linux",
+        "mac",
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "NetBSD 11 from scratch",
+      "url": "https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/",
+      "source_url": "https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/",
+      "tags": [
+        "netbsd"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "zopt: low-ceremony command line parsing for Zig",
+      "url": "https://codeberg.org/hgrsd/zopt",
+      "source_url": "https://codeberg.org/hgrsd/zopt",
+      "tags": [
+        "show",
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "It matters who teaches you",
+      "url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
+      "source_url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
+      "tags": [
+        "education",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "How To: Federated Stars (2024)",
+      "url": "https://domaindrivenarchitecture.org/blog/2024-06-05-howto-federated-stars/",
+      "source_url": "https://domaindrivenarchitecture.org/blog/2024-06-05-howto-federated-stars/",
+      "tags": [
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "Who said a tech addict can't be comfortable far from home?",
+      "url": "https://a.l3x.in/blog/my-travel-setup",
+      "source_url": "https://a.l3x.in/blog/my-travel-setup",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Beyond ORMs",
+      "url": "https://noteflakes.com/articles/2026-09-05-beyond-orms",
+      "source_url": "https://noteflakes.com/articles/2026-09-05-beyond-orms",
+      "tags": [
+        "databases",
+        "ruby"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "source_url": "https://arxiv.org/abs/2607.24888",
+      "tags": [
+        "linux",
+        "nix",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "What filesystem are you running on your NAS/Backups, and why?",
+      "url": "https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your",
+      "source_url": "https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your",
+      "tags": [
+        "ask",
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "The Ironies of Automation (1983)",
+      "url": "https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf",
+      "source_url": "https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf",
+      "tags": [
+        "pdf",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游ElijahLee昨天 15:00",
+      "url": "https://sspai.com/post/114076",
+      "author": "ElijahLee",
+      "summary": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游"
+    },
+    {
+      "rank": 2,
+      "title": "最值得买的顶级公路车？TREK 八代 Madone 评测写小黑文的Alex前天 16:00Matrix精选",
+      "url": "https://sspai.com/post/114040",
+      "author": "写小黑文的Alex",
+      "summary": "最值得买的顶级公路车？TREK 八代 Madone 评测"
+    },
+    {
+      "rank": 3,
+      "title": "本周看什么 | 最近值得一看的 8 部作品少数派编辑部09/04",
+      "url": "https://sspai.com/post/114175",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 8 部作品"
+    },
+    {
+      "rank": 4,
+      "title": "新学期，新气象：正版软件 & 付费栏目限时优惠多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。福利派09/04商店",
+      "url": "https://sspai.com/post/114110",
+      "author": "福利派",
+      "summary": "新学期，新气象：正版软件 & 付费栏目限时优惠"
+    },
+    {
+      "rank": 5,
+      "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点谷雨G2rain09/04",
+      "url": "https://sspai.com/post/114117",
+      "author": "谷雨G2rain",
+      "summary": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点"
+    },
+    {
+      "rank": 6,
+      "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1788244609",
+      "author": "一派投票",
+      "summary": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？"
+    },
+    {
+      "rank": 7,
+      "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p随便好啦09/04Matrix精选",
+      "url": "https://sspai.com/post/113990",
+      "author": "随便好啦",
+      "summary": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p"
+    },
+    {
+      "rank": 8,
+      "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等少数派编辑部09/04派早报",
+      "url": "https://sspai.com/post/114164",
+      "author": "少数派编辑部",
+      "summary": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等"
+    },
+    {
+      "rank": 9,
+      "title": "新玩意 251｜少数派的编辑们最近买了啥？少数派编辑部09/03",
+      "url": "https://sspai.com/post/114154",
+      "author": "少数派编辑部",
+      "summary": "新玩意 251｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 10,
+      "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验经过一个季度的使用，聊聊这个此前不会考虑其数码产品的品牌。KingTsui09/03",
+      "url": "https://sspai.com/post/113998",
+      "author": "KingTsui",
+      "summary": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验"
+    },
+    {
+      "rank": 11,
+      "title": "八月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1787798597",
+      "author": "一派讨论",
+      "summary": "八月买了什么好东西？"
+    },
+    {
+      "rank": 12,
+      "title": "当说起「Hi-Fi」时，我们到底在追求什么？DerQi09/03Matrix精选",
+      "url": "https://sspai.com/post/113159",
+      "author": "DerQi",
+      "summary": "当说起「Hi-Fi」时，我们到底在追求什么？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "交锋",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%A4%E9%94%8B",
+      "hot_value": 880000
+    },
+    {
+      "rank": 2,
+      "title": "青春华章向新而行",
+      "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E5%90%91%E6%96%B0%E8%80%8C%E8%A1%8C",
+      "hot_value": 710000
+    },
+    {
+      "rank": 3,
+      "title": "小米18Fold今晚7点发布",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318Fold%E4%BB%8A%E6%99%9A7%E7%82%B9%E5%8F%91%E5%B8%83",
+      "hot_value": 390000
+    },
+    {
+      "rank": 4,
+      "title": "花少2摄影师曾劝杨洋明天跑吧",
+      "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%912%E6%91%84%E5%BD%B1%E5%B8%88%E6%9B%BE%E5%8A%9D%E6%9D%A8%E6%B4%8B%E6%98%8E%E5%A4%A9%E8%B7%91%E5%90%A7",
+      "hot_value": 370000
+    },
+    {
+      "rank": 5,
+      "title": "中国女篮 一顿瞎传",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE+%E4%B8%80%E9%A1%BF%E7%9E%8E%E4%BC%A0",
+      "hot_value": 360000
+    },
+    {
+      "rank": 6,
+      "title": "爷爷提前剪葫芦是给流量的一记耳光",
+      "url": "https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E6%8F%90%E5%89%8D%E5%89%AA%E8%91%AB%E8%8A%A6%E6%98%AF%E7%BB%99%E6%B5%81%E9%87%8F%E7%9A%84%E4%B8%80%E8%AE%B0%E8%80%B3%E5%85%89",
+      "hot_value": 350000
+    },
+    {
+      "rank": 7,
+      "title": "接种流感疫苗不是打完马上有保护",
+      "url": "https://s.weibo.com/weibo?q=%E6%8E%A5%E7%A7%8D%E6%B5%81%E6%84%9F%E7%96%AB%E8%8B%97%E4%B8%8D%E6%98%AF%E6%89%93%E5%AE%8C%E9%A9%AC%E4%B8%8A%E6%9C%89%E4%BF%9D%E6%8A%A4",
+      "hot_value": 340000
+    },
+    {
+      "rank": 8,
+      "title": "雷军向所有品牌表达感谢",
+      "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E5%90%91%E6%89%80%E6%9C%89%E5%93%81%E7%89%8C%E8%A1%A8%E8%BE%BE%E6%84%9F%E8%B0%A2",
+      "hot_value": 260000
+    },
+    {
+      "rank": 9,
+      "title": "LGD晋级LPL四强",
+      "url": "https://s.weibo.com/weibo?q=LGD%E6%99%8B%E7%BA%A7LPL%E5%9B%9B%E5%BC%BA",
+      "hot_value": 260000
+    },
+    {
+      "rank": 10,
+      "title": "中国女篮vs捷克女篮",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%8D%B7%E5%85%8B%E5%A5%B3%E7%AF%AE",
+      "hot_value": 240000
+    },
+    {
+      "rank": 11,
+      "title": "大家不爱住民宿了吗",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AE%B6%E4%B8%8D%E7%88%B1%E4%BD%8F%E6%B0%91%E5%AE%BF%E4%BA%86%E5%90%97",
+      "hot_value": 240000
+    },
+    {
+      "rank": 12,
+      "title": "陈晓妈妈仍会帮陈妍希带孩子",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E5%A6%88%E5%A6%88%E4%BB%8D%E4%BC%9A%E5%B8%AE%E9%99%88%E5%A6%8D%E5%B8%8C%E5%B8%A6%E5%AD%A9%E5%AD%90",
+      "hot_value": 240000
+    },
+    {
+      "rank": 13,
+      "title": "婚内强奸案男子性侵妻子拍下视频",
+      "url": "https://s.weibo.com/weibo?q=%E5%A9%9A%E5%86%85%E5%BC%BA%E5%A5%B8%E6%A1%88%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E5%A6%BB%E5%AD%90%E6%8B%8D%E4%B8%8B%E8%A7%86%E9%A2%91",
+      "hot_value": 240000
+    },
+    {
+      "rank": 14,
+      "title": "丁程鑫手伤是断掉了",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E6%89%8B%E4%BC%A4%E6%98%AF%E6%96%AD%E6%8E%89%E4%BA%86",
+      "hot_value": 240000
+    },
+    {
+      "rank": 15,
+      "title": "肖战扭起来了",
+      "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%89%AD%E8%B5%B7%E6%9D%A5%E4%BA%86",
+      "hot_value": 230000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "如何看待 China GT 上海站赛车起火，车手放弃比赛救人，车队要求调查？赛事应急救援存在哪些漏洞",
+      "url": "https://www.zhihu.com/question/2079902139359257020",
+      "hot_value": 18810000
+    },
+    {
+      "rank": 2,
+      "title": "财政部将向中国工商银行等八家金融央企增资共计 3600 亿元，如何解读",
+      "url": "https://www.zhihu.com/question/2079970428131468554",
+      "hot_value": 16660000
+    },
+    {
+      "rank": 3,
+      "title": "多地严查赵一鸣、好想来等量贩零食品牌，有人买 4 块牛肉干 64.58 元复秤 17.29 元，暴露出哪些问题",
+      "url": "https://www.zhihu.com/question/2079975095728959913",
+      "hot_value": 7250000
+    },
+    {
+      "rank": 4,
+      "title": "如何评价 N-S 方程疑似被 AI 解决",
+      "url": "https://www.zhihu.com/question/2079574865397532387",
+      "hot_value": 3840000
+    },
+    {
+      "rank": 5,
+      "title": "「葫芦娃爷爷」剪掉了全网走红的 7 个青葫芦，为何要提前剪藤？游客的「热情」为何最终成了老人的负担",
+      "url": "https://www.zhihu.com/question/2079675637837706434",
+      "hot_value": 3770000
+    },
+    {
+      "rank": 6,
+      "title": "如何看待张家齐已是奥运冠军，妈妈却仍因她不会收拾、整理而频繁数落？暴露了怎样的亲子关系问题",
+      "url": "https://www.zhihu.com/question/2079911199861379188",
+      "hot_value": 3700000
+    },
+    {
+      "rank": 7,
+      "title": "多家银行集中「清淤」，工行核销超 800 亿元，背后原因是什么？释放出哪些信号",
+      "url": "https://www.zhihu.com/question/2079976272428361577",
+      "hot_value": 3400000
+    },
+    {
+      "rank": 8,
+      "title": "为啥白宫开始流行吃酸菜了？万斯自称吃酸菜减重成功，酸菜真能减肥吗",
+      "url": "https://www.zhihu.com/question/2079254257211893392",
+      "hot_value": 2960000
+    },
+    {
+      "rank": 9,
+      "title": "《花儿与少年 2》被誉为内娱综艺史上无法超越的巅峰，如何评价其历史地位",
+      "url": "https://www.zhihu.com/question/2077565722000213041",
+      "hot_value": 2710000
+    },
+    {
+      "rank": 10,
+      "title": "为什么《笑傲江湖》里人人都抢辟邪剑谱，却没人抢独孤九剑",
+      "url": "https://www.zhihu.com/question/2079664909302997985",
+      "hot_value": 1840000
+    },
+    {
+      "rank": 11,
+      "title": "如何看待阿根廷总统米莱表示，英国应像把香港归还给中国一样，把马岛归还给阿根廷，阿方可接受香港模式",
+      "url": "https://www.zhihu.com/question/2079980209961551392",
+      "hot_value": 1790000
+    },
+    {
+      "rank": 12,
+      "title": "中国足协主席宋凯称「中国足球起势了」，这一判断有哪些依据",
+      "url": "https://www.zhihu.com/question/2079634074000531636",
+      "hot_value": 1770000
+    },
+    {
+      "rank": 13,
+      "title": "全球首个乙肝功能性治愈新药日本获批，慢性乙肝患者这下真能摆脱终身服药了吗",
+      "url": "https://www.zhihu.com/question/2075883163637604395",
+      "hot_value": 1680000
+    },
+    {
+      "rank": 14,
+      "title": "加时死里逃生，中国女篮 74-70 逆转捷克，韩旭砍 22+14，杨舒予 18 分 5 助，如何评价本场",
+      "url": "https://www.zhihu.com/question/2080036984966403099",
+      "hot_value": 1640000
+    },
+    {
+      "rank": 15,
+      "title": "中国需要多久达到或超过 GPT-6 Astra 级别的模型水平",
+      "url": "https://www.zhihu.com/question/2079675087209419385",
+      "hot_value": 1580000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "QBittorrent breaks out of sandbox to commit crimes",
+      "url": "https://beige.party/@intransitivelie/117057396732763183",
+      "score": 411,
+      "author": "mraniki",
+      "comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=49586171"
+    },
+    {
+      "rank": 2,
+      "title": "Intellectual Fly Is Open (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "score": 285,
+      "author": "cyb0rg0",
+      "comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=49585644"
+    },
+    {
+      "rank": 3,
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "score": 418,
+      "author": "mpweiher",
+      "comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=49584083"
+    },
+    {
+      "rank": 4,
+      "title": "A/I shuts down – Stay human",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "score": 253,
+      "author": "captainmuon",
+      "comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=49586898"
+    },
+    {
+      "rank": 5,
+      "title": "Doomscrolling Ourselves to Death",
+      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "score": 216,
+      "author": "shubhamjain",
+      "comments": 142,
+      "hn_url": "https://news.ycombinator.com/item?id=49585627"
+    },
+    {
+      "rank": 6,
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind/",
+      "score": 6,
+      "author": "tosh",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49588080"
+    },
+    {
+      "rank": 7,
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+      "score": 14,
+      "author": "jaypatelani",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49587636"
+    },
+    {
+      "rank": 8,
+      "title": "Alberta (Canada) slaps punitive tax on solar panels",
+      "url": "https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy/",
+      "score": 41,
+      "author": "cmrdporcupine",
+      "comments": 38,
+      "hn_url": "https://news.ycombinator.com/item?id=49587285"
+    },
+    {
+      "rank": 9,
+      "title": "Research carried out using NetBSD",
+      "url": "https://www.netbsd.org/gallery/research.html",
+      "score": 8,
+      "author": "Bluestein",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49587903"
+    },
+    {
+      "rank": 10,
+      "title": "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
+      "url": "https://blog.ydb.tech/is-there-i-o-after-death-what-happens-to-io-uring-when-a-process-dies-92c65354873f?postPublishedType=repub",
+      "score": 21,
+      "author": "porridgeraisin",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49542471"
+    },
+    {
+      "rank": 11,
+      "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
+      "url": "https://en.wikipedia.org/wiki/M-DISC",
+      "score": 129,
+      "author": "gurjeet",
+      "comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=49531619"
+    },
+    {
+      "rank": 12,
+      "title": "The many mysteries and lessons of the Bayeux tapestry",
+      "url": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
+      "score": 33,
+      "author": "andsoitis",
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49586435"
+    },
+    {
+      "rank": 13,
+      "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
+      "url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
+      "score": 118,
+      "author": "mdp2021",
+      "comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=49586698"
+    },
+    {
+      "rank": 14,
+      "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
+      "url": "https://github.com/scastiel/kado",
+      "score": 32,
+      "author": "scastiel",
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=49586902"
+    },
+    {
+      "rank": 15,
+      "title": "Electronic skin for prosthetics to sense temperature and pressure",
+      "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
+      "score": 6,
+      "author": "gmays",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49540090"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发工具",
+        "color": "ai",
+        "summary": "今天 GitHub 上的 AI Agent 赛道真的有点卷，全是实战向的工具。affaan-m 的 ECC [1] 号称给 Claude Code 等模型加了技能、直觉和记忆，目前拿了 4,500+ star，搞自动化测试的应该很戳你。还有个很有意思的 ponytail [10]，号称能让你的 AI 像“最懒的高级工程师”一样思考，主打一个能躺平，这种反直觉的设计挺妙。社区里 Lobsters 有个讨论说 Terence Tao 批评过早用纯 AI 解决数学问题 [4]，这提醒我们在用 AI 编码时，别光顾着快，得想想逻辑根基。少数派那边也出了新动态，OpenAI 发布了 GPT-6 Astra 模型 [11]，虽然具体细节不多，但“发布”这两个字本身就说明大模型迭代没停。搞安全的朋友要注意，Lobsters 上有个关于 Linux 发行版信任链攻击的研究 [12]，这种底层安全问题往往比应用层更致命，值得深挖。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "系统底层这块今天动静也不小。Lobsters 上有个关于 Debian Code Search 用 Go SIMD 加速的文章 [2]，这种性能优化老手看了都得点个赞。另外有个 NetBSD 11 从零开始的项目 [6]，还有关于 NAS 文件系统选择的讨论 [13]，都是硬核内容。GitHub 上 llvm-project [8] 依然是编译器底座的代表，虽然没标星数但重要性不言而喻。少数派有一篇老文章聊 ThinkPad T61p 这最后的 4:3 屏幕 [14]，虽然年代久远，但那种对经典工业设计的怀念，在现在全是 16:10 的屏幕时代显得特别珍贵。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "gadget",
+        "summary": "数码和效率方面，Apple Watch 游泳数据记录的新玩法 [15] 让运动数据不再只是数字，这点挺实用。少数派还聊了顶配公路车 TREK Madone 的评测 [16]，看来不少极客还是懂骑行的。效率工具上，有人整理了无需注册的工具清单 FckSignups [12]，在当下各种注册墙里，这种“无摩擦”的工具太香了。还有 OpenWhispr [15] 这种本地隐私优先的语音转文字应用，放在现在数据隐私越来越受重视的背景下，确实值得推荐。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天的内容里，关于“教育”和“人”的讨论挺触动人的。Lobsters 上有一篇叫“谁教你很重要”的文章 [9]，在这个 AI 生成内容泛滥的时代，导师和老师的角色反而更关键了。还有 1983 年的《自动化的讽刺》被重新提起 [18]，几十年前的担忧今天看来依然有戏。Terence Tao 对 AI 解数学题的质疑 [4]，以及关于“读者造反”的讨论 [1]，都在提醒我们：技术跑得再快，人的判断力不能丢。这些观点比单纯的工具更新更有长期价值。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "The revolt of the reader",
+        "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+        "source": "Lobsters",
+        "desc": "关于读者造反的讨论"
+      },
+      {
+        "num": 2,
+        "title": "Debian Code Search: Fast TurboPFor with Go SIMD",
+        "url": "https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/",
+        "source": "Lobsters",
+        "desc": "Debian 代码搜索性能优化"
+      },
+      {
+        "num": 3,
+        "title": "Terence Tao on prematurely solving a maths problem by purely AI-powered methods",
+        "url": "https://mathstodon.xyz/@tao/117207856734787448",
+        "source": "Lobsters",
+        "desc": "陶哲轩关于 AI 解数学题的观点"
+      },
+      {
+        "num": 4,
+        "title": "Any Nix package, live in your browser",
+        "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
+        "source": "Lobsters",
+        "desc": "在浏览器中运行 Nix 包"
+      },
+      {
+        "num": 5,
+        "title": "There's No Limit to How Bad Code Can Get",
+        "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
+        "source": "Lobsters",
+        "desc": "代码质量无上限讨论"
+      },
+      {
+        "num": 6,
+        "title": "M2: Episode 1 (or, Asahi Linux on M3)",
+        "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+        "source": "Lobsters",
+        "desc": "Asahi Linux 相关更新"
+      },
+      {
+        "num": 7,
+        "title": "NetBSD 11 from scratch",
+        "url": "https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/",
+        "source": "Lobsters",
+        "desc": "NetBSD 11 从零开始项目"
+      },
+      {
+        "num": 8,
+        "title": "zopt: low-ceremony command line parsing for Zig",
+        "url": "https://codeberg.org/hgrsd/zopt",
+        "source": "Lobsters",
+        "desc": "Zig 命令行解析库"
+      },
+      {
+        "num": 9,
+        "title": "It matters who teaches you",
+        "url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
+        "source": "Lobsters",
+        "desc": "教育者的重要性"
+      },
+      {
+        "num": 10,
+        "title": "How To: Federated Stars (2024)",
+        "url": "https://domaindrivenarchitecture.org/blog/2024-06-05-howto-federated-stars/",
+        "source": "Lobsters",
+        "desc": "联邦星架构指南"
+      },
+      {
+        "num": 11,
+        "title": "Who said a tech addict can't be comfortable far from home?",
+        "url": "https://a.l3x.in/blog/my-travel-setup",
+        "source": "Lobsters",
+        "desc": "技术爱好者的旅行部署"
+      },
+      {
+        "num": 12,
+        "title": "Beyond ORMs",
+        "url": "https://noteflakes.com/articles/2026-09-05-beyond-orms",
+        "source": "Lobsters",
+        "desc": "超越 ORM 模式"
+      },
+      {
+        "num": 13,
+        "title": "Trusting-Trust Attack against an Entire Linux Distribution (via the strip utility)",
+        "url": "https://arxiv.org/abs/2607.24888",
+        "source": "Lobsters",
+        "desc": "Linux 发行版信任链攻击研究"
+      },
+      {
+        "num": 14,
+        "title": "What filesystem are you running on your NAS/Backups, and why?",
+        "url": "https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your",
+        "source": "Lobsters",
+        "desc": "NAS 文件系统选择讨论"
+      },
+      {
+        "num": 15,
+        "title": "The Ironies of Automation (1983)",
+        "url": "https://static1.squarespace.com/static/644321e78cd2dd37613af33e/t/6694873f71612132a84371c7/1721009983702/Ironies+of+Automation_Bainbridge_1983.pdf",
+        "source": "Lobsters",
+        "desc": "自动化的讽刺"
+      },
+      {
+        "num": 16,
+        "title": "让 Apple Watch 记录的每一趟游泳数据更有意义",
+        "url": "https://sspai.com/post/114076",
+        "source": "少数派",
+        "desc": "Apple Watch 游泳数据分析"
+      },
+      {
+        "num": 17,
+        "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
+        "url": "https://sspai.com/post/114040",
+        "source": "少数派",
+        "desc": "TREK Madone 评测"
+      },
+      {
+        "num": 18,
+        "title": "本周看什么",
+        "url": "https://sspai.com/post/114175",
+        "source": "少数派",
+        "desc": "本周推荐作品"
+      },
+      {
+        "num": 19,
+        "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
+        "url": "https://sspai.com/post/114110",
+        "source": "少数派",
+        "desc": "软件优惠信息"
+      },
+      {
+        "num": 20,
+        "title": "开学季 | 超级闹钟、算教学周、统计作业",
+        "url": "https://sspai.com/post/114117",
+        "source": "少数派",
+        "desc": "快捷指令分享"
+      },
+      {
+        "num": 21,
+        "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？",
+        "url": "https://sspai.com/bullet/1788244609",
+        "source": "少数派",
+        "desc": "苹果产品回顾投票"
+      },
+      {
+        "num": 22,
+        "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p",
+        "url": "https://sspai.com/post/113990",
+        "source": "少数派",
+        "desc": "ThinkPad T61p 怀旧"
+      },
+      {
+        "num": 23,
+        "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等",
+        "url": "https://sspai.com/post/114164",
+        "source": "少数派",
+        "desc": "AI 模型新闻摘要"
+      },
+      {
+        "num": 24,
+        "title": "新玩意 251｜少数派的编辑们最近买了啥？",
+        "url": "https://sspai.com/post/114154",
+        "source": "少数派",
+        "desc": "编辑好物推荐"
+      },
+      {
+        "num": 25,
+        "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
+        "url": "https://sspai.com/post/113998",
+        "source": "少数派",
+        "desc": "MUJI 耳机体验"
+      },
+      {
+        "num": 26,
+        "title": "八月买了什么好东西？一派讨论",
+        "url": "https://sspai.com/bullet/1787798597",
+        "source": "少数派",
+        "desc": "八月好物讨论"
+      },
+      {
+        "num": 27,
+        "title": "当说起「Hi-Fi」时，我们到底在追求什么？",
+        "url": "https://sspai.com/post/113159",
+        "source": "少数派",
+        "desc": "Hi-Fi 文化探讨"
+      }
+    ],
+    "stats": {
+      "total_items": 27,
+      "total_categories": 4,
+      "total_sources": 1
+    }
+  }
+}
