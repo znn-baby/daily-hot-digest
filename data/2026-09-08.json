@@ -1,0 +1,923 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "heygen-com / hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "stars": "45453",
+      "stars_today": "734 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "microsoft / markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "stars": "179873",
+      "stars_today": "771 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": "20711",
+      "stars_today": "147 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 4,
+      "title": "jo-inc / camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "stars": "9530",
+      "stars_today": "285 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 5,
+      "title": "MoonTechLab / LunaTV",
+      "url": "https://github.com/MoonTechLab/LunaTV",
+      "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "stars": "9665",
+      "stars_today": "171 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 6,
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "252589",
+      "stars_today": "1,905 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 7,
+      "title": "coreyhaines31 / marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars": "48002",
+      "stars_today": "602 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 8,
+      "title": "The-Swarm-Corporation / AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "stars": "5151",
+      "stars_today": "541 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "BraveOPotato / FckSignups",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "stars": "3709",
+      "stars_today": "497 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 10,
+      "title": "bytedance / deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": "81771",
+      "stars_today": "188 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 11,
+      "title": "openai / skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "stars": "25933",
+      "stars_today": "372 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 12,
+      "title": "lightpanda-io / browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": "34755",
+      "stars_today": "116 stars today",
+      "language": "Zig"
+    },
+    {
+      "rank": 13,
+      "title": "pascalorg / editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "stars": "22224",
+      "stars_today": "136 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 14,
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": "71301",
+      "stars_today": "392 stars today",
+      "language": "TypeScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "A faster way to convert a timestamp to Hour, Min, Sec",
+      "url": "https://www.benjoffe.com/fast-time-of-day",
+      "source_url": "https://www.benjoffe.com/fast-time-of-day",
+      "tags": [
+        "c++",
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "The shortest IPv6 addresses",
+      "url": "https://ache.one/notes/vanity-ipv6",
+      "source_url": "https://ache.one/notes/vanity-ipv6",
+      "tags": [
+        "networking"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "source_url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "tags": [
+        "rust",
+        "wasm"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Two Tiny Utils for the Result Pattern",
+      "url": "https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern",
+      "source_url": "https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern",
+      "tags": [
+        "javascript"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Internationalization and Localization",
+      "url": "https://www.kashyapsuhas.com/blog/i18n-l10n",
+      "source_url": "https://www.kashyapsuhas.com/blog/i18n-l10n",
+      "tags": [
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Python Iceberg",
+      "url": "https://aleyan.com/projects/python-iceberg/",
+      "source_url": "https://aleyan.com/projects/python-iceberg/",
+      "tags": [
+        "python",
+        "vibecoding",
+        "visualization"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Rust debugging survey 2026 results",
+      "url": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
+      "source_url": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "How well do agents use test/verification techniques?",
+      "url": "https://danluu.com/agentic-testing/",
+      "source_url": "https://danluu.com/agentic-testing/",
+      "tags": [
+        "testing",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "Demystifying complex configurations",
+      "url": "https://guix.gnu.org/blog/2026/demystifying-complex-configurations//",
+      "source_url": "https://guix.gnu.org/blog/2026/demystifying-complex-configurations//",
+      "tags": [
+        "nix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "QBittorrent breaks out of sandbox to commit crimes",
+      "url": "https://beige.party/@intransitivelie/117057396732763183",
+      "source_url": "https://beige.party/@intransitivelie/117057396732763183",
+      "tags": [
+        "satire",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "GEM for Linux provides a classic graphical desktop with windows, menus, dialogs & a 68K emulator",
+      "url": "https://github.com/triglav-os/gem",
+      "source_url": "https://github.com/triglav-os/gem",
+      "tags": [
+        "osdev",
+        "retrocomputing",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Following legal advice, the Nitter project will continue",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "source_url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "tags": [
+        "culture",
+        "privacy",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "What are you doing this week?",
+      "url": "https://lobste.rs/s/xm0hkw/what_are_you_doing_this_week",
+      "source_url": "https://lobste.rs/s/xm0hkw/what_are_you_doing_this_week",
+      "tags": [
+        "ask",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "\"Hammock Driven Development\" (2010)",
+      "url": "https://youtu.be/f84n5oFoZBc",
+      "source_url": "https://youtu.be/f84n5oFoZBc",
+      "tags": [
+        "video",
+        "practices"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "source_url": "https://austinhenley.com/blog/python1024.html",
+      "tags": [
+        "compilers"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "派评｜近期值得关注的 App少数派编辑部昨天 18:08",
+      "url": "https://sspai.com/post/114288",
+      "author": "少数派编辑部",
+      "summary": "派评｜近期值得关注的 App"
+    },
+    {
+      "rank": 2,
+      "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥一群小羊说昨天 15:00",
+      "url": "https://sspai.com/post/113877",
+      "author": "一群小羊说",
+      "summary": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥"
+    },
+    {
+      "rank": 3,
+      "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记随便好啦昨天 11:10Matrix精选",
+      "url": "https://sspai.com/post/114103",
+      "author": "随便好啦",
+      "summary": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策少数派编辑部昨天 08:20派早报",
+      "url": "https://sspai.com/post/114250",
+      "author": "少数派编辑部",
+      "summary": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策"
+    },
+    {
+      "rank": 5,
+      "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1788244609",
+      "author": "一派投票",
+      "summary": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？"
+    },
+    {
+      "rank": 6,
+      "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游ElijahLee前天 15:00",
+      "url": "https://sspai.com/post/114076",
+      "author": "ElijahLee",
+      "summary": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游"
+    },
+    {
+      "rank": 7,
+      "title": "最值得买的顶级公路车？TREK 八代 Madone 评测写小黑文的Alex09/05Matrix精选",
+      "url": "https://sspai.com/post/114040",
+      "author": "写小黑文的Alex",
+      "summary": "最值得买的顶级公路车？TREK 八代 Madone 评测"
+    },
+    {
+      "rank": 8,
+      "title": "本周看什么 | 最近值得一看的 8 部作品少数派编辑部09/04",
+      "url": "https://sspai.com/post/114175",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 8 部作品"
+    },
+    {
+      "rank": 9,
+      "title": "新学期，新气象：正版软件 & 付费栏目限时优惠多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。福利派09/04商店",
+      "url": "https://sspai.com/post/114110",
+      "author": "福利派",
+      "summary": "新学期，新气象：正版软件 & 付费栏目限时优惠"
+    },
+    {
+      "rank": 10,
+      "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点谷雨G2rain09/04",
+      "url": "https://sspai.com/post/114117",
+      "author": "谷雨G2rain",
+      "summary": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点"
+    },
+    {
+      "rank": 11,
+      "title": "八月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1787798597",
+      "author": "一派讨论",
+      "summary": "八月买了什么好东西？"
+    },
+    {
+      "rank": 12,
+      "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p随便好啦09/04Matrix精选",
+      "url": "https://sspai.com/post/113990",
+      "author": "随便好啦",
+      "summary": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ThinkPad T61p"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "郑钦文逆转震惊美网",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%80%86%E8%BD%AC%E9%9C%87%E6%83%8A%E7%BE%8E%E7%BD%91",
+      "hot_value": 2090000
+    },
+    {
+      "rank": 2,
+      "title": "信息通信行业发展十五五规划要点",
+      "url": "https://s.weibo.com/weibo?q=%E4%BF%A1%E6%81%AF%E9%80%9A%E4%BF%A1%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E8%A6%81%E7%82%B9",
+      "hot_value": 600000
+    },
+    {
+      "rank": 3,
+      "title": "张雅琪后继有人了",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E5%90%8E%E7%BB%A7%E6%9C%89%E4%BA%BA%E4%BA%86",
+      "hot_value": 330000
+    },
+    {
+      "rank": 4,
+      "title": "余承东建议苹果用户买华为备用机",
+      "url": "https://s.weibo.com/weibo?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BB%BA%E8%AE%AE%E8%8B%B9%E6%9E%9C%E7%94%A8%E6%88%B7%E4%B9%B0%E5%8D%8E%E4%B8%BA%E5%A4%87%E7%94%A8%E6%9C%BA",
+      "hot_value": 280000
+    },
+    {
+      "rank": 5,
+      "title": "赵一鸣致歉",
+      "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%80%E9%B8%A3%E8%87%B4%E6%AD%89",
+      "hot_value": 260000
+    },
+    {
+      "rank": 6,
+      "title": "拉面范中国国家队的选择",
+      "url": "https://s.weibo.com/weibo?q=%E6%8B%89%E9%9D%A2%E8%8C%83%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%9A%84%E9%80%89%E6%8B%A9",
+      "hot_value": 260000
+    },
+    {
+      "rank": 7,
+      "title": "郑钦文vs斯维亚泰克前瞻",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E6%96%AF%E7%BB%B4%E4%BA%9A%E6%B3%B0%E5%85%8B%E5%89%8D%E7%9E%BB",
+      "hot_value": 210000
+    },
+    {
+      "rank": 8,
+      "title": "雷军状态被赞夯爆了",
+      "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E7%8A%B6%E6%80%81%E8%A2%AB%E8%B5%9E%E5%A4%AF%E7%88%86%E4%BA%86",
+      "hot_value": 160000
+    },
+    {
+      "rank": 9,
+      "title": "郑钦文慢热",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%85%A2%E7%83%AD",
+      "hot_value": 160000
+    },
+    {
+      "rank": 10,
+      "title": "老九长文",
+      "url": "https://s.weibo.com/weibo?q=%E8%80%81%E4%B9%9D%E9%95%BF%E6%96%87",
+      "hot_value": 160000
+    },
+    {
+      "rank": 11,
+      "title": "偶像剧 软色情宣传",
+      "url": "https://s.weibo.com/weibo?q=%E5%81%B6%E5%83%8F%E5%89%A7+%E8%BD%AF%E8%89%B2%E6%83%85%E5%AE%A3%E4%BC%A0",
+      "hot_value": 160000
+    },
+    {
+      "rank": 12,
+      "title": "郑钦文连场让5追7",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E8%BF%9E%E5%9C%BA%E8%AE%A95%E8%BF%BD7",
+      "hot_value": 160000
+    },
+    {
+      "rank": 13,
+      "title": "郑钦文连胜斯瓦泰克7局",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E8%BF%9E%E8%83%9C%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B7%E5%B1%80",
+      "hot_value": 160000
+    },
+    {
+      "rank": 14,
+      "title": "郑钦文逆境破发",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%80%86%E5%A2%83%E7%A0%B4%E5%8F%91",
+      "hot_value": 150000
+    },
+    {
+      "rank": 15,
+      "title": "宝格丽高珠晚宴",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%AB%98%E7%8F%A0%E6%99%9A%E5%AE%B4",
+      "hot_value": 150000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "从贫困生喝咖啡疑被举报到看演唱会疑被取消低保，贫困户的「高消费」到底咋划定？为何相关话题讨论经久不衰",
+      "url": "https://www.zhihu.com/question/2080237961358963743",
+      "hot_value": 7610000
+    },
+    {
+      "rank": 2,
+      "title": "吃播网红干饭莹莹去世年仅 24 岁，其曾称「反复吃，钾流失」，钾流失有多危险？哪些因素可能导致钾流失",
+      "url": "https://www.zhihu.com/question/2080369515049611651",
+      "hot_value": 7410000
+    },
+    {
+      "rank": 3,
+      "title": "耐克将被移出标普 100 指数，市值五年累计缩水约 79%，耐克怎么了",
+      "url": "https://www.zhihu.com/question/2080244526510072630",
+      "hot_value": 5610000
+    },
+    {
+      "rank": 4,
+      "title": "如何评价 9 月 7 日发布的小米澎程 SUV",
+      "url": "https://www.zhihu.com/question/2080231640031126537",
+      "hot_value": 2720000
+    },
+    {
+      "rank": 5,
+      "title": "河南一女子外出喝酒致 3 岁儿子反锁屋内身亡，被判过失致人死亡罪，如何从法律角度解读？类似悲剧能如何避免",
+      "url": "https://www.zhihu.com/question/2080049944279375932",
+      "hot_value": 2710000
+    },
+    {
+      "rank": 6,
+      "title": "如何看待全球最大纯电飞机 Heart X1 首飞 27 分钟电费仅用了 5 美元？电动客机能颠覆传统支线航空吗",
+      "url": "https://www.zhihu.com/question/2080085427713791251",
+      "hot_value": 2160000
+    },
+    {
+      "rank": 7,
+      "title": "有没有一部公认的烂片，你觉得，其实它被严重低估了",
+      "url": "https://www.zhihu.com/question/2076564004877685708",
+      "hot_value": 1910000
+    },
+    {
+      "rank": 8,
+      "title": "大众汽车宣布行业有史以来最大规模重组，裁员 10 万、车型砍半、关停 4 厂，背后有哪些深层原因",
+      "url": "https://www.zhihu.com/question/2079147986958004937",
+      "hot_value": 1640000
+    },
+    {
+      "rank": 9,
+      "title": "怎么礼貌拒绝火车上情侣换座位",
+      "url": "https://www.zhihu.com/question/37088078",
+      "hot_value": 1540000
+    },
+    {
+      "rank": 10,
+      "title": "贵中医二附院一医生被藏刀锦旗患者捅伤，致重伤在 ICU 抢救，这反映了当前医患关系的哪些问题",
+      "url": "https://www.zhihu.com/question/2079721065136250959",
+      "hot_value": 1440000
+    },
+    {
+      "rank": 11,
+      "title": "星宇股份就调岗减员错误道歉并发布公告，回看整场事件，应届生的哪些维权动作起到了关键作用",
+      "url": "https://www.zhihu.com/question/2080281820214423804",
+      "hot_value": 1240000
+    },
+    {
+      "rank": 12,
+      "title": "如何评价华为 9 月 7 日全球直播的新品发布会？有哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2080237392129274336",
+      "hot_value": 1210000
+    },
+    {
+      "rank": 13,
+      "title": "iPhone Ultra 没有消除屏幕折痕，国行或 14999 元起，「折痕」难题究竟卡在哪里",
+      "url": "https://www.zhihu.com/question/2078837455386630111",
+      "hot_value": 1200000
+    },
+    {
+      "rank": 14,
+      "title": "多款手机集体涨价，有经销商称本以为会迎来抢购潮，结果询价者寥寥无几，哪里出了问题",
+      "url": "https://www.zhihu.com/question/2078836573454459390",
+      "hot_value": 1200000
+    },
+    {
+      "rank": 15,
+      "title": "9 月 7 日至 12 日中国人民解放军陆军派出兵力赴俄罗斯参加实兵演习，有哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2079279942580418480",
+      "hot_value": 1190000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "bzip3",
+      "url": "https://github.com/iczelia/bzip3",
+      "score": 251,
+      "author": "tosh",
+      "comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=49598291"
+    },
+    {
+      "rank": 2,
+      "title": "Keep Our Servers Running",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "score": 843,
+      "author": "sonicrocketman",
+      "comments": 211,
+      "hn_url": "https://news.ycombinator.com/item?id=49593563"
+    },
+    {
+      "rank": 3,
+      "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+      "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+      "score": 7,
+      "author": "Areibman",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49601338"
+    },
+    {
+      "rank": 4,
+      "title": "C Is Not a Low-Level Language (2018)",
+      "url": "https://queue.acm.org/doi/10.1145/3212477.3212479",
+      "score": 33,
+      "author": "tosh",
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49599609"
+    },
+    {
+      "rank": 5,
+      "title": "Simple Is Not Small",
+      "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+      "score": 98,
+      "author": "zdw",
+      "comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=49558685"
+    },
+    {
+      "rank": 6,
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "url": "https://mathathonchallenge.com/index.html",
+      "score": 168,
+      "author": "astroanax",
+      "comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=49596055"
+    },
+    {
+      "rank": 7,
+      "title": "The Dataflow Model Revisited",
+      "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+      "score": 38,
+      "author": "scott_s",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49589190"
+    },
+    {
+      "rank": 8,
+      "title": "Decoding the NEC V20 Microcode",
+      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+      "score": 44,
+      "author": "mariuz",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49561002"
+    },
+    {
+      "rank": 9,
+      "title": "PostgreSQL 19 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/postgres-19/index.html",
+      "score": 30,
+      "author": "valyala",
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49600432"
+    },
+    {
+      "rank": 10,
+      "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+      "url": "https://news.ycombinator.com/item?id=49600233",
+      "score": 97,
+      "author": "spwa4",
+      "comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=49600233"
+    },
+    {
+      "rank": 11,
+      "title": "Live map of public transport in Belgium",
+      "url": "https://openbaarvervoerbelgie.be/",
+      "score": 158,
+      "author": "coinfused",
+      "comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=49595865"
+    },
+    {
+      "rank": 12,
+      "title": "No constitutional right to clean water, federal court finds",
+      "url": "https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/",
+      "score": 38,
+      "author": "measurablefunc",
+      "comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=49600997"
+    },
+    {
+      "rank": 13,
+      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+      "score": 1032,
+      "author": "chris_overseas",
+      "comments": 475,
+      "hn_url": "https://news.ycombinator.com/item?id=49594878"
+    },
+    {
+      "rank": 14,
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "score": 109,
+      "author": "ankitg12",
+      "comments": 38,
+      "hn_url": "https://news.ycombinator.com/item?id=49596054"
+    },
+    {
+      "rank": 15,
+      "title": "De-Brainrot Vacations",
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "score": 418,
+      "author": "DanielVZ",
+      "comments": 170,
+      "hn_url": "https://news.ycombinator.com/item?id=49597907"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI Agent 与自动化",
+        "color": "ai",
+        "summary": "今天 GitHub 上的 AI Agent 生态简直是爆炸式增长。bytedance 的 deer-flow[1] 号称是开源长周期超级代理，能自主调研写代码，还自带沙箱和记忆功能，简直是给大模型装上了“手脚”。mksglu 的 context-mode[2] 也很硬核，专门优化 AI 编码代理的上下文窗口，把输出结果缩小了 98%，还能通过 MCP 路由到 17 个不同平台，搞开发的朋友这个得试试。affaan-m 的 ECC[3] 也是个不错的代理框架，主打性能优化，把技能、直觉、记忆和安全都整合在一起，支持 Claude Code 和 Codex 等多种环境。Lightpanda 的浏览器[4] 专为 AI 自动化设计，Headless 性能不错，适合做爬虫或者自动测试。\n\nLobsters 社区里大家也在讨论 Agent 到底怎么测试，有一篇文章专门分析“代理如何使用测试/验证技术”[5]，感觉现在 AI 越来越聪明，但怎么确保它不胡来是个大课题。另外还有个挺有意思的 Rust 调试调查[6]，虽然不算 Agent 但能看出底层语言社区对稳定性的重视，毕竟 Agent 跑起来要是崩了更麻烦。少数派那边也提到了微软的 Project Zenith[7]，感觉大厂都在押注 AI 原生应用，这波竞争确实有点意思。"
+      },
+      {
+        "name": "开发工具与工程实践",
+        "color": "dev",
+        "summary": "工具人今天也有好东西看。微软的 markitdown[8] 是个老熟人了，把 Office 文档转 Markdown 很方便，现在转成 HTML 视频更牛了。微软最近还开源了 skills 目录[9]，专门给 Codex 整理技能库，让模型知道该怎么干活。GitHub Trending 里有个叫 FckSignups 的项目[10]，简直是打工人福音，列了一堆不需要注册、免签名的开源工具，在这个 Fill-in-the-form 的时代太实用了。\n\n社区讨论方面，有个博主发了个 Python Iceberg 项目[11]，名字听起来很酷，其实是做数据可视化的，据说能像看冰川一样看数据。还有个挺硬核的，有人用 1024 字节写了一个 Python 解释器[12]，这种极致压缩的代码虽然不能取代完整版，但拿来当玩具或者教学特别有意思。少数派里有人分享了几个让学校生活变轻松的快捷指令[13]，虽然是效率工具，但也能侧面反映大家对时间管理的焦虑，毕竟开学季嘛。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术这块儿动静不小。Anubis 团队搞了个 WebAssembly 的落地，花了一年才把 Wasm 集成进去，虽然慢点但稳得很[14]。还有个关于 Result Pattern 的小工具[15]，虽然说是 Two Tiny Utils，但在 Rust 这种强类型语言里，处理好错误模式真的很关键。\n\nLobsters 上有个帖子吐槽 QBittorrent 突破沙箱去“犯罪”[16]，虽然是 satire（讽刺）贴，但也提醒我们沙箱逃逸在安全领域永远是热点，搞安全的朋友必须关注这类边界问题。还有个关于 IPv6 地址最短化的讨论[17]，网络基础里的老问题了，现在大家还是这么在意。少数派有一篇怀旧手记，聊了聊 iBook G3 Snow，那是定义了 Apple 10 年的白色产品[18]，看着老物件总能勾起对过去硬件设计的回忆，那时候的设计美学和现在真的很不一样。"
+      },
+      {
+        "name": "数码产品与效率",
+        "color": "gadget",
+        "summary": "数码圈今天没什么特别炸裂的硬件发布，更多的是软件层面的挖掘。少数派有一篇评测 TREK 八代 Madone 公路车[19]，对于骑行党来说，顶级公路车的选择确实是个大工程。Tim Cook 掌舵十五年那篇投票[20] 也挺有意思，大家开始回顾苹果真正改变生活的那些产品，不仅仅是 iPhone 和 iPad，还有很多被忽略的配件。\n\n还有个让 Apple Watch 游泳记录更有意义的 App 推荐[21]，虽然是小功能，但能解决痛点就是好工具。另外有个关于 Apple Watch 游泳数据的讨论[22]，感觉大家现在对健康数据的要求越来越精细了。GitHub 上有个叫 hyperframes 的项目[23]，能把 HTML 渲染成视频，专门给 Agent 用的，这个结合点挺新颖，以后做 Agent 生成的视频内容可能就这么来。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "deer-flow: An open-source long-horizon SuperAgent harness",
+        "url": "https://github.com/bytedance/deer-flow",
+        "source": "GitHub Trending",
+        "desc": "长周期超级代理，支持研究、编码和创作，自带沙箱和记忆。"
+      },
+      {
+        "num": 2,
+        "title": "context-mode: Context window optimization for AI coding agents",
+        "url": "https://github.com/mksglu/context-mode",
+        "source": "GitHub Trending",
+        "desc": "优化 AI 编码代理上下文窗口，大幅减少输出，支持多平台路由。"
+      },
+      {
+        "num": 3,
+        "title": "ECC: The agent harness performance optimization system",
+        "url": "https://github.com/affaan-m/ECC",
+        "source": "GitHub Trending",
+        "desc": "代理性能优化系统，整合技能、记忆和安全，支持多种 AI 环境。"
+      },
+      {
+        "num": 4,
+        "title": "Lightpanda: the headless browser designed for AI and automation",
+        "url": "https://github.com/lightpanda-io/browser",
+        "source": "GitHub Trending",
+        "desc": "专为 AI 和自动化设计的无头浏览器。"
+      },
+      {
+        "num": 5,
+        "title": "How well do agents use test/verification techniques?",
+        "url": "https://danluu.com/agentic-testing/",
+        "source": "Lobsters",
+        "desc": "讨论 AI 代理在测试和验证技术方面的使用现状。"
+      },
+      {
+        "num": 6,
+        "title": "Rust debugging survey 2026 results",
+        "url": "https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/",
+        "source": "Lobsters",
+        "desc": "2026 年 Rust 调试调查结果，反映底层语言社区关注点。"
+      },
+      {
+        "num": 7,
+        "title": "派早报：微软公布 Project Zenith 计划",
+        "url": "https://sspai.com/post/114250",
+        "source": "少数派",
+        "desc": "微软公布新的 AI 项目计划，引发行业关注。"
+      },
+      {
+        "num": 8,
+        "title": "markitdown: Python tool for converting files and office documents to Markdown",
+        "url": "https://github.com/microsoft/markitdown",
+        "source": "GitHub Trending",
+        "desc": "微软出品的文档转 Markdown 工具。"
+      },
+      {
+        "num": 9,
+        "title": "Skills Catalog for Codex",
+        "url": "https://github.com/openai/skills",
+        "source": "GitHub Trending",
+        "desc": "OpenAI 为 Codex 整理的技能目录。"
+      },
+      {
+        "num": 10,
+        "title": "FckSignups: A list of tools that are open-source, in-browser, and require no-signups!",
+        "url": "https://github.com/BraveOPotato/FckSignups",
+        "source": "GitHub Trending",
+        "desc": "无需注册、免签名的开源工具列表。"
+      },
+      {
+        "num": 11,
+        "title": "Python Iceberg",
+        "url": "https://aleyan.com/projects/python-iceberg/",
+        "source": "Lobsters",
+        "desc": "Python 数据可视化工具，概念设计独特。"
+      },
+      {
+        "num": 12,
+        "title": "Making a Python interpreter in 1024 bytes",
+        "url": "https://austinhenley.com/blog/python1024.html",
+        "source": "Lobsters",
+        "desc": "用 1024 字节编写 Python 解释器的极简实践。"
+      },
+      {
+        "num": 13,
+        "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
+        "url": "https://sspai.com/post/114117",
+        "source": "少数派",
+        "desc": "分享三条帮助学校生活的快捷指令。"
+      },
+      {
+        "num": 14,
+        "title": "It took a year to ship WebAssembly in Anubis",
+        "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+        "source": "Lobsters",
+        "desc": "Anubis 项目耗时一年集成 WebAssembly 的历程。"
+      },
+      {
+        "num": 15,
+        "title": "Two Tiny Utils for the Result Pattern",
+        "url": "https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern",
+        "source": "Lobsters",
+        "desc": "针对 Rust Result 模式的两个实用工具。"
+      },
+      {
+        "num": 16,
+        "title": "QBittorrent breaks out of sandbox to commit crimes",
+        "url": "https://beige.party/@intransitivelie/117057396732763183",
+        "source": "Lobsters",
+        "desc": "关于 QBittorrent 突破沙箱的讽刺讨论。"
+      },
+      {
+        "num": 17,
+        "title": "The shortest IPv6 addresses",
+        "url": "https://ache.one/notes/vanity-ipv6",
+        "source": "Lobsters",
+        "desc": "关于 IPv6 地址最短化的技术讨论。"
+      },
+      {
+        "num": 18,
+        "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记",
+        "url": "https://sspai.com/post/114103",
+        "source": "少数派",
+        "desc": "回顾 iBook G3 Snow 及其对 Apple 产品定义的影响。"
+      },
+      {
+        "num": 19,
+        "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
+        "url": "https://sspai.com/post/114040",
+        "source": "少数派",
+        "desc": "对 TREK 八代 Madone 公路车的详细评测。"
+      },
+      {
+        "num": 20,
+        "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？",
+        "url": "https://sspai.com/bullet/1788244609",
+        "source": "少数派",
+        "desc": "用户对 Tim Cook 任期内改变生活的苹果产品进行投票。"
+      },
+      {
+        "num": 21,
+        "title": "让 Apple Watch 记录的每一趟游泳数据更有意义",
+        "url": "https://sspai.com/post/114076",
+        "source": "少数派",
+        "desc": "推荐提升 Apple Watch 游泳数据价值的 App。"
+      },
+      {
+        "num": 22,
+        "title": "八月买了什么好东西？一派讨论",
+        "url": "https://sspai.com/bullet/1787798597",
+        "source": "少数派",
+        "desc": "用户分享八月购买的好物并进行讨论。"
+      },
+      {
+        "num": 23,
+        "title": "hyperframes: Write HTML. Render video. Built for agents.",
+        "url": "https://github.com/heygen-com/hyperframes",
+        "source": "GitHub Trending",
+        "desc": "将 HTML 渲染为视频，专为 AI 代理设计。"
+      }
+    ],
+    "stats": {
+      "total_items": 23,
+      "total_categories": 4,
+      "total_sources": 3
+    }
+  }
+}
