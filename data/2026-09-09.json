@@ -1,0 +1,932 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "ayghri / i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": "29281",
+      "stars_today": "422 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 2,
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "34315",
+      "stars_today": "1,020 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 3,
+      "title": "openai / skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "stars": "26411",
+      "stars_today": "490 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "254006",
+      "stars_today": "1,426 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 5,
+      "title": "heygen-com / hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "stars": "47559",
+      "stars_today": "2,628 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 6,
+      "title": "coreyhaines31 / marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars": "48661",
+      "stars_today": "666 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 7,
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": "283219",
+      "stars_today": "446 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 8,
+      "title": "multica-ai / andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "211294",
+      "stars_today": "325 stars today",
+      "language": ""
+    },
+    {
+      "rank": 9,
+      "title": "microsoft / markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "stars": "181492",
+      "stars_today": "2,045 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 10,
+      "title": "jo-inc / camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "stars": "10340",
+      "stars_today": "872 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 11,
+      "title": "MoonTechLab / LunaTV",
+      "url": "https://github.com/MoonTechLab/LunaTV",
+      "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "stars": "10131",
+      "stars_today": "505 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 12,
+      "title": "browser-use / browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": "113291",
+      "stars_today": "320 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 13,
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": "21303",
+      "stars_today": "652 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 14,
+      "title": "The-Swarm-Corporation / AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "stars": "5600",
+      "stars_today": "494 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 15,
+      "title": "viarotel-org / escrcpy",
+      "url": "https://github.com/viarotel-org/escrcpy",
+      "description": "📱 Display and control your Android device graphically with scrcpy.",
+      "stars": "11303",
+      "stars_today": "173 stars today",
+      "language": "JavaScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "I changed my license to EUPL",
+      "url": "https://bergie.iki.fi/blog/eupl/",
+      "source_url": "https://bergie.iki.fi/blog/eupl/",
+      "tags": [
+        "law"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "The state of European cloud providers in 2026",
+      "url": "https://crescentro.se/posts/euro-cloud-providers-2026/",
+      "source_url": "https://crescentro.se/posts/euro-cloud-providers-2026/",
+      "tags": [
+        "scaling"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "Switching Password Managers in 2026",
+      "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+      "source_url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+      "tags": [
+        "practices",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Extreme Server Side Rendering",
+      "url": "https://www.scd31.com/posts/extreme-server-side-rendering",
+      "source_url": "https://www.scd31.com/posts/extreme-server-side-rendering",
+      "tags": [
+        "browsers",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Jellyfin 12.0",
+      "url": "https://jellyfin.org/posts/jellyfin-release-12.0",
+      "source_url": "https://jellyfin.org/posts/jellyfin-release-12.0",
+      "tags": [
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Bitap: my favorite string matching algorithm",
+      "url": "https://jo3-l.dev/posts/bitap/",
+      "source_url": "https://jo3-l.dev/posts/bitap/",
+      "tags": [
+        "compsci"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "How to get a free .arpa domain",
+      "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+      "source_url": "https://hawksley.dev/blog/get-free-arpa-domain",
+      "tags": [
+        "networking"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "This Month in Ladybird - August 2026",
+      "url": "https://ladybird.org/newsletter/2026-08-31/",
+      "source_url": "https://ladybird.org/newsletter/2026-08-31/",
+      "tags": [
+        "browsers"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "A faster way to convert a timestamp to Hour, Min, Sec",
+      "url": "https://www.benjoffe.com/fast-time-of-day",
+      "source_url": "https://www.benjoffe.com/fast-time-of-day",
+      "tags": [
+        "c++",
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "My Nix Config Is Intimate",
+      "url": "https://www.scd31.com/posts/nix-files-are-intimate",
+      "source_url": "https://www.scd31.com/posts/nix-files-are-intimate",
+      "tags": [
+        "nix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "x86 evolution for segmentation and paging",
+      "url": "https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/",
+      "source_url": "https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/",
+      "tags": [
+        "assembly",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "I’ve factored the RSA keys of a Certificate Authority…from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "source_url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "CERN's migration path from CentOS Linux to Debian",
+      "url": "https://lwn.net/SubscriberLink/1092512/0772b817c369632b/",
+      "source_url": "https://lwn.net/SubscriberLink/1092512/0772b817c369632b/",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "Emacs Bedrock 2.0 Released",
+      "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+      "source_url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+      "tags": [
+        "emacs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "Finite-time blowup with smooth forcing for 3D incompressible Euler, Boussinesq, and IPM",
+      "url": "https://mastodon.social/@tristanbuckmaster/117233413705701198",
+      "source_url": "https://mastodon.social/@tristanbuckmaster/117233413705701198",
+      "tags": [
+        "math",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？Nnnobel昨天 18:14会员内容",
+      "url": "https://sspai.com/prime/story/sidecar-optimizations",
+      "author": "Nnnobel",
+      "summary": "Apple「随航」的无感体验里，藏着多少流畅的秘密？"
+    },
+    {
+      "rank": 2,
+      "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源Matrix机器人昨天 17:00",
+      "url": "https://sspai.com/post/114327",
+      "author": "Matrix机器人",
+      "summary": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源"
+    },
+    {
+      "rank": 3,
+      "title": "一日一技｜我的 Windows 11 头像会动，你也可以克莱德昨天 15:00",
+      "url": "https://sspai.com/post/114312",
+      "author": "克莱德",
+      "summary": "一日一技｜我的 Windows 11 头像会动，你也可以"
+    },
+    {
+      "rank": 4,
+      "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日SIMON_昨天 11:06",
+      "url": "https://sspai.com/post/113299",
+      "author": "SIMON_",
+      "summary": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日"
+    },
+    {
+      "rank": 5,
+      "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等少数派编辑部昨天 08:07派早报",
+      "url": "https://sspai.com/post/114307",
+      "author": "少数派编辑部",
+      "summary": "派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等"
+    },
+    {
+      "rank": 6,
+      "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1788244609",
+      "author": "一派投票",
+      "summary": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？"
+    },
+    {
+      "rank": 7,
+      "title": "派评｜近期值得关注的 App少数派编辑部前天 18:08",
+      "url": "https://sspai.com/post/114288",
+      "author": "少数派编辑部",
+      "summary": "派评｜近期值得关注的 App"
+    },
+    {
+      "rank": 8,
+      "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥一群小羊说前天 15:00",
+      "url": "https://sspai.com/post/113877",
+      "author": "一群小羊说",
+      "summary": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥"
+    },
+    {
+      "rank": 9,
+      "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记随便好啦前天 11:10Matrix精选",
+      "url": "https://sspai.com/post/114103",
+      "author": "随便好啦",
+      "summary": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记"
+    },
+    {
+      "rank": 10,
+      "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策少数派编辑部前天 08:20派早报",
+      "url": "https://sspai.com/post/114250",
+      "author": "少数派编辑部",
+      "summary": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策"
+    },
+    {
+      "rank": 11,
+      "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游ElijahLee09/06",
+      "url": "https://sspai.com/post/114076",
+      "author": "ElijahLee",
+      "summary": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游"
+    },
+    {
+      "rank": 12,
+      "title": "八月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1787798597",
+      "author": "一派讨论",
+      "summary": "八月买了什么好东西？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "金球奖",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E7%90%83%E5%A5%96",
+      "hot_value": 790000
+    },
+    {
+      "rank": 2,
+      "title": "我国进出口连续4个月保持两位数增长",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E8%BF%9B%E5%87%BA%E5%8F%A3%E8%BF%9E%E7%BB%AD4%E4%B8%AA%E6%9C%88%E4%BF%9D%E6%8C%81%E4%B8%A4%E4%BD%8D%E6%95%B0%E5%A2%9E%E9%95%BF",
+      "hot_value": 580000
+    },
+    {
+      "rank": 3,
+      "title": "这样的吃播该全面叫停了",
+      "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%A0%B7%E7%9A%84%E5%90%83%E6%92%AD%E8%AF%A5%E5%85%A8%E9%9D%A2%E5%8F%AB%E5%81%9C%E4%BA%86",
+      "hot_value": 460000
+    },
+    {
+      "rank": 4,
+      "title": "医生眼里让大脑休息最好的方法",
+      "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%94%9F%E7%9C%BC%E9%87%8C%E8%AE%A9%E5%A4%A7%E8%84%91%E4%BC%91%E6%81%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%96%B9%E6%B3%95",
+      "hot_value": 450000
+    },
+    {
+      "rank": 5,
+      "title": "雷军发布会后发长文",
+      "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E5%8F%91%E5%B8%83%E4%BC%9A%E5%90%8E%E5%8F%91%E9%95%BF%E6%96%87",
+      "hot_value": 450000
+    },
+    {
+      "rank": 6,
+      "title": "吃播已成吃人的流量赛道",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%83%E6%92%AD%E5%B7%B2%E6%88%90%E5%90%83%E4%BA%BA%E7%9A%84%E6%B5%81%E9%87%8F%E8%B5%9B%E9%81%93",
+      "hot_value": 450000
+    },
+    {
+      "rank": 7,
+      "title": "栾念为了见尚之桃飞西北20次",
+      "url": "https://s.weibo.com/weibo?q=%E6%A0%BE%E5%BF%B5%E4%B8%BA%E4%BA%86%E8%A7%81%E5%B0%9A%E4%B9%8B%E6%A1%83%E9%A3%9E%E8%A5%BF%E5%8C%9720%E6%AC%A1",
+      "hot_value": 450000
+    },
+    {
+      "rank": 8,
+      "title": "华为 备用机",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA+%E5%A4%87%E7%94%A8%E6%9C%BA",
+      "hot_value": 450000
+    },
+    {
+      "rank": 9,
+      "title": "于文文说很难对男生有心动的感觉",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%8E%E6%96%87%E6%96%87%E8%AF%B4%E5%BE%88%E9%9A%BE%E5%AF%B9%E7%94%B7%E7%94%9F%E6%9C%89%E5%BF%83%E5%8A%A8%E7%9A%84%E6%84%9F%E8%A7%89",
+      "hot_value": 450000
+    },
+    {
+      "rank": 10,
+      "title": "张婧仪 宋威龙",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A9%A7%E4%BB%AA+%E5%AE%8B%E5%A8%81%E9%BE%99",
+      "hot_value": 450000
+    },
+    {
+      "rank": 11,
+      "title": "低保香港演唱会事件 命运捉弄人",
+      "url": "https://s.weibo.com/weibo?q=%E4%BD%8E%E4%BF%9D%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%8B%E4%BB%B6+%E5%91%BD%E8%BF%90%E6%8D%89%E5%BC%84%E4%BA%BA",
+      "hot_value": 450000
+    },
+    {
+      "rank": 12,
+      "title": "刘浩存 大码女装",
+      "url": "https://s.weibo.com/weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98+%E5%A4%A7%E7%A0%81%E5%A5%B3%E8%A3%85",
+      "hot_value": 450000
+    },
+    {
+      "rank": 13,
+      "title": "女子还不起房贷喊话前男友收回",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%BF%98%E4%B8%8D%E8%B5%B7%E6%88%BF%E8%B4%B7%E5%96%8A%E8%AF%9D%E5%89%8D%E7%94%B7%E5%8F%8B%E6%94%B6%E5%9B%9E",
+      "hot_value": 450000
+    },
+    {
+      "rank": 14,
+      "title": "虞书欣我欲乘风明年开机",
+      "url": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%88%91%E6%AC%B2%E4%B9%98%E9%A3%8E%E6%98%8E%E5%B9%B4%E5%BC%80%E6%9C%BA",
+      "hot_value": 450000
+    },
+    {
+      "rank": 15,
+      "title": "旅行青蛙",
+      "url": "https://s.weibo.com/weibo?q=%E6%97%85%E8%A1%8C%E9%9D%92%E8%9B%99",
+      "hot_value": 450000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "丹麦老板称越南建厂成本比中国贵 10%，这透露出全球供应链怎样的变化",
+      "url": "https://www.zhihu.com/question/2080340515971715574",
+      "hot_value": 6390000
+    },
+    {
+      "rank": 2,
+      "title": "如何看待 Buckmaster 披露 OpenAI 在 NS 方程突破中的学术掠夺与威胁言论",
+      "url": "https://www.zhihu.com/question/2080654680389051865",
+      "hot_value": 5480000
+    },
+    {
+      "rank": 3,
+      "title": "武汉通报非法辅助生殖地下实验室称已查封，8 名涉案人员被控制，哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2080713693583753956",
+      "hot_value": 3170000
+    },
+    {
+      "rank": 4,
+      "title": "「耿同学」已落户杭州，获聘为浙江传媒学院特聘讲师，这对他学术打假工作可能有哪些帮助或影响",
+      "url": "https://www.zhihu.com/question/2080742188825014985",
+      "hot_value": 3000000
+    },
+    {
+      "rank": 5,
+      "title": "深度求索发布 DeepSeek V4.1 Flash 的中间版本内测，该模型体验如何",
+      "url": "https://www.zhihu.com/question/2080678583714977593",
+      "hot_value": 2890000
+    },
+    {
+      "rank": 6,
+      "title": "在北京，为什么北五环的房价比南三环还贵呢",
+      "url": "https://www.zhihu.com/question/660587105",
+      "hot_value": 2870000
+    },
+    {
+      "rank": 7,
+      "title": "考研数学名师汤家凤称对历史不计入中考总分深感痛心，你怎么看",
+      "url": "https://www.zhihu.com/question/2079870624105870922",
+      "hot_value": 2850000
+    },
+    {
+      "rank": 8,
+      "title": "LPL 2026 赛季季后赛 iG 3:0 淘汰 LGD 距离晋级决赛仅一步之遥，如何评价这场比赛",
+      "url": "https://www.zhihu.com/question/2080688697410852069",
+      "hot_value": 2730000
+    },
+    {
+      "rank": 9,
+      "title": "如何看待冯小刚电影《抓特务》上线流媒体后出现口碑逆袭？可能有哪些原因",
+      "url": "https://www.zhihu.com/question/2080594668526514773",
+      "hot_value": 2570000
+    },
+    {
+      "rank": 10,
+      "title": "近期不少医院医生挂号页面出现「医保扣分情况」介绍，这是什么意思",
+      "url": "https://www.zhihu.com/question/2080384784979554445",
+      "hot_value": 2540000
+    },
+    {
+      "rank": 11,
+      "title": "怎么看  OpenAI 在 Navier–Stokes 数学难题上取得的进展反而出现争议",
+      "url": "https://www.zhihu.com/question/2080681933982393659",
+      "hot_value": 2530000
+    },
+    {
+      "rank": 12,
+      "title": "律师称深圳富豪夫妻联手送小三进监狱，致其被判 14 年，指控判决存在程序违规，如何从法律角度解读",
+      "url": "https://www.zhihu.com/question/2080624585049727173",
+      "hot_value": 2250000
+    },
+    {
+      "rank": 13,
+      "title": "媒体称塑料外卖盒等都含有微塑料，会穿过血脑屏障进入大脑，什么是微塑料？会产生什么影响？又该如何应对",
+      "url": "https://www.zhihu.com/question/2080223901372474890",
+      "hot_value": 1960000
+    },
+    {
+      "rank": 14,
+      "title": "贵州福泉三名未成年女孩接连失联，目前均已找到，有哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2080237533758054861",
+      "hot_value": 1910000
+    },
+    {
+      "rank": 15,
+      "title": "网红晒百万捐款截图被查实仅捐 1 元，借灾情「诈捐」博流量该如何惩处？灾情中的「假慈善」为何屡屡出现",
+      "url": "https://www.zhihu.com/question/2080586140742939506",
+      "hot_value": 1700000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "score": 208,
+      "author": "tedsanders",
+      "comments": 114,
+      "hn_url": "https://news.ycombinator.com/item?id=49613262"
+    },
+    {
+      "rank": 2,
+      "title": "Google DeepMind Releases AlphaGenome Atlas",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "score": 233,
+      "author": "utiiiD",
+      "comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=49611251"
+    },
+    {
+      "rank": 3,
+      "title": "DaVinci Resolve 21.1",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "score": 238,
+      "author": "tosh",
+      "comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=49610181"
+    },
+    {
+      "rank": 4,
+      "title": "Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools",
+      "url": "https://cepr.org/publications/dp21706",
+      "score": 30,
+      "author": "neehao",
+      "comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=49613086"
+    },
+    {
+      "rank": 5,
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "score": 90,
+      "author": "stared",
+      "comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=49611128"
+    },
+    {
+      "rank": 6,
+      "title": "Show HN: LLM Attention Visualization",
+      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "score": 21,
+      "author": "ifz",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49613068"
+    },
+    {
+      "rank": 7,
+      "title": "The Helicopter with Radioactive Blades",
+      "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
+      "score": 65,
+      "author": "zdw",
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49600901"
+    },
+    {
+      "rank": 8,
+      "title": "Y Combinator Early Access Network",
+      "url": "https://events.ycombinator.com/yc-early-access-fall-26",
+      "score": 22,
+      "author": "tosh",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49612635"
+    },
+    {
+      "rank": 9,
+      "title": "Connecting the Machines",
+      "url": "https://herdr.dev/blog/connecting-the-machines/",
+      "score": 20,
+      "author": "collinmanderson",
+      "comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=49612818"
+    },
+    {
+      "rank": 10,
+      "title": "Show HN: Copperhead – Hardware as Fast as Software",
+      "url": "https://copperhead.sh/",
+      "score": 147,
+      "author": "animeshchouhan",
+      "comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=49610059"
+    },
+    {
+      "rank": 11,
+      "title": "LG TVs caught spying even when offline or on standby",
+      "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+      "score": 160,
+      "author": "sbulaev",
+      "comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=49612329"
+    },
+    {
+      "rank": 12,
+      "title": "C*: Unifying Programming and Verification in C",
+      "url": "https://arxiv.org/abs/2504.02246",
+      "score": 31,
+      "author": "rramadass",
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=49612191"
+    },
+    {
+      "rank": 13,
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "score": 98,
+      "author": "domhudson",
+      "comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=49610631"
+    },
+    {
+      "rank": 14,
+      "title": "The two Christian saints who are the Buddha",
+      "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+      "score": 108,
+      "author": "surprisetalk",
+      "comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=49611051"
+    },
+    {
+      "rank": 15,
+      "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
+      "url": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
+      "score": 47,
+      "author": "ibobev",
+      "comments": 17,
+      "hn_url": "https://news.ycombinator.com/item?id=49611230"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI Agent 与智能体开发",
+        "color": "ai",
+        "summary": "今天的 GitHub Trending 简直是 AI Agent 的狂欢节。首先必须吹爆 affaan-m / ECC[1]，号称是 Agent 的“外骨骼系统”，把技能、本能、记忆和安全都整合进去了，专门给 Claude Code 和 Cursor 这种工具超能力加持，搞开发的朋友赶紧去瞅瞅。还有 Microsoft 官方出的 markitdown[2]，能把各种 Office 文档转成 Markdown，这对 Agent 理解企业文档太实用了，微软这波操作必须点赞。\n\nLobsters 上有个挺硬核的讨论，关于 EuPL 开源协议的变更[3]，虽然听起来枯燥，但搞法律合规的开发者得注意，这关系到你项目未来的分发方式。另外，Lobsters 上还有人分享了一个关于 CERN 从 CentOS 迁移到 Debian 的内幕[4]，这可是 Linux 基础设施层面的大事，搞底层的朋友值得深挖。\n\n少数派今天也很有意思，聊到了华为 HarmonyOS 7 的新品发布[5]，虽然主要是产品新闻，但能看出国产系统在生态建设上还在疯狂补课。而 Tim Cook 掌舵十五年的回顾[6]，则提醒我们，无论技术怎么变，那些真正改变数字生活的产品逻辑其实一直在。"
+      },
+      {
+        "name": "开发工具与效率提升",
+        "color": "dev",
+        "summary": "对于写代码的人来说，今天的 GitHub 简直是宝藏。ayghri / i-have-adhd[7] 这个项目太懂程序猿了，专门解决 AI 写代码时那个“注意力不集中”的问题，强迫输出结构清晰的代码，简直是 ADHD 开发者的救命稻草。还有 cathrynlavery / diagram-design[8]，给 AI 提供了一堆精美的图表模板，再也不用让 AI 生成那些乱七八糟的阴影图了，直接拿来用就行。\n\n社区里 Lobsters 的讨论风向有点转向，大家开始聊怎么在 2026 年切换密码管理器了[9]，虽然老生常谈，但在隐私泄露频发的今天，这依然是头等大事。Ladybird 浏览器的八月更新[10] 也值得关注，这是在浏览器内核领域的一次重要尝试，虽然离 Chrome 还有距离，但开源精神值得鼓励。\n\n少数派栏目里，NuPhy 全铝磁轴键盘的评测[11] 让不少码农心动，实体键盘的质感确实能提升手感。另外那个“一日一技”讲 Windows 11 动态头像[12]，虽然是小功能，但能让枯燥的桌面活起来，提升一下工作心情也是效率的一部分嘛。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术这块，GitHub 上的 jo-inc / camofox-browser[13] 是个狠角色，号称能帮 AI Agent 绕过 Cloudflare 和反爬虫检测，这种“黑帽”技能如果被用在恶意攻击上就很危险，但用在数据清洗上确实高效。browser-use[14] 和 mksglu / context-mode[15] 则是让 Agent 能更好地操作网页和管理上下文，解决了 Agent 容易“失忆”和“迷路”的两大痛点。\n\nLobsters 上有个关于 Bitap 字符串匹配算法的讨论[16]，这可是计算机科学里的经典老话题，现在居然还有人深挖，说明基础算法的重要性永不过时。CERN 迁移到 Debian 的消息[4]（前面提过）再次印证了开源社区在大型机构中的话语权越来越重要。\n\n少数派的文章里，关于 Apple Watch 游泳数据优化的讨论[17]，虽然偏向硬件，但也反映了系统级传感器调优的精细度。而“弯道超车”赛车入门指南[18] 这种跨界内容，倒是给了程序员一个有趣的比喻：有时候慢车指挥小羊，未必是坏事，或许在复杂系统架构中也是一种分布式控制的隐喻。"
+      },
+      {
+        "name": "数码产品与硬件生态",
+        "color": "hw",
+        "summary": "数码产品这块，GitHub 上有个挺有意思的 MoonTechLab / LunaTV[19]，虽然协议限制禁止商业化，但它展示了一种非营利性技术分享的理念，值得支持。还有 heygen-com / hyperframes[20]，直接把 HTML 渲染成视频，这对 Agent 生成内容（AIGC）来说是个巨大的飞跃，以后 Agent 写代码可能直接就能出视频了。\n\nLobsters 上关于欧盟云服务状态的报告[21] 和免费 .arpa 域名的获取方法[22]，都是些干货满满的技术细节。Emacs Bedrock 2.0 的发布[23] 更是编辑器爱好者的大喜事，Emacs 的生命力依然顽强，老用户看了绝对会开心。\n\n少数派今天的华为新品派对[5]（前面提过）是重头戏，MATE XT 折叠屏的发布意味着折叠屏技术终于要走向成熟商用。而“八月买了什么好东西”的社区讨论[24]，虽然没具体说啥，但这种UGC的内容往往比官方通稿更有参考价值，大家可以去看看派友们都买了啥神器。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "ECC: The agent harness performance optimization system",
+        "url": "https://github.com/affaan-m/ECC",
+        "source": "GitHub Trending",
+        "desc": "Affaan-m 推出的 Agent 性能优化框架"
+      },
+      {
+        "num": 2,
+        "title": "markitdown",
+        "url": "https://github.com/microsoft/markitdown",
+        "source": "GitHub Trending",
+        "desc": "Microsoft 官方文档转换工具"
+      },
+      {
+        "num": 3,
+        "title": "I changed my license to EUPL",
+        "url": "https://bergie.iki.fi/blog/eupl/",
+        "source": "Lobsters",
+        "desc": "关于开源许可证变更的法律讨论"
+      },
+      {
+        "num": 4,
+        "title": "CERN's migration path from CentOS Linux to Debian",
+        "url": "https://lwn.net/SubscriberLink/1092512/0772b817c369632b/",
+        "source": "Lobsters",
+        "desc": "CERN 基础设施迁移至 Debian 的内幕"
+      },
+      {
+        "num": 5,
+        "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2",
+        "url": "https://sspai.com/post/114307",
+        "source": "少数派",
+        "desc": "华为新款折叠屏手机及系统发布会"
+      },
+      {
+        "num": 6,
+        "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？",
+        "url": "https://sspai.com/bullet/1788244609",
+        "source": "少数派",
+        "desc": "回顾 Tim Cook 任期内的苹果产品"
+      },
+      {
+        "num": 7,
+        "title": "i-have-adhd",
+        "url": "https://github.com/ayghri/i-have-adhd",
+        "source": "GitHub Trending",
+        "desc": "帮助 AI 编程助手保持专注的代码生成技能"
+      },
+      {
+        "num": 8,
+        "title": "diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "source": "GitHub Trending",
+        "desc": "为 AI 编程助手提供的精美图表模板"
+      },
+      {
+        "num": 9,
+        "title": "Switching Password Managers in 2026",
+        "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+        "source": "Lobsters",
+        "desc": "2026 年切换密码管理器的实践建议"
+      },
+      {
+        "num": 10,
+        "title": "This Month in Ladybird - August 2026",
+        "url": "https://ladybird.org/newsletter/2026-08-31/",
+        "source": "Lobsters",
+        "desc": "Ladybird 浏览器八月开发进度更新"
+      },
+      {
+        "num": 11,
+        "title": "社区速递 157 | NuPhy 全铝磁轴键盘",
+        "url": "https://sspai.com/post/114327",
+        "source": "少数派",
+        "desc": "NuPhy 新键盘评测与派友反投喂信息源"
+      },
+      {
+        "num": 12,
+        "title": "一日一技｜我的 Windows 11 头像会动",
+        "url": "https://sspai.com/post/114312",
+        "source": "少数派",
+        "desc": "Windows 11 动态头像设置教程"
+      },
+      {
+        "num": 13,
+        "title": "camofox-browser",
+        "url": "https://github.com/jo-inc/camofox-browser",
+        "source": "GitHub Trending",
+        "desc": "专为 AI Agent 设计的隐形无头浏览器"
+      },
+      {
+        "num": 14,
+        "title": "browser-use",
+        "url": "https://github.com/browser-use/browser-use",
+        "source": "GitHub Trending",
+        "desc": "让网站对 AI Agent 可访问并自动化的工具"
+      },
+      {
+        "num": 15,
+        "title": "context-mode",
+        "url": "https://github.com/mksglu/context-mode",
+        "source": "GitHub Trending",
+        "desc": "优化 AI 编程助手上下文窗口的工具"
+      },
+      {
+        "num": 16,
+        "title": "Bitap: my favorite string matching algorithm",
+        "url": "https://jo3-l.dev/posts/bitap/",
+        "source": "Lobsters",
+        "desc": "关于经典字符串匹配算法 Bitap 的讨论"
+      },
+      {
+        "num": 17,
+        "title": "让 Apple Watch 记录的每一趟游泳数据更有意义",
+        "url": "https://sspai.com/post/114076",
+        "source": "少数派",
+        "desc": "优化 Apple Watch 游泳数据记录的方法"
+      },
+      {
+        "num": 18,
+        "title": "「弯道超车」赛车入门指北 04",
+        "url": "https://sspai.com/post/113877",
+        "source": "少数派",
+        "desc": "赛车入门指南，探讨慢车指挥策略"
+      },
+      {
+        "num": 19,
+        "title": "LunaTV",
+        "url": "https://github.com/MoonTechLab/LunaTV",
+        "source": "GitHub Trending",
+        "desc": "非商业化的本地流媒体播放项目"
+      },
+      {
+        "num": 20,
+        "title": "hyperframes",
+        "url": "https://github.com/heygen-com/hyperframes",
+        "source": "GitHub Trending",
+        "desc": "通过编写 HTML 直接渲染视频的技术"
+      },
+      {
+        "num": 21,
+        "title": "The state of European cloud providers in 2026",
+        "url": "https://crescentro.se/posts/euro-cloud-providers-2026/",
+        "source": "Lobsters",
+        "desc": "2026 年欧洲云服务提供商现状分析"
+      },
+      {
+        "num": 22,
+        "title": "How to get a free .arpa domain",
+        "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+        "source": "Lobsters",
+        "desc": "获取免费.arpa 域名的技术教程"
+      },
+      {
+        "num": 23,
+        "title": "Emacs Bedrock 2.0 Released",
+        "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+        "source": "Lobsters",
+        "desc": "Emacs Bedrock 编辑器 2.0 版本发布"
+      },
+      {
+        "num": 24,
+        "title": "八月买了什么好东西？一派讨论",
+        "url": "https://sspai.com/bullet/1787798597",
+        "source": "少数派",
+        "desc": "社区用户分享八月好物推荐"
+      }
+    ],
+    "stats": {
+      "total_items": 24,
+      "total_categories": 4,
+      "total_sources": 3
+    }
+  }
+}
