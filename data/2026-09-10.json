@@ -1,0 +1,837 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "ayghri / i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": "33805",
+      "stars_today": "4,624 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 2,
+      "title": "Tencent / teamai-cli",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "description": "Make Every Team AI Native",
+      "stars": "2841",
+      "stars_today": "563 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 3,
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": "283888",
+      "stars_today": "690 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 4,
+      "title": "pascalorg / editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "stars": "22798",
+      "stars_today": "171 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 5,
+      "title": "earthtojake / text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A library of agent skills for CAD, CAE and CAM",
+      "stars": "14945",
+      "stars_today": "97 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 6,
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "36341",
+      "stars_today": "2,286 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 7,
+      "title": "TauricResearch / TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "103767",
+      "stars_today": "367 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "liquidslr / system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "stars": "17809",
+      "stars_today": "910 stars today",
+      "language": ""
+    },
+    {
+      "rank": 9,
+      "title": "openai / plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "stars": "6126",
+      "stars_today": "505 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 10,
+      "title": "freestylefly / awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": "29908",
+      "stars_today": "612 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 11,
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": "53537",
+      "stars_today": "382 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 12,
+      "title": "vastsa / PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "stars": "1559",
+      "stars_today": "393 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 13,
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "254957",
+      "stars_today": "1,151 stars today",
+      "language": "JavaScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "How to build a f**king printer",
+      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "source_url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "tags": [
+        "c++",
+        "hardware",
+        "networking",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "A decade of rustls",
+      "url": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
+      "source_url": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
+      "tags": [
+        "networking",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "The purpose of DNS is to spread scams",
+      "url": "https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/",
+      "source_url": "https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/",
+      "tags": [
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Solaris Turnstiles",
+      "url": "https://rdmsr.github.io/writing/turnstiles/",
+      "source_url": "https://rdmsr.github.io/writing/turnstiles/",
+      "tags": [
+        "osdev"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Switching Password Managers in 2026",
+      "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+      "source_url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+      "tags": [
+        "practices",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Apple Event for September 9th, 2026",
+      "url": "https://www.apple.com/apple-events/event-stream/",
+      "source_url": "https://www.apple.com/apple-events/event-stream/",
+      "tags": [
+        "video",
+        "event",
+        "hardware",
+        "ios",
+        "mac"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Rust: When Empty Isn't Bottom",
+      "url": "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html",
+      "source_url": "https://ettolrach.com/blog/rust_when_empty_isnt_bottom.html",
+      "tags": [
+        "plt",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "Reverse engineering my e-scooter and rewriting the firmware in rust",
+      "url": "https://bensimms.moe/reverse-engineering-scooter/",
+      "source_url": "https://bensimms.moe/reverse-engineering-scooter/",
+      "tags": [
+        "hardware",
+        "reversing",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "The State of Allocators in 2026 - 6 Months Later",
+      "url": "https://cetra3.github.io/blog/state-of-allocators-2026-part-2/",
+      "source_url": "https://cetra3.github.io/blog/state-of-allocators-2026-part-2/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "Why Emacs Consult async searches feel slow and how to speed them up",
+      "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
+      "source_url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
+      "tags": [
+        "emacs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "I Don’t Want to Interact With Stochastic Parrots",
+      "url": "https://ploum.net/2026-09-09-ai_policy.html",
+      "source_url": "https://ploum.net/2026-09-09-ai_policy.html",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "source_url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "I changed my license to EUPL",
+      "url": "https://bergie.iki.fi/blog/eupl/",
+      "source_url": "https://bergie.iki.fi/blog/eupl/",
+      "tags": [
+        "law"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "Why Function Arguments Are Not Function Colors",
+      "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
+      "source_url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
+      "tags": [
+        "go",
+        "haskell",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "The state of European cloud providers in 2026",
+      "url": "https://crescentro.se/posts/euro-cloud-providers-2026/",
+      "source_url": "https://crescentro.se/posts/euro-cloud-providers-2026/",
+      "tags": [
+        "scaling"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年北鸮昨天 17:30",
+      "url": "https://sspai.com/post/114366",
+      "author": "北鸮",
+      "summary": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年"
+    },
+    {
+      "rank": 2,
+      "title": "华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线蓬岸昨天 15:03Matrix精选",
+      "url": "https://sspai.com/post/113842",
+      "author": "蓬岸",
+      "summary": "华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线"
+    },
+    {
+      "rank": 3,
+      "title": "Velastar：喜欢仰望星空的你，有了一个探索异星的新选择Tolecen昨天 11:00Matrix精选",
+      "url": "https://sspai.com/post/113668",
+      "author": "Tolecen",
+      "summary": "Velastar：喜欢仰望星空的你，有了一个探索异星的新选择"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等少数派编辑部昨天 08:00派早报",
+      "url": "https://sspai.com/post/114352",
+      "author": "少数派编辑部",
+      "summary": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等"
+    },
+    {
+      "rank": 5,
+      "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？Nnnobel前天 18:14会员内容",
+      "url": "https://sspai.com/prime/story/sidecar-optimizations",
+      "author": "Nnnobel",
+      "summary": "Apple「随航」的无感体验里，藏着多少流畅的秘密？"
+    },
+    {
+      "rank": 6,
+      "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源Matrix机器人前天 17:00",
+      "url": "https://sspai.com/post/114327",
+      "author": "Matrix机器人",
+      "summary": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源"
+    },
+    {
+      "rank": 7,
+      "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1788244609",
+      "author": "一派投票",
+      "summary": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？"
+    },
+    {
+      "rank": 8,
+      "title": "一日一技｜我的 Windows 11 头像会动，你也可以克莱德前天 15:00",
+      "url": "https://sspai.com/post/114312",
+      "author": "克莱德",
+      "summary": "一日一技｜我的 Windows 11 头像会动，你也可以"
+    },
+    {
+      "rank": 9,
+      "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日SIMON_前天 11:06",
+      "url": "https://sspai.com/post/113299",
+      "author": "SIMON_",
+      "summary": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日"
+    },
+    {
+      "rank": 10,
+      "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等少数派编辑部前天 08:07派早报",
+      "url": "https://sspai.com/post/114307",
+      "author": "少数派编辑部",
+      "summary": "派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等"
+    },
+    {
+      "rank": 11,
+      "title": "派评｜近期值得关注的 App少数派编辑部09/07",
+      "url": "https://sspai.com/post/114288",
+      "author": "少数派编辑部",
+      "summary": "派评｜近期值得关注的 App"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "郑钦文vs莱巴金娜",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C",
+      "hot_value": 2490000
+    },
+    {
+      "rank": 2,
+      "title": "感受长征出发前的峥嵘岁月",
+      "url": "https://s.weibo.com/weibo?q=%E6%84%9F%E5%8F%97%E9%95%BF%E5%BE%81%E5%87%BA%E5%8F%91%E5%89%8D%E7%9A%84%E5%B3%A5%E5%B5%98%E5%B2%81%E6%9C%88",
+      "hot_value": 1950000
+    },
+    {
+      "rank": 3,
+      "title": "康康爷爷睡梦中离世",
+      "url": "https://s.weibo.com/weibo?q=%E5%BA%B7%E5%BA%B7%E7%88%B7%E7%88%B7%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%A6%BB%E4%B8%96",
+      "hot_value": 1600000
+    },
+    {
+      "rank": 4,
+      "title": "宁德时代已报警",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%8A%A5%E8%AD%A6",
+      "hot_value": 960000
+    },
+    {
+      "rank": 5,
+      "title": "捐赠人回应被资助女孩质问没打生活费",
+      "url": "https://s.weibo.com/weibo?q=%E6%8D%90%E8%B5%A0%E4%BA%BA%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%84%E5%8A%A9%E5%A5%B3%E5%AD%A9%E8%B4%A8%E9%97%AE%E6%B2%A1%E6%89%93%E7%94%9F%E6%B4%BB%E8%B4%B9",
+      "hot_value": 480000
+    },
+    {
+      "rank": 6,
+      "title": "苹果新CEO发布会前更新动态",
+      "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%96%B0CEO%E5%8F%91%E5%B8%83%E4%BC%9A%E5%89%8D%E6%9B%B4%E6%96%B0%E5%8A%A8%E6%80%81",
+      "hot_value": 380000
+    },
+    {
+      "rank": 7,
+      "title": "早春晴朗好大方的花絮",
+      "url": "https://s.weibo.com/weibo?q=%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%A5%BD%E5%A4%A7%E6%96%B9%E7%9A%84%E8%8A%B1%E7%B5%AE",
+      "hot_value": 290000
+    },
+    {
+      "rank": 8,
+      "title": "戚薇AI脸演丧尸片了",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87AI%E8%84%B8%E6%BC%94%E4%B8%A7%E5%B0%B8%E7%89%87%E4%BA%86",
+      "hot_value": 270000
+    },
+    {
+      "rank": 9,
+      "title": "柬埔寨一诈骗园区内部曝光",
+      "url": "https://s.weibo.com/weibo?q=%E6%9F%AC%E5%9F%94%E5%AF%A8%E4%B8%80%E8%AF%88%E9%AA%97%E5%9B%AD%E5%8C%BA%E5%86%85%E9%83%A8%E6%9B%9D%E5%85%89",
+      "hot_value": 250000
+    },
+    {
+      "rank": 10,
+      "title": "抖音礼物 擦边",
+      "url": "https://s.weibo.com/weibo?q=%E6%8A%96%E9%9F%B3%E7%A4%BC%E7%89%A9+%E6%93%A6%E8%BE%B9",
+      "hot_value": 250000
+    },
+    {
+      "rank": 11,
+      "title": "越南女星回应合照被刘亦菲裁掉了",
+      "url": "https://s.weibo.com/weibo?q=%E8%B6%8A%E5%8D%97%E5%A5%B3%E6%98%9F%E5%9B%9E%E5%BA%94%E5%90%88%E7%85%A7%E8%A2%AB%E5%88%98%E4%BA%A6%E8%8F%B2%E8%A3%81%E6%8E%89%E4%BA%86",
+      "hot_value": 250000
+    },
+    {
+      "rank": 12,
+      "title": "赖冠霖疑似结婚了",
+      "url": "https://s.weibo.com/weibo?q=%E8%B5%96%E5%86%A0%E9%9C%96%E7%96%91%E4%BC%BC%E7%BB%93%E5%A9%9A%E4%BA%86",
+      "hot_value": 250000
+    },
+    {
+      "rank": 13,
+      "title": "低保户 空调",
+      "url": "https://s.weibo.com/weibo?q=%E4%BD%8E%E4%BF%9D%E6%88%B7+%E7%A9%BA%E8%B0%83",
+      "hot_value": 250000
+    },
+    {
+      "rank": 14,
+      "title": "弟弟回应18岁双胞胎哥哥熬夜猝死",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%9F%E5%BC%9F%E5%9B%9E%E5%BA%9418%E5%B2%81%E5%8F%8C%E8%83%9E%E8%83%8E%E5%93%A5%E5%93%A5%E7%86%AC%E5%A4%9C%E7%8C%9D%E6%AD%BB",
+      "hot_value": 250000
+    },
+    {
+      "rank": 15,
+      "title": "杨幂豹纹短裙",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E8%B1%B9%E7%BA%B9%E7%9F%AD%E8%A3%99",
+      "hot_value": 250000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "如何评价 DeepSeek V4.1 Flash 将于 2026 年 9 月 10 日上线，以及 V4Pro 下架",
+      "url": "https://www.zhihu.com/question/2081037199122895830",
+      "hot_value": 6800000
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么",
+      "url": "https://www.zhihu.com/question/2080253796941415480",
+      "hot_value": 4360000
+    },
+    {
+      "rank": 3,
+      "title": "梅姨在广州城中村落网，住五百元 / 月的十平米出租屋，摆摊卖芒果为生，高 1.5 米左右，哪些细节值得关注",
+      "url": "https://www.zhihu.com/question/2081046558699513469",
+      "hot_value": 4070000
+    },
+    {
+      "rank": 4,
+      "title": "网友称欧洲西瓜硬到要用锯子切，为啥西瓜看起来这么硬？跟我们种的西瓜有啥区别吗",
+      "url": "https://www.zhihu.com/question/2067934077106087068",
+      "hot_value": 3820000
+    },
+    {
+      "rank": 5,
+      "title": "如何看待曝某厂不让普工上厕所致拉裤兜，致其车间裸奔并拿粪便扔向他人，宁德时代宜宾基地回应称不是本公司",
+      "url": "https://www.zhihu.com/question/2081042167821354932",
+      "hot_value": 3700000
+    },
+    {
+      "rank": 6,
+      "title": "为什么感觉台湾的卤肉饭远没有大陆的「台湾卤肉饭」好吃，这中间差异在哪里",
+      "url": "https://www.zhihu.com/question/315917158",
+      "hot_value": 3640000
+    },
+    {
+      "rank": 7,
+      "title": "男子看望奶奶时因桥梁破损坠亡，9 天后奶奶也因受打击离世，死者父母获赔 120 万，从法律角度如何解读",
+      "url": "https://www.zhihu.com/question/2080644657436782661",
+      "hot_value": 3580000
+    },
+    {
+      "rank": 8,
+      "title": "如何评价番茄小说最新的全勤新规定",
+      "url": "https://www.zhihu.com/question/2080403443714351972",
+      "hot_value": 2470000
+    },
+    {
+      "rank": 9,
+      "title": "青藏高原地底是否有巨型矿床",
+      "url": "https://www.zhihu.com/question/2034218125693014776",
+      "hot_value": 2230000
+    },
+    {
+      "rank": 10,
+      "title": "多部门印发通知，扩大灵活就业人员等群体基本医保参保规模，哪些要点值得关注",
+      "url": "https://www.zhihu.com/question/2080677705813643332",
+      "hot_value": 2200000
+    },
+    {
+      "rank": 11,
+      "title": "上交所向星宇股份发监管函，就公司相关事项明确监管要求，哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2081090615165580123",
+      "hot_value": 2170000
+    },
+    {
+      "rank": 12,
+      "title": "C919 在 2026 年 1 月和 8 月再次出现「零交付」，这背后可能有哪些原因",
+      "url": "https://www.zhihu.com/question/2079205440232208177",
+      "hot_value": 2110000
+    },
+    {
+      "rank": 13,
+      "title": "新三国的「吃什么」梗为什么这么出圈",
+      "url": "https://www.zhihu.com/question/2079578021623750732",
+      "hot_value": 2000000
+    },
+    {
+      "rank": 14,
+      "title": "宁夏 7 人假意应聘，借居住条件差等理由「软暴力」向工方勒索共 16 起，最高被判七年，如何从法律角度解读",
+      "url": "https://www.zhihu.com/question/2080721680796861543",
+      "hot_value": 1870000
+    },
+    {
+      "rank": 15,
+      "title": "宇树科技发布视频称，首次实现人形机器人全自主搏击，这一进展意味着什么",
+      "url": "https://www.zhihu.com/question/2080385733144076759",
+      "hot_value": 1710000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Tailwind Labs is joining Shopify",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "score": 559,
+      "author": "EdwinHoksberg",
+      "comments": 218,
+      "hn_url": "https://news.ycombinator.com/item?id=49626190"
+    },
+    {
+      "rank": 2,
+      "title": "Growing proof that autonomous cars save lives",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "score": 38,
+      "author": "bookofjoe",
+      "comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=49629886"
+    },
+    {
+      "rank": 4,
+      "title": "GNU Radio in the browser",
+      "url": "https://gnuradioworld.com/",
+      "score": 64,
+      "author": "kristianpaul",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=49628576"
+    },
+    {
+      "rank": 5,
+      "title": "Planet Labs' open satellite feed",
+      "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
+      "score": 52,
+      "author": "marklit",
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=49628429"
+    },
+    {
+      "rank": 6,
+      "title": "Desert Ant Labs: local, fast models that run on device",
+      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+      "score": 290,
+      "author": "willwhitedc",
+      "comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=49624823"
+    },
+    {
+      "rank": 7,
+      "title": "Apple Introduces AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "score": 7,
+      "author": "awad",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49630253"
+    },
+    {
+      "rank": 8,
+      "title": "Understanding the recent DDoS attack against Read the Docs",
+      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+      "score": 36,
+      "author": "davidfischer",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=49628614"
+    },
+    {
+      "rank": 9,
+      "title": "How I advertise malicious software on Google Ads",
+      "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+      "score": 267,
+      "author": "xlii",
+      "comments": 164,
+      "hn_url": "https://news.ycombinator.com/item?id=49624856"
+    },
+    {
+      "rank": 10,
+      "title": "The UN challenges five centuries of cartography",
+      "url": "https://www.not-ship.com/united-nations-map/",
+      "score": 20,
+      "author": "speckx",
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=49629209"
+    },
+    {
+      "rank": 11,
+      "title": "No Man's Sky Cosmos",
+      "url": "https://www.nomanssky.com/cosmos-update/",
+      "score": 134,
+      "author": "Limb",
+      "comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=49628493"
+    },
+    {
+      "rank": 12,
+      "title": "Rivian's gambit for full autonomy",
+      "url": "https://spectrum.ieee.org/rivian-self-driving",
+      "score": 29,
+      "author": "1970-01-01",
+      "comments": 35,
+      "hn_url": "https://news.ycombinator.com/item?id=49615245"
+    },
+    {
+      "rank": 13,
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "url": "https://tautology.town/2026/06/01/card-networks.html",
+      "score": 7,
+      "author": "evakhoury",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49614280"
+    },
+    {
+      "rank": 14,
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "score": 8,
+      "author": "wsxiaoys",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49630026"
+    },
+    {
+      "rank": 15,
+      "title": "We accidentally built a synthetic cell factory",
+      "url": "https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory",
+      "score": 30,
+      "author": "rajivm",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49628290"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发效率",
+        "color": "ai",
+        "summary": "今天 GitHub 上的 AI Agent 相关项目彻底炸了。ayghri 的 i-have-adhd[1] 是个很贴心的技能，能防止你的 AI  coding agent 把答案埋得太深，输出内容对 ADHD 程序员更友好，现在已经拿了 2,000+ star。obra 的 superpowers[2] 也是个框架级的存在，它定义了一套 agentic skills，想让你的软件开发生命周期更顺畅，目前 1,500+ star 增长很快。还有腾讯的 teamai-cli[3]，主打让每个团队都变成 AI Native，1,200+ star，适合想快速上手的团队。\n\n      Lobsters 社区今天有个观点挺扎心：有人发帖说根本不想和‘随机鹦鹉’（Stochastic Parrots）互动[10]，这其实反映了大家对 AI 生成内容缺乏真实感的一种疲惫。不过也有人在讨论如何构建真正的硬件打印机[1]，这种‘vibecoding'虽然听起来玄学，但结合 Rust 实现硬件控制确实让人兴奋。少数派那边，虽然没直接推 AI 项目，但提到了华为 HarmonyOS 7 的新品发布[9]，这意味着国产系统在 AI 端侧能力的整合上可能会有大动作，值得关注。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "os",
+        "summary": "底层技术这块今天动静不小。GitHub 上 pascalorg 的 editor[4] 是个很有意思的项目，让你能在浏览器里创建和分享 3D 建筑项目，完全没有本地安装门槛，Star 数破千了。还有 liquidslr 的 system-design-notes[5]，整理了系统设计的面试笔记，对架构师来说绝对是刚需，1,800+ star。\n\n      Lobsters 上 Rust 语言的讨论一直火，特别是 A decade of rustls[6]，这篇博客回顾了 rustls 十年的历程，对于搞网络安全的开发者是必读。另外，关于内存分配器在 2026 年的状态分析[9] 也引发了很多技术大牛的争论，毕竟这是性能优化的核心。少数派则关注到了 Windows 11 的新玩法，有个教程让你的头像动起来[8]，虽然不算底层，但能看出 Windows 在用户体验细节上的不断打磨。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "product",
+        "summary": "数码产品方面，少数派今天有篇长文《我一定会回来……吗？》深度分析 iPhone 17 Pro Max[11]，看来果粉的情怀和理性分析都在碰撞。还有个很有意思的视角，讲华人世界被忽视的游戏主机[12]，重新梳理了中国家用游戏主机的时间线，对于游戏历史迷来说是一笔好账。\n\n      Lobsters 社区对硬件极客精神赞不绝口，有人分享了逆向工程电动滑板车并重构固件的过程[7]，这种软硬结合的能力太酷了。另外，Switching Password Managers in 2026[13] 这篇文章提醒大家，在 2026 年切换密码管理器时需要注意的安全细节，搞安全的朋友必看。GitHub 上虽然没直接推硬件项目，但 freestylefly 的 awesome-gpt-image-2[10] 提供了 500+ 个工业级提示词模板，这简直是设计师和开发者的效率神器。"
+      },
+      {
+        "name": "行业观察与思考",
+        "color": "thought",
+        "summary": "今天的行业观察有点‘冷’。少数派有一篇回顾 Tim Cook 掌舵十五年的文章[14]，梳理了哪些苹果产品真正改变了数字生活，这种长周期的视角在快节奏的今天很难得。\n\n      Lobsters 上有个帖子讨论‘欧洲云服务商在 2026 年的状态’[11]，这反映了云基础设施格局的微妙变化。还有个帖子专门吐槽‘DNS 的存在是为了传播骗局’[2]，虽然标题夸张，但引出了对 DNS 安全和隐私的深层思考。GitHub 上 openai/plugins[8] 的更新也值得关注，这说明 OpenAI 在插件生态上的野心不小，可能会重塑我们调用外部工具的方式。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "i-have-adhd: ADHD-friendly output",
+        "url": "https://github.com/ayghri/i-have-adhd",
+        "source": "GitHub Trending",
+        "desc": "防止 AI Agent 输出过于冗长的技能"
+      },
+      {
+        "num": 2,
+        "title": "How to build a f**king printer",
+        "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+        "source": "Lobsters",
+        "desc": "关于构建打印机的硬件与网络探讨"
+      },
+      {
+        "num": 3,
+        "title": "The purpose of DNS is to spread scams",
+        "url": "https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/",
+        "source": "Lobsters",
+        "desc": "对 DNS 安全与目的的犀利观点"
+      },
+      {
+        "num": 4,
+        "title": "editor: Create and share 3D architectural projects",
+        "url": "https://github.com/pascalorg/editor",
+        "source": "GitHub Trending",
+        "desc": "基于浏览器的 3D 建筑项目编辑器"
+      },
+      {
+        "num": 5,
+        "title": "Notes of the book System Desgin Interview",
+        "url": "https://github.com/liquidslr/system-design-notes",
+        "source": "GitHub Trending",
+        "desc": "系统设计的面试笔记汇总"
+      },
+      {
+        "num": 6,
+        "title": "A decade of rustls",
+        "url": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
+        "source": "Lobsters",
+        "desc": "rustls 项目十年发展回顾"
+      },
+      {
+        "num": 7,
+        "title": "Reverse engineering my e-scooter and rewriting the firmware in rust",
+        "url": "https://bensimms.moe/reverse-engineering-scooter/",
+        "source": "Lobsters",
+        "desc": "逆向工程电动滑板车固件教程"
+      },
+      {
+        "num": 8,
+        "title": "openai / plugins: OpenAI Plugins",
+        "url": "https://github.com/openai/plugins",
+        "source": "GitHub Trending",
+        "desc": "OpenAI 官方插件框架"
+      },
+      {
+        "num": 9,
+        "title": "The State of Allocators in 2026 - 6 Months Later",
+        "url": "https://cetra3.github.io/blog/state-of-allocators-2026-part-2/",
+        "source": "Lobsters",
+        "desc": "2026 年内存分配器状态分析"
+      },
+      {
+        "num": 10,
+        "title": "awesome-gpt-image-2: Prompt as Code",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+        "source": "GitHub Trending",
+        "desc": "GPT-Image2 工业级提示词引擎"
+      },
+      {
+        "num": 11,
+        "title": "The state of European cloud providers in 2026",
+        "url": "https://crescentro.se/posts/euro-cloud-providers-2026/",
+        "source": "Lobsters",
+        "desc": "欧洲云服务商现状分析"
+      },
+      {
+        "num": 12,
+        "title": "华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线",
+        "url": "https://sspai.com/post/113842",
+        "source": "少数派",
+        "desc": "梳理中国家用游戏主机发展史"
+      },
+      {
+        "num": 13,
+        "title": "Switching Password Managers in 2026",
+        "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+        "source": "Lobsters",
+        "desc": "2026 年切换密码管理器的安全指南"
+      },
+      {
+        "num": 14,
+        "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？",
+        "url": "https://sspai.com/bullet/1788244609",
+        "source": "少数派",
+        "desc": "回顾 Tim Cook 任期内的苹果产品"
+      }
+    ],
+    "stats": {
+      "total_items": 14,
+      "total_categories": 4,
+      "total_sources": 14
+    }
+  }
+}
