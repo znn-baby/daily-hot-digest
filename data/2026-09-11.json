@@ -1,0 +1,850 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "ayghri / i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": "37522",
+      "stars_today": "3,854 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 2,
+      "title": "bilawalsidhu / gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": "23277",
+      "stars_today": "1,588 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 3,
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": "284564",
+      "stars_today": "731 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 4,
+      "title": "alsk1992 / CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "stars": "1474",
+      "stars_today": "299 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 5,
+      "title": "Tencent / teamai-cli",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "description": "Make Every Team AI Native",
+      "stars": "3654",
+      "stars_today": "837 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 6,
+      "title": "AlexsJones / llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "stars": "35619",
+      "stars_today": "247 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 7,
+      "title": "liquidslr / system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "stars": "18590",
+      "stars_today": "891 stars today",
+      "language": ""
+    },
+    {
+      "rank": 8,
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "37518",
+      "stars_today": "1,287 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 9,
+      "title": "freestylefly / awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "stars": "30751",
+      "stars_today": "957 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 10,
+      "title": "armory3d / armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "stars": "4321",
+      "stars_today": "87 stars today",
+      "language": "C"
+    },
+    {
+      "rank": 11,
+      "title": "diegosouzapw / OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+      "stars": "64030",
+      "stars_today": "591 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 12,
+      "title": "JustVugg / colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars": "27359",
+      "stars_today": "130 stars today",
+      "language": "C"
+    },
+    {
+      "rank": 13,
+      "title": "THU-MAIC / OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars": "35134",
+      "stars_today": "806 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 14,
+      "title": "nashsu / llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "stars": "17947",
+      "stars_today": "94 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 15,
+      "title": "vercel-labs / skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "stars": "31015",
+      "stars_today": "175 stars today",
+      "language": "TypeScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "A rant about phishing: It's not the user's fault (and not DNS either)",
+      "url": "https://maurycyz.com/misc/domains/",
+      "source_url": "https://maurycyz.com/misc/domains/",
+      "tags": [
+        "security",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "Rust Is Tier-1 Language at Microsoft",
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "source_url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "Review a pull request by booting it",
+      "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+      "source_url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+      "tags": [
+        "nix",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "It Breaks a Village: Bevy's 6th Birthday",
+      "url": "https://blog.fallible.net/it-breaks-a-village/",
+      "source_url": "https://blog.fallible.net/it-breaks-a-village/",
+      "tags": [
+        "culture"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "Xteink X4 Pro review",
+      "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
+      "source_url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "Apple Event for September 9th, 2026",
+      "url": "https://www.apple.com/apple-events/event-stream/",
+      "source_url": "https://www.apple.com/apple-events/event-stream/",
+      "tags": [
+        "video",
+        "event",
+        "hardware",
+        "ios",
+        "mac"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "How CHERIoT Provides Strong and Usable Isolation Without an MMU",
+      "url": "https://queue.acm.org/doi/10.1145/3831361",
+      "source_url": "https://queue.acm.org/doi/10.1145/3831361",
+      "tags": [
+        "hardware",
+        "osdev",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "Announcing the first Guix-Science release",
+      "url": "https://hpc.guix.info/blog/2026/09/guix-science-first-release/",
+      "source_url": "https://hpc.guix.info/blog/2026/09/guix-science-first-release/",
+      "tags": [
+        "nix",
+        "science"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "Native is now the future of mobile at Shopify (2026)",
+      "url": "https://shopify.engineering/back-to-native",
+      "source_url": "https://shopify.engineering/back-to-native",
+      "tags": [
+        "mobile",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "source_url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "tags": [
+        "historical",
+        "windows"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "Decoding the NEC V20 Microcode",
+      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+      "source_url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+      "tags": [
+        "retrocomputing",
+        "reversing"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "I Don’t Want to Interact With Stochastic Parrots",
+      "url": "https://ploum.net/2026-09-09-ai_policy.html",
+      "source_url": "https://ploum.net/2026-09-09-ai_policy.html",
+      "tags": [
+        "rant",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "ID design and primary keys",
+      "url": "https://anchorsandlinks.com/posts/primary-keys/",
+      "source_url": "https://anchorsandlinks.com/posts/primary-keys/",
+      "tags": [
+        "databases"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "The terrible menu bar in the Windows 11 Notepad",
+      "url": "https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/",
+      "source_url": "https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/",
+      "tags": [
+        "rant",
+        "windows"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "A Design Space Exploration of Async/Await",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "source_url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "tags": [
+        "plt"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容Tao_Sway昨天 14:51Matrix精选",
+      "url": "https://sspai.com/post/114384",
+      "author": "Tao_Sway",
+      "summary": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容"
+    },
+    {
+      "rank": 2,
+      "title": "派早报：Apple 发布 iPhone Duo 折叠屏等少数派编辑部昨天 06:38派早报",
+      "url": "https://sspai.com/post/114394",
+      "author": "少数派编辑部",
+      "summary": "派早报：Apple 发布 iPhone Duo 折叠屏等"
+    },
+    {
+      "rank": 3,
+      "title": "一图流 | 一张图带你看完 2026 Apple 秋季发布会少数派编辑部昨天 05:30",
+      "url": "https://sspai.com/post/114393",
+      "author": "少数派编辑部",
+      "summary": "一图流 | 一张图带你看完 2026 Apple 秋季发布会"
+    },
+    {
+      "rank": 4,
+      "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。少数派编辑部昨天 05:21",
+      "url": "https://sspai.com/post/114392",
+      "author": "少数派编辑部",
+      "summary": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾"
+    },
+    {
+      "rank": 5,
+      "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年北鸮前天 17:30",
+      "url": "https://sspai.com/post/114366",
+      "author": "北鸮",
+      "summary": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年"
+    },
+    {
+      "rank": 6,
+      "title": "华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线蓬岸前天 15:03Matrix精选",
+      "url": "https://sspai.com/post/113842",
+      "author": "蓬岸",
+      "summary": "华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线"
+    },
+    {
+      "rank": 7,
+      "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1788244609",
+      "author": "一派投票",
+      "summary": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？"
+    },
+    {
+      "rank": 8,
+      "title": "Velastar：喜欢仰望星空的你，有了一个探索异星的新选择Tolecen前天 11:00Matrix精选",
+      "url": "https://sspai.com/post/113668",
+      "author": "Tolecen",
+      "summary": "Velastar：喜欢仰望星空的你，有了一个探索异星的新选择"
+    },
+    {
+      "rank": 9,
+      "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等少数派编辑部前天 08:00派早报",
+      "url": "https://sspai.com/post/114352",
+      "author": "少数派编辑部",
+      "summary": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等"
+    },
+    {
+      "rank": 10,
+      "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？Nnnobel09/08会员内容",
+      "url": "https://sspai.com/prime/story/sidecar-optimizations",
+      "author": "Nnnobel",
+      "summary": "Apple「随航」的无感体验里，藏着多少流畅的秘密？"
+    },
+    {
+      "rank": 11,
+      "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源Matrix机器人09/08",
+      "url": "https://sspai.com/post/114327",
+      "author": "Matrix机器人",
+      "summary": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "日本梅毒暴发与三个一有关",
+      "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%9A%B4%E5%8F%91%E4%B8%8E%E4%B8%89%E4%B8%AA%E4%B8%80%E6%9C%89%E5%85%B3",
+      "hot_value": 700000
+    },
+    {
+      "rank": 2,
+      "title": "我国成功发射一箭六星",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%85%AD%E6%98%9F",
+      "hot_value": 680000
+    },
+    {
+      "rank": 3,
+      "title": "建议大家把内裤袜子丢洗衣机洗",
+      "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E6%8A%8A%E5%86%85%E8%A3%A4%E8%A2%9C%E5%AD%90%E4%B8%A2%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%B4%97",
+      "hot_value": 680000
+    },
+    {
+      "rank": 4,
+      "title": "教育界迎来了最严厉的父母",
+      "url": "https://s.weibo.com/weibo?q=%E6%95%99%E8%82%B2%E7%95%8C%E8%BF%8E%E6%9D%A5%E4%BA%86%E6%9C%80%E4%B8%A5%E5%8E%89%E7%9A%84%E7%88%B6%E6%AF%8D",
+      "hot_value": 680000
+    },
+    {
+      "rank": 5,
+      "title": "上海28元一份馄饨只有两颗",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B728%E5%85%83%E4%B8%80%E4%BB%BD%E9%A6%84%E9%A5%A8%E5%8F%AA%E6%9C%89%E4%B8%A4%E9%A2%97",
+      "hot_value": 670000
+    },
+    {
+      "rank": 6,
+      "title": "官方辟谣新疆富蕴山谷发生泥石流",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%96%B0%E7%96%86%E5%AF%8C%E8%95%B4%E5%B1%B1%E8%B0%B7%E5%8F%91%E7%94%9F%E6%B3%A5%E7%9F%B3%E6%B5%81",
+      "hot_value": 670000
+    },
+    {
+      "rank": 7,
+      "title": "人为什么要读书最好的答案",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%BB%E4%B9%A6%E6%9C%80%E5%A5%BD%E7%9A%84%E7%AD%94%E6%A1%88",
+      "hot_value": 640000
+    },
+    {
+      "rank": 8,
+      "title": "赵昭仪录节目突发哮喘",
+      "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%98%AD%E4%BB%AA%E5%BD%95%E8%8A%82%E7%9B%AE%E7%AA%81%E5%8F%91%E5%93%AE%E5%96%98",
+      "hot_value": 430000
+    },
+    {
+      "rank": 9,
+      "title": "iPhone17Pro线下降价",
+      "url": "https://s.weibo.com/weibo?q=iPhone17Pro%E7%BA%BF%E4%B8%8B%E9%99%8D%E4%BB%B7",
+      "hot_value": 370000
+    },
+    {
+      "rank": 10,
+      "title": "花少8一分钟就把选房解决了",
+      "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%918%E4%B8%80%E5%88%86%E9%92%9F%E5%B0%B1%E6%8A%8A%E9%80%89%E6%88%BF%E8%A7%A3%E5%86%B3%E4%BA%86",
+      "hot_value": 280000
+    },
+    {
+      "rank": 11,
+      "title": "说阿信来自中国的是苹果工作人员",
+      "url": "https://s.weibo.com/weibo?q=%E8%AF%B4%E9%98%BF%E4%BF%A1%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%98%AF%E8%8B%B9%E6%9E%9C%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98",
+      "hot_value": 280000
+    },
+    {
+      "rank": 12,
+      "title": "黄金",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91",
+      "hot_value": 280000
+    },
+    {
+      "rank": 13,
+      "title": "黄晓明在内涵谁",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%E5%9C%A8%E5%86%85%E6%B6%B5%E8%B0%81",
+      "hot_value": 260000
+    },
+    {
+      "rank": 14,
+      "title": "马来亚大学回应称将会采取必要措施",
+      "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%9D%A5%E4%BA%9A%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E7%A7%B0%E5%B0%86%E4%BC%9A%E9%87%87%E5%8F%96%E5%BF%85%E8%A6%81%E6%8E%AA%E6%96%BD",
+      "hot_value": 260000
+    },
+    {
+      "rank": 15,
+      "title": "怪不得卢昱晓能瘦",
+      "url": "https://s.weibo.com/weibo?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E5%8D%A2%E6%98%B1%E6%99%93%E8%83%BD%E7%98%A6",
+      "hot_value": 260000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "女子旧手机号二次放号后支付宝被哈啰盗刷 6551 元，平台仅补 200 元，这合理吗？暴露了哪些问题",
+      "url": "https://www.zhihu.com/question/2081001656066504241",
+      "hot_value": 2650000
+    },
+    {
+      "rank": 2,
+      "title": "如何看待大二学生因用名牌手机被取消资助后威胁要曝光，现愿意更换手机、到资助者亲戚家的店里打工挣钱",
+      "url": "https://www.zhihu.com/question/2080768309436458272",
+      "hot_value": 2370000
+    },
+    {
+      "rank": 3,
+      "title": "我不明白中国网球一姐郑钦文，为啥前段时间状态低迷，这次美网她就如换了一个人似的",
+      "url": "https://www.zhihu.com/question/2080059745206125016",
+      "hot_value": 2000000
+    },
+    {
+      "rank": 4,
+      "title": "山东青岛北海造船厂一货轮火灾事故已造成 25 人遇难",
+      "url": "https://www.zhihu.com/pin/2081482701861807198",
+      "hot_value": 1870000
+    },
+    {
+      "rank": 5,
+      "title": "浦东机场出租车司机以「车坏了」、「提前付钱」为由甩客，乱象背后原因是什么",
+      "url": "https://www.zhihu.com/question/2079910901730300330",
+      "hot_value": 1740000
+    },
+    {
+      "rank": 6,
+      "title": "数学已经被 AI 彻底革命了么",
+      "url": "https://www.zhihu.com/question/2081004982103270003",
+      "hot_value": 1720000
+    },
+    {
+      "rank": 7,
+      "title": "2026 女篮世界杯 1/4 决赛，中国女篮 61 比 90 不敌法国女篮，止步八强，如何评价本场比赛",
+      "url": "https://www.zhihu.com/question/2081332911245096714",
+      "hot_value": 1480000
+    },
+    {
+      "rank": 8,
+      "title": "既然 AI 一分钟就能开发出像《开心消消乐》《植物大战僵尸》这样的游戏，为什么排行榜上还是这些老游戏",
+      "url": "https://www.zhihu.com/question/2076970531870466744",
+      "hot_value": 1360000
+    },
+    {
+      "rank": 9,
+      "title": "白人饭的魅力主要是省时还是健康",
+      "url": "https://www.zhihu.com/question/2068725103534330412",
+      "hot_value": 1240000
+    },
+    {
+      "rank": 10,
+      "title": "如何评价正式发布的 DeepSeek V4.1 Flash",
+      "url": "https://www.zhihu.com/question/2081380378493961583",
+      "hot_value": 1180000
+    },
+    {
+      "rank": 11,
+      "title": "我看《明朝那些事儿》，发现宦官这个字眼尤为频繁，但唯独少了外戚，请问外戚去哪里了",
+      "url": "https://www.zhihu.com/question/2066992982801306585",
+      "hot_value": 1130000
+    },
+    {
+      "rank": 12,
+      "title": "新加坡印度裔占高级公务员 35%，远超人口占比 9%，这背后可能有哪些原因",
+      "url": "https://www.zhihu.com/question/2080661249017246181",
+      "hot_value": 1040000
+    },
+    {
+      "rank": 13,
+      "title": "网友吐槽各大地方台充斥着虚假卖药广告，是普遍现象吗？电视台广告审查机制是怎样的，为何屡禁不止",
+      "url": "https://www.zhihu.com/question/2081025720684209695",
+      "hot_value": 950000
+    },
+    {
+      "rank": 14,
+      "title": "如何评价动画《BanG Dream! YUME∞MITA》第 13 集",
+      "url": "https://www.zhihu.com/question/2081158275156940365",
+      "hot_value": 900000
+    },
+    {
+      "rank": 15,
+      "title": "「员工裸奔拉屎事件」事发储能巨头瑞浦兰钧，公司称因离职手续引发，哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2081467325547373034",
+      "hot_value": 900000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Shopify moves back to Native from React Native",
+      "url": "https://shopify.engineering/back-to-native",
+      "score": 445,
+      "author": "fnthawar2",
+      "comments": 311,
+      "hn_url": "https://news.ycombinator.com/item?id=49643982"
+    },
+    {
+      "rank": 2,
+      "title": "Rust Is Tier-1 Language at Microsoft",
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "score": 321,
+      "author": "mmastrac",
+      "comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=49643546"
+    },
+    {
+      "rank": 3,
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "score": 108,
+      "author": "seelos",
+      "comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=49645443"
+    },
+    {
+      "rank": 4,
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "score": 167,
+      "author": "pred_",
+      "comments": 343,
+      "hn_url": "https://news.ycombinator.com/item?id=49639408"
+    },
+    {
+      "rank": 5,
+      "title": "Software Drives People Insane",
+      "url": "https://graybeard.ing/software-drives-people-insane/",
+      "score": 52,
+      "author": "rglover",
+      "comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=49646181"
+    },
+    {
+      "rank": 6,
+      "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
+      "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
+      "score": 60,
+      "author": "gumby",
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=49645437"
+    },
+    {
+      "rank": 7,
+      "title": "Neki",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "score": 67,
+      "author": "simon_weber",
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=49645686"
+    },
+    {
+      "rank": 8,
+      "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
+      "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
+      "score": 29,
+      "author": "paimapi",
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=49645754"
+    },
+    {
+      "rank": 9,
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "score": 29,
+      "author": "weierstass",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49645907"
+    },
+    {
+      "rank": 10,
+      "title": ">10x More Efficient Pretraining",
+      "url": "https://magic.dev/blog/pretraining#",
+      "score": 63,
+      "author": "ronfriedhaber",
+      "comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=49613072"
+    },
+    {
+      "rank": 11,
+      "title": "DeepSeek v4.1 Flash",
+      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "score": 787,
+      "author": "Liwink",
+      "comments": 428,
+      "hn_url": "https://news.ycombinator.com/item?id=49639090"
+    },
+    {
+      "rank": 12,
+      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+      "score": 217,
+      "author": "thelastgallon",
+      "comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=49627634"
+    },
+    {
+      "rank": 13,
+      "title": "Neki by PlanetScale",
+      "url": "https://neki.dev/",
+      "score": 61,
+      "author": "handfuloflight",
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49645763"
+    },
+    {
+      "rank": 14,
+      "title": "Casablanca: How an unproduced play marched into movie history",
+      "url": "https://www.thecollector.com/casablanca-unproduced-play-movie-history/",
+      "score": 25,
+      "author": "mdp2021",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49645826"
+    },
+    {
+      "rank": 15,
+      "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+      "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
+      "score": 20,
+      "author": "tosh",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49587121"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发效率",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。ayghri 的 i-have-adhd[1] 是个挺实用的技巧，能防止你的 Coding Agent 把答案藏得太深，强迫输出符合 ADHD 友好风格的简洁内容，看来大家越来越关注 AI 协作的交互体验了。obra 的 superpowers[2] 提出了一套代理技能框架和开发方法论，试图解决 Agent 开发中的标准化难题，值得关注。\n\nLobsters 上关于“通过启动 Pull Request 来审查代码”的讨论[4] 很有意思，这种“Vibe Coding”的理念正在冲击传统开发流程，把代码直接跑起来看效果确实比看测试用例更直观。少数派那篇关于 NuPhy 磁轴键盘和“反投喂”信息源的报道[10] 也戳中了痛点，不仅是硬件，算法推荐对开发者也是种干扰，大家都在寻找更纯粹的信息获取方式。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术这块动静不小。JustVugg 的 colibri[9] 在 GitHub Trending 上很火，它能用纯 C 在现有硬件上跑前沿 MoE 模型，零依赖、专家从磁盘流式加载，这种极致优化的思路对边缘计算很有启发。Lobsters 上关于 CHERIoT 如何在没有 MMU 的情况下提供强隔离的论文[7] 搞安全的朋友必看，这可能是未来物联网设备安全的变革点。\n\n另外，Rust 成为微软一级语言的官方公告[3] 在 Lobsters 刷屏了，这对 Rust 生态是重大利好，但也引发了关于生态割裂的讨论。少数派那篇关于 Apple 随航技术背后的流畅秘密[9] 虽然偏消费级，但底层优化思路对理解系统一致性很有帮助。"
+      },
+      {
+        "name": "数码产品与硬件趣闻",
+        "color": "hw",
+        "summary": "数码圈今天全是 Apple 发布会的回响。GitHub 上 bilawalsidhu 的 gods-eye-view[3] 项目做了一个基于真实卫星数据的浏览器模拟，让你能在 3D 地球上看实时开源空间情报，这比看新闻地图直观多了。\n\nLobsters 上有几篇硬核实弹：一是 Xteink X4 Pro 掌机的评测[5]，还有 Decoding the NEC V20 Microcode[12] 这种硬核逆向工程，把几十年前的微码都解码了，复古计算爱好者狂喜。少数派那边更是热闹，从 iPhone 18 折叠屏首发[6] 到 Tim Cook 十五年掌舵回顾[8]，还有 LG 电视后门和塞尔达重制版的快讯[11]，可以说是集齐了所有硬件玩家的关注点。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "think",
+        "summary": "今天看多了技术，反而更想聊聊观点。Lobsters 上有一篇 rant 文章，讨论钓鱼攻击不是用户错也不是 DNS 的锅，而是系统性的信任危机[2]，这个角度很犀利，提醒我们安全不能只靠单点防御。\n\n少数派里有一篇《华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线》[7]，读起来很有情怀，技术往往在边缘地带也能开出花来。GitHub 上的 OmniRoute[8] 项目号称支持 352 个提供商，这种“万能钥匙”式的工具虽然强大，但也让人思考数据隐私和 API 密钥的集中管理风险。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "i-have-adhd: ADHD-friendly output for coding agents",
+        "url": "https://github.com/ayghri/i-have-adhd",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，防止 AI Agent 输出过于冗长"
+      },
+      {
+        "num": 2,
+        "title": "superpowers: An agentic skills framework",
+        "url": "https://github.com/obra/superpowers",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，代理技能框架"
+      },
+      {
+        "num": 3,
+        "title": "Rust Is Tier-1 Language at Microsoft",
+        "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖，关于 Rust 成为微软一级语言"
+      },
+      {
+        "num": 4,
+        "title": "Review a pull request by booting it",
+        "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖，关于通过运行代码来审查 PR 的 Vibe Coding 理念"
+      },
+      {
+        "num": 5,
+        "title": "Xteink X4 Pro review",
+        "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖，掌机硬件评测"
+      },
+      {
+        "num": 6,
+        "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
+        "url": "https://sspai.com/post/114392",
+        "source": "少数派",
+        "desc": "少数派文章，回顾 iPhone 18 系列及 Apple Watch 新品"
+      },
+      {
+        "num": 7,
+        "title": "华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线",
+        "url": "https://sspai.com/post/113842",
+        "source": "少数派",
+        "desc": "少数派文章，探讨中国游戏主机历史"
+      },
+      {
+        "num": 8,
+        "title": "OmniRoute: Free MIT AI gateway",
+        "url": "https://github.com/diegosouzapw/OmniRoute",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，支持 352+ 提供商的 AI 网关"
+      },
+      {
+        "num": 9,
+        "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
+        "url": "https://sspai.com/post/114384",
+        "source": "少数派",
+        "desc": "少数派文章，关于高效学习与工作平衡的观点"
+      },
+      {
+        "num": 10,
+        "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
+        "url": "https://sspai.com/post/114327",
+        "source": "少数派",
+        "desc": "少数派文章，关于硬件与反算法推荐的信息源"
+      },
+      {
+        "num": 11,
+        "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
+        "url": "https://sspai.com/post/114352",
+        "source": "少数派",
+        "desc": "少数派早报，包含硬件安全与游戏新闻"
+      },
+      {
+        "num": 12,
+        "title": "Decoding the NEC V20 Microcode",
+        "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖，关于 NEC V20 微码的逆向工程"
+      }
+    ],
+    "stats": {
+      "total_items": 12,
+      "total_categories": 4,
+      "total_sources": 12
+    }
+  }
+}
