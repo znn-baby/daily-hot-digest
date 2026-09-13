@@ -1,0 +1,898 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "JustVugg / colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars": "29298",
+      "stars_today": "960 stars today",
+      "language": "C"
+    },
+    {
+      "rank": 2,
+      "title": "ever-co / ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "stars": "4809",
+      "stars_today": "58 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 3,
+      "title": "bilawalsidhu / gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": "31378",
+      "stars_today": "2,898 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 4,
+      "title": "tech-leads-club / agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "stars": "5506",
+      "stars_today": "215 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 5,
+      "title": "melgarafael / DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "stars": "2085",
+      "stars_today": "444 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 6,
+      "title": "calesthio / OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "stars": "58242",
+      "stars_today": "383 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "asgeirtj / system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "stars": "65856",
+      "stars_today": "727 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 8,
+      "title": "vxcontrol / pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": "23807",
+      "stars_today": "613 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 9,
+      "title": "multimodal-art-projection / YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "stars": "7625",
+      "stars_today": "500 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 10,
+      "title": "yuliskov / SmartTube",
+      "url": "https://github.com/yuliskov/SmartTube",
+      "description": "Browse media content with your own rules on Android TV",
+      "stars": "33372",
+      "stars_today": "238 stars today",
+      "language": "Java"
+    },
+    {
+      "rank": 11,
+      "title": "alphaXiv / OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Run parallel research agents with any model",
+      "stars": "1912",
+      "stars_today": "304 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 12,
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "26087",
+      "stars_today": "2,546 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 13,
+      "title": "SnailSploit / Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "stars": "3979",
+      "stars_today": "507 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 14,
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": "23126",
+      "stars_today": "438 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 15,
+      "title": "jihe520 / MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "stars": "5310",
+      "stars_today": "268 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "I made a build visualizer to understand Bun’s compile times",
+      "url": "https://lalitm.com/post/buildprof/",
+      "source_url": "https://lalitm.com/post/buildprof/",
+      "tags": [
+        "compilers",
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 2,
+      "title": "From Git to Fossil (2025)",
+      "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
+      "source_url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
+      "tags": [
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 3,
+      "title": "Don't call yourself an artisanal programmer",
+      "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
+      "source_url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 4,
+      "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
+      "url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
+      "source_url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
+      "tags": [
+        "privacy"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 5,
+      "title": "what if my git host were a static site generator?",
+      "url": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
+      "source_url": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
+      "tags": [
+        "javascript",
+        "vcs",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 6,
+      "title": "heol",
+      "url": "https://wiki.xxiivv.com/site/heol.html",
+      "source_url": "https://wiki.xxiivv.com/site/heol.html",
+      "tags": [
+        "lisp"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 7,
+      "title": "Homebrew 7.0.0",
+      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "source_url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "tags": [
+        "mac",
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 8,
+      "title": "Stabilizing Rust's never type",
+      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "source_url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 9,
+      "title": "Golang developers should try Odin",
+      "url": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
+      "source_url": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 10,
+      "title": "After Math",
+      "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+      "source_url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+      "tags": [
+        "math",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 11,
+      "title": "A Dick Smith VZ200 without the Dick Smith",
+      "url": "http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html",
+      "source_url": "http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html",
+      "tags": [
+        "retrocomputing"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 12,
+      "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
+      "url": "https://hachyderm.io/@simontatham/117201594980991062",
+      "source_url": "https://hachyderm.io/@simontatham/117201594980991062",
+      "tags": [
+        "linux",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 13,
+      "title": "Being lazy in C++",
+      "url": "https://cpp-rendering.io/being-lazy-in-c/",
+      "source_url": "https://cpp-rendering.io/being-lazy-in-c/",
+      "tags": [
+        "c++"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 14,
+      "title": "a better way of blocking macOS updates",
+      "url": "https://zoey-on-github.github.io/blog/updates.html",
+      "source_url": "https://zoey-on-github.github.io/blog/updates.html",
+      "tags": [
+        "mac"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    },
+    {
+      "rank": 15,
+      "title": "A Few Good Ideas in Programming Languages",
+      "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
+      "source_url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
+      "tags": [
+        "plt"
+      ],
+      "score": "",
+      "comments": "",
+      "author": ""
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单dong4j昨天 15:51Matrix精选",
+      "url": "https://sspai.com/post/113880",
+      "author": "dong4j",
+      "summary": "搭建自己的 HomeLab（一）：聊聊我的硬件清单"
+    },
+    {
+      "rank": 2,
+      "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南程天冲前天 15:00Matrix精选",
+      "url": "https://sspai.com/post/114461",
+      "author": "程天冲",
+      "summary": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南"
+    },
+    {
+      "rank": 3,
+      "title": "本周看什么 | 最近值得一看的 7 部作品少数派编辑部09/11",
+      "url": "https://sspai.com/post/114458",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 7 部作品"
+    },
+    {
+      "rank": 4,
+      "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事新品尚未发货，我们继续整理了一些发布会中未提及的细节，不妨一起来看看有没有你感兴趣的。宛潼09/11",
+      "url": "https://sspai.com/post/114449",
+      "author": "宛潼",
+      "summary": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事"
+    },
+    {
+      "rank": 5,
+      "title": "「正常」已是不易：聊聊不那么标新立异的理想 i6别惹小炸毛09/11",
+      "url": "https://sspai.com/post/113605",
+      "author": "别惹小炸毛",
+      "summary": "「正常」已是不易：聊聊不那么标新立异的理想 i6"
+    },
+    {
+      "rank": 6,
+      "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1788244609",
+      "author": "一派投票",
+      "summary": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？"
+    },
+    {
+      "rank": 7,
+      "title": "新 iPhone 配件精选：多种组合一次配齐什么陈09/11商店",
+      "url": "https://sspai.com/post/114414",
+      "author": "什么陈",
+      "summary": "新 iPhone 配件精选：多种组合一次配齐"
+    },
+    {
+      "rank": 8,
+      "title": "派早报：商务部回应美国 AI 蒸馏指控少数派编辑部09/11派早报",
+      "url": "https://sspai.com/post/114439",
+      "author": "少数派编辑部",
+      "summary": "派早报：商务部回应美国 AI 蒸馏指控"
+    },
+    {
+      "rank": 9,
+      "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容Tao_Sway09/10Matrix精选",
+      "url": "https://sspai.com/post/114384",
+      "author": "Tao_Sway",
+      "summary": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容"
+    },
+    {
+      "rank": 10,
+      "title": "派早报：Apple 发布 iPhone Duo 折叠屏等少数派编辑部09/10派早报",
+      "url": "https://sspai.com/post/114394",
+      "author": "少数派编辑部",
+      "summary": "派早报：Apple 发布 iPhone Duo 折叠屏等"
+    },
+    {
+      "rank": 11,
+      "title": "一图流 | 一张图带你看完 2026 Apple 秋季发布会少数派编辑部09/10",
+      "url": "https://sspai.com/post/114393",
+      "author": "少数派编辑部",
+      "summary": "一图流 | 一张图带你看完 2026 Apple 秋季发布会"
+    },
+    {
+      "rank": 12,
+      "title": "八月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1787798597",
+      "author": "一派讨论",
+      "summary": "八月买了什么好东西？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "Bin回应AL夺冠",
+      "url": "https://s.weibo.com/weibo?q=Bin%E5%9B%9E%E5%BA%94AL%E5%A4%BA%E5%86%A0",
+      "hot_value": 730000
+    },
+    {
+      "rank": 2,
+      "title": "服贸会十四年成绩单",
+      "url": "https://s.weibo.com/weibo?q=%E6%9C%8D%E8%B4%B8%E4%BC%9A%E5%8D%81%E5%9B%9B%E5%B9%B4%E6%88%90%E7%BB%A9%E5%8D%95",
+      "hot_value": 650000
+    },
+    {
+      "rank": 3,
+      "title": "哥哥披荆斩棘我披荆斩题",
+      "url": "https://s.weibo.com/weibo?q=%E5%93%A5%E5%93%A5%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%88%91%E6%8A%AB%E8%8D%86%E6%96%A9%E9%A2%98",
+      "hot_value": 650000
+    },
+    {
+      "rank": 4,
+      "title": "井柏然孙千偷偷牵手",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E5%81%B7%E5%81%B7%E7%89%B5%E6%89%8B",
+      "hot_value": 620000
+    },
+    {
+      "rank": 5,
+      "title": "白桃星座一周运势",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%E4%B8%80%E5%91%A8%E8%BF%90%E5%8A%BF",
+      "hot_value": 600000
+    },
+    {
+      "rank": 6,
+      "title": "女子拍下骇人巨型蜗牛引热议",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%8B%8D%E4%B8%8B%E9%AA%87%E4%BA%BA%E5%B7%A8%E5%9E%8B%E8%9C%97%E7%89%9B%E5%BC%95%E7%83%AD%E8%AE%AE",
+      "hot_value": 310000
+    },
+    {
+      "rank": 7,
+      "title": "在淘宝开学时装周找到了理想型",
+      "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E6%B7%98%E5%AE%9D%E5%BC%80%E5%AD%A6%E6%97%B6%E8%A3%85%E5%91%A8%E6%89%BE%E5%88%B0%E4%BA%86%E7%90%86%E6%83%B3%E5%9E%8B",
+      "hot_value": 270000
+    },
+    {
+      "rank": 8,
+      "title": "下周上5休1再上1",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%8B%E5%91%A8%E4%B8%8A5%E4%BC%911%E5%86%8D%E4%B8%8A1",
+      "hot_value": 260000
+    },
+    {
+      "rank": 9,
+      "title": "赵雷鸟巢演唱会",
+      "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9B%B7%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "hot_value": 230000
+    },
+    {
+      "rank": 10,
+      "title": "AL夺冠",
+      "url": "https://s.weibo.com/weibo?q=AL%E5%A4%BA%E5%86%A0",
+      "hot_value": 220000
+    },
+    {
+      "rank": 11,
+      "title": "优酷招商大剧片单",
+      "url": "https://s.weibo.com/weibo?q=%E4%BC%98%E9%85%B7%E6%8B%9B%E5%95%86%E5%A4%A7%E5%89%A7%E7%89%87%E5%8D%95",
+      "hot_value": 190000
+    },
+    {
+      "rank": 12,
+      "title": "彭小苒直播穿的衣服",
+      "url": "https://s.weibo.com/weibo?q=%E5%BD%AD%E5%B0%8F%E8%8B%92%E7%9B%B4%E6%92%AD%E7%A9%BF%E7%9A%84%E8%A1%A3%E6%9C%8D",
+      "hot_value": 190000
+    },
+    {
+      "rank": 13,
+      "title": "上海多个班级通知全班居家隔离",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%A4%9A%E4%B8%AA%E7%8F%AD%E7%BA%A7%E9%80%9A%E7%9F%A5%E5%85%A8%E7%8F%AD%E5%B1%85%E5%AE%B6%E9%9A%94%E7%A6%BB",
+      "hot_value": 190000
+    },
+    {
+      "rank": 14,
+      "title": "郑恺苗苗在加拿大租了一个月房子",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E8%8B%97%E8%8B%97%E5%9C%A8%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%A7%9F%E4%BA%86%E4%B8%80%E4%B8%AA%E6%9C%88%E6%88%BF%E5%AD%90",
+      "hot_value": 190000
+    },
+    {
+      "rank": 15,
+      "title": "情侣在演唱会求婚遭后排喊坐下",
+      "url": "https://s.weibo.com/weibo?q=%E6%83%85%E4%BE%A3%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B1%82%E5%A9%9A%E9%81%AD%E5%90%8E%E6%8E%92%E5%96%8A%E5%9D%90%E4%B8%8B",
+      "hot_value": 190000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "罗永浩称野人先生冰激凌很一般，野人先生该如何回应这场突发舆情",
+      "url": "https://www.zhihu.com/question/2082497943508973001",
+      "hot_value": 7080000
+    },
+    {
+      "rank": 2,
+      "title": "LPL 2026 赛季季后赛总决赛 AL 3:1 击败 BLG 夺得总冠军，如何评价这场比赛",
+      "url": "https://www.zhihu.com/question/2082449921253303582",
+      "hot_value": 6860000
+    },
+    {
+      "rank": 3,
+      "title": "清朝人口为何从 1400 万迅速长到 4 亿？呈现爆发式增长，是何原因",
+      "url": "https://www.zhihu.com/question/528355615",
+      "hot_value": 6040000
+    },
+    {
+      "rank": 4,
+      "title": "浙江太乙圣莲拟 30 亿元入主哪吒汽车，将如何影响其未来战略布局",
+      "url": "https://www.zhihu.com/question/2081827882993823882",
+      "hot_value": 5390000
+    },
+    {
+      "rank": 5,
+      "title": "HYROX 北京站比赛选手失禁仍完成比赛，比赛规则和卫生安全引争议，如何看待此事",
+      "url": "https://www.zhihu.com/question/2082250121257997440",
+      "hot_value": 5120000
+    },
+    {
+      "rank": 6,
+      "title": "河北医大二院工作人员先后收受贿赂 46 次，累计涉案 1.84 亿元，超 30 家药企长期行贿，哪些环节出了问题",
+      "url": "https://www.zhihu.com/question/2082440100701548705",
+      "hot_value": 4850000
+    },
+    {
+      "rank": 7,
+      "title": "如何评价魔兽争霸 3 新出的酒馆英雄「被遗忘者圣骑士」",
+      "url": "https://www.zhihu.com/question/2082386280025941790",
+      "hot_value": 1900000
+    },
+    {
+      "rank": 8,
+      "title": "如何看待苹果宣布 App 可以直接获取 iPhone Duo 铰链开合角度？将此应用于开屏广告的前景如何",
+      "url": "https://www.zhihu.com/question/2081661494270415480",
+      "hot_value": 1850000
+    },
+    {
+      "rank": 9,
+      "title": "宁波大学开学典礼突降暴雨，校长仅讲 3 句话为何会走红网络？引发了大家怎样的共鸣",
+      "url": "https://www.zhihu.com/question/2082012177599304906",
+      "hot_value": 1430000
+    },
+    {
+      "rank": 10,
+      "title": "16 岁中国小将孙心然夺得美网青少年组女单冠军，怎样评价她的表现？她未来的潜力如何",
+      "url": "https://www.zhihu.com/question/2082373635344266116",
+      "hot_value": 1240000
+    },
+    {
+      "rank": 11,
+      "title": "男生去年考上北大医学部放弃，2026 年又考进北大图灵班，做到这点有多难？怎样看待他的选择",
+      "url": "https://www.zhihu.com/question/2082370923865420719",
+      "hot_value": 1140000
+    },
+    {
+      "rank": 12,
+      "title": "《狂飙》中的老默是咋死的",
+      "url": "https://www.zhihu.com/question/580531991",
+      "hot_value": 890000
+    },
+    {
+      "rank": 13,
+      "title": "如何评价在 2026 年原神、星铁、绝区零均在周年庆 / 大版本开门免费赠送了自选限定 5 星（S 级）角色",
+      "url": "https://www.zhihu.com/question/2082248036630189097",
+      "hot_value": 840000
+    },
+    {
+      "rank": 14,
+      "title": "2026 赛季 F1 马德里大奖赛，安东内利夺冠，勒克莱尔第四，如何评价本场比赛",
+      "url": "https://www.zhihu.com/question/2082599460941592333",
+      "hot_value": 810000
+    },
+    {
+      "rank": 15,
+      "title": "预感将被裁员且能力不足，该主动辞职吗",
+      "url": "https://www.zhihu.com/question/2081988407358767777",
+      "hot_value": 790000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "score": 165,
+      "author": "Levitating",
+      "comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=49684393"
+    },
+    {
+      "rank": 2,
+      "title": "CUDA for AMD on Windows",
+      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+      "score": 56,
+      "author": "chiassedu80",
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=49684356"
+    },
+    {
+      "rank": 3,
+      "title": "JetKVM Mini",
+      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "score": 389,
+      "author": "taubek",
+      "comments": 150,
+      "hn_url": "https://news.ycombinator.com/item?id=49681152"
+    },
+    {
+      "rank": 4,
+      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+      "url": "https://cpak.it/",
+      "score": 17,
+      "author": "xlmnxp",
+      "comments": 4,
+      "hn_url": "https://news.ycombinator.com/item?id=49684778"
+    },
+    {
+      "rank": 5,
+      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+      "score": 75,
+      "author": "ibobev",
+      "comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=49683262"
+    },
+    {
+      "rank": 6,
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "score": 83,
+      "author": "TheJCDenton",
+      "comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=49685253"
+    },
+    {
+      "rank": 7,
+      "title": "Libraries Run Rust Inside Python (With PyO3)",
+      "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+      "score": 25,
+      "author": "lumpa",
+      "comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=49685037"
+    },
+    {
+      "rank": 8,
+      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "url": "https://bensimms.moe/reverse-engineering-scooter/",
+      "score": 169,
+      "author": "vinhnx",
+      "comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=49638071"
+    },
+    {
+      "rank": 9,
+      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+      "score": 79,
+      "author": "blincoln",
+      "comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=49683033"
+    },
+    {
+      "rank": 10,
+      "title": "Making Startups Powerful",
+      "url": "https://paulgraham.com/powerful.html",
+      "score": 32,
+      "author": "tosh",
+      "comments": 18,
+      "hn_url": "https://news.ycombinator.com/item?id=49684196"
+    },
+    {
+      "rank": 11,
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "score": 478,
+      "author": "jonifico",
+      "comments": 558,
+      "hn_url": "https://news.ycombinator.com/item?id=49678969"
+    },
+    {
+      "rank": 12,
+      "title": "Alan's Random Insult Generator (1999)",
+      "url": "https://alanbellows.com/experiments/insult/index.html",
+      "score": 23,
+      "author": "DamnInteresting",
+      "comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=49660196"
+    },
+    {
+      "rank": 13,
+      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "url": "https://github.com/FeralFirmware/TailTalk/",
+      "score": 47,
+      "author": "zdw",
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49678423"
+    },
+    {
+      "rank": 14,
+      "title": "Predictive intelligence to anticipate anything.",
+      "url": "https://prior.chat/",
+      "score": 14,
+      "author": "onemarkos",
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=49684879"
+    },
+    {
+      "rank": 15,
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "score": 21,
+      "author": "kolanos",
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49685991"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发者生态",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。JustVugg / colibri[1] 号称能在你现有的硬件上跑 frontier MoE 模型，纯 C 语言写，零依赖，还能从磁盘流式传输专家，这对于资源受限但算力需求大的场景太友好了。tech-leads-club / agent-skills[2] 则是一个安全验证的技能注册表，想给 Claude、Cursor 等工具扩展能力的朋友，用这个库能极大提升对 AI 输出结果的信任度。OpenMontage[3] 更是个狠角色，号称全球首个开源智能体视频制作系统，12 条生产线、700 多个技能文件，直接把 AI 编程助手变成了完整的视频工作室，这脑洞绝了。\n\n社区里 Lobsters 上有个帖子挺有意思，作者分享了一个可视化工具来理解 Bun 的编译时间 [4]，虽然具体数据没爆，但这种用数据透视编译原理的思路值得点赞。少数派那边，程天冲写了一篇《与 AI 搏斗失败后重新开始找工作》，[5] 标题虽然扎心，但内容全是干货，给正在和 AI 转型焦虑中挣扎的开发者提了个醒：技术迭代快，但人的核心价值还在。搞 AI 安全的朋友必看的是 vxcontrol / pentagi[6]，这是一个全自动渗透测试 Agent，能在真实环境里干脏活累活，虽然有点‘不安分’，但确实是红队演练的神器。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术这块今天动静也不小。GitHub 上 bilawalsidhu / gods-eye-view[7] 做了一个在浏览器里运行的间谍卫星模拟器，用的全是真实开源数据，能在 3D 地球上看到实时情报，这项目简直是‘开源版天网’，搞地理信息和地缘政治研究的人绝对要关注。Lobsters 社区里关于 VCS（版本控制系统）的讨论很热烈，有人提议从 Git 转向 Fossil[8]，还有人脑洞大开想做一个‘把 Git 仓库当静态站点生成器’的东西 [9]，这种对开发工作流的解构总能带来新灵感。\n\n少数派编辑部发了篇《一图流 | 一张图带你看完 2026 Apple 秋季发布会》[10]，虽然是个快讯，但对关注 Apple 生态的朋友来说，发布会细节往往是系统优化的前兆。还有个 Linux 相关的帖子说 Linux Zoom Client 主动读取 X11 剪贴板 [11]，这听起来像是个 Bug，但搞安全的朋友得警惕了，这涉及到底层隐私泄露的风险，值得深挖一下。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "tools",
+        "summary": "数码产品这块，iPhone 18 和 Duo 折叠屏的发布会细节被少数派挖得挺深 [12]，宛潼的文章里提到了一些发布会没说的细节，比如配件生态的变化，对于果粉来说这些信息量很足。Tim Cook 掌舵十五年的回顾文章 [13] 也是一篇好读的好文，聊聊哪些产品真正改变了数字生活，除了情怀还有对未来的思考。\n\n效率工具方面，GitHub 上的 ever-co / ever-gauzy[14] 是个开源的企业管理平台，集成了 ERP、CRM、HRM 等功能，这种一站式解决方案如果能跑起来，对中小企业很有吸引力。DeskcommCRM[15] 则是个开源的 AI 销售 OS，支持自托管和 WhatsApp 集成，想替代 Kommo 之类商业软件的朋友可以参考下。另外，SmartTube[16] 让 Android TV 用户能按自己的规则浏览媒体内容，这种‘去广告、自定义’的思路在电视端一直是个刚需。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "think",
+        "summary": "今天的思考类内容挺有深度的。Lobsters 上有个帖子叫《Don't call yourself an artisanal programmer》[17]，直译就是‘别把自己叫工匠程序员’，这是在反思过度追求小而美的代码风格，或许在 AI 时代，工程化和规模化才是王道。还有 Terry Tao 的《After Math》[18]，虽然有点抽象，但能感受到顶尖学者对数学与计算本质的思考。\n\n少数派上别惹小炸毛写的《「正常」已是不易》[19] 也很有意思，聊聊不那么标新立异的理想，在大家都在卷 AI 卷创新的今天，‘正常’反而成了一种稀缺的品质。这种观点输出比单纯的技术教程更能引发共鸣，提醒大家技术终究是为人服务的。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "Run frontier MoE models on hardware you already own — pure C, zero deps",
+        "url": "https://github.com/JustVugg/colibri",
+        "source": "GitHub Trending",
+        "desc": "纯 C 实现的 MoE 模型推理引擎"
+      },
+      {
+        "num": 2,
+        "title": "The secure, validated skill registry for professional AI coding agents",
+        "url": "https://github.com/tech-leads-club/agent-skills",
+        "source": "GitHub Trending",
+        "desc": "AI 编程 Agent 的安全技能注册表"
+      },
+      {
+        "num": 3,
+        "title": "World's first open-source, agentic video production system",
+        "url": "https://github.com/calesthio/OpenMontage",
+        "source": "GitHub Trending",
+        "desc": "开源智能体视频制作系统"
+      },
+      {
+        "num": 4,
+        "title": "I made a build visualizer to understand Bun's compile times",
+        "url": "https://lalitm.com/post/buildprof/",
+        "source": "Lobsters",
+        "desc": "可视化理解 Bun 编译时间的工具与讨论"
+      },
+      {
+        "num": 5,
+        "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+        "url": "https://sspai.com/post/114461",
+        "source": "少数派",
+        "desc": "AI 转型期的求职经验与反思"
+      },
+      {
+        "num": 6,
+        "title": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "url": "https://github.com/vxcontrol/pentagi",
+        "source": "GitHub Trending",
+        "desc": "全自动渗透测试 Agent 系统"
+      },
+      {
+        "num": 7,
+        "title": "A spy satellite simulator in your browser, except the data is real",
+        "url": "https://github.com/bilawalsidhu/gods-eye-view",
+        "source": "GitHub Trending",
+        "desc": "基于真实数据的开源卫星情报模拟器"
+      },
+      {
+        "num": 8,
+        "title": "From Git to Fossil (2025)",
+        "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
+        "source": "Lobsters",
+        "desc": "关于版本控制系统从 Git 转向 Fossil 的讨论"
+      },
+      {
+        "num": 9,
+        "title": "what if my git host were a static site generator?",
+        "url": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
+        "source": "Lobsters",
+        "desc": "将 Git 仓库作为静态站点生成器的创意构想"
+      },
+      {
+        "num": 10,
+        "title": "一图流 | 一张图带你看完 2026 Apple 秋季发布会",
+        "url": "https://sspai.com/post/114393",
+        "source": "少数派",
+        "desc": "Apple 秋季发布会内容汇总"
+      },
+      {
+        "num": 11,
+        "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
+        "url": "https://hachyderm.io/@simontatham/117201594980991062",
+        "source": "Lobsters",
+        "desc": "Linux Zoom 客户端读取剪贴板的安全隐患讨论"
+      },
+      {
+        "num": 12,
+        "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
+        "url": "https://sspai.com/post/114449",
+        "source": "少数派",
+        "desc": "Apple 新品发布会细节深挖"
+      },
+      {
+        "num": 13,
+        "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？",
+        "url": "https://sspai.com/bullet/1788244609",
+        "source": "少数派",
+        "desc": "回顾 Apple 产品对用户数字生活的影响"
+      },
+      {
+        "num": 14,
+        "title": "Ever® Gauzy™ - Open Business Management Platform",
+        "url": "https://github.com/ever-co/ever-gauzy",
+        "source": "GitHub Trending",
+        "desc": "开源一体化企业管理平台"
+      },
+      {
+        "num": 15,
+        "title": "Open-source AI sales OS — self-hosted CRM with native AI agents",
+        "url": "https://github.com/melgarafael/DeskcommCRM",
+        "source": "GitHub Trending",
+        "desc": "支持 AI Agent 的自托管销售 CRM"
+      },
+      {
+        "num": 16,
+        "title": "Browse media content with your own rules on Android TV",
+        "url": "https://github.com/yuliskov/SmartTube",
+        "source": "GitHub Trending",
+        "desc": "Android TV 自定义媒体浏览工具"
+      },
+      {
+        "num": 17,
+        "title": "Don't call yourself an artisanal programmer",
+        "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
+        "source": "Lobsters",
+        "desc": "反思‘工匠程序员’标签的社区讨论"
+      },
+      {
+        "num": 18,
+        "title": "After Math",
+        "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+        "source": "Lobsters",
+        "desc": "陶哲轩关于数学本质的思考文章"
+      },
+      {
+        "num": 19,
+        "title": "「正常」已是不易：聊聊不那么标新立异的理想",
+        "url": "https://sspai.com/post/113605",
+        "source": "少数派",
+        "desc": "探讨在创新浪潮中保持‘正常’的意义"
+      }
+    ],
+    "stats": {
+      "total_items": 19,
+      "total_categories": 4,
+      "total_sources": 19
+    }
+  }
+}
