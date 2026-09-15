@@ -1,0 +1,865 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": "27976",
+      "stars_today": "2,751 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 2,
+      "title": "JustVugg / colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars": "33439",
+      "stars_today": "2,035 stars today",
+      "language": "C"
+    },
+    {
+      "rank": 3,
+      "title": "ever-co / ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "stars": "6462",
+      "stars_today": "632 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 4,
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "30616",
+      "stars_today": "2,081 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "Homebrew / BrewUI",
+      "url": "https://github.com/Homebrew/BrewUI",
+      "description": "📺 Homebrew's official macOS GUI",
+      "stars": "1224",
+      "stars_today": "356 stars today",
+      "language": "Swift"
+    },
+    {
+      "rank": 6,
+      "title": "melgarafael / DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "stars": "2710",
+      "stars_today": "205 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 7,
+      "title": "alphaXiv / OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "stars": "3156",
+      "stars_today": "593 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 8,
+      "title": "NationalSecurityAgency / ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": "76538",
+      "stars_today": "755 stars today",
+      "language": "Java"
+    },
+    {
+      "rank": 9,
+      "title": "danny-avila / LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "stars": "43718",
+      "stars_today": "261 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 10,
+      "title": "pacifio / atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "stars": "4539",
+      "stars_today": "102 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 11,
+      "title": "MG1937 / ASC",
+      "url": "https://github.com/MG1937/ASC",
+      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "stars": "1086",
+      "stars_today": "122 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 12,
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": "94644",
+      "stars_today": "354 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 13,
+      "title": "tonhowtf / omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "stars": "12697",
+      "stars_today": "318 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 14,
+      "title": "earendil-works / pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": "105577",
+      "stars_today": "437 stars today",
+      "language": "TypeScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "The contagion of fear",
+      "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+      "source_url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "rrampage"
+    },
+    {
+      "rank": 2,
+      "title": "\"Do You Still Read the Code?\"",
+      "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+      "source_url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "zanlib"
+    },
+    {
+      "rank": 3,
+      "title": "Coreutils - rejected feature requests",
+      "url": "https://www.gnu.org/software/coreutils/rejected_requests.html",
+      "source_url": "https://www.gnu.org/software/coreutils/rejected_requests.html",
+      "tags": [
+        "programming",
+        "unix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "ryan-duve"
+    },
+    {
+      "rank": 4,
+      "title": "CSS-Tricks in Limbo",
+      "url": "https://vale.rocks/micros/20260915-0135",
+      "source_url": "https://vale.rocks/micros/20260915-0135",
+      "tags": [
+        "css",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "FedericoSchonborn"
+    },
+    {
+      "rank": 5,
+      "title": "What blog posts influenced your thinking the most?",
+      "url": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
+      "source_url": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
+      "tags": [
+        "ask",
+        "practices"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "mt"
+    },
+    {
+      "rank": 6,
+      "title": "How can you not be romantic about UNIX domain sockets?",
+      "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
+      "source_url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
+      "tags": [
+        "c",
+        "unix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "polywolf"
+    },
+    {
+      "rank": 7,
+      "title": "A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)",
+      "url": "https://www.benjoffe.com/map",
+      "source_url": "https://www.benjoffe.com/map",
+      "tags": [
+        "math",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "benjoffe"
+    },
+    {
+      "rank": 8,
+      "title": "Converting a $20 4G wireless hotspot into a texting device",
+      "url": "https://bkovac.github.io/modem-thing/",
+      "source_url": "https://bkovac.github.io/modem-thing/",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "untitaker"
+    },
+    {
+      "rank": 9,
+      "title": "GEFS on OpenBSD: A very early preview",
+      "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+      "source_url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+      "tags": [
+        "openbsd"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jbauer"
+    },
+    {
+      "rank": 10,
+      "title": "GDScript: The Good, Bad, and Ugly Parts",
+      "url": "https://azhdarchid.com/gdscript-good-bad-ugly/",
+      "source_url": "https://azhdarchid.com/gdscript-good-bad-ugly/",
+      "tags": [
+        "games",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "misty"
+    },
+    {
+      "rank": 11,
+      "title": "A Letter from a Machine Learning Engineer",
+      "url": "https://nemin.hu/llm-letter/index.html",
+      "source_url": "https://nemin.hu/llm-letter/index.html",
+      "tags": [
+        "ai"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "nemin"
+    },
+    {
+      "rank": 12,
+      "title": "A Nix store is three functions",
+      "url": "https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions",
+      "source_url": "https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions",
+      "tags": [
+        "nix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "skycam"
+    },
+    {
+      "rank": 13,
+      "title": "Stalling installing",
+      "url": "https://adactio.com/journal/22757",
+      "source_url": "https://adactio.com/journal/22757",
+      "tags": [
+        "browsers",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "opale"
+    },
+    {
+      "rank": 14,
+      "title": "Search over Algebraic Graphs",
+      "url": "https://anekstein.com/posts/2026-08-22.html",
+      "source_url": "https://anekstein.com/posts/2026-08-22.html",
+      "tags": [
+        "haskell"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "anex9d"
+    },
+    {
+      "rank": 15,
+      "title": "Trying to Make a Loop Auto-Vectorize",
+      "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
+      "source_url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
+      "tags": [
+        "assembly",
+        "performance",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "fanf"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备Matrix机器人昨天 17:00",
+      "url": "https://sspai.com/post/114613",
+      "author": "Matrix机器人",
+      "summary": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备"
+    },
+    {
+      "rank": 2,
+      "title": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。少数派编辑部昨天 15:00",
+      "url": "https://sspai.com/post/114565",
+      "author": "少数派编辑部",
+      "summary": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性"
+    },
+    {
+      "rank": 3,
+      "title": "开学季 | 学生理财的三条建议，学生党也可以一样理财也谈钱昨天 11:10",
+      "url": "https://sspai.com/post/47126",
+      "author": "也谈钱",
+      "summary": "开学季 | 学生理财的三条建议，学生党也可以一样理财"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等少数派编辑部昨天 08:06派早报",
+      "url": "https://sspai.com/post/114593",
+      "author": "少数派编辑部",
+      "summary": "派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等"
+    },
+    {
+      "rank": 5,
+      "title": "快速投票：换机只选 512GB 起步？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1789222518",
+      "author": "一派投票",
+      "summary": "快速投票：换机只选 512GB 起步？"
+    },
+    {
+      "rank": 6,
+      "title": "派评｜近期值得关注的 App少数派编辑部前天 17:24",
+      "url": "https://sspai.com/post/114577",
+      "author": "少数派编辑部",
+      "summary": "派评｜近期值得关注的 App"
+    },
+    {
+      "rank": 7,
+      "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？Kostya前天 16:35会员内容",
+      "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
+      "author": "Kostya",
+      "summary": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？"
+    },
+    {
+      "rank": 8,
+      "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试HaroldLee前天 15:16Matrix精选",
+      "url": "https://sspai.com/post/114453",
+      "author": "HaroldLee",
+      "summary": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试"
+    },
+    {
+      "rank": 9,
+      "title": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」听歌的水獭前天 11:00",
+      "url": "https://sspai.com/post/114410",
+      "author": "听歌的水獭",
+      "summary": "众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」"
+    },
+    {
+      "rank": 10,
+      "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1788244609",
+      "author": "一派投票",
+      "summary": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？"
+    },
+    {
+      "rank": 11,
+      "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对少数派编辑部前天 06:55派早报",
+      "url": "https://sspai.com/post/114539",
+      "author": "少数派编辑部",
+      "summary": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对"
+    },
+    {
+      "rank": 12,
+      "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单dong4j09/13Matrix精选",
+      "url": "https://sspai.com/post/113880",
+      "author": "dong4j",
+      "summary": "搭建自己的 HomeLab（一）：聊聊我的硬件清单"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "兰香如故腾讯今年第四部破万剧",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E8%85%BE%E8%AE%AF%E4%BB%8A%E5%B9%B4%E7%AC%AC%E5%9B%9B%E9%83%A8%E7%A0%B4%E4%B8%87%E5%89%A7",
+      "hot_value": 710000
+    },
+    {
+      "rank": 2,
+      "title": "长征高铁开行的背后",
+      "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E5%BE%81%E9%AB%98%E9%93%81%E5%BC%80%E8%A1%8C%E7%9A%84%E8%83%8C%E5%90%8E",
+      "hot_value": 580000
+    },
+    {
+      "rank": 3,
+      "title": "网传刘亦菲陈晓咸雪导演伊峥",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E5%88%98%E4%BA%A6%E8%8F%B2%E9%99%88%E6%99%93%E5%92%B8%E9%9B%AA%E5%AF%BC%E6%BC%94%E4%BC%8A%E5%B3%A5",
+      "hot_value": 450000
+    },
+    {
+      "rank": 4,
+      "title": "一劳永逸解决台湾问题",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E8%A7%A3%E5%86%B3%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98",
+      "hot_value": 400000
+    },
+    {
+      "rank": 5,
+      "title": "为什么现在都买电车了",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E9%83%BD%E4%B9%B0%E7%94%B5%E8%BD%A6%E4%BA%86",
+      "hot_value": 340000
+    },
+    {
+      "rank": 6,
+      "title": "出发吧 神州山海",
+      "url": "https://s.weibo.com/weibo?q=%E5%87%BA%E5%8F%91%E5%90%A7+%E7%A5%9E%E5%B7%9E%E5%B1%B1%E6%B5%B7",
+      "hot_value": 340000
+    },
+    {
+      "rank": 7,
+      "title": "兰香如故破3万",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%A0%B43%E4%B8%87",
+      "hot_value": 340000
+    },
+    {
+      "rank": 8,
+      "title": "我国人口总量14.05亿",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E4%BA%BA%E5%8F%A3%E6%80%BB%E9%87%8F14.05%E4%BA%BF",
+      "hot_value": 340000
+    },
+    {
+      "rank": 9,
+      "title": "接到陌生来电请沉默三秒",
+      "url": "https://s.weibo.com/weibo?q=%E6%8E%A5%E5%88%B0%E9%99%8C%E7%94%9F%E6%9D%A5%E7%94%B5%E8%AF%B7%E6%B2%89%E9%BB%98%E4%B8%89%E7%A7%92",
+      "hot_value": 340000
+    },
+    {
+      "rank": 10,
+      "title": "罗永浩为钟薛高发声",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E4%B8%BA%E9%92%9F%E8%96%9B%E9%AB%98%E5%8F%91%E5%A3%B0",
+      "hot_value": 330000
+    },
+    {
+      "rank": 11,
+      "title": "杨洋李沁谈了五年",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%E6%9D%8E%E6%B2%81%E8%B0%88%E4%BA%86%E4%BA%94%E5%B9%B4",
+      "hot_value": 330000
+    },
+    {
+      "rank": 12,
+      "title": "陈建州心肌梗塞开刀",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%BB%BA%E5%B7%9E%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E%E5%BC%80%E5%88%80",
+      "hot_value": 330000
+    },
+    {
+      "rank": 13,
+      "title": "产房盼男 病房盼女",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%A7%E6%88%BF%E7%9B%BC%E7%94%B7+%E7%97%85%E6%88%BF%E7%9B%BC%E5%A5%B3",
+      "hot_value": 330000
+    },
+    {
+      "rank": 14,
+      "title": "范玮琪第一时间赶往医院",
+      "url": "https://s.weibo.com/weibo?q=%E8%8C%83%E7%8E%AE%E7%90%AA%E7%AC%AC%E4%B8%80%E6%97%B6%E9%97%B4%E8%B5%B6%E5%BE%80%E5%8C%BB%E9%99%A2",
+      "hot_value": 330000
+    },
+    {
+      "rank": 15,
+      "title": "陈伟霆何穗为儿子办周岁宴",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%E4%BD%95%E7%A9%97%E4%B8%BA%E5%84%BF%E5%AD%90%E5%8A%9E%E5%91%A8%E5%B2%81%E5%AE%B4",
+      "hot_value": 330000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "如何评价湘雅医院「23 年未见父母，每天睡 2 小时」教师 PPT 争议？影响如何？是否存在夸大及其它相关问题",
+      "url": "https://www.zhihu.com/question/2083244063277503296",
+      "hot_value": 8660000
+    },
+    {
+      "rank": 2,
+      "title": "如何看待英伟达、 Palantir 等金主集体限制 Anthropic Claude 使用",
+      "url": "https://www.zhihu.com/question/2083117744707352472",
+      "hot_value": 5210000
+    },
+    {
+      "rank": 3,
+      "title": "为什么《笑傲江湖》中岳不群在网络的风评这几年变好了",
+      "url": "https://www.zhihu.com/question/2079288771611211311",
+      "hot_value": 5170000
+    },
+    {
+      "rank": 4,
+      "title": "鸿蒙智行为何要在此时调整与赛力斯合作模式，并让华为隐居幕后？此次调整会影响「华为 5 年不下场造车」吗",
+      "url": "https://www.zhihu.com/question/2083273181008064732",
+      "hot_value": 5130000
+    },
+    {
+      "rank": 5,
+      "title": "二本文科女，没有任何技能，父母是农民，身体也不好，家里几乎没有存款，求助以后要怎么走，有什么出路",
+      "url": "https://www.zhihu.com/question/2001334359232385112",
+      "hot_value": 2830000
+    },
+    {
+      "rank": 6,
+      "title": "前女足国脚高宏霞手握 29 个全国冠军，退役后当城管 19 年，这种职业转变有何意义",
+      "url": "https://www.zhihu.com/question/2082918732372956669",
+      "hot_value": 2210000
+    },
+    {
+      "rank": 7,
+      "title": "比亚迪高管称燃油车没有未来，如何看待这一言论？燃油车会快速退场吗",
+      "url": "https://www.zhihu.com/question/2082845705690001649",
+      "hot_value": 1990000
+    },
+    {
+      "rank": 8,
+      "title": "王健林又卖掉一个 47 亿资产，万达旗下盈方体育将 HYROX 多数股权卖给 LVMH 旗下机构，这意味着什么",
+      "url": "https://www.zhihu.com/question/2082804365455378411",
+      "hot_value": 1810000
+    },
+    {
+      "rank": 9,
+      "title": "如何理解李博杰开源的《深入理解 AI Agent》",
+      "url": "https://www.zhihu.com/question/2082847664274497759",
+      "hot_value": 1780000
+    },
+    {
+      "rank": 10,
+      "title": "「大学生生活费才 3000」引发讨论，有人说不够花有人说很多，你怎么看？你上大学每月生活费是多少",
+      "url": "https://www.zhihu.com/question/2083183110737195253",
+      "hot_value": 1320000
+    },
+    {
+      "rank": 11,
+      "title": "报告显示 72% 的成年人未达饮用水适宜摄入量，水没喝够会对身体产生啥影响？该怎样正确喝水",
+      "url": "https://www.zhihu.com/question/2083121786422387453",
+      "hot_value": 1320000
+    },
+    {
+      "rank": 12,
+      "title": "鸡如果吃了水蛭，水蛭可以钻破鸡的肠胃，长期在鸡的体内吸血吗",
+      "url": "https://www.zhihu.com/question/1947010301284286955",
+      "hot_value": 1310000
+    },
+    {
+      "rank": 13,
+      "title": "为什么重庆可以在山上建设城市，深圳香港不可以",
+      "url": "https://www.zhihu.com/question/535563414",
+      "hot_value": 1190000
+    },
+    {
+      "rank": 14,
+      "title": "8 岁女孩被男孩推倒、威胁，用手表报警，围观者笑她「浪费警力」，民警否认并调监控检查伤势，如何看待此举",
+      "url": "https://www.zhihu.com/question/2083160484220515329",
+      "hot_value": 1040000
+    },
+    {
+      "rank": 15,
+      "title": "美国承认已拥有在轨「太空控制武器」，它可能会是种什么武器？太空军事化会加速到来吗",
+      "url": "https://www.zhihu.com/question/2083118687955968018",
+      "hot_value": 880000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Dystopian Surveillance Is Becoming a Reality",
+      "url": "https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality",
+      "score": 98,
+      "author": "speckx",
+      "comments": 37,
+      "hn_url": "https://news.ycombinator.com/item?id=49715934"
+    },
+    {
+      "rank": 2,
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "score": 783,
+      "author": "arnemunthekaas",
+      "comments": 114,
+      "hn_url": "https://news.ycombinator.com/item?id=49711544"
+    },
+    {
+      "rank": 3,
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "url": "https://withcapsule.app/",
+      "score": 181,
+      "author": "bashtian",
+      "comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=49712278"
+    },
+    {
+      "rank": 4,
+      "title": "GEFS on OpenBSD: A Early Preview",
+      "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+      "score": 23,
+      "author": "sippingabonedry",
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=49715590"
+    },
+    {
+      "rank": 5,
+      "title": "I can't stop thinking about Papua New Guinea",
+      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "score": 785,
+      "author": "networked",
+      "comments": 333,
+      "hn_url": "https://news.ycombinator.com/item?id=49708431"
+    },
+    {
+      "rank": 6,
+      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+      "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+      "score": 151,
+      "author": "pavel_lishin",
+      "comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=49715113"
+    },
+    {
+      "rank": 7,
+      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+      "url": "https://bkovac.github.io/modem-thing/",
+      "score": 122,
+      "author": "bobili1234",
+      "comments": 18,
+      "hn_url": "https://news.ycombinator.com/item?id=49712102"
+    },
+    {
+      "rank": 8,
+      "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
+      "url": "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd",
+      "score": 1,
+      "author": "grmmph",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49715446"
+    },
+    {
+      "rank": 9,
+      "title": "Cartesian – AI 3D Modeling for Design",
+      "url": "https://www.formas.ai/cartesian",
+      "score": 51,
+      "author": "eustoria",
+      "comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=49713999"
+    },
+    {
+      "rank": 10,
+      "title": "The CSS Zen Garden dream, finally shipped",
+      "url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
+      "score": 52,
+      "author": "yosito",
+      "comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=49713262"
+    },
+    {
+      "rank": 11,
+      "title": "Let's make quality the norm again",
+      "url": "https://www.forbrukerradet.no/short-life/",
+      "score": 162,
+      "author": "ingve",
+      "comments": 152,
+      "hn_url": "https://news.ycombinator.com/item?id=49710109"
+    },
+    {
+      "rank": 12,
+      "title": "The Inference Hardware Revolution of 2026",
+      "url": "https://spectrum.ieee.org/inference-hardware-revolution",
+      "score": 26,
+      "author": "vinhnx",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49713024"
+    },
+    {
+      "rank": 13,
+      "title": "Archiving pirate radio station Kool FM",
+      "url": "https://londonist.com/london/music/kool-fm-archives",
+      "score": 55,
+      "author": "rdmuser",
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=49694382"
+    },
+    {
+      "rank": 14,
+      "title": "Closing the IPv6 first-packet gap with GRAND",
+      "url": "https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/",
+      "score": 16,
+      "author": "m_montazeri",
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49713337"
+    },
+    {
+      "rank": 15,
+      "title": "25 years of mass surveillance is enough",
+      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "score": 573,
+      "author": "iamnothere",
+      "comments": 183,
+      "hn_url": "https://news.ycombinator.com/item?id=49710883"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发工具",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI 智能体相关的项目真是让人眼花缭乱。首先是阿里云开源的 open-code-review[1]，号称在阿里大规模场景下验证过，结合了确定性流程和 LLM Agent，能精准做行级代码审查，Star 数已经破万，搞后端的朋友值得看看。还有 melgarafael/DeskcommCRM[2]，这是个自托管的 AI 销售操作系统，原生集成了 AI Agent 和 WhatsApp 插件，想替代那些 SaaS 销售工具的老板们可以关注下。\n\nLobsters 社区今天讨论得最热烈的其实是“代码阅读”这个话题，帖子 Do You Still Read the Code? 引发了很多关于 AI 辅助编程下程序员核心能力变化的争论 [4]。少数派的文章也提到了 Excel AI 辅助工作流横评，看来大家都在拥抱 AI 提效，但同时也担心是不是变成了“照葫芦画瓢”[5]。我个人觉得，工具再强，理解逻辑底层的能力也不能丢，不然代码审查时真容易踩坑。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "硬核技术党今天有得聊了。GitHub 上有个很有意思的项目 JustVugg/colibri[3]，号称能在你现有的硬件上运行前沿的 MoE 模型，纯 C 语言实现，零依赖，这效率优化得也太极致了。另外，国家安全局的 Ghidra[6] 依然是逆向工程界的“神器”，虽然名字听着严肃，但开源社区贡献一直很活跃，搞安全的朋友肯定不陌生。\n\nLobsters 上有个帖子 How can you not be romantic about UNIX domain sockets? 看得人挺感慨，UNIX 域套接字那种简洁优雅的设计哲学确实让人着迷 [7]。少数派今天也报道了 Homebrew 发布了 7.0.0 版本 [8]，作为 macOS 开发者的标配，这个工具链的更新对很多开发者来说都是实实在在的好事。底层技术的进步往往最慢，但一旦突破，对应用生态的影响却是最大的。"
+      },
+      {
+        "name": "数码产品与效率",
+        "color": "hw",
+        "summary": "数码圈最近动静也不小。GitHub 上的 ever-gauzy[9] 是个开放的业务管理平台，集 ERP、CRM 于一身，适合想自建系统的小团队。还有那个 omniget[10]，号称能下载 1800+ 个站点的课程和视频，自带播放器，简直是学生党和自学者的高效外挂，界面还做得挺现代。\n\n少数派今天有两篇很贴近生活的文章。一篇是关于“开学季学生理财的三条建议”[11]，虽然有点俗，但确实值得年轻人参考。另一篇则是关于 iOS 27 中值得关注的新特性 [12]，虽然系统还没正式大规模推送，但编辑部已经帮大家提前剧透了一些新功能，比如相机如何记录照片真实性之类的，挺有意思的。对于想换机或者规划硬件的朋友，这些资讯挺有参考价值的。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天看到的观点类内容挺多。Lobsters 上有一篇 A Letter from a Machine Learning Engineer[13]，标题直接，感觉里面应该有不少一线从业者对行业现状的吐槽或反思，这种来自“一线”的声音往往比新闻更真实。另外，关于“恐惧的传染”和“你是否还在读代码”的讨论 [14]，其实都在探讨技术发展带来的心理冲击。\n\n少数派也有一篇派评，盘点近期值得关注的 App[15]，帮大家省去了筛选的时间。我倒是觉得，与其盯着新 App 层出不穷，不如像 Lobsters 上讨论的那样，回归一下代码阅读和基础逻辑的训练。在这个 AI 生成内容泛滥的时代，保持对人本质的思考可能比掌握多少新工具更重要。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool...",
+        "url": "https://github.com/alibaba/open-code-review",
+        "source": "GitHub Trending",
+        "desc": "Alibaba 开源的代码审查工具，结合 LLM 和确定性流程。"
+      },
+      {
+        "num": 2,
+        "title": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA)",
+        "url": "https://github.com/melgarafael/DeskcommCRM",
+        "source": "GitHub Trending",
+        "desc": "自托管 AI 销售操作系统，支持 WhatsApp 集成。"
+      },
+      {
+        "num": 3,
+        "title": "Run frontier MoE models on hardware you already own — pure C, zero deps",
+        "url": "https://github.com/JustVugg/colibri",
+        "source": "GitHub Trending",
+        "desc": "纯 C 实现的模型运行引擎，能在现有硬件上跑 MoE 模型。"
+      },
+      {
+        "num": 4,
+        "title": "\"Do You Still Read the Code?\" [practices, vibecoding]",
+        "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+        "source": "Lobsters",
+        "desc": "讨论在 AI 时代程序员是否还需要阅读代码。"
+      },
+      {
+        "num": 5,
+        "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？",
+        "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
+        "source": "少数派",
+        "desc": "关于 Excel AI 辅助工具的使用体验调研。"
+      },
+      {
+        "num": 6,
+        "title": "Ghidra is a software reverse engineering (SRE) framework",
+        "url": "https://github.com/NationalSecurityAgency/ghidra",
+        "source": "GitHub Trending",
+        "desc": "NSA 开源的反向工程框架。"
+      },
+      {
+        "num": 7,
+        "title": "How can you not be romantic about UNIX domain sockets?",
+        "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
+        "source": "Lobsters",
+        "desc": "探讨 UNIX 域套接字设计的优雅之处。"
+      },
+      {
+        "num": 8,
+        "title": "派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等",
+        "url": "https://sspai.com/post/114593",
+        "source": "少数派",
+        "desc": "包含 Homebrew 7.0.0 发布的资讯。"
+      },
+      {
+        "num": 9,
+        "title": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM)",
+        "url": "https://github.com/ever-co/ever-gauzy",
+        "source": "GitHub Trending",
+        "desc": "开源的业务管理平台，集成 ERP/CRM 等功能。"
+      },
+      {
+        "num": 10,
+        "title": "Download Udemy and Hotmart courses, YouTube videos, music and books...",
+        "url": "https://github.com/tonhowtf/omniget",
+        "source": "GitHub Trending",
+        "desc": "跨平台开源课程和视频下载工具。"
+      },
+      {
+        "num": 11,
+        "title": "开学季 | 学生理财的三条建议，学生党也可以一样理财",
+        "url": "https://sspai.com/post/47126",
+        "source": "少数派",
+        "desc": "针对学生群体的理财建议文章。"
+      },
+      {
+        "num": 12,
+        "title": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性",
+        "url": "https://sspai.com/post/114565",
+        "source": "少数派",
+        "desc": "提前剧透 iOS 27 的新功能和新特性。"
+      },
+      {
+        "num": 13,
+        "title": "A Letter from a Machine Learning Engineer [ai]",
+        "url": "https://nemin.hu/llm-letter/index.html",
+        "source": "Lobsters",
+        "desc": "机器学习工程师写给行业的一封信。"
+      },
+      {
+        "num": 14,
+        "title": "The contagion of fear [vibecoding]",
+        "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+        "source": "Lobsters",
+        "desc": "探讨技术发展中恐惧情绪的传播。"
+      },
+      {
+        "num": 15,
+        "title": "派评｜近期值得关注的 App",
+        "url": "https://sspai.com/post/114577",
+        "source": "少数派",
+        "desc": "盘点近期值得尝试的应用。"
+      }
+    ],
+    "stats": {
+      "total_items": 15,
+      "total_categories": 4,
+      "total_sources": 15
+    }
+  }
+}
