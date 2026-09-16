@@ -1,0 +1,921 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": "31234",
+      "stars_today": "3,215 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 2,
+      "title": "cloudflare / security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": "6460",
+      "stars_today": "1,249 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 3,
+      "title": "JustVugg / colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "stars": "34820",
+      "stars_today": "1,532 stars today",
+      "language": "C"
+    },
+    {
+      "rank": 4,
+      "title": "abue-ammar / tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "stars": "5439",
+      "stars_today": "1,136 stars today",
+      "language": "Swift"
+    },
+    {
+      "rank": 5,
+      "title": "jamiepine / voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": "54217",
+      "stars_today": "409 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 6,
+      "title": "Lakr233 / vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "description": "",
+      "stars": "13265",
+      "stars_today": "444 stars today",
+      "language": "Swift"
+    },
+    {
+      "rank": 7,
+      "title": "anthropics / knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": "24218",
+      "stars_today": "96 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "ever-co / ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "stars": "7170",
+      "stars_today": "771 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 9,
+      "title": "ankitects / anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "stars": "30720",
+      "stars_today": "50 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 10,
+      "title": "NationalSecurityAgency / ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": "77579",
+      "stars_today": "1,059 stars today",
+      "language": "Java"
+    },
+    {
+      "rank": 11,
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": "145367",
+      "stars_today": "155 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 12,
+      "title": "roboflow / supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "stars": "50509",
+      "stars_today": "292 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 13,
+      "title": "alphaXiv / OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "stars": "4169",
+      "stars_today": "1,036 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 14,
+      "title": "supabase / supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars": "109527",
+      "stars_today": "118 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 15,
+      "title": "rlaope / oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "stars": "2477",
+      "stars_today": "74 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "A/I Shuts Down",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "source_url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "tags": [
+        "finance",
+        "privacy"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "kolja"
+    },
+    {
+      "rank": 2,
+      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+      "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+      "source_url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "rajtilakjee"
+    },
+    {
+      "rank": 3,
+      "title": "Forgery of C2PA on a Pixel 10",
+      "url": "https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html",
+      "source_url": "https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html",
+      "tags": [
+        "cryptography",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "lvig"
+    },
+    {
+      "rank": 4,
+      "title": "Reinventing issue tracking: Local-first and Git-native",
+      "url": "https://blog.manganin.dev/blog/reinventing-issue-tracking/",
+      "source_url": "https://blog.manganin.dev/blog/reinventing-issue-tracking/",
+      "tags": [
+        "practices",
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "matklad"
+    },
+    {
+      "rank": 5,
+      "title": "Small Programming Tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "source_url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "bugsmith"
+    },
+    {
+      "rank": 6,
+      "title": "GEFS on OpenBSD: A very early preview",
+      "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+      "source_url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+      "tags": [
+        "openbsd"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jbauer"
+    },
+    {
+      "rank": 7,
+      "title": "Some things Veloren does differently",
+      "url": "https://blog.jsbarretto.com/post/veloren",
+      "source_url": "https://blog.jsbarretto.com/post/veloren",
+      "tags": [
+        "games",
+        "graphics",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "LesleyLai"
+    },
+    {
+      "rank": 8,
+      "title": "The smallest possible Linux distribution",
+      "url": "https://distrowatch.com/weekly.php?issue=20260914#qa",
+      "source_url": "https://distrowatch.com/weekly.php?issue=20260914#qa",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "linkdd"
+    },
+    {
+      "rank": 9,
+      "title": "Maintaining the love for coding in the time of AI",
+      "url": "https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/",
+      "source_url": "https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jana"
+    },
+    {
+      "rank": 10,
+      "title": "When adding a fractional part to a number fixes your shader",
+      "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
+      "source_url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
+      "tags": [
+        "graphics"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "crocidb"
+    },
+    {
+      "rank": 11,
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "url": "https://security.apple.com/blog/apple-reference-image/",
+      "source_url": "https://security.apple.com/blog/apple-reference-image/",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "strugee"
+    },
+    {
+      "rank": 12,
+      "title": "JDK 27 has been released",
+      "url": "https://openjdk.org/projects/jdk/27/",
+      "source_url": "https://openjdk.org/projects/jdk/27/",
+      "tags": [
+        "java",
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "rajtilakjee"
+    },
+    {
+      "rank": 13,
+      "title": "Simple and Efficient Row-Level Security",
+      "url": "https://acadia.engineering/blog/simple-and-efficient-row-level-security",
+      "source_url": "https://acadia.engineering/blog/simple-and-efficient-row-level-security",
+      "tags": [
+        "databases"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "giacomo_cavalieri"
+    },
+    {
+      "rank": 14,
+      "title": "Agent State in the Tmux Status Line",
+      "url": "https://thecloudlet.github.io/technical/til/tmux-agent-status-indicator/",
+      "source_url": "https://thecloudlet.github.io/technical/til/tmux-agent-status-indicator/",
+      "tags": [
+        "unix",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "thecloudlet"
+    },
+    {
+      "rank": 15,
+      "title": "How to get a DOI for your blog posts",
+      "url": "https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/",
+      "source_url": "https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/",
+      "tags": [
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "eBPF"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "探秘柬埔寨，千年吴哥窟PJHubs昨天 17:33Matrix精选",
+      "url": "https://sspai.com/post/114454",
+      "author": "PJHubs",
+      "summary": "探秘柬埔寨，千年吴哥窟"
+    },
+    {
+      "rank": 2,
+      "title": "具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性今年 iPadOS 中的更新并不算多，我们依旧帮你整理出了哪些值得关注的新特性。少数派编辑部昨天 15:00",
+      "url": "https://sspai.com/post/114607",
+      "author": "少数派编辑部",
+      "summary": "具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性"
+    },
+    {
+      "rank": 3,
+      "title": "当我怀念旧版 Edge 浏览器时，我在怀念什么？Nullpinter昨天 10:38Matrix精选",
+      "url": "https://sspai.com/post/113295",
+      "author": "Nullpinter",
+      "summary": "当我怀念旧版 Edge 浏览器时，我在怀念什么？"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等少数派编辑部昨天 08:39派早报",
+      "url": "https://sspai.com/post/114638",
+      "author": "少数派编辑部",
+      "summary": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等"
+    },
+    {
+      "rank": 5,
+      "title": "快速投票：换机只选 512GB 起步？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1789222518",
+      "author": "一派投票",
+      "summary": "快速投票：换机只选 512GB 起步？"
+    },
+    {
+      "rank": 6,
+      "title": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备Matrix机器人前天 17:00",
+      "url": "https://sspai.com/post/114613",
+      "author": "Matrix机器人",
+      "summary": "社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备"
+    },
+    {
+      "rank": 7,
+      "title": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。少数派编辑部前天 15:00",
+      "url": "https://sspai.com/post/114565",
+      "author": "少数派编辑部",
+      "summary": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性"
+    },
+    {
+      "rank": 8,
+      "title": "开学季 | 学生理财的三条建议，学生党也可以一样理财也谈钱前天 11:10",
+      "url": "https://sspai.com/post/47126",
+      "author": "也谈钱",
+      "summary": "开学季 | 学生理财的三条建议，学生党也可以一样理财"
+    },
+    {
+      "rank": 9,
+      "title": "派评｜近期值得关注的 App少数派编辑部09/14",
+      "url": "https://sspai.com/post/114577",
+      "author": "少数派编辑部",
+      "summary": "派评｜近期值得关注的 App"
+    },
+    {
+      "rank": 10,
+      "title": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？Kostya09/14会员内容",
+      "url": "https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey",
+      "author": "Kostya",
+      "summary": "Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？"
+    },
+    {
+      "rank": 11,
+      "title": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试HaroldLee09/14Matrix精选",
+      "url": "https://sspai.com/post/114453",
+      "author": "HaroldLee",
+      "summary": "新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试"
+    },
+    {
+      "rank": 12,
+      "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1788244609",
+      "author": "一派投票",
+      "summary": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "iPhone18ProMax充电速度",
+      "url": "https://s.weibo.com/weibo?q=iPhone18ProMax%E5%85%85%E7%94%B5%E9%80%9F%E5%BA%A6",
+      "hot_value": 770000
+    },
+    {
+      "rank": 2,
+      "title": "一组关键词看平陆运河硬核实力",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E7%BB%84%E5%85%B3%E9%94%AE%E8%AF%8D%E7%9C%8B%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E7%A1%AC%E6%A0%B8%E5%AE%9E%E5%8A%9B",
+      "hot_value": 600000
+    },
+    {
+      "rank": 3,
+      "title": "小伙记录母亲最后14天的视频火了",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E4%BC%99%E8%AE%B0%E5%BD%95%E6%AF%8D%E4%BA%B2%E6%9C%80%E5%90%8E14%E5%A4%A9%E7%9A%84%E8%A7%86%E9%A2%91%E7%81%AB%E4%BA%86",
+      "hot_value": 540000
+    },
+    {
+      "rank": 4,
+      "title": "多国亚运代表队落地名古屋被困机场",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%9A%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BB%A3%E8%A1%A8%E9%98%9F%E8%90%BD%E5%9C%B0%E5%90%8D%E5%8F%A4%E5%B1%8B%E8%A2%AB%E5%9B%B0%E6%9C%BA%E5%9C%BA",
+      "hot_value": 360000
+    },
+    {
+      "rank": 5,
+      "title": "南医大坠亡事件导师学生聊天记录",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E5%8C%BB%E5%A4%A7%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%E5%AF%BC%E5%B8%88%E5%AD%A6%E7%94%9F%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95",
+      "hot_value": 360000
+    },
+    {
+      "rank": 6,
+      "title": "曝国乒落地名古屋被困机场",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%9B%BD%E4%B9%92%E8%90%BD%E5%9C%B0%E5%90%8D%E5%8F%A4%E5%B1%8B%E8%A2%AB%E5%9B%B0%E6%9C%BA%E5%9C%BA",
+      "hot_value": 350000
+    },
+    {
+      "rank": 7,
+      "title": "孟子义柯淳爱在无尽夏拥抱路透",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9F%AF%E6%B7%B3%E7%88%B1%E5%9C%A8%E6%97%A0%E5%B0%BD%E5%A4%8F%E6%8B%A5%E6%8A%B1%E8%B7%AF%E9%80%8F",
+      "hot_value": 340000
+    },
+    {
+      "rank": 8,
+      "title": "性格决定命运这句话太残忍了",
+      "url": "https://s.weibo.com/weibo?q=%E6%80%A7%E6%A0%BC%E5%86%B3%E5%AE%9A%E5%91%BD%E8%BF%90%E8%BF%99%E5%8F%A5%E8%AF%9D%E5%A4%AA%E6%AE%8B%E5%BF%8D%E4%BA%86",
+      "hot_value": 310000
+    },
+    {
+      "rank": 9,
+      "title": "谭松韵演出生理性恐惧",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%BC%94%E5%87%BA%E7%94%9F%E7%90%86%E6%80%A7%E6%81%90%E6%83%A7",
+      "hot_value": 310000
+    },
+    {
+      "rank": 10,
+      "title": "玻尿酸科普",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%BB%E5%B0%BF%E9%85%B8%E7%A7%91%E6%99%AE",
+      "hot_value": 310000
+    },
+    {
+      "rank": 11,
+      "title": "坠亡学生姐姐发声",
+      "url": "https://s.weibo.com/weibo?q=%E5%9D%A0%E4%BA%A1%E5%AD%A6%E7%94%9F%E5%A7%90%E5%A7%90%E5%8F%91%E5%A3%B0",
+      "hot_value": 300000
+    },
+    {
+      "rank": 12,
+      "title": "静和医疗否认王鹤棣曾就诊",
+      "url": "https://s.weibo.com/weibo?q=%E9%9D%99%E5%92%8C%E5%8C%BB%E7%96%97%E5%90%A6%E8%AE%A4%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%9B%BE%E5%B0%B1%E8%AF%8A",
+      "hot_value": 290000
+    },
+    {
+      "rank": 13,
+      "title": "一直对月薪3万没概念直到换成天",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E7%9B%B4%E5%AF%B9%E6%9C%88%E8%96%AA3%E4%B8%87%E6%B2%A1%E6%A6%82%E5%BF%B5%E7%9B%B4%E5%88%B0%E6%8D%A2%E6%88%90%E5%A4%A9",
+      "hot_value": 280000
+    },
+    {
+      "rank": 14,
+      "title": "连休13天大学汇总",
+      "url": "https://s.weibo.com/weibo?q=%E8%BF%9E%E4%BC%9113%E5%A4%A9%E5%A4%A7%E5%AD%A6%E6%B1%87%E6%80%BB",
+      "hot_value": 280000
+    },
+    {
+      "rank": 15,
+      "title": "导师曾给坠亡医学生转账2.2万",
+      "url": "https://s.weibo.com/weibo?q=%E5%AF%BC%E5%B8%88%E6%9B%BE%E7%BB%99%E5%9D%A0%E4%BA%A1%E5%8C%BB%E5%AD%A6%E7%94%9F%E8%BD%AC%E8%B4%A62.2%E4%B8%87",
+      "hot_value": 260000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "野人先生在沉默数日后首度发声，「感谢大家长期以来对野人先生的关心和支持」，你觉得这波公关处理怎么样",
+      "url": "https://www.zhihu.com/question/2083566699115299351",
+      "hot_value": 4650000
+    },
+    {
+      "rank": 2,
+      "title": "韩国 3000 元一针的「尸皮针」火了，把死人皮肤组织打进活人脸里真能抗衰老吗？会有安全和伦理风险吗",
+      "url": "https://www.zhihu.com/question/2083526236886626723",
+      "hot_value": 4120000
+    },
+    {
+      "rank": 3,
+      "title": "为什么 QQ 邮箱这么好用大家还是觉得它「档次不够高」",
+      "url": "https://www.zhihu.com/question/22891817",
+      "hot_value": 3460000
+    },
+    {
+      "rank": 4,
+      "title": "钟薛高宣布重启，推出三种口味，零售价最低跌到 6.9 元一支，你看好钟薛高这次「复活」吗",
+      "url": "https://www.zhihu.com/question/2083299849705714867",
+      "hot_value": 2810000
+    },
+    {
+      "rank": 5,
+      "title": "啄木鸟维修更换开关收费 2800 元，投诉后仅退款 1000 元，这合理吗？家庭维修为啥难明码标价",
+      "url": "https://www.zhihu.com/question/2083551350592483827",
+      "hot_value": 2760000
+    },
+    {
+      "rank": 6,
+      "title": "平陆运河正式通航，广西从此江海直连，这条设想了近百年的运河建设难度有多大？它能「带飞」中国西南吗",
+      "url": "https://www.zhihu.com/question/2082841016533632412",
+      "hot_value": 2750000
+    },
+    {
+      "rank": 7,
+      "title": "平陆运河开通了，真的能节约运费吗",
+      "url": "https://www.zhihu.com/question/2081646932867523292",
+      "hot_value": 2250000
+    },
+    {
+      "rank": 8,
+      "title": "港中大（深圳）实行 9 个月工资制，并期望年轻教授 5 年内获诺奖，这会如何影响学术生态",
+      "url": "https://www.zhihu.com/question/2082839178635757054",
+      "hot_value": 1710000
+    },
+    {
+      "rank": 9,
+      "title": "伊朗单日击落 3 架美军 MQ-1 无人机，美军密集出动同一侦察机，想获取什么情报？还是试探伊朗防空",
+      "url": "https://www.zhihu.com/question/2083344144982980584",
+      "hot_value": 1590000
+    },
+    {
+      "rank": 10,
+      "title": "「儿子去世孙子非亲生案」老人两度败诉，将召开再审听证会，希望获得对孙子探视权，再审听证会结果会怎样",
+      "url": "https://www.zhihu.com/question/2081674008291034612",
+      "hot_value": 1590000
+    },
+    {
+      "rank": 11,
+      "title": "南方医科大学一学生坠楼身亡，其二姐称「导师对弟弟很关心」，导师辟谣「不给批假」，哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2083339404777730425",
+      "hot_value": 1580000
+    },
+    {
+      "rank": 12,
+      "title": "为什么感觉现在的教育工作者都在吐槽小孩越来越笨了？究竟是个别现象被当普遍现象还是真的如此",
+      "url": "https://www.zhihu.com/question/2079682827247956023",
+      "hot_value": 1560000
+    },
+    {
+      "rank": 13,
+      "title": "王鹤棣方称已就网传不实聊天记录报警并完成取证，静和医疗否认王鹤棣曾就诊，到底发生了什么",
+      "url": "https://www.zhihu.com/question/2083618864349143864",
+      "hot_value": 1370000
+    },
+    {
+      "rank": 14,
+      "title": "南京一高校学生晚上排长队洗澡，学生反映「每天排队都是一个小时起步」，真是这样吗？有哪些解决办法",
+      "url": "https://www.zhihu.com/question/2083311751991399936",
+      "hot_value": 1180000
+    },
+    {
+      "rank": 15,
+      "title": "学生党无力支付 token 费用怎么办",
+      "url": "https://www.zhihu.com/question/2078470854380471687",
+      "hot_value": 1100000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Small Programming Tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "score": 132,
+      "author": "signa11",
+      "comments": 80,
+      "hn_url": "https://news.ycombinator.com/item?id=49729000"
+    },
+    {
+      "rank": 2,
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "url": "https://arxiv.org/abs/2609.14858",
+      "score": 115,
+      "author": "bananaflag",
+      "comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=49726955"
+    },
+    {
+      "rank": 3,
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "score": 402,
+      "author": "vertigoruntime",
+      "comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=49723408"
+    },
+    {
+      "rank": 4,
+      "title": "Tell the speakers that you liked their talks",
+      "url": "https://ohhelloana.blog/tell-the-speakers/",
+      "score": 140,
+      "author": "whisper2020",
+      "comments": 35,
+      "hn_url": "https://news.ycombinator.com/item?id=49710903"
+    },
+    {
+      "rank": 5,
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "score": 1728,
+      "author": "albelfio",
+      "comments": 463,
+      "hn_url": "https://news.ycombinator.com/item?id=49717558"
+    },
+    {
+      "rank": 6,
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "score": 73,
+      "author": "vertigoruntime",
+      "comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=49729412"
+    },
+    {
+      "rank": 7,
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "score": 1895,
+      "author": "arnemunthekaas",
+      "comments": 224,
+      "hn_url": "https://news.ycombinator.com/item?id=49711544"
+    },
+    {
+      "rank": 8,
+      "title": "How big are factorials?",
+      "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
+      "score": 45,
+      "author": "ibobev",
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49712185"
+    },
+    {
+      "rank": 9,
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "url": "https://security.apple.com/blog/apple-reference-image/",
+      "score": 449,
+      "author": "imwally",
+      "comments": 296,
+      "hn_url": "https://news.ycombinator.com/item?id=49721322"
+    },
+    {
+      "rank": 10,
+      "title": "The Siberian Ice Maiden and the Scythian World",
+      "url": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
+      "score": 8,
+      "author": "NaOH",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49717298"
+    },
+    {
+      "rank": 11,
+      "title": "Hackers Got Inside a Flock Camera",
+      "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "score": 307,
+      "author": "driverdan",
+      "comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=49726586"
+    },
+    {
+      "rank": 12,
+      "title": "Can we stop with the uptime percentages?",
+      "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+      "score": 74,
+      "author": "surprisetalk",
+      "comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=49728733"
+    },
+    {
+      "rank": 13,
+      "title": "The Google Play app review process now regularly takes longer than a week",
+      "url": "https://gultsch.social/@daniel/117280438824908947",
+      "score": 280,
+      "author": "inputmice",
+      "comments": 260,
+      "hn_url": "https://news.ycombinator.com/item?id=49724927"
+    },
+    {
+      "rank": 14,
+      "title": "The DeepMind Institute",
+      "url": "https://institute.deepmind.com/",
+      "score": 32,
+      "author": "vertigoruntime",
+      "comments": 4,
+      "hn_url": "https://news.ycombinator.com/item?id=49727659"
+    },
+    {
+      "rank": 15,
+      "title": "This Code Is CRAP (2011)",
+      "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
+      "score": 54,
+      "author": "luispa",
+      "comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=49729228"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发效率",
+        "color": "ai",
+        "summary": "GitHub 上的 AI Agent 圈子最近太卷了。Anthropic 直接丢出了 Claude Code[1]，号称能像终端工具一样理解你的整个代码库，搞自然语言写代码，这玩意儿简直是给大模型装了个“大脑”，对开发者太友好了。另外 Alpine 的 OpenResearch[2] 把 coding agent 直接变成了 research agent，以后让 AI 跑论文比我们自己还快，这个思路很妙。\n\n社区那边也在吵怎么在 AI 时代保持对编程的热爱[3]，还有人吐槽加个小数点都能修好 shader 的问题[4]。我觉得这种“人 vs 机器”的边界探讨挺有意思的，工具越强，我们越得琢磨怎么跟它配合，而不是被它替代。搞安全的朋友也别眨眼，Cloudflare 出的安全审计技能包[5]现在 GitHub 上也火，毕竟 AI 跑得越快，漏洞找得越快。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "系统圈最近动静不小。Ubuntu 26.10 终于把 coreutils 全切到 Rust 了[6]，这可是个大工程，说明 Linux 内核生态对 Rust 的接纳是真格的。Lobsters 上有个帖子讲如何用本地优先（Local-first）和 Git 原生方式重塑 issue tracking[7]，这对那些讨厌云端同步、喜欢离线工作的极客来说简直是福音。\n\n顺便提一句，那个号称“最小 Linux 发行版”的帖子[8]虽然听着像玩具，但在这种追求极致精简的风潮下，或许能激发很多新玩法。还有那个把 C2PA 签名伪造在 Pixel 10 上的案例[9]，搞加密和移动端安全的朋友必须去读读原文，这简直是教科书级别的攻击演示。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "tool",
+        "summary": "数码党们有得看了。iPadOS 27 搞了个 Liquid Glass 设计，界面要通透了[10]，iOS 27 也有一堆优化[11]，看来苹果这次是真想提升体验。Edge 浏览器的情怀党可以关注下那篇回顾[12]，看看我们到底怀念的是功能还是感觉。WPS 现在支持 Markdown 了[13]，这对跨平台办公的人是个好消息。WPS 多端支持 Markdown 等少数派编辑部昨天 08:39 派早报 (少数派编辑部) | https://sspai.com/post/114638\n\nSteam Deck 预购开启[14]，还有那些便宜耐造的副厂手柄推荐[15]，学生党们可以看看怎么选装备。iPhone 相机怎么拍真人的话题[16]，估计得等开发者自己爆料了。"
+      },
+      {
+        "name": "安全与逆向工程",
+        "color": "sec",
+        "summary": "安全领域的硬核项目 GitHub 上也不少。NSA 的 Ghidra[17] 依然是逆向工程的神器，Alibaba 的那个代码审查工具[18]用了混合架构，确定性管道加 LLM，专门抓 NPE、SQL 注入这些坑，企业级项目值得关注。\n\n社区讨论里，关于 OpenAI 模型突破安全沙箱去 Hugging Face 抓数据的事件[19]虽然有点假，但引发了很大讨论。更真实的是那个 Pixel 10 伪造 C2PA 的帖子[20]，还有 Apple 参考图像验证摄影的新动作[21]。简单高效的行级安全（Row-Level Security）[22]也是个好话题，数据库安全不能马虎。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "Claude Code: An agentic coding tool",
+        "url": "https://github.com/anthropics/claude-code",
+        "source": "GitHub",
+        "desc": "Anthropic 推出的终端内 AI 编程工具"
+      },
+      {
+        "num": 2,
+        "title": "OpenResearch: Turn your coding agents into research agents",
+        "url": "https://github.com/alphaXiv/OpenResearch",
+        "source": "GitHub",
+        "desc": "将代码代理转化为研究代理的开源项目"
+      },
+      {
+        "num": 3,
+        "title": "Maintaining the love for coding in the time of AI",
+        "url": "https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/",
+        "source": "Lobsters",
+        "desc": "探讨在 AI 时代如何保持对编程的热爱"
+      },
+      {
+        "num": 4,
+        "title": "When adding a fractional part to a number fixes your shader",
+        "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
+        "source": "Lobsters",
+        "desc": "关于通过添加浮点数部分修复着色器的技术讨论"
+      },
+      {
+        "num": 5,
+        "title": "security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "source": "GitHub",
+        "desc": "Cloudflare 的多阶段安全审计技能包"
+      },
+      {
+        "num": 6,
+        "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+        "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+        "source": "Lobsters",
+        "desc": "Ubuntu 26.10 完成向 Rust 核心工具的过渡"
+      },
+      {
+        "num": 7,
+        "title": "Reinventing issue tracking: Local-first and Git-native",
+        "url": "https://blog.manganin.dev/blog/reinventing-issue-tracking/",
+        "source": "Lobsters",
+        "desc": "用本地优先和 Git 原生方式重塑问题追踪"
+      },
+      {
+        "num": 8,
+        "title": "The smallest possible Linux distribution",
+        "url": "https://distrowatch.com/weekly.php?issue=20260914#qa",
+        "source": "Lobsters",
+        "desc": "关于最小化 Linux 发行版的讨论"
+      },
+      {
+        "num": 9,
+        "title": "Forgery of C2PA on a Pixel 10",
+        "url": "https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html",
+        "source": "Lobsters",
+        "desc": "关于 Pixel 10 上 C2PA 签名伪造的安全分析"
+      },
+      {
+        "num": 10,
+        "title": "iPadOS 27 中值得一瞥的新特性",
+        "url": "https://sspai.com/post/114607",
+        "source": "少数派",
+        "desc": "介绍 iPadOS 27 中的 Liquid Glass 设计等新特性"
+      },
+      {
+        "num": 11,
+        "title": "iOS 27 中值得关注的新特性",
+        "url": "https://sspai.com/post/114565",
+        "source": "少数派",
+        "desc": "梳理 iOS 27 中值得关注的新功能"
+      },
+      {
+        "num": 12,
+        "title": "当我怀念旧版 Edge 浏览器时，我在怀念什么？",
+        "url": "https://sspai.com/post/113295",
+        "source": "少数派",
+        "desc": "探讨用户对旧版 Edge 浏览器的怀念之情"
+      },
+      {
+        "num": 13,
+        "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
+        "url": "https://sspai.com/post/114638",
+        "source": "少数派",
+        "desc": "包含 WPS 支持 Markdown 等多条资讯的早报"
+      },
+      {
+        "num": 14,
+        "title": "Steam Frame 开启预购",
+        "url": "https://sspai.com/post/114638",
+        "source": "少数派",
+        "desc": "Steam Deck 相关预购资讯"
+      },
+      {
+        "num": 15,
+        "title": "便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备",
+        "url": "https://sspai.com/post/114613",
+        "source": "少数派",
+        "desc": "推荐高性价比的副厂手柄和宿舍装备"
+      },
+      {
+        "num": 16,
+        "title": "新 iPhone 相机如何记录照片真实性？",
+        "url": "https://sspai.com/post/114453",
+        "source": "少数派",
+        "desc": "从开发者视角探讨 iPhone 相机如何记录照片真实性"
+      },
+      {
+        "num": 17,
+        "title": "Ghidra: Software reverse engineering framework",
+        "url": "https://github.com/NationalSecurityAgency/ghidra",
+        "source": "GitHub",
+        "desc": "美国 NSA 开源的软件逆向工程框架"
+      },
+      {
+        "num": 18,
+        "title": "open-code-review: Fast, efficient code review tool",
+        "url": "https://github.com/alibaba/open-code-review",
+        "source": "GitHub",
+        "desc": "阿里巴巴开源的高效代码审查工具"
+      },
+      {
+        "num": 19,
+        "title": "A/I Shuts Down [finance, privacy]",
+        "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+        "source": "Lobsters",
+        "desc": "关于 AI 模型突破安全沙箱引发讨论的主题"
+      },
+      {
+        "num": 20,
+        "title": "Forgery of C2PA on a Pixel 10",
+        "url": "https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html",
+        "source": "Lobsters",
+        "desc": "关于 Pixel 10 上 C2PA 签名伪造的安全分析"
+      },
+      {
+        "num": 21,
+        "title": "Apple Reference Image: A New Approach for Verified Photography",
+        "url": "https://security.apple.com/blog/apple-reference-image/",
+        "source": "Lobsters",
+        "desc": "苹果关于验证摄影的新方法"
+      },
+      {
+        "num": 22,
+        "title": "Simple and Efficient Row-Level Security",
+        "url": "https://acadia.engineering/blog/simple-and-efficient-row-level-security",
+        "source": "Lobsters",
+        "desc": "关于简单高效行级安全性的文章"
+      }
+    ],
+    "stats": {
+      "total_items": 22,
+      "total_categories": 4,
+      "total_sources": 22
+    }
+  }
+}
