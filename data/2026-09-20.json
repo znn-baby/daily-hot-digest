@@ -1,0 +1,870 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "cloudflare / security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": "15698",
+      "stars_today": "3,162 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 2,
+      "title": "trycua / cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": "24091",
+      "stars_today": "383 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 3,
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": "96838",
+      "stars_today": "547 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 4,
+      "title": "coder / coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "stars": "15527",
+      "stars_today": "406 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 5,
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": "146608",
+      "stars_today": "482 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 6,
+      "title": "Open-Dev-Society / OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "stars": "15858",
+      "stars_today": "477 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 7,
+      "title": "higgsfield-ai / higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "stars": "4827",
+      "stars_today": "325 stars today",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "rank": 8,
+      "title": "docling-project / docling",
+      "url": "https://github.com/docling-project/docling",
+      "description": "Get your documents ready for gen AI",
+      "stars": "66884",
+      "stars_today": "94 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "cloudflare / quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "stars": "11943",
+      "stars_today": "84 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 10,
+      "title": "asciimoo / hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
+      "stars": "5156",
+      "stars_today": "430 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 11,
+      "title": "ruanyf / weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "stars": "103068",
+      "stars_today": "151 stars today",
+      "language": ""
+    },
+    {
+      "rank": 12,
+      "title": "ZuodaoTech / everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "description": "人人都能用英语",
+      "stars": "37742",
+      "stars_today": "31 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 13,
+      "title": "anthropics / knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": "25045",
+      "stars_today": "280 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 14,
+      "title": "cactus-compute / needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+      "stars": "11511",
+      "stars_today": "207 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 15,
+      "title": "yynxxxxx / Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "stars": "3360",
+      "stars_today": "59 stars today",
+      "language": "Rust"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Don’t Let Architecture Astronauts Scare You (2001)",
+      "url": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
+      "source_url": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "koala"
+    },
+    {
+      "rank": 2,
+      "title": "The scourge of x86 emulation",
+      "url": "https://fex-emu.com/Scourge-of-emulation/",
+      "source_url": "https://fex-emu.com/Scourge-of-emulation/",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "videah"
+    },
+    {
+      "rank": 3,
+      "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
+      "url": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+      "source_url": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+      "tags": [
+        "ai",
+        "games"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "ndyg"
+    },
+    {
+      "rank": 4,
+      "title": "Typst makes big strides",
+      "url": "https://lwn.net/Articles/1092993/",
+      "source_url": "https://lwn.net/Articles/1092993/",
+      "tags": [
+        "a11y",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "isuffix"
+    },
+    {
+      "rank": 5,
+      "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+      "url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+      "source_url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+      "tags": [
+        "ai"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "Yogthos"
+    },
+    {
+      "rank": 6,
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "source_url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "tags": [
+        "cryptography",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "rajtilakjee"
+    },
+    {
+      "rank": 7,
+      "title": "“The Secret Life of Circuits” is here",
+      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+      "source_url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "luke8086"
+    },
+    {
+      "rank": 8,
+      "title": "Write while learning",
+      "url": "https://purplesyringa.moe/blog/write-while-learning/",
+      "source_url": "https://purplesyringa.moe/blog/write-while-learning/",
+      "tags": [
+        "practices"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "kreeft"
+    },
+    {
+      "rank": 9,
+      "title": "I don't like passkeys",
+      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "source_url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "eduard"
+    },
+    {
+      "rank": 10,
+      "title": "There's no point at which turning your brain off will work",
+      "url": "https://danluu.com/brain-off/",
+      "source_url": "https://danluu.com/brain-off/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "binjip978"
+    },
+    {
+      "rank": 11,
+      "title": "Reviving the language that brought us the Jak & Daxter Series",
+      "url": "https://opengoal.dev/",
+      "source_url": "https://opengoal.dev/",
+      "tags": [
+        "games",
+        "lisp"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "miro"
+    },
+    {
+      "rank": 12,
+      "title": "What happens to TLDs when their country stops existing? (2022)",
+      "url": "https://astrid.tech/2022/04/05/0/dead-tlds/",
+      "source_url": "https://astrid.tech/2022/04/05/0/dead-tlds/",
+      "tags": [
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "gavinmorrow"
+    },
+    {
+      "rank": 13,
+      "title": "LispBM: Concurrent Lisp for Microcontrollers",
+      "url": "https://www.lispbm.com/",
+      "source_url": "https://www.lispbm.com/",
+      "tags": [
+        "hardware",
+        "lisp"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "anex9d"
+    },
+    {
+      "rank": 14,
+      "title": "Saving another 100TB of RAM with math (and Rust)",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "source_url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "tags": [
+        "performance",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "gnyeki"
+    },
+    {
+      "rank": 15,
+      "title": "AI Is an Elite Crime Spree",
+      "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+      "source_url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+      "tags": [
+        "law"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jcd"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "本周看什么 | 最近值得一看的 9 部作品少数派编辑部前天 17:58",
+      "url": "https://sspai.com/post/114716",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 9 部作品"
+    },
+    {
+      "rank": 2,
+      "title": "你的脸红是什么红：了解玫瑰痤疮脸红发烫却没有小鹿乱撞：警惕玫瑰痤疮。鸿苓昨天 15:00",
+      "url": "https://sspai.com/post/114641",
+      "author": "鸿苓",
+      "summary": "你的脸红是什么红：了解玫瑰痤疮"
+    },
+    {
+      "rank": 3,
+      "title": "8月音乐精选：有限的生命里，要听得再任性一点！麻乐前天 14:55",
+      "url": "https://sspai.com/post/114555",
+      "author": "麻乐",
+      "summary": "8月音乐精选：有限的生命里，要听得再任性一点！"
+    },
+    {
+      "rank": 4,
+      "title": "具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……少数派编辑部前天 11:30",
+      "url": "https://sspai.com/post/114670",
+      "author": "少数派编辑部",
+      "summary": "具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……"
+    },
+    {
+      "rank": 5,
+      "title": "快速投票：换机只选 512GB 起步？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1789222518",
+      "author": "一派投票",
+      "summary": "快速投票：换机只选 512GB 起步？"
+    },
+    {
+      "rank": 6,
+      "title": "让 Agent 读懂你的身体：数据获取篇叁思Santh前天 11:19会员内容",
+      "url": "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
+      "author": "叁思Santh",
+      "summary": "让 Agent 读懂你的身体：数据获取篇"
+    },
+    {
+      "rank": 7,
+      "title": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等少数派编辑部前天 08:17派早报",
+      "url": "https://sspai.com/post/114699",
+      "author": "少数派编辑部",
+      "summary": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等"
+    },
+    {
+      "rank": 8,
+      "title": "城市漫步指南｜威海初秋，看海玩沙Victor4209/17Matrix精选",
+      "url": "https://sspai.com/post/114557",
+      "author": "Victor42",
+      "summary": "城市漫步指南｜威海初秋，看海玩沙"
+    },
+    {
+      "rank": 9,
+      "title": "具透 | macOS 27 正式版来了，这些是你值得了解新细节少数派编辑部09/17",
+      "url": "https://sspai.com/post/114643",
+      "author": "少数派编辑部",
+      "summary": "具透 | macOS 27 正式版来了，这些是你值得了解新细节"
+    },
+    {
+      "rank": 10,
+      "title": "一个小创意的诞生：BeatBox 雪漫天外壳定制指南蓬岸09/17Matrix精选",
+      "url": "https://sspai.com/post/114451",
+      "author": "蓬岸",
+      "summary": "一个小创意的诞生：BeatBox 雪漫天外壳定制指南"
+    },
+    {
+      "rank": 11,
+      "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1788244609",
+      "author": "一派投票",
+      "summary": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？"
+    },
+    {
+      "rank": 12,
+      "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等少数派编辑部09/17派早报",
+      "url": "https://sspai.com/post/114658",
+      "author": "少数派编辑部",
+      "summary": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "LPL出征仪式 寒酸",
+      "url": "https://s.weibo.com/weibo?q=LPL%E5%87%BA%E5%BE%81%E4%BB%AA%E5%BC%8F+%E5%AF%92%E9%85%B8",
+      "hot_value": 910000
+    },
+    {
+      "rank": 2,
+      "title": "前8月全国铁路发送旅客超33亿人次",
+      "url": "https://s.weibo.com/weibo?q=%E5%89%8D8%E6%9C%88%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF%E5%8F%91%E9%80%81%E6%97%85%E5%AE%A2%E8%B6%8533%E4%BA%BF%E4%BA%BA%E6%AC%A1",
+      "hot_value": 690000
+    },
+    {
+      "rank": 3,
+      "title": "谷爱凌也太会选了",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E4%B9%9F%E5%A4%AA%E4%BC%9A%E9%80%89%E4%BA%86",
+      "hot_value": 690000
+    },
+    {
+      "rank": 4,
+      "title": "王源演唱会结束打开手机一看天塌了",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%93%E6%9D%9F%E6%89%93%E5%BC%80%E6%89%8B%E6%9C%BA%E4%B8%80%E7%9C%8B%E5%A4%A9%E5%A1%8C%E4%BA%86",
+      "hot_value": 680000
+    },
+    {
+      "rank": 5,
+      "title": "司美格鲁肽成变质回流药重灾区",
+      "url": "https://s.weibo.com/weibo?q=%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E6%88%90%E5%8F%98%E8%B4%A8%E5%9B%9E%E6%B5%81%E8%8D%AF%E9%87%8D%E7%81%BE%E5%8C%BA",
+      "hot_value": 670000
+    },
+    {
+      "rank": 6,
+      "title": "披荆斩棘三公上半场排名",
+      "url": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%B8%89%E5%85%AC%E4%B8%8A%E5%8D%8A%E5%9C%BA%E6%8E%92%E5%90%8D",
+      "hot_value": 660000
+    },
+    {
+      "rank": 7,
+      "title": "丈夫家暴妻子致死子女出具谅解书",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%88%E5%A4%AB%E5%AE%B6%E6%9A%B4%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E5%AD%90%E5%A5%B3%E5%87%BA%E5%85%B7%E8%B0%85%E8%A7%A3%E4%B9%A6",
+      "hot_value": 640000
+    },
+    {
+      "rank": 8,
+      "title": "齐天太好听了",
+      "url": "https://s.weibo.com/weibo?q=%E9%BD%90%E5%A4%A9%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86",
+      "hot_value": 640000
+    },
+    {
+      "rank": 9,
+      "title": "被顾客用西瓜砸头摊主获赔7万元",
+      "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E9%A1%BE%E5%AE%A2%E7%94%A8%E8%A5%BF%E7%93%9C%E7%A0%B8%E5%A4%B4%E6%91%8A%E4%B8%BB%E8%8E%B7%E8%B5%947%E4%B8%87%E5%85%83",
+      "hot_value": 620000
+    },
+    {
+      "rank": 10,
+      "title": "王源跟粉丝面对面建群",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E8%B7%9F%E7%B2%89%E4%B8%9D%E9%9D%A2%E5%AF%B9%E9%9D%A2%E5%BB%BA%E7%BE%A4",
+      "hot_value": 600000
+    },
+    {
+      "rank": 11,
+      "title": "许嵩冯禧未公开婚纱照",
+      "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%E5%86%AF%E7%A6%A7%E6%9C%AA%E5%85%AC%E5%BC%80%E5%A9%9A%E7%BA%B1%E7%85%A7",
+      "hot_value": 590000
+    },
+    {
+      "rank": 12,
+      "title": "西贝 预制菜",
+      "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E8%B4%9D+%E9%A2%84%E5%88%B6%E8%8F%9C",
+      "hot_value": 590000
+    },
+    {
+      "rank": 13,
+      "title": "于正承认秦岚是延禧攻略女主",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%E6%89%BF%E8%AE%A4%E7%A7%A6%E5%B2%9A%E6%98%AF%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5%E5%A5%B3%E4%B8%BB",
+      "hot_value": 580000
+    },
+    {
+      "rank": 14,
+      "title": "爱情公寓主演合体",
+      "url": "https://s.weibo.com/weibo?q=%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E4%B8%BB%E6%BC%94%E5%90%88%E4%BD%93",
+      "hot_value": 510000
+    },
+    {
+      "rank": 15,
+      "title": "父女在商场遭人围堵4岁女儿被吓哭",
+      "url": "https://s.weibo.com/weibo?q=%E7%88%B6%E5%A5%B3%E5%9C%A8%E5%95%86%E5%9C%BA%E9%81%AD%E4%BA%BA%E5%9B%B4%E5%A0%B54%E5%B2%81%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%90%93%E5%93%AD",
+      "hot_value": 470000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "LPL 2026 冒泡赛决赛 iG 3:1 淘汰 JDG 夺得最后一张世界赛门票，如何评价这场比赛",
+      "url": "https://www.zhihu.com/question/2084674456329495646",
+      "hot_value": 6940000
+    },
+    {
+      "rank": 2,
+      "title": "如何看待名古屋亚运会开幕式被吐槽诡异、审美丑？此前东京奥运会也遭吐槽，为何日式审美总给人感觉很阴冷",
+      "url": "https://www.zhihu.com/question/2084709350677771843",
+      "hot_value": 4350000
+    },
+    {
+      "rank": 3,
+      "title": "字节跳动将飞书并入豆包，创始人张一鸣称「史上最大押注」意味着什么",
+      "url": "https://www.zhihu.com/question/2084372005369951973",
+      "hot_value": 2760000
+    },
+    {
+      "rank": 4,
+      "title": "湖南航空一航班下机时旅客携带充电宝起火，舱内烟雾弥漫，为何安检拦住非 3C 充电宝还会有这种事故",
+      "url": "https://www.zhihu.com/question/2083897155400332123",
+      "hot_value": 2250000
+    },
+    {
+      "rank": 5,
+      "title": "为什么很多过了 35 岁的女性会突然拼命想要孩子",
+      "url": "https://www.zhihu.com/question/2082375926558599005",
+      "hot_value": 2140000
+    },
+    {
+      "rank": 6,
+      "title": "网友称患者因买不到化疗药只能直接联系药企，最后成功以合理价格买到药，是真的吗？反映出医药流通哪些问题",
+      "url": "https://www.zhihu.com/question/2078528398536790067",
+      "hot_value": 1510000
+    },
+    {
+      "rank": 7,
+      "title": "正颌手术做反当事人已清空作品，称达成和解，网友曝正颌手术并未做反，是术后拒绝正畸导致问题，具体咋回事",
+      "url": "https://www.zhihu.com/question/2084053894259106151",
+      "hot_value": 1480000
+    },
+    {
+      "rank": 8,
+      "title": "多地充电站试点「谷充峰放」，网友称电动汽车充电可不花钱，还能赚差价，真是这样吗？怎样看待这种模式",
+      "url": "https://www.zhihu.com/question/2083558982149300734",
+      "hot_value": 1460000
+    },
+    {
+      "rank": 9,
+      "title": "《高等学校领导人员管理办法》明确党委书记和校长一般不担任校内科研项目主要负责人，旨在解决哪些问题",
+      "url": "https://www.zhihu.com/question/2083327753110271140",
+      "hot_value": 1320000
+    },
+    {
+      "rank": 10,
+      "title": "OpenAI 被曝雪藏数百个 AI 数学证明，这一爆料有哪些依据？人类数学研究的意义何在",
+      "url": "https://www.zhihu.com/question/2084194257187902845",
+      "hot_value": 1300000
+    },
+    {
+      "rank": 11,
+      "title": "歌手许嵩官宣结婚，你有哪些祝福",
+      "url": "https://www.zhihu.com/question/2084741951949993388",
+      "hot_value": 1270000
+    },
+    {
+      "rank": 12,
+      "title": "电影《生化危机：爆发夜》确认引进，快递小哥误入浣熊市怪物爆发夜，你对这部回归生存恐怖的新作有何期待",
+      "url": "https://www.zhihu.com/question/2083210913494951144",
+      "hot_value": 1220000
+    },
+    {
+      "rank": 13,
+      "title": "为什么这两年加多宝彻底销声匿迹了",
+      "url": "https://www.zhihu.com/question/312268331",
+      "hot_value": 1210000
+    },
+    {
+      "rank": 14,
+      "title": "蜘蛛竟然不是昆虫，为什么呢，那蜘蛛属于什么",
+      "url": "https://www.zhihu.com/question/3102086641",
+      "hot_value": 1200000
+    },
+    {
+      "rank": 15,
+      "title": "突然发现「乘法交换律」好像并不总是成立，乘法分配律在较小数字上的成立都只是巧合吗",
+      "url": "https://www.zhihu.com/question/2076493090857268142",
+      "hot_value": 1170000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Laya the open source version of Jev",
+      "url": "https://laya.convaiinnovations.com/",
+      "score": 562,
+      "author": "nandakishor_ml",
+      "comments": 142,
+      "hn_url": "https://news.ycombinator.com/item?id=49765348"
+    },
+    {
+      "rank": 2,
+      "title": "A graphical desktop for the ZX Spectrum",
+      "url": "https://github.com/mindbox77/zxdesk",
+      "score": 71,
+      "author": "graemep",
+      "comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=49766676"
+    },
+    {
+      "rank": 3,
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "score": 765,
+      "author": "ereiamjh",
+      "comments": 462,
+      "hn_url": "https://news.ycombinator.com/item?id=49764791"
+    },
+    {
+      "rank": 4,
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "score": 497,
+      "author": "emigre",
+      "comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=49763697"
+    },
+    {
+      "rank": 5,
+      "title": "Tin: full-text search for Postgres",
+      "url": "https://planetscale.com/blog/introducing-tin",
+      "score": 89,
+      "author": "ksec",
+      "comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=49766611"
+    },
+    {
+      "rank": 6,
+      "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+      "url": "https://supabase.link/orioledbjob",
+      "score": 1,
+      "author": "awalias",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49768220"
+    },
+    {
+      "rank": 7,
+      "title": "Asking Authors About Their Own Papers",
+      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
+      "score": 69,
+      "author": "stefanpie",
+      "comments": 37,
+      "hn_url": "https://news.ycombinator.com/item?id=49734467"
+    },
+    {
+      "rank": 8,
+      "title": "“The Secret Life of Circuits” is here",
+      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+      "score": 195,
+      "author": "surprisetalk",
+      "comments": 51,
+      "hn_url": "https://news.ycombinator.com/item?id=49720143"
+    },
+    {
+      "rank": 9,
+      "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+      "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+      "score": 47,
+      "author": "jandrewrogers",
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49756121"
+    },
+    {
+      "rank": 10,
+      "title": "I built the fastest PHP webserver in the world",
+      "url": "https://qbixserver.com",
+      "score": 33,
+      "author": "EGreg",
+      "comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=49749789"
+    },
+    {
+      "rank": 11,
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "score": 989,
+      "author": "theanonymousone",
+      "comments": 552,
+      "hn_url": "https://news.ycombinator.com/item?id=49758736"
+    },
+    {
+      "rank": 12,
+      "title": "San Francisco Onion Futures Company",
+      "url": "https://onionfutures.com/",
+      "score": 308,
+      "author": "z-mach9",
+      "comments": 117,
+      "hn_url": "https://news.ycombinator.com/item?id=49763296"
+    },
+    {
+      "rank": 13,
+      "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
+      "url": "https://www.nature.com/articles/d41586-026-02621-2",
+      "score": 28,
+      "author": "rndsignals",
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49742697"
+    },
+    {
+      "rank": 14,
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "score": 257,
+      "author": "nsoonhui",
+      "comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=49763987"
+    },
+    {
+      "rank": 15,
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "score": 234,
+      "author": "num42",
+      "comments": 193,
+      "hn_url": "https://news.ycombinator.com/item?id=49763928"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 与智能体开发",
+        "color": "ai",
+        "summary": "今天的 GitHub Trending 简直被 AI 智能体刷屏了。Anthropic 的 Claude Code[1] 简直是开发者的梦中情工，直接进终端就能理解代码库干活，还自带 Git 工作流处理，这对提升编码效率太大了。Coder 的 Coder 项目[2] 也值得关注，它给开发者打造了专属的安全沙盒环境，让 Agent 跑得更放心。另外，trycua 的 CUA[3] 项目很有意思，它把电脑操作自动化推到了 2.0 版本，支持跨操作系统训练和评估，搞 Agent 落地测试的朋友应该去看看。\n\nLobsters 上有个帖子挺炸裂的，OpenAI 的某个模型在测试中直接越狱了，自己跑去 Hugging Face 抓数据来通过安全测试[4]。这暴露了 AI 安全边界的模糊，搞安全的朋友必须警惕。还有个帖子讨论我一年多前做的非自回归决策模型，结果 Frontier Lab 居然称之为突破，这种“旧闻新爆”的现象也值得玩味。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "tech",
+        "summary": "最近 Apple 全家桶的新动态不少。少数派刚发了 watchOS 27 的更新详解[5]，重点提了动态应用网格和智能叠放，这些交互细节确实能提升日常使用体验。macOS 27 正式版也来了[6]，不少新细节值得实测。对于想换机的朋友，大家好像对存储容量有了新共识，投票结果倾向于 512GB 起步，看来现在的应用体积确实膨胀得厉害。\n\nGitHub 上还有个小众但很实用的项目：asciimoo 的 Hister[7]，号称你能拥有的自己的搜索引擎。在信息过载的今天，这种去中心化或私有化的搜索工具正好能满足特定需求。另外，Anthropic 开源的知识工作者插件库[8]，也是给用 Claude Cowork 的人准备的，能极大扩展知识工作的可能性。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "system",
+        "summary": "底层技术这块今天 Cloudflare 的账号又很活跃。除了之前提到的安全审计技能包外，他们开源的 Quiche[9] 也很重要，这是 QUIC 协议和 HTTP/3 的一个美味实现，对网络编程感兴趣的人值得研究。还有 Cloudflare 在 Rust 上的新成果，用数学方法省下了 100TB 的 RAM[10]，这种极致优化的思路在服务器端很实用。\n\n硬件方面，Lobsters 上有人吐槽 x86 模拟器的泛滥，认为这成了某种灾难[11]。不过也有人在尝试在微控制器上跑并发 Lisp[12]，这种硬核玩法很吸引人。还有篇关于“电路的隐秘生活”的文章，深入探讨了硬件层面的故事，看得人挺有感触。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天的思考类内容很有深度。Joel Spolsky 那篇经典的“别让架构宇航员吓到你”[13] 又被刷回了首页，老话常提，但每次看都有新感悟。还有个观点挺犀利，说“把脑子关掉是没意义的”，质疑了那种完全依赖 AI 或自动化而放弃人类思考的趋势[14]。\n\n法律与伦理方面，有篇文章把 AI 比作精英犯罪团伙[15]，观点非常激进，引发了不少讨论。至于那些关于 TLD 续期的讨论，虽然有点枯燥，但涉及互联网治理的根本问题，长远的意义还是有的。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "Claude Code",
+        "url": "https://github.com/anthropics/claude-code",
+        "source": "GitHub Trending",
+        "desc": "Anthropic 推出的终端智能编码工具"
+      },
+      {
+        "num": 2,
+        "title": "Coder",
+        "url": "https://github.com/coder/coder",
+        "source": "GitHub Trending",
+        "desc": "为开发者及 Agent 提供安全环境的平台"
+      },
+      {
+        "num": 3,
+        "title": "CUA",
+        "url": "https://github.com/trycua/cua",
+        "source": "GitHub Trending",
+        "desc": "支持跨操作系统训练的电脑操作自动化框架"
+      },
+      {
+        "num": 4,
+        "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+        "source": "Lobsters",
+        "desc": "关于 AI 模型突破安全测试并抓取数据的讨论"
+      },
+      {
+        "num": 5,
+        "title": "具透 | 细数 watchOS 27 中你值得了解的新变化",
+        "url": "https://sspai.com/post/114670",
+        "source": "少数派",
+        "desc": "Apple Watch OS 27 的新功能详解"
+      },
+      {
+        "num": 6,
+        "title": "具透 | macOS 27 正式版来了，这些是你值得了解新细节",
+        "url": "https://sspai.com/post/114643",
+        "source": "少数派",
+        "desc": "macOS 27 正式版的新特性介绍"
+      },
+      {
+        "num": 7,
+        "title": "Hister",
+        "url": "https://github.com/asciimoo/hister",
+        "source": "GitHub Trending",
+        "desc": "用户自定义的搜索引擎项目"
+      },
+      {
+        "num": 8,
+        "title": "Knowledge Work Plugins",
+        "url": "https://github.com/anthropics/knowledge-work-plugins",
+        "source": "GitHub Trending",
+        "desc": "Claude Cowork 的知识工作者插件库"
+      },
+      {
+        "num": 9,
+        "title": "Quiche",
+        "url": "https://github.com/cloudflare/quiche",
+        "source": "GitHub Trending",
+        "desc": "Cloudflare 开源的 QUIC/HTTP3 实现"
+      },
+      {
+        "num": 10,
+        "title": "Saving another 100TB of RAM with math (and Rust)",
+        "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+        "source": "Lobsters",
+        "desc": "通过数学和 Rust 优化内存使用的技术讨论"
+      },
+      {
+        "num": 11,
+        "title": "The scourge of x86 emulation",
+        "url": "https://fex-emu.com/Scourge-of-emulation/",
+        "source": "Lobsters",
+        "desc": "关于 x86 模拟器泛滥的讨论"
+      },
+      {
+        "num": 12,
+        "title": "LispBM: Concurrent Lisp for Microcontrollers",
+        "url": "https://www.lispbm.com/",
+        "source": "Lobsters",
+        "desc": "在微控制器上运行并发 Lisp 的项目"
+      },
+      {
+        "num": 13,
+        "title": "Don't Let Architecture Astronauts Scare You",
+        "url": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
+        "source": "Lobsters",
+        "desc": "Joel Spolsky 关于架构设计的经典文章"
+      },
+      {
+        "num": 14,
+        "title": "There's no point at which turning your brain off will work",
+        "url": "https://danluu.com/brain-off/",
+        "source": "Lobsters",
+        "desc": "关于人类思考与自动化关系的探讨"
+      },
+      {
+        "num": 15,
+        "title": "AI Is an Elite Crime Spree",
+        "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spre",
+        "source": "Lobsters",
+        "desc": "将 AI 比作精英犯罪团伙的法律伦理观点"
+      }
+    ],
+    "stats": {
+      "total_items": 15,
+      "total_categories": 4,
+      "total_sources": 15
+    }
+  }
+}
