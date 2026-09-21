@@ -1,0 +1,886 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "BuilderIO / agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "stars": "5778",
+      "stars_today": "607 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "trycua / cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "stars": "25618",
+      "stars_today": "609 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 3,
+      "title": "Open-Dev-Society / OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "stars": "17547",
+      "stars_today": "843 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 4,
+      "title": "akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": "7583",
+      "stars_today": "217 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 5,
+      "title": "coder / coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "stars": "16354",
+      "stars_today": "461 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 6,
+      "title": "anthropics / financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "stars": "35735",
+      "stars_today": "425 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "cloudflare / quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "stars": "12285",
+      "stars_today": "69 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 8,
+      "title": "mvt-project / mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "stars": "13496",
+      "stars_today": "177 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "zhouxiaoka / autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "stars": "8148",
+      "stars_today": "266 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 10,
+      "title": "ruanyf / weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "stars": "103881",
+      "stars_today": "221 stars today",
+      "language": ""
+    },
+    {
+      "rank": 11,
+      "title": "Crosstalk-Solutions / project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "stars": "37759",
+      "stars_today": "360 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 12,
+      "title": "yynxxxxx / Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "stars": "3646",
+      "stars_today": "79 stars today",
+      "language": "Rust"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "source_url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "tags": [
+        "historical"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "j11g"
+    },
+    {
+      "rank": 2,
+      "title": "Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?",
+      "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+      "source_url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "ahelwer"
+    },
+    {
+      "rank": 3,
+      "title": "Do you use :visited on links?",
+      "url": "https://kevquirk.com/do-you-use-visited-on-links",
+      "source_url": "https://kevquirk.com/do-you-use-visited-on-links",
+      "tags": [
+        "a11y",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "confusedalex"
+    },
+    {
+      "rank": 4,
+      "title": "Creating a Blog in Gemini://",
+      "url": "https://brennan.day/creating-a-blog-in-gemini/",
+      "source_url": "https://brennan.day/creating-a-blog-in-gemini/",
+      "tags": [
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "FedericoSchonborn"
+    },
+    {
+      "rank": 5,
+      "title": "What are you doing this week?",
+      "url": "https://lobste.rs/s/fyngrv/what_are_you_doing_this_week",
+      "source_url": "https://lobste.rs/s/fyngrv/what_are_you_doing_this_week",
+      "tags": [
+        "ask",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "caius"
+    },
+    {
+      "rank": 6,
+      "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
+      "url": "https://github.com/dtonon/squalk",
+      "source_url": "https://github.com/dtonon/squalk",
+      "tags": [
+        "show",
+        "distributed",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "daniele"
+    },
+    {
+      "rank": 7,
+      "title": "Markdown in /src",
+      "url": "https://htmx.org/essays/markdown-in-src/",
+      "source_url": "https://htmx.org/essays/markdown-in-src/",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "facundoolano"
+    },
+    {
+      "rank": 8,
+      "title": "Software sandboxing: The basics (2025)",
+      "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+      "source_url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+      "tags": [
+        "programming",
+        "security",
+        "unix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "vinipsmaker"
+    },
+    {
+      "rank": 9,
+      "title": "Canonical announces Zephyr 26.04 LTS",
+      "url": "https://canonical.com/blog/zephyr-lts-announcement",
+      "source_url": "https://canonical.com/blog/zephyr-lts-announcement",
+      "tags": [
+        "hardware",
+        "osdev"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "doyougnu"
+    },
+    {
+      "rank": 10,
+      "title": "Relation algebra is not relational algebra",
+      "url": "https://remy.wang/blog/ra-ra.html",
+      "source_url": "https://remy.wang/blog/ra-ra.html",
+      "tags": [
+        "databases",
+        "math"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "aphaelion"
+    },
+    {
+      "rank": 11,
+      "title": "Self-Hosting Behind CGNAT",
+      "url": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
+      "source_url": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
+      "tags": [
+        "linux",
+        "networking"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "dalvrosa"
+    },
+    {
+      "rank": 12,
+      "title": "Are we really going to use the same Desktop UX forever?",
+      "url": "https://www.youtube.com/watch?v=V7AfAcQwLW0",
+      "source_url": "https://www.youtube.com/watch?v=V7AfAcQwLW0",
+      "tags": [
+        "video",
+        "design"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "notagoodidea"
+    },
+    {
+      "rank": 13,
+      "title": "An actively maintained and updated Motif fork actually exists",
+      "url": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
+      "source_url": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
+      "tags": [
+        "unix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "raymii"
+    },
+    {
+      "rank": 14,
+      "title": "Why do computers look like this anyway?",
+      "url": "https://www.youtube.com/watch?v=dpIuNUn0PZc",
+      "source_url": "https://www.youtube.com/watch?v=dpIuNUn0PZc",
+      "tags": [
+        "video",
+        "design",
+        "historical",
+        "mac"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "herabit"
+    },
+    {
+      "rank": 15,
+      "title": "rift - a tiling window manager for macos",
+      "url": "https://github.com/acsandmann/rift/",
+      "source_url": "https://github.com/acsandmann/rift/",
+      "tags": [
+        "mac"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "atticus"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "一台主机，多重角色：新款 Mac mini 首发体验waychane昨天 21:02",
+      "url": "https://sspai.com/post/114829",
+      "author": "waychane",
+      "summary": "一台主机，多重角色：新款 Mac mini 首发体验"
+    },
+    {
+      "rank": 2,
+      "title": "派评 | 近期值得关注的 App少数派编辑部昨天 17:57",
+      "url": "https://sspai.com/post/114815",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 3,
+      "title": "以人为本还是脱离实际？GNOME 桌面环境的演进及争议Cheech昨天 17:02会员内容",
+      "url": "https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de",
+      "author": "Cheech",
+      "summary": "以人为本还是脱离实际？GNOME 桌面环境的演进及争议"
+    },
+    {
+      "rank": 4,
+      "title": "体验过华为 Pura X View 后，他们最想留下的「阔体验」是……少数派编辑部昨天 13:26",
+      "url": "https://sspai.com/post/114734",
+      "author": "少数派编辑部",
+      "summary": "体验过华为 Pura X View 后，他们最想留下的「阔体验」是……"
+    },
+    {
+      "rank": 5,
+      "title": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？shiquda昨天 11:38Matrix精选",
+      "url": "https://sspai.com/post/114519",
+      "author": "shiquda",
+      "summary": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？"
+    },
+    {
+      "rank": 6,
+      "title": "派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃少数派编辑部昨天 06:26派早报",
+      "url": "https://sspai.com/post/114788",
+      "author": "少数派编辑部",
+      "summary": "派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃"
+    },
+    {
+      "rank": 7,
+      "title": "快速投票：换机只选 512GB 起步？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1789222518",
+      "author": "一派投票",
+      "summary": "快速投票：换机只选 512GB 起步？"
+    },
+    {
+      "rank": 8,
+      "title": "觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记PJHubs前天 15:00",
+      "url": "https://sspai.com/post/114495",
+      "author": "PJHubs",
+      "summary": "觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记"
+    },
+    {
+      "rank": 9,
+      "title": "给电话加上「辅助驾驶」？我们想听听你的意见OrbiSona前天 11:01",
+      "url": "https://sspai.com/post/114717",
+      "author": "OrbiSona",
+      "summary": "给电话加上「辅助驾驶」？我们想听听你的意见"
+    },
+    {
+      "rank": 10,
+      "title": "你的脸红是什么红：了解玫瑰痤疮脸红发烫却没有小鹿乱撞，可能真不是什么好事……鸿苓09/19",
+      "url": "https://sspai.com/post/114641",
+      "author": "鸿苓",
+      "summary": "你的脸红是什么红：了解玫瑰痤疮"
+    },
+    {
+      "rank": 11,
+      "title": "本周看什么 | 最近值得一看的 9 部作品少数派编辑部09/18",
+      "url": "https://sspai.com/post/114716",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 9 部作品"
+    },
+    {
+      "rank": 12,
+      "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1788244609",
+      "author": "一派投票",
+      "summary": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "16岁少年与14岁女孩发生关系判3年",
+      "url": "https://s.weibo.com/weibo?q=16%E5%B2%81%E5%B0%91%E5%B9%B4%E4%B8%8E14%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E5%88%A43%E5%B9%B4",
+      "hot_value": 190000
+    },
+    {
+      "rank": 2,
+      "title": "坚持四个注重做强先进制造业",
+      "url": "https://s.weibo.com/weibo?q=%E5%9D%9A%E6%8C%81%E5%9B%9B%E4%B8%AA%E6%B3%A8%E9%87%8D%E5%81%9A%E5%BC%BA%E5%85%88%E8%BF%9B%E5%88%B6%E9%80%A0%E4%B8%9A",
+      "hot_value": 190000
+    },
+    {
+      "rank": 3,
+      "title": "OPPOFindX10系列今日发布",
+      "url": "https://s.weibo.com/weibo?q=OPPOFindX10%E7%B3%BB%E5%88%97%E4%BB%8A%E6%97%A5%E5%8F%91%E5%B8%83",
+      "hot_value": 190000
+    },
+    {
+      "rank": 4,
+      "title": "潘展乐 张展硕",
+      "url": "https://s.weibo.com/weibo?q=%E6%BD%98%E5%B1%95%E4%B9%90+%E5%BC%A0%E5%B1%95%E7%A1%95",
+      "hot_value": 190000
+    },
+    {
+      "rank": 5,
+      "title": "16岁小伙被判强奸罪家属发声",
+      "url": "https://s.weibo.com/weibo?q=16%E5%B2%81%E5%B0%8F%E4%BC%99%E8%A2%AB%E5%88%A4%E5%BC%BA%E5%A5%B8%E7%BD%AA%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0",
+      "hot_value": 180000
+    },
+    {
+      "rank": 6,
+      "title": "吴尊晒NeiNei穿婚服",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%B4%E5%B0%8A%E6%99%92NeiNei%E7%A9%BF%E5%A9%9A%E6%9C%8D",
+      "hot_value": 170000
+    },
+    {
+      "rank": 7,
+      "title": "王俊凯浪莎品牌全球代言人",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%B5%AA%E8%8E%8E%E5%93%81%E7%89%8C%E5%85%A8%E7%90%83%E4%BB%A3%E8%A8%80%E4%BA%BA",
+      "hot_value": 160000
+    },
+    {
+      "rank": 8,
+      "title": "曝某S加女主片酬从几千万降至100万",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%9F%90S%E5%8A%A0%E5%A5%B3%E4%B8%BB%E7%89%87%E9%85%AC%E4%BB%8E%E5%87%A0%E5%8D%83%E4%B8%87%E9%99%8D%E8%87%B3100%E4%B8%87",
+      "hot_value": 160000
+    },
+    {
+      "rank": 9,
+      "title": "Lisa疑似与blue谈恋爱了",
+      "url": "https://s.weibo.com/weibo?q=Lisa%E7%96%91%E4%BC%BC%E4%B8%8Eblue%E8%B0%88%E6%81%8B%E7%88%B1%E4%BA%86",
+      "hot_value": 160000
+    },
+    {
+      "rank": 10,
+      "title": "曝金鹰奖最佳男女主",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E5%A5%B3%E4%B8%BB",
+      "hot_value": 150000
+    },
+    {
+      "rank": 11,
+      "title": "X300 X500",
+      "url": "https://s.weibo.com/weibo?q=X300+X500",
+      "hot_value": 150000
+    },
+    {
+      "rank": 12,
+      "title": "张家齐这一跳完全就是教科书级别",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E8%BF%99%E4%B8%80%E8%B7%B3%E5%AE%8C%E5%85%A8%E5%B0%B1%E6%98%AF%E6%95%99%E7%A7%91%E4%B9%A6%E7%BA%A7%E5%88%AB",
+      "hot_value": 150000
+    },
+    {
+      "rank": 13,
+      "title": "名古屋亚运会游泳",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%B8%B8%E6%B3%B3",
+      "hot_value": 110000
+    },
+    {
+      "rank": 14,
+      "title": "鹿晗养头发的痛",
+      "url": "https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E5%85%BB%E5%A4%B4%E5%8F%91%E7%9A%84%E7%97%9B",
+      "hot_value": 100000
+    },
+    {
+      "rank": 15,
+      "title": "vivo X500定价给友商压力",
+      "url": "https://s.weibo.com/weibo?q=vivo+X500%E5%AE%9A%E4%BB%B7%E7%BB%99%E5%8F%8B%E5%95%86%E5%8E%8B%E5%8A%9B",
+      "hot_value": 100000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "网友呼吁归还配料表中的白砂糖，它为啥重回白月光？食品饮料为何用果葡糖浆替代白砂糖？前者会影响健康吗",
+      "url": "https://www.zhihu.com/question/2085265745911309783",
+      "hot_value": 6390000
+    },
+    {
+      "rank": 2,
+      "title": "大一新生军训跑去旅游，网传学校报警寻人、教官被取消留役资格，校方回应该生正办理退学手续，如何看待此事",
+      "url": "https://www.zhihu.com/question/2085141629112009975",
+      "hot_value": 5540000
+    },
+    {
+      "rank": 3,
+      "title": "网购燃气灶防风罩一月后妻儿中毒死亡，该产品为何会导致如此严重的事故？是否该全面禁售",
+      "url": "https://www.zhihu.com/question/2085143623151235674",
+      "hot_value": 3930000
+    },
+    {
+      "rank": 4,
+      "title": "四川大学等高校规定，有吸烟等消费型不良嗜好就取消学费减免资格，这一规定合理吗",
+      "url": "https://www.zhihu.com/question/2085328278622036637",
+      "hot_value": 3910000
+    },
+    {
+      "rank": 5,
+      "title": "一医院被曝不给实习生放中秋假，遭网络曝光后疑医院职工称要「整死」爆料者，哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2085398243685266996",
+      "hot_value": 1390000
+    },
+    {
+      "rank": 6,
+      "title": "如何看待新华社新闻「公然侮辱诋毁乒乓球、跳水运动员，多人被罚！」",
+      "url": "https://www.zhihu.com/question/2084583841319106484",
+      "hot_value": 1200000
+    },
+    {
+      "rank": 7,
+      "title": "为什么很多国人喜欢把手机和电脑的系统语言设置成英文",
+      "url": "https://www.zhihu.com/question/28352699",
+      "hot_value": 1170000
+    },
+    {
+      "rank": 8,
+      "title": "如何看待 Anthropic 推演 2030 年美国经济中「钱将继续流向有钱人」的结论",
+      "url": "https://www.zhihu.com/question/2085308622058120019",
+      "hot_value": 1070000
+    },
+    {
+      "rank": 9,
+      "title": "如何看待胡歌电影之路发展不顺？他路人缘那么好，为什么票房一直扑",
+      "url": "https://www.zhihu.com/question/2084833286736692814",
+      "hot_value": 1020000
+    },
+    {
+      "rank": 10,
+      "title": "闲鱼回应「暗藏涉黄产业链，涉大量未成年」，称已成立专项小组，情况有多严重？应怎样加强监管",
+      "url": "https://www.zhihu.com/question/2084398387164624498",
+      "hot_value": 1000000
+    },
+    {
+      "rank": 11,
+      "title": "新一期 LPR 公布，1 年期为 3.0%，5 年期以上为 3.5%，均连续 16 个月保持不变，如何解读",
+      "url": "https://www.zhihu.com/question/2084934611600151620",
+      "hot_value": 970000
+    },
+    {
+      "rank": 12,
+      "title": "如何看待樊振东入选 2025 中国品牌人物 500 强，位列第 19 名",
+      "url": "https://www.zhihu.com/question/2085407691028090985",
+      "hot_value": 880000
+    },
+    {
+      "rank": 13,
+      "title": "如何看待 ZCode 于 0921 开源并关闭 issue",
+      "url": "https://www.zhihu.com/question/2085298741364388042",
+      "hot_value": 870000
+    },
+    {
+      "rank": 14,
+      "title": "哪些角色 / 人物能让你惊呼「他们居然是同一个人」",
+      "url": "https://www.zhihu.com/question/26914197",
+      "hot_value": 870000
+    },
+    {
+      "rank": 15,
+      "title": "中国队夺亚运会男子 4×200 米自由泳接力金牌，最后一棒张展硕上演大逆转，怎样评价他们的表现",
+      "url": "https://www.zhihu.com/question/2085425672294330542",
+      "hot_value": 860000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "score": 359,
+      "author": "chmaynard",
+      "comments": 191,
+      "hn_url": "https://news.ycombinator.com/item?id=49787436"
+    },
+    {
+      "rank": 2,
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "score": 73,
+      "author": "alwillis",
+      "comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=49790409"
+    },
+    {
+      "rank": 3,
+      "title": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "score": 330,
+      "author": "zer0tonin",
+      "comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=49787726"
+    },
+    {
+      "rank": 4,
+      "title": "Grok 4.7",
+      "url": "https://x.ai/news/grok-4-7",
+      "score": 319,
+      "author": "meetpateltech",
+      "comments": 262,
+      "hn_url": "https://news.ycombinator.com/item?id=49788838"
+    },
+    {
+      "rank": 5,
+      "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+      "url": "https://ieeexplore.ieee.org/document/689473",
+      "score": 8,
+      "author": "ronfriedhaber",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49791117"
+    },
+    {
+      "rank": 6,
+      "title": "Fable 5 – Median thinking declined in August",
+      "url": "https://twitter.com/Lon/status/2101793422487204027",
+      "score": 212,
+      "author": "espeed",
+      "comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=49789224"
+    },
+    {
+      "rank": 7,
+      "title": "Python Workers are now generally available",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "score": 110,
+      "author": "torutofu",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=49787142"
+    },
+    {
+      "rank": 8,
+      "title": "Why Does an NPM Math Library Need an Encrypted Loader?",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "score": 7,
+      "author": "abhisek",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49791378"
+    },
+    {
+      "rank": 9,
+      "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
+      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "score": 46,
+      "author": "SamuraiLion",
+      "comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=49789228"
+    },
+    {
+      "rank": 10,
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
+      "score": 20,
+      "author": "js73js8",
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=49790389"
+    },
+    {
+      "rank": 11,
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "score": 329,
+      "author": "tosh",
+      "comments": 153,
+      "hn_url": "https://news.ycombinator.com/item?id=49783999"
+    },
+    {
+      "rank": 12,
+      "title": "A restored PDP-11/83 serving this page on 211BSD Unix",
+      "url": "http://pdp1173.com/",
+      "score": 54,
+      "author": "davepl",
+      "comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=49788773"
+    },
+    {
+      "rank": 13,
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "score": 20,
+      "author": "allanbreyes",
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=49791509"
+    },
+    {
+      "rank": 14,
+      "title": "How do Traffic Signals Work (2019)",
+      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+      "score": 30,
+      "author": "at1as",
+      "comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=49789081"
+    },
+    {
+      "rank": 15,
+      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+      "score": 100,
+      "author": "simianwords",
+      "comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=49789982"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发工具",
+        "color": "ai",
+        "summary": "今天的 GitHub 上，AI Agent 生态又热闹起来了。BuilderIO 推出的 agent-native[1] 主打构建原生智能体应用，理念很超前；trycua 的 cua[2] 则聚焦于规模化计算机操作（Computer Use），支持跨 OS 训练和评估，搞自动化测试的朋友肯定感兴趣。顺便提一下，GitHub 上那个每周的科技周刊 weekly[3] 依然是必看的，虽然静态但内容很香。\n\nLobsters 上有个帖子挺有意思，讨论要不要在 /src 里直接写 Markdown[4]，这种“代码即文档”的 Vibe Coding 思路确实能提升效率，不过大家似乎还是有点纠结。少数派的文章里，shiquda 那篇《当 AI 让执行力变得廉价，我们该拿什么脱颖而出？》[5] 观点很犀利，正好呼应了现在大家对于 AI 工具泛滥的焦虑，值得一读。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术这块今天动静不小。Cloudflare 开源的 quiche[6] 是 QUIC 协议的 Savoury 实现，搞高性能网络开发的别错过。安全方面，mvt[7] 依然是移动端取证的神器，而 coder[8] 提供的安全环境让开发者在本地跑 Agent 时更省心。\n\n社区讨论区里，Canonical 宣布 Zephyr 26.04 LTS 的到来[9]，看来嵌入式 Linux 生态也在加速迭代。另外，Software sandboxing 的基础科普[10] 在 Lobsters 上也刷了屏，搞安全的朋友必看，毕竟边界在哪总得有个共识。少数派的文章《以人为本还是脱离实际？GNOME 桌面环境的演进及争议》[11] 也很有意思，聊聊桌面环境的哲学之争，看着那些老用户的情怀，感觉画面感很强。"
+      },
+      {
+        "name": "数码产品与生活",
+        "color": "life",
+        "summary": "数码圈今天没啥颠覆性的硬件发布，但体验类文章挺多。waychane 那篇《一台主机，多重角色：新款 Mac mini 首发体验》[12] 分析得挺透彻，适合想精简桌面设备的人。华为 Pura X View 的“阔体验”[13] 也被少数派盘点了，看来折叠屏的交互设计还在探索期。\n\nLobsters 上有人分享了 self-hosting 在 CGNAT 后的解决方案[14]，这对喜欢折腾私有云的朋友简直是救命稻草，毕竟现在很多地区光猫都在 NAT 后面。还有那个 Motif 的活跃分支[15]，居然还有人维护，对于复古 UI 爱好者来说简直是宝藏。少数派那篇关于 Tim Cook 掌舵十五年改变数字生活的投票[16]，虽然老生常谈，但回顾经典总没错。"
+      },
+      {
+        "name": "开源项目与社区动态",
+        "color": "oss",
+        "summary": "开源社区今天贡献了不少实用工具。Open-Dev-Society 的 OpenStock[17] 试图做一个免费开源的股票追踪平台，对抗昂贵的商业软件，理念很美好；而 zhouxiaoka 的 autoclip[18] 这个 AI 视频高光提取工具，对于做二创和短视频的伙伴应该很实用。\n\nLobsters 上关于 Do you use :visited on links 的讨论[19] 虽然细节了点，但能看出前端开发者对无障碍（a11y）的持续关注。还有那个用 Nostr 构建的论坛引擎 Squalk[20]，分布式架构 + 老派论坛体验，这种组合在当下挺少见。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "agent-native",
+        "url": "https://github.com/BuilderIO/agent-native",
+        "source": "GitHub",
+        "desc": "A framework for building agentic apps"
+      },
+      {
+        "num": 2,
+        "title": "cua",
+        "url": "https://github.com/trycua/cua",
+        "source": "GitHub",
+        "desc": "Scale computer-use 2.0 with open-source drivers"
+      },
+      {
+        "num": 3,
+        "title": "weekly",
+        "url": "https://github.com/ruanyf/weekly",
+        "source": "GitHub",
+        "desc": "科技爱好者周刊"
+      },
+      {
+        "num": 4,
+        "title": "Markdown in /src",
+        "url": "https://htmx.org/essays/markdown-in-src/",
+        "source": "Lobsters",
+        "desc": "讨论在源码中直接使用 Markdown 的实践"
+      },
+      {
+        "num": 5,
+        "title": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？",
+        "url": "https://sspai.com/post/114519",
+        "source": "少数派",
+        "desc": "关于 AI 时代人类执行力的深度思考"
+      },
+      {
+        "num": 6,
+        "title": "quiche",
+        "url": "https://github.com/cloudflare/quiche",
+        "source": "GitHub",
+        "desc": "Savoury implementation of the QUIC transport protocol"
+      },
+      {
+        "num": 7,
+        "title": "mvt",
+        "url": "https://github.com/mvt-project/mvt",
+        "source": "GitHub",
+        "desc": "Mobile Verification Toolkit for forensics"
+      },
+      {
+        "num": 8,
+        "title": "coder",
+        "url": "https://github.com/coder/coder",
+        "source": "GitHub",
+        "desc": "Secure environments for developers and their agents"
+      },
+      {
+        "num": 9,
+        "title": "Canonical announces Zephyr 26.04 LTS",
+        "url": "https://canonical.com/blog/zephyr-lts-announcement",
+        "source": "Lobsters",
+        "desc": "Canonical 发布 Zephyr 长期支持版本"
+      },
+      {
+        "num": 10,
+        "title": "Software sandboxing: The basics (2025)",
+        "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+        "source": "Lobsters",
+        "desc": "软件沙箱基础科普"
+      },
+      {
+        "num": 11,
+        "title": "以人为本还是脱离实际？GNOME 桌面环境的演进及争议",
+        "url": "https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de",
+        "source": "少数派",
+        "desc": "探讨 GNOME 桌面设计的哲学与争议"
+      },
+      {
+        "num": 12,
+        "title": "一台主机，多重角色：新款 Mac mini 首发体验",
+        "url": "https://sspai.com/post/114829",
+        "source": "少数派",
+        "desc": "waychane 对新款 Mac mini 的深度评测"
+      },
+      {
+        "num": 13,
+        "title": "体验过华为 Pura X View 后，他们最想留下的「阔体验」是……",
+        "url": "https://sspai.com/post/114734",
+        "source": "少数派",
+        "desc": "华为 Pura X View 的用户体验反馈"
+      },
+      {
+        "num": 14,
+        "title": "Self-Hosting Behind CGNAT",
+        "url": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
+        "source": "Lobsters",
+        "desc": "如何在 CGNAT 环境下进行自建服务"
+      },
+      {
+        "num": 15,
+        "title": "An actively maintained and updated Motif fork actually exists",
+        "url": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
+        "source": "Lobsters",
+        "desc": "Motif 图形界面的活跃分支项目"
+      },
+      {
+        "num": 16,
+        "title": "Tim Cook 掌舵十五年：哪些苹果产品真正改变了你的数字生活？",
+        "url": "https://sspai.com/bullet/1788244609",
+        "source": "少数派",
+        "desc": "社区投票回顾苹果改变生活的经典产品"
+      },
+      {
+        "num": 17,
+        "title": "OpenStock",
+        "url": "https://github.com/Open-Dev-Society/OpenStock",
+        "source": "GitHub",
+        "desc": "开源免费的股票追踪与洞察平台"
+      },
+      {
+        "num": 18,
+        "title": "autoclip",
+        "url": "https://github.com/zhouxiaoka/autoclip",
+        "source": "GitHub",
+        "desc": "AI 驱动的视频高光提取与剪辑工具"
+      },
+      {
+        "num": 19,
+        "title": "Do you use :visited on links?",
+        "url": "https://kevquirk.com/do-you-use-visited-on-links",
+        "source": "Lobsters",
+        "desc": "前端无障碍链接样式讨论"
+      },
+      {
+        "num": 20,
+        "title": "Squalk: an old-school forum engine built on Nostr",
+        "url": "https://github.com/dtonon/squalk",
+        "source": "Lobsters",
+        "desc": "基于 Nostr 协议的复古论坛引擎"
+      }
+    ],
+    "stats": {
+      "total_items": 20,
+      "total_categories": 4,
+      "total_sources": 10
+    }
+  }
+}
