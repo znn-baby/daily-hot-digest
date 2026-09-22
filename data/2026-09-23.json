@@ -1,0 +1,864 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "anthropics / financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "stars": "36208",
+      "stars_today": "436 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 2,
+      "title": "agent-substrate / substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "stars": "2853",
+      "stars_today": "301 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 3,
+      "title": "dream-num / univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": "15186",
+      "stars_today": "202 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 4,
+      "title": "davila7 / claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "stars": "31016",
+      "stars_today": "113 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "google / ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "stars": "7285",
+      "stars_today": "2,324 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 6,
+      "title": "mvt-project / mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "stars": "13912",
+      "stars_today": "441 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "superdesigndev / treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "stars": "2101",
+      "stars_today": "197 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "browser-use / video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "stars": "25679",
+      "stars_today": "155 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Looking forward to Git 2.56 - and 3.0",
+      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+      "source_url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+      "tags": [
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "dimonomid"
+    },
+    {
+      "rank": 2,
+      "title": "Fearless SIMD v1.0 is here",
+      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "source_url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "tags": [
+        "release",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "ohrv"
+    },
+    {
+      "rank": 3,
+      "title": "Arguing about arguments",
+      "url": "https://steveklabnik.com/writing/arguing-about-arguments/",
+      "source_url": "https://steveklabnik.com/writing/arguing-about-arguments/",
+      "tags": [
+        "programming",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "abhin4v"
+    },
+    {
+      "rank": 4,
+      "title": "Self-Hosting Behind CGNAT",
+      "url": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
+      "source_url": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
+      "tags": [
+        "linux",
+        "networking"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "dalvrosa"
+    },
+    {
+      "rank": 5,
+      "title": "Named and Optional Arguments are Awesome",
+      "url": "https://botahamec.dev/named-optional-args",
+      "source_url": "https://botahamec.dev/named-optional-args",
+      "tags": [
+        "plt",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jado"
+    },
+    {
+      "rank": 6,
+      "title": "rift - a tiling window manager for macos",
+      "url": "https://github.com/acsandmann/rift/",
+      "source_url": "https://github.com/acsandmann/rift/",
+      "tags": [
+        "mac",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "atticus"
+    },
+    {
+      "rank": 7,
+      "title": "Design your programming languages right (2024)",
+      "url": "https://blog.veritates.love/design-it-right",
+      "source_url": "https://blog.veritates.love/design-it-right",
+      "tags": [
+        "plt"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "abhin4v"
+    },
+    {
+      "rank": 8,
+      "title": "Why 0xCAFEBABE?",
+      "url": "https://www.artima.com/insidejvm/whyCAFEBABE.html",
+      "source_url": "https://www.artima.com/insidejvm/whyCAFEBABE.html",
+      "tags": [
+        "historical",
+        "java"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "connorboyle"
+    },
+    {
+      "rank": 9,
+      "title": "EvilVM: Forth shellcode",
+      "url": "https://web.archive.org/web/20250418124519/http://evilvm.ninja/",
+      "source_url": "https://web.archive.org/web/20250418124519/http://evilvm.ninja/",
+      "tags": [
+        "concatenative",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "vinipsmaker"
+    },
+    {
+      "rank": 10,
+      "title": "AI Has No Wisdom and Neither Will You",
+      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+      "source_url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+      "tags": [
+        "rant",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "cgrinds"
+    },
+    {
+      "rank": 11,
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "source_url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "tags": [
+        "historical"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "j11g"
+    },
+    {
+      "rank": 12,
+      "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
+      "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
+      "source_url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "op"
+    },
+    {
+      "rank": 13,
+      "title": "Plain-text files are at risk",
+      "url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
+      "source_url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
+      "tags": [
+        "editors"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "awal"
+    },
+    {
+      "rank": 14,
+      "title": "Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?",
+      "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+      "source_url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "ahelwer"
+    },
+    {
+      "rank": 15,
+      "title": "Ju! Ju! Tsu",
+      "url": "https://arialdo.codeberg.page/ju-ju-tsu/",
+      "source_url": "https://arialdo.codeberg.page/ju-ju-tsu/",
+      "tags": [
+        "book",
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "ehamberg"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验waychane昨天 22:00",
+      "url": "https://sspai.com/post/114878",
+      "author": "waychane",
+      "summary": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验"
+    },
+    {
+      "rank": 2,
+      "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？随便好啦昨天 16:11Matrix精选",
+      "url": "https://sspai.com/post/114551",
+      "author": "随便好啦",
+      "summary": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？"
+    },
+    {
+      "rank": 3,
+      "title": "App+1 | Coast：用十年经验，给记账这件事一个「终点」thisLeon昨天 14:39",
+      "url": "https://sspai.com/post/114479",
+      "author": "thisLeon",
+      "summary": "App+1 | Coast：用十年经验，给记账这件事一个「终点」"
+    },
+    {
+      "rank": 4,
+      "title": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm什么陈昨天 10:44",
+      "url": "https://sspai.com/post/114823",
+      "author": "什么陈",
+      "summary": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm"
+    },
+    {
+      "rank": 5,
+      "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等少数派编辑部昨天 08:09派早报",
+      "url": "https://sspai.com/post/114840",
+      "author": "少数派编辑部",
+      "summary": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等"
+    },
+    {
+      "rank": 6,
+      "title": "一台主机，多重角色：新款 Mac mini 首发体验waychane前天 21:02",
+      "url": "https://sspai.com/post/114829",
+      "author": "waychane",
+      "summary": "一台主机，多重角色：新款 Mac mini 首发体验"
+    },
+    {
+      "rank": 7,
+      "title": "快速投票：换机只选 512GB 起步？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1789222518",
+      "author": "一派投票",
+      "summary": "快速投票：换机只选 512GB 起步？"
+    },
+    {
+      "rank": 8,
+      "title": "派评 | 近期值得关注的 App少数派编辑部前天 17:57",
+      "url": "https://sspai.com/post/114815",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 9,
+      "title": "以人为本还是脱离实际？GNOME 桌面环境的演进及争议Cheech前天 17:02会员内容",
+      "url": "https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de",
+      "author": "Cheech",
+      "summary": "以人为本还是脱离实际？GNOME 桌面环境的演进及争议"
+    },
+    {
+      "rank": 10,
+      "title": "体验过华为 Pura X View 后，他们最想留下的「阔体验」是……少数派编辑部前天 13:26",
+      "url": "https://sspai.com/post/114734",
+      "author": "少数派编辑部",
+      "summary": "体验过华为 Pura X View 后，他们最想留下的「阔体验」是……"
+    },
+    {
+      "rank": 11,
+      "title": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？shiquda前天 11:38Matrix精选",
+      "url": "https://sspai.com/post/114519",
+      "author": "shiquda",
+      "summary": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "王楚钦谈林诗栋不敌16岁小将",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%B0%88%E6%9E%97%E8%AF%97%E6%A0%8B%E4%B8%8D%E6%95%8C16%E5%B2%81%E5%B0%8F%E5%B0%86",
+      "hot_value": 740000
+    },
+    {
+      "rank": 2,
+      "title": "高质量发展中国行",
+      "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E8%A1%8C",
+      "hot_value": 560000
+    },
+    {
+      "rank": 3,
+      "title": "12万级激光雷达新N7上市",
+      "url": "https://s.weibo.com/weibo?q=12%E4%B8%87%E7%BA%A7%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E6%96%B0N7%E4%B8%8A%E5%B8%82",
+      "hot_value": 410000
+    },
+    {
+      "rank": 4,
+      "title": "让15岁女儿5楼扔快递致坠亡谁担责",
+      "url": "https://s.weibo.com/weibo?q=%E8%AE%A915%E5%B2%81%E5%A5%B3%E5%84%BF5%E6%A5%BC%E6%89%94%E5%BF%AB%E9%80%92%E8%87%B4%E5%9D%A0%E4%BA%A1%E8%B0%81%E6%8B%85%E8%B4%A3",
+      "hot_value": 410000
+    },
+    {
+      "rank": 5,
+      "title": "汪顺400混的含金量",
+      "url": "https://s.weibo.com/weibo?q=%E6%B1%AA%E9%A1%BA400%E6%B7%B7%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F",
+      "hot_value": 380000
+    },
+    {
+      "rank": 6,
+      "title": "多方回应老人5次打120未接通后身亡",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E8%80%81%E4%BA%BA5%E6%AC%A1%E6%89%93120%E6%9C%AA%E6%8E%A5%E9%80%9A%E5%90%8E%E8%BA%AB%E4%BA%A1",
+      "hot_value": 330000
+    },
+    {
+      "rank": 7,
+      "title": "吉利AI智充",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%89%E5%88%A9AI%E6%99%BA%E5%85%85",
+      "hot_value": 330000
+    },
+    {
+      "rank": 8,
+      "title": "喜人奇妙夜",
+      "url": "https://s.weibo.com/weibo?q=%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C",
+      "hot_value": 290000
+    },
+    {
+      "rank": 9,
+      "title": "5岁男童溺亡案涉事少年全家搬走",
+      "url": "https://s.weibo.com/weibo?q=5%E5%B2%81%E7%94%B7%E7%AB%A5%E6%BA%BA%E4%BA%A1%E6%A1%88%E6%B6%89%E4%BA%8B%E5%B0%91%E5%B9%B4%E5%85%A8%E5%AE%B6%E6%90%AC%E8%B5%B0",
+      "hot_value": 240000
+    },
+    {
+      "rank": 10,
+      "title": "黄子弘凡 声幻奇境音乐节",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1+%E5%A3%B0%E5%B9%BB%E5%A5%87%E5%A2%83%E9%9F%B3%E4%B9%90%E8%8A%82",
+      "hot_value": 240000
+    },
+    {
+      "rank": 11,
+      "title": "动力电池新国标下的安全硬仗",
+      "url": "https://s.weibo.com/weibo?q=%E5%8A%A8%E5%8A%9B%E7%94%B5%E6%B1%A0%E6%96%B0%E5%9B%BD%E6%A0%87%E4%B8%8B%E7%9A%84%E5%AE%89%E5%85%A8%E7%A1%AC%E4%BB%97",
+      "hot_value": 240000
+    },
+    {
+      "rank": 12,
+      "title": "杨幂回复李现",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%9B%9E%E5%A4%8D%E6%9D%8E%E7%8E%B0",
+      "hot_value": 240000
+    },
+    {
+      "rank": 13,
+      "title": "张家齐妈妈拒绝返还存款涉嫌违法",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E6%8B%92%E7%BB%9D%E8%BF%94%E8%BF%98%E5%AD%98%E6%AC%BE%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95",
+      "hot_value": 240000
+    },
+    {
+      "rank": 14,
+      "title": "迪丽热巴男粉握手后捂脸跑下台",
+      "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%94%B7%E7%B2%89%E6%8F%A1%E6%89%8B%E5%90%8E%E6%8D%82%E8%84%B8%E8%B7%91%E4%B8%8B%E5%8F%B0",
+      "hot_value": 240000
+    },
+    {
+      "rank": 15,
+      "title": "王玉雯化的这个妆据说要好几万",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%8C%96%E7%9A%84%E8%BF%99%E4%B8%AA%E5%A6%86%E6%8D%AE%E8%AF%B4%E8%A6%81%E5%A5%BD%E5%87%A0%E4%B8%87",
+      "hot_value": 240000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "一家三口打赏 650 万赖到女儿身上，要求以未成年人身份退款，真相是如何找到的？反映出家庭教育哪些问题",
+      "url": "https://www.zhihu.com/question/2083594981109753152",
+      "hot_value": 2140000
+    },
+    {
+      "rank": 2,
+      "title": "美心低至六七折、 29.9 元礼盒爆卖 200 万件，月饼告别「礼赠时代」了吗？反映出怎样的消费趋势",
+      "url": "https://www.zhihu.com/question/2085661029837403728",
+      "hot_value": 1960000
+    },
+    {
+      "rank": 3,
+      "title": "G 胖认为，开发者最大的错误之一就是把玩家自己琢磨出来的轮椅套路当成作弊一刀砍掉，你同意他的看法吗",
+      "url": "https://www.zhihu.com/question/2085679798857240709",
+      "hot_value": 1830000
+    },
+    {
+      "rank": 4,
+      "title": "你有哪些坚持了三年以上并且对你人生带来巨大改变的习惯",
+      "url": "https://www.zhihu.com/question/12309749456",
+      "hot_value": 1410000
+    },
+    {
+      "rank": 5,
+      "title": "假如 IG 获得 S16 赛季的总冠军,LoL 能继续盘活么",
+      "url": "https://www.zhihu.com/question/2080968346842014502",
+      "hot_value": 960000
+    },
+    {
+      "rank": 6,
+      "title": "如何看待钟薛高创始人力挺西贝，说西贝要是倒了，是中国餐饮行业的倒退？你认同这一评价吗",
+      "url": "https://www.zhihu.com/question/2085765432636602143",
+      "hot_value": 960000
+    },
+    {
+      "rank": 7,
+      "title": "钟南山团队发现 73% 的肺癌病例来自非高危人群，为啥非高危人群占多数？传统肺癌筛查标准需要调整吗",
+      "url": "https://www.zhihu.com/question/2085353756057678482",
+      "hot_value": 960000
+    },
+    {
+      "rank": 8,
+      "title": "父亲照顾五保户大爷爷 10 年，父亲意外去世后，叔叔要求我们 「 对账补齐 」，该怎么处理",
+      "url": "https://www.zhihu.com/question/2083123476710347831",
+      "hot_value": 960000
+    },
+    {
+      "rank": 9,
+      "title": "你做过的哪一件非常随机的事情给你带来了意想不到的惊喜",
+      "url": "https://www.zhihu.com/question/2053824429436711157",
+      "hot_value": 760000
+    },
+    {
+      "rank": 10,
+      "title": "在 AI 盛行的时代，大学生到底要学什么才不会被淘汰",
+      "url": "https://www.zhihu.com/question/2076658003068052960",
+      "hot_value": 760000
+    },
+    {
+      "rank": 11,
+      "title": "为了省钱你做过最「抠」的一件事是什么",
+      "url": "https://www.zhihu.com/question/2085087048596021643",
+      "hot_value": 710000
+    },
+    {
+      "rank": 12,
+      "title": "什么美食是带有故事的，让你久久不忘呢",
+      "url": "https://www.zhihu.com/question/7477849494",
+      "hot_value": 700000
+    },
+    {
+      "rank": 13,
+      "title": "孩子犯错，爸爸在教育奶奶却护着。该怎么办",
+      "url": "https://www.zhihu.com/question/2071129956764082494",
+      "hot_value": 690000
+    },
+    {
+      "rank": 14,
+      "title": "‌NPD 最明显的特征有哪些呢",
+      "url": "https://www.zhihu.com/question/9975247396",
+      "hot_value": 680000
+    },
+    {
+      "rank": 15,
+      "title": "曝一患者闯产科门诊向医生扔粪便，这是真的吗？网传该患者在此院分娩后出现阴道瘘并会阴裂伤，这有多严重",
+      "url": "https://www.zhihu.com/question/2085119521132474406",
+      "hot_value": 670000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "score": 374,
+      "author": "km144",
+      "comments": 449,
+      "hn_url": "https://news.ycombinator.com/item?id=49803892"
+    },
+    {
+      "rank": 2,
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "score": 365,
+      "author": "sohkamyung",
+      "comments": 289,
+      "hn_url": "https://news.ycombinator.com/item?id=49801324"
+    },
+    {
+      "rank": 3,
+      "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
+      "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
+      "score": 58,
+      "author": "Cider9986",
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=49804683"
+    },
+    {
+      "rank": 4,
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "score": 56,
+      "author": "theanonymousone",
+      "comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=49804316"
+    },
+    {
+      "rank": 5,
+      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+      "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+      "score": 43,
+      "author": "vntok",
+      "comments": 17,
+      "hn_url": "https://news.ycombinator.com/item?id=49803959"
+    },
+    {
+      "rank": 6,
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "score": 162,
+      "author": "JohnBerryman",
+      "comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=49802161"
+    },
+    {
+      "rank": 7,
+      "title": "16-bit Intel 8088 chip",
+      "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
+      "score": 54,
+      "author": "rbanffy",
+      "comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=49803635"
+    },
+    {
+      "rank": 8,
+      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "url": "https://www.coveragecat.com/",
+      "score": 10,
+      "author": "botacode",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49804931"
+    },
+    {
+      "rank": 9,
+      "title": "Writing Rust code that's fast by asking agents to make the code faster",
+      "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+      "score": 53,
+      "author": "mooreds",
+      "comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=49803085"
+    },
+    {
+      "rank": 10,
+      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+      "score": 386,
+      "author": "MC995",
+      "comments": 288,
+      "hn_url": "https://news.ycombinator.com/item?id=49801939"
+    },
+    {
+      "rank": 11,
+      "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
+      "url": "https://droprun.sh/",
+      "score": 109,
+      "author": "mixedbit",
+      "comments": 37,
+      "hn_url": "https://news.ycombinator.com/item?id=49801329"
+    },
+    {
+      "rank": 12,
+      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "url": "https://ai-rete-rag.com/",
+      "score": 15,
+      "author": "ZaharaHussain",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49803683"
+    },
+    {
+      "rank": 13,
+      "title": "Solitaire Alone Together",
+      "url": "https://solitairealonetogether.com/",
+      "score": 71,
+      "author": "eieio",
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49794193"
+    },
+    {
+      "rank": 14,
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "score": 334,
+      "author": "networked",
+      "comments": 127,
+      "hn_url": "https://news.ycombinator.com/item?id=49797323"
+    },
+    {
+      "rank": 15,
+      "title": "AMD's random number generator can't generate a 0?",
+      "url": "https://board.flatassembler.net/topic.php?t=24261",
+      "score": 205,
+      "author": "BruceEel",
+      "comments": 154,
+      "hn_url": "https://news.ycombinator.com/item?id=49798204"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与编程辅助",
+        "color": "ai",
+        "summary": "今天 GitHub 上的 AI Agent 相关项目又炸了。anthropics/financial-services[1] 展示了 Agent 在金融领域的深度应用，而 agent-substrate/substrate[2] 和 google/ax[3] 则分别代表了开源智能体底层系统和谷歌的编排运行时，给想深入搞 Agent 开发的朋友提供了很好的参考。davila7/claude-code-templates[4] 是个实用小工具，专门用来配置和监控 Claude Code，CLI 党应该会很喜欢。\n\nLobsters 上有个帖子挺有意思，AI Has No Wisdom and Neither Will You[5]，作者对现在流行的'vibecoding'和 AI 执行力提出了尖锐质疑，觉得 AI 只有算力没有智慧，这观点在开发者圈里引发了不少共鸣。少数派的文章当 AI 让执行力变得廉价，我们该拿什么脱颖而出？[6] 也探讨了类似话题，文章从职场角度分析了 AI 普及后的生存法则，读起来让人有点焦虑但也很有启发。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层的动静也不小。Google 开源了 agentic orchestration runtime[3]，这对系统架构师来说是个重磅消息。同时，Fearless SIMD v1.0[7] 正式发布，Rust 生态在性能优化上又迈了一步，搞高性能计算的朋友值得跟进。另外，rift[8] 这个 macOS 平铺窗口管理器用 Rust 写成，界面清爽，对于讨厌原生窗口管理的 Mac 用户来说是个新选择。\n\n社区讨论区里，Self-Hosting Behind CGNAT[9] 这篇帖子解决了很多人想自己搭建服务却被运营商 CGNAT 挡住的痛点，技术细节讲得很透。还有 Plain-text files are at risk[10]，提醒我们即使是最简单的文本文件也面临被篡改的风险，安全意识确实要时刻紧绷。"
+      },
+      {
+        "name": "效率工具与开发体验",
+        "color": "tool",
+        "summary": "提升开发效率的工具层出不穷。dream-num/univer[11] 号称是 AI 智能体的 Office 收纳盒，把表格、文档、幻灯片都整合到一个运行时里，这个想法挺野的，不知道实际用起来是不是真能打通所有格式。browser-use/video-use[12] 则直接让代码智能体去剪辑视频，感觉以后视频内容生产会变得更自动化。\n\nLobsters 上关于设计编程语言的文章 Design your programming languages right (2024)[13] 和 Why 0xCAFEBABE?[14] 虽然偏理论，但能看出社区对语言底层逻辑和历史趣闻的浓厚兴趣。Arguing about arguments[15] 讨论 Rust 命名和可选参数，这种语言细节的争论永远能点燃 Rust 社区的激情。"
+      },
+      {
+        "name": "数码产品与硬件",
+        "color": "hw",
+        "summary": "数码圈今天动静不少。少数派首发体验了 Beats 360 头戴式耳机[16]，主打可定制功能，听起来很适合喜欢折腾的玩家。怀旧手记里提到的 25 年前笔记本如何兼顾轻薄与性能[17]，读起来让人想起当年的硬件设计有多考究，现在好像很难做到了。\n\n另外，Raspberry Pi 锁死 Pi 5 的内存升级[18] 这条新闻让很多树莓派玩家有点失望，看来厂商在硬件迭代上越来越保守。Mac mini 新款首发体验[19] 和 vivo X500 系列发布[20] 则是常规的大厂新品动态，关注硬件的朋友可以留意一下具体的评测细节。"
+      },
+      {
+        "name": "安全与隐私",
+        "color": "sec",
+        "summary": "安全领域的新工具值得关注。mvt[21] 这个移动设备取证工具，专门用来查找设备是否被入侵，在灰产调查或企业安全审计中应该很有用。虽然 GitHub 上没有特别火的安全项目，但 Lobsters 上有个 EvilVM: Forth shellcode[22] 有点意思，虽然名字听着吓人，但主要是研究用途，搞安全的朋友可以去了解一下。\n\n少数派文章里提到 App+1 | Coast：用十年经验，给记账这件事一个「终点」[23]，虽然属于应用层，但也侧面反映了用户对财务安全和个人数据管理的需求。整体来看，无论是工具还是观点，大家对隐私和安全的关注度都在提升。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "financial-services",
+        "url": "https://github.com/anthropics/financial-services",
+        "source": "GitHub",
+        "desc": "Anthropic 开源的金融服务智能体项目"
+      },
+      {
+        "num": 2,
+        "title": "substrate",
+        "url": "https://github.com/agent-substrate/substrate",
+        "source": "GitHub",
+        "desc": "Agent Substrate 核心系统"
+      },
+      {
+        "num": 3,
+        "title": "ax",
+        "url": "https://github.com/google/ax",
+        "source": "GitHub",
+        "desc": "谷歌开源的智能体编排运行时"
+      },
+      {
+        "num": 4,
+        "title": "claude-code-templates",
+        "url": "https://github.com/davila7/claude-code-templates",
+        "source": "GitHub",
+        "desc": "用于配置和监控 Claude Code 的 CLI 工具"
+      },
+      {
+        "num": 5,
+        "title": "AI Has No Wisdom and Neither Will You",
+        "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+        "source": "Lobsters",
+        "desc": "讨论 AI 缺乏智慧及 Vibecoding 现象的帖子"
+      },
+      {
+        "num": 6,
+        "title": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？",
+        "url": "https://sspai.com/post/114519",
+        "source": "少数派",
+        "desc": "关于 AI 普及后职场竞争力的文章"
+      },
+      {
+        "num": 7,
+        "title": "Fearless SIMD v1.0 is here",
+        "url": "https://linebender.org/blog/fearless-simd-1-0/",
+        "source": "Lobsters",
+        "desc": "Rust 高性能 SIMD 库版本发布"
+      },
+      {
+        "num": 8,
+        "title": "rift - a tiling window manager for macos",
+        "url": "https://github.com/acsandmann/rift/",
+        "source": "Lobsters",
+        "desc": "基于 Rust 的 macOS 平铺窗口管理器"
+      },
+      {
+        "num": 9,
+        "title": "Self-Hosting Behind CGNAT",
+        "url": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
+        "source": "Lobsters",
+        "desc": "关于在 CGNAT 环境下自建服务的讨论"
+      },
+      {
+        "num": 10,
+        "title": "Plain-text files are at risk",
+        "url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
+        "source": "Lobsters",
+        "desc": "关于纯文本文件面临风险的讨论"
+      },
+      {
+        "num": 11,
+        "title": "univer",
+        "url": "https://github.com/dream-num/univer",
+        "source": "GitHub",
+        "desc": "AI 智能体办公套件，支持多种文档格式"
+      },
+      {
+        "num": 12,
+        "title": "video-use",
+        "url": "https://github.com/browser-use/video-use",
+        "source": "GitHub",
+        "desc": "使用代码智能体编辑视频的项目"
+      },
+      {
+        "num": 13,
+        "title": "Design your programming languages right (2024)",
+        "url": "https://blog.veritates.love/design-it-right",
+        "source": "Lobsters",
+        "desc": "关于如何正确设计编程语言的讨论"
+      },
+      {
+        "num": 14,
+        "title": "Why 0xCAFEBABE?",
+        "url": "https://www.artima.com/insidejvm/whyCAFEBABE.html",
+        "source": "Lobsters",
+        "desc": "探讨 Java 文件头魔术数字的历史趣闻"
+      },
+      {
+        "num": 15,
+        "title": "Arguing about arguments",
+        "url": "https://steveklabnik.com/writing/arguing-about-arguments/",
+        "source": "Lobsters",
+        "desc": "关于 Rust 命名和可选参数的技术讨论"
+      },
+      {
+        "num": 16,
+        "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
+        "url": "https://sspai.com/post/114878",
+        "source": "少数派",
+        "desc": "Beats 360 耳机首发评测"
+      },
+      {
+        "num": 17,
+        "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
+        "url": "https://sspai.com/post/114551",
+        "source": "少数派",
+        "desc": "回顾 25 年前经典笔记本的硬件设计"
+      },
+      {
+        "num": 18,
+        "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
+        "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
+        "source": "Lobsters",
+        "desc": "树莓派固件锁死内存升级的新闻"
+      },
+      {
+        "num": 19,
+        "title": "一台主机，多重角色：新款 Mac mini 首发体验",
+        "url": "https://sspai.com/post/114829",
+        "source": "少数派",
+        "desc": "新款 Mac mini 开箱体验"
+      },
+      {
+        "num": 20,
+        "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等",
+        "url": "https://sspai.com/post/114840",
+        "source": "少数派",
+        "desc": "包含 vivo X500 和 Googlebook 的早报汇总"
+      },
+      {
+        "num": 21,
+        "title": "mvt",
+        "url": "https://github.com/mvt-project/mvt",
+        "source": "GitHub",
+        "desc": "Mobile Verification Toolkit，用于移动设备取证"
+      },
+      {
+        "num": 22,
+        "title": "EvilVM: Forth shellcode",
+        "url": "https://web.archive.org/web/20250418124519/http://evilvm.ninja/",
+        "source": "Lobsters",
+        "desc": "关于 Forth Shellcode 的研究项目"
+      },
+      {
+        "num": 23,
+        "title": "App+1 | Coast：用十年经验，给记账这件事一个「终点」",
+        "url": "https://sspai.com/post/114479",
+        "source": "少数派",
+        "desc": "评测 Coast 记账应用的文章"
+      }
+    ],
+    "stats": {
+      "total_items": 23,
+      "total_categories": 5,
+      "total_sources": 23
+    }
+  }
+}
