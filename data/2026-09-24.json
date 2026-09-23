@@ -1,0 +1,937 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "anthropics / financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "stars": "36841",
+      "stars_today": "665 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 2,
+      "title": "google / ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "stars": "8781",
+      "stars_today": "1,542 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 3,
+      "title": "davila7 / claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "stars": "31417",
+      "stars_today": "393 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "BuilderIO / agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "stars": "6462",
+      "stars_today": "135 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 5,
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": "290578",
+      "stars_today": "485 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 6,
+      "title": "dream-num / univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": "16205",
+      "stars_today": "1,140 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 7,
+      "title": "Open-Dev-Society / OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "stars": "18696",
+      "stars_today": "379 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 8,
+      "title": "agent-substrate / substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "stars": "3384",
+      "stars_today": "560 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 9,
+      "title": "strands-agents / harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "stars": "7752",
+      "stars_today": "96 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 10,
+      "title": "HKUDS / CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "stars": "49834",
+      "stars_today": "41 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 11,
+      "title": "superdesigndev / treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "stars": "2600",
+      "stars_today": "502 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 12,
+      "title": "pbakaus / impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": "70221",
+      "stars_today": "287 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 13,
+      "title": "mvt-project / mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "stars": "14407",
+      "stars_today": "546 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 14,
+      "title": "DeusData / codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "stars": "44440",
+      "stars_today": "266 stars today",
+      "language": "C"
+    },
+    {
+      "rank": 15,
+      "title": "harry7557558 / spirula-studio",
+      "url": "https://github.com/harry7557558/spirula-studio",
+      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "stars": "689",
+      "stars_today": "99 stars today",
+      "language": "C++"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
+      "source_url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
+      "tags": [
+        "distributed",
+        "security",
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "tuxes"
+    },
+    {
+      "rank": 2,
+      "title": "The GNOME LLM Policy That I Want",
+      "url": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
+      "source_url": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
+      "tags": [
+        "linux",
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "joshsharp"
+    },
+    {
+      "rank": 3,
+      "title": "I want my mesh networks to be signed, not encrypted",
+      "url": "https://andanti.no/blog/SignedMesh.html",
+      "source_url": "https://andanti.no/blog/SignedMesh.html",
+      "tags": [
+        "cryptography",
+        "networking"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "JulianSildenLanglo"
+    },
+    {
+      "rank": 4,
+      "title": "Abandoning Scientific Linux Was a Mistake",
+      "url": "https://blog.melashri.net/posts/scientific-linux-mistake/",
+      "source_url": "https://blog.melashri.net/posts/scientific-linux-mistake/",
+      "tags": [
+        "linux",
+        "practices",
+        "science"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "rau"
+    },
+    {
+      "rank": 5,
+      "title": "No Sloptober",
+      "url": "https://no-sloptober.com/",
+      "source_url": "https://no-sloptober.com/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jeremiahlee"
+    },
+    {
+      "rank": 6,
+      "title": "KDE for People",
+      "url": "https://kdeforpeople.com",
+      "source_url": "https://kdeforpeople.com",
+      "tags": [
+        "culture"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "stilic"
+    },
+    {
+      "rank": 7,
+      "title": "Plain-text files are at risk",
+      "url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
+      "source_url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
+      "tags": [
+        "editors",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "awal"
+    },
+    {
+      "rank": 8,
+      "title": "Cheaper LLM labelling",
+      "url": "https://entropicthoughts.com/cheaper-llm-labeling",
+      "source_url": "https://entropicthoughts.com/cheaper-llm-labeling",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "kqr"
+    },
+    {
+      "rank": 9,
+      "title": "That About Wraps It Up for Stock Mac UI",
+      "url": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
+      "source_url": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
+      "tags": [
+        "design",
+        "mac"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "ehamberg"
+    },
+    {
+      "rank": 10,
+      "title": "The Zig Journey",
+      "url": "https://kristoff.it/blog/the-zig-journey/",
+      "source_url": "https://kristoff.it/blog/the-zig-journey/",
+      "tags": [
+        "culture",
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "xq"
+    },
+    {
+      "rank": 11,
+      "title": "The GitHub wiki is an anti-pattern",
+      "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+      "source_url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+      "tags": [
+        "culture"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "juliethefoxcoon"
+    },
+    {
+      "rank": 12,
+      "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+      "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+      "source_url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "chobeat"
+    },
+    {
+      "rank": 13,
+      "title": "Do not let your type system reason about aliasing in your programming language",
+      "url": "https://futhark-lang.org/blog/2026-09-22-aliasing.html",
+      "source_url": "https://futhark-lang.org/blog/2026-09-22-aliasing.html",
+      "tags": [
+        "plt"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "fanf"
+    },
+    {
+      "rank": 14,
+      "title": "SAML: A fractal of bad design",
+      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "source_url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "tags": [
+        "rant",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "fanf"
+    },
+    {
+      "rank": 15,
+      "title": "Why didn't anybody tell me about Redis hash slots?",
+      "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/",
+      "source_url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/",
+      "tags": [
+        "performance",
+        "scaling"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "verygoodsoftwarenotvirus"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品Matrix机器人昨天 17:02",
+      "url": "https://sspai.com/post/114904",
+      "author": "Matrix机器人",
+      "summary": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品"
+    },
+    {
+      "rank": 2,
+      "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性少数派编辑部昨天 15:30",
+      "url": "https://sspai.com/post/114901",
+      "author": "少数派编辑部",
+      "summary": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性"
+    },
+    {
+      "rank": 3,
+      "title": "Here Wallpaper：把喜欢的地图做成壁纸sha2kyou昨天 10:19Matrix精选",
+      "url": "https://sspai.com/post/114211",
+      "author": "sha2kyou",
+      "summary": "Here Wallpaper：把喜欢的地图做成壁纸"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等少数派编辑部昨天 07:30派早报",
+      "url": "https://sspai.com/post/114889",
+      "author": "少数派编辑部",
+      "summary": "派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等"
+    },
+    {
+      "rank": 5,
+      "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验waychane前天 22:00",
+      "url": "https://sspai.com/post/114878",
+      "author": "waychane",
+      "summary": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验"
+    },
+    {
+      "rank": 6,
+      "title": "九月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1790062689",
+      "author": "一派讨论",
+      "summary": "九月买了什么好东西？"
+    },
+    {
+      "rank": 7,
+      "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？随便好啦前天 16:11Matrix精选",
+      "url": "https://sspai.com/post/114551",
+      "author": "随便好啦",
+      "summary": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？"
+    },
+    {
+      "rank": 8,
+      "title": "Coast：用十年经验，给记账这件事一个「终点」thisLeon前天 14:39",
+      "url": "https://sspai.com/post/114479",
+      "author": "thisLeon",
+      "summary": "Coast：用十年经验，给记账这件事一个「终点」"
+    },
+    {
+      "rank": 9,
+      "title": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm什么陈前天 10:44",
+      "url": "https://sspai.com/post/114823",
+      "author": "什么陈",
+      "summary": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm"
+    },
+    {
+      "rank": 10,
+      "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等少数派编辑部前天 08:09派早报",
+      "url": "https://sspai.com/post/114840",
+      "author": "少数派编辑部",
+      "summary": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等"
+    },
+    {
+      "rank": 11,
+      "title": "快速投票：换机只选 512GB 起步？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1789222518",
+      "author": "一派投票",
+      "summary": "快速投票：换机只选 512GB 起步？"
+    },
+    {
+      "rank": 12,
+      "title": "一台主机，多重角色：新款 Mac mini 首发体验waychane09/21",
+      "url": "https://sspai.com/post/114829",
+      "author": "waychane",
+      "summary": "一台主机，多重角色：新款 Mac mini 首发体验"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "日本男团3比0晋级决赛",
+      "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%94%B7%E5%9B%A23%E6%AF%940%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B",
+      "hot_value": 1010000
+    },
+    {
+      "rank": 2,
+      "title": "中国教育普及程度居世界前列",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2%E6%99%AE%E5%8F%8A%E7%A8%8B%E5%BA%A6%E5%B1%85%E4%B8%96%E7%95%8C%E5%89%8D%E5%88%97",
+      "hot_value": 1000000
+    },
+    {
+      "rank": 3,
+      "title": "长安启源Q06上市13.59万起价值拉满",
+      "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E5%AE%89%E5%90%AF%E6%BA%90Q06%E4%B8%8A%E5%B8%8213.59%E4%B8%87%E8%B5%B7%E4%BB%B7%E5%80%BC%E6%8B%89%E6%BB%A1",
+      "hot_value": 980000
+    },
+    {
+      "rank": 4,
+      "title": "小米手环11",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%89%8B%E7%8E%AF11",
+      "hot_value": 980000
+    },
+    {
+      "rank": 5,
+      "title": "谭松韵回应兰香大婚扇巴掌",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%9B%9E%E5%BA%94%E5%85%B0%E9%A6%99%E5%A4%A7%E5%A9%9A%E6%89%87%E5%B7%B4%E6%8E%8C",
+      "hot_value": 970000
+    },
+    {
+      "rank": 6,
+      "title": "小米18pro价格",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B318pro%E4%BB%B7%E6%A0%BC",
+      "hot_value": 940000
+    },
+    {
+      "rank": 7,
+      "title": "全新一代智己LS6掀桌价19.79万起",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E6%96%B0%E4%B8%80%E4%BB%A3%E6%99%BA%E5%B7%B1LS6%E6%8E%80%E6%A1%8C%E4%BB%B719.79%E4%B8%87%E8%B5%B7",
+      "hot_value": 930000
+    },
+    {
+      "rank": 8,
+      "title": "国乒将与日本争冠",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E5%B0%86%E4%B8%8E%E6%97%A5%E6%9C%AC%E4%BA%89%E5%86%A0",
+      "hot_value": 930000
+    },
+    {
+      "rank": 9,
+      "title": "亚运会体操女子团体决赛",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%BD%93%E6%93%8D%E5%A5%B3%E5%AD%90%E5%9B%A2%E4%BD%93%E5%86%B3%E8%B5%9B",
+      "hot_value": 900000
+    },
+    {
+      "rank": 10,
+      "title": "兰香如故",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85",
+      "hot_value": 890000
+    },
+    {
+      "rank": 11,
+      "title": "五哈7阵容原班人马",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%94%E5%93%887%E9%98%B5%E5%AE%B9%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC",
+      "hot_value": 880000
+    },
+    {
+      "rank": 12,
+      "title": "杨幂骗了全网",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E9%AA%97%E4%BA%86%E5%85%A8%E7%BD%91",
+      "hot_value": 870000
+    },
+    {
+      "rank": 13,
+      "title": "冯小刚直言对不起投资方",
+      "url": "https://s.weibo.com/weibo?q=%E5%86%AF%E5%B0%8F%E5%88%9A%E7%9B%B4%E8%A8%80%E5%AF%B9%E4%B8%8D%E8%B5%B7%E6%8A%95%E8%B5%84%E6%96%B9",
+      "hot_value": 550000
+    },
+    {
+      "rank": 14,
+      "title": "小米电视",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E7%94%B5%E8%A7%86",
+      "hot_value": 530000
+    },
+    {
+      "rank": 15,
+      "title": "你们仔细看她的手有着地过吗",
+      "url": "https://s.weibo.com/weibo?q=%E4%BD%A0%E4%BB%AC%E4%BB%94%E7%BB%86%E7%9C%8B%E5%A5%B9%E7%9A%84%E6%89%8B%E6%9C%89%E7%9D%80%E5%9C%B0%E8%BF%87%E5%90%97",
+      "hot_value": 530000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "亚运会乒乓球男团半决赛，王楚钦 3-2 险胜林昀儒，怎样评价本场比赛",
+      "url": "https://www.zhihu.com/question/2086178490240295357",
+      "hot_value": 3320000
+    },
+    {
+      "rank": 2,
+      "title": "山上明明没有水库，为什么溪水一年到头流不完",
+      "url": "https://www.zhihu.com/question/2084219216232821034",
+      "hot_value": 2810000
+    },
+    {
+      "rank": 3,
+      "title": "油价将大幅调整，全国 95 号汽油或全面迈入 9 元时代逼近年内最高价，哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2085993053005640545",
+      "hot_value": 2140000
+    },
+    {
+      "rank": 4,
+      "title": "腾讯放弃 AI 元宝全力押注 WorkBuddy，这次战略转型算成功吗",
+      "url": "https://www.zhihu.com/question/2081698141351555724",
+      "hot_value": 1480000
+    },
+    {
+      "rank": 5,
+      "title": "如何看待 iOS 27.2 Beta2 国区新增功能，可限制 App 获取运动传感器数据，或应对摇一摇广告",
+      "url": "https://www.zhihu.com/question/2086058771458142560",
+      "hot_value": 1420000
+    },
+    {
+      "rank": 6,
+      "title": "一个细胞最后能长成完整的人，它怎么知道哪里该是眼睛、哪里该是心脏",
+      "url": "https://www.zhihu.com/question/2085687195243902574",
+      "hot_value": 1340000
+    },
+    {
+      "rank": 7,
+      "title": "沃尔玛中国、山姆中国首席采购官双双换人，美国山姆高管空降执掌山姆采购，这次人事调整释放了哪些战略信号",
+      "url": "https://www.zhihu.com/question/2085738440742670337",
+      "hot_value": 1320000
+    },
+    {
+      "rank": 8,
+      "title": "凤凰传奇的玲花为什么不参加浪姐",
+      "url": "https://www.zhihu.com/question/654416081",
+      "hot_value": 1250000
+    },
+    {
+      "rank": 9,
+      "title": "中国机床出口都超过德国了，东南亚工厂也在换中国设备，那国产机床到底行不行？有没有过来人说说真实体验",
+      "url": "https://www.zhihu.com/question/2070191522474095134",
+      "hot_value": 1170000
+    },
+    {
+      "rank": 10,
+      "title": "高市早苗在联合国大会呼吁删除「敌国条款」，哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2086074591688876992",
+      "hot_value": 1150000
+    },
+    {
+      "rank": 11,
+      "title": "王慧文问「有没有人组局把西贝买下来」，自称喜欢西贝，不在乎是否预制菜，资本入场能帮西贝扭转局势吗",
+      "url": "https://www.zhihu.com/question/2086191598644245011",
+      "hot_value": 1130000
+    },
+    {
+      "rank": 12,
+      "title": "名古屋亚运会蒙古国游泳选手身材臃肿，所以游泳到底能不能减肥",
+      "url": "https://www.zhihu.com/question/2085690077313594488",
+      "hot_value": 1120000
+    },
+    {
+      "rank": 13,
+      "title": "经济学家鞠建东建议「对外发行 10 万亿元人民币国债」，以实现「经济结构性」再平衡，对此你怎么看",
+      "url": "https://www.zhihu.com/question/2084736087918908877",
+      "hot_value": 910000
+    },
+    {
+      "rank": 14,
+      "title": "领导只口头安排工作，不肯留下文字记录，经常临时变卦，这种情况只能硬刚吗",
+      "url": "https://www.zhihu.com/question/2085244511186429653",
+      "hot_value": 900000
+    },
+    {
+      "rank": 15,
+      "title": "西贝员工称因长期被镜头曝光，一线员工承受巨大心理压力甚至离职，持续曝光对普通店员的心理健康影响有多大",
+      "url": "https://www.zhihu.com/question/2085768493086019850",
+      "hot_value": 810000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Fixing the Portobello Police Station Clock",
+      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "score": 225,
+      "author": "avidly",
+      "comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=49817469"
+    },
+    {
+      "rank": 2,
+      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+      "url": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
+      "score": 30,
+      "author": "thm",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49819814"
+    },
+    {
+      "rank": 3,
+      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+      "score": 62,
+      "author": "lostmsu",
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49817524"
+    },
+    {
+      "rank": 4,
+      "title": "Gemini 3.8 text-to-speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "score": 134,
+      "author": "swolpers",
+      "comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=49817615"
+    },
+    {
+      "rank": 5,
+      "title": "Italian parliament votes for return to nuclear energy",
+      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "score": 88,
+      "author": "geox",
+      "comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=49819221"
+    },
+    {
+      "rank": 6,
+      "title": "Jev in 25 Lines of Python",
+      "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+      "score": 522,
+      "author": "bashbjorn",
+      "comments": 160,
+      "hn_url": "https://news.ycombinator.com/item?id=49812769"
+    },
+    {
+      "rank": 7,
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "score": 1684,
+      "author": "OfficialTurkey",
+      "comments": 809,
+      "hn_url": "https://news.ycombinator.com/item?id=49805509"
+    },
+    {
+      "rank": 8,
+      "title": "28% of job postings on company career sites have been open over 90 days",
+      "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
+      "score": 92,
+      "author": "rubatrejo",
+      "comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=49818698"
+    },
+    {
+      "rank": 9,
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "score": 382,
+      "author": "pszypowicz",
+      "comments": 217,
+      "hn_url": "https://news.ycombinator.com/item?id=49814947"
+    },
+    {
+      "rank": 10,
+      "title": "Stripe's Knowledge AI Platform",
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "score": 124,
+      "author": "ltononro",
+      "comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=49815982"
+    },
+    {
+      "rank": 11,
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "score": 1719,
+      "author": "km144",
+      "comments": 1048,
+      "hn_url": "https://news.ycombinator.com/item?id=49803892"
+    },
+    {
+      "rank": 12,
+      "title": "Z80 REPL (2018)",
+      "url": "https://abagames.github.io/z80-repl/index.html",
+      "score": 117,
+      "author": "adunk",
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49814236"
+    },
+    {
+      "rank": 13,
+      "title": "Strands Harness",
+      "url": "https://strandsagents.com/blog/introducing-strands-harness/",
+      "score": 98,
+      "author": "zuckerborg0101",
+      "comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=49817289"
+    },
+    {
+      "rank": 14,
+      "title": "I don't want the details",
+      "url": "https://michaelheap.com/i-dont-want-the-details/",
+      "score": 233,
+      "author": "mooreds",
+      "comments": 142,
+      "hn_url": "https://news.ycombinator.com/item?id=49815466"
+    },
+    {
+      "rank": 15,
+      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+      "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+      "score": 125,
+      "author": "ortusdux",
+      "comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=49816374"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI/智能体",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。anthropics/financial-services[1] 用 AI 做实时全球情报监控与金融追踪，虽然 star 数还没到十万，但作为一个垂直领域的专用 Agent 框架，关注度很高。google/ax[2] 作为 Google 推出的开源代理编排运行时，主打一个“官方出品”的稳定性，想搞企业级多智能体协作的必看。davila7/claude-code-templates[3] 是个 CLI 工具，专门用来配置和监控 Claude Code，对于日常使用 Claude 写代码的朋友来说，能省下不少手动配置的麻烦。\n\nLobsters 上大家聊得挺嗨，尤其是 \"How to talk about 'AI' without adding to the anthropomorphization\"[4] 这条，作者 Maiht3k 提出了一种新的沟通方式，试图在描述 AI 时剥离掉那些拟人化的包装，还原它作为工具的冷酷本质。这观点挺犀利，现在的开发者是不是太习惯把模型当人看了？还有 \"I want my mesh networks to be signed, not encrypted\"[5]，讨论加密与签名的哲学，虽然和 AI 直接关系不大，但反映了社区对底层信任机制的焦虑。\n\n少数派这边有一篇 \"具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性\"[6]，虽然主要讲苹果生态，但其中提到的空间计算与 AI 结合的趋势，其实就是 AI Agent 在物理世界的延伸。搞空间计算的朋友值得关注一下 visionOS 27 对智能体的支持情况。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "system",
+        "summary": "GitHub 上有个项目叫 mvt-project/mvt[7]，这是 Mobile Verification Toolkit 的更新，专门用于手机取证，找设备被入侵的痕迹。搞安全的朋友必看，现在移动端的攻击手段越来越隐蔽，这个工具库能帮你们快速定位风险。另外，DeusData/codebase-memory-mcp[8] 这个 MCP 服务器性能很猛，能把代码库索引成知识图谱，查询速度毫秒级，还能省 99% 的 Token，对于想要优化本地开发效率的工程师来说，是个神器。\n\nLobsters 上关于底层技术的讨论也相当硬核。\"SAML: A fractal of bad design\"[9] 这篇文章把 SAML 协议拆得七零八落，说是个坏设计的分形，搞安全认证的朋友看了估计会点头。还有一个 \"The GNOME LLM Policy That I Want\"[10]，GNOME 团队居然想自己搞一套 LLM 使用策略，这在开源社区里挺有意思，看来大家对大模型在系统中的整合越来越焦虑，需要统一的规范了。\n\n少数派的文章里，\"一台主机，多重角色：新款 Mac mini 首发体验\"[11] 也值得一看。虽然主要讲硬件，但其中提到的 M4 芯片在处理本地大模型和智能体时的表现，其实触及了系统底层算力与 AI 结合的关键点。对于还在纠结是否要升级工作流的朋友，这篇首发体验能提供不少参考。"
+      },
+      {
+        "name": "开发工具与效率",
+        "color": "devtools",
+        "summary": "今天 GitHub Trending 里，superdesigndev/treg[12] 是个很有意思的工具，号称是 Agent 工具的 OpenRouter，能让不同的智能体互相调用能力，有点像智能体版的 API 网关。还有 dream-num/univer[13]，把 Office 全家桶（表格、文档、幻灯片）都整合到一个运行时里，让 AI 能直接操作这些办公工具，这对自动化办公来说是个巨大的进步。\n\nLobsters 上 \"The GitHub wiki is an anti-pattern\"[14] 这条讨论引发了不少共鸣，很多资深开发者觉得 Wiki 已经过时了，不如直接看代码或文档。这种对传统开发工具的反思，或许预示着未来协作方式的改变。另外 \"Plain-text files are at risk\"[15] 也在提醒我们，纯文本编辑器可能面临被富文本或 AI 生成内容取代的风险，搞编辑的朋友得留个心眼。\n\n少数派的 \"Coast：用十年经验，给记账这件事一个「终点」\"[16] 虽然是个记账 App，但它的设计理念——极简、无广告、长期主义，其实也是一种效率工具的哲学。与其说它是工具，不如说它是一种对抗数字干扰的生活态度。这种‘少即是多’的思路，在现在的各种花哨 AI 插件泛滥的背景下，反而显得尤为珍贵。"
+      },
+      {
+        "name": "数码产品/硬件",
+        "color": "hardware",
+        "summary": "少数派今天的数码内容挺多。\"社区速递 159\"[17] 提到了便携卡片充电器，这种小巧的应急电源对于经常出差的开发者来说确实实用。还有 \"Here Wallpaper：把喜欢的地图做成壁纸\"[18]，这种个性化定制虽然是小玩意儿，但能提升桌面的心情，也算是提升效率的一种心理暗示吧。\n\nLobsters 上 \"Abandoning Scientific Linux Was a Mistake\"[19] 这篇文章有点怀旧了，讨论放弃 Scientific Linux 的决定。虽然 Scientific Linux 已经停止维护，但它在科学计算领域的地位依然稳固，这篇文章算是给那些还在坚守科学计算环境的朋友一个交代。\n\nGitHub 上的 spirula-studio[20] 是个跨厂商的 3D 高斯泼溅训练器，能把视频转成网格。虽然听起来偏图形学，但对于做 AR/VR 应用或者数字孪生的人来说，这个工具能大大简化工作流。搞图形学的朋友可以关注一下它的 Vulkan 或 CUDA 支持情况。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "Lobsters 上 \"No Sloptober\"[21] 这个概念挺有意思，Sloptober 通常是鼓励大家偷懒的月份，但\"No Sloptober\"反其道而行之，鼓励在秋天保持高效，用代码挑战来对抗拖延症。对于感觉最近代码写得少、效率低的朋友，或许可以尝试这种反向心理激励。\n\n还有 \"Cheaper LLM labelling\"[22] 这篇文章讨论如何降低大模型标注的成本，这背后其实反映了 AI 训练数据越来越贵的现实。如果连数据标注都这么卷，那未来普通开发者训练自己的模型门槛会不会更高？\n\n少数派的 \"怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？\"[23] 这篇文章让我感慨万千。25 年前的笔记本为了轻薄牺牲了性能，现在的笔记本性能过剩了，但人们又开始怀念那种“刚刚好”的平衡感。这种怀旧情绪或许也代表了大家对当下技术过度堆砌的一种反思。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "financial-services",
+        "url": "https://github.com/anthropics/financial-services",
+        "source": "GitHub Trending",
+        "desc": "Anthropic 推出的金融服务专用智能体框架"
+      },
+      {
+        "num": 2,
+        "title": "ax",
+        "url": "https://github.com/google/ax",
+        "source": "GitHub Trending",
+        "desc": "Google 开源的代理编排运行时"
+      },
+      {
+        "num": 3,
+        "title": "claude-code-templates",
+        "url": "https://github.com/davila7/claude-code-templates",
+        "source": "GitHub Trending",
+        "desc": "配置和监控 Claude Code 的 CLI 工具"
+      },
+      {
+        "num": 4,
+        "title": "How to talk about 'AI' without adding to the anthropomorphization",
+        "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+        "source": "Lobsters",
+        "desc": "探讨如何在不拟人化的情况下描述 AI"
+      },
+      {
+        "num": 5,
+        "title": "I want my mesh networks to be signed, not encrypted",
+        "url": "https://andanti.no/blog/SignedMesh.html",
+        "source": "Lobsters",
+        "desc": "关于网状网络签名而非加密的讨论"
+      },
+      {
+        "num": 6,
+        "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
+        "url": "https://sspai.com/post/114901",
+        "source": "少数派",
+        "desc": "visionOS 27 的新特性与空间计算趋势"
+      },
+      {
+        "num": 7,
+        "title": "mvt",
+        "url": "https://github.com/mvt-project/mvt",
+        "source": "GitHub Trending",
+        "desc": "移动端取证工具箱 Mobile Verification Toolkit"
+      },
+      {
+        "num": 8,
+        "title": "codebase-memory-mcp",
+        "url": "https://github.com/DeusData/codebase-memory-mcp",
+        "source": "GitHub Trending",
+        "desc": "高性能代码知识库 MCP 服务器"
+      },
+      {
+        "num": 9,
+        "title": "SAML: A fractal of bad design",
+        "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+        "source": "Lobsters",
+        "desc": "对 SAML 协议设计的批评文章"
+      },
+      {
+        "num": 10,
+        "title": "The GNOME LLM Policy That I Want",
+        "url": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
+        "source": "Lobsters",
+        "desc": "GNOME 团队关于大模型使用策略的设想"
+      },
+      {
+        "num": 11,
+        "title": "一台主机，多重角色：新款 Mac mini 首发体验",
+        "url": "https://sspai.com/post/114829",
+        "source": "少数派",
+        "desc": "新款 Mac mini 的多功能使用体验"
+      },
+      {
+        "num": 12,
+        "title": "treg",
+        "url": "https://github.com/superdesigndev/treg",
+        "source": "GitHub Trending",
+        "desc": "Agent 工具间的 OpenRouter 式连接器"
+      },
+      {
+        "num": 13,
+        "title": "univer",
+        "url": "https://github.com/dream-num/univer",
+        "source": "GitHub Trending",
+        "desc": "AI 操作 Office 全家桶的运行时框架"
+      },
+      {
+        "num": 14,
+        "title": "The GitHub wiki is an anti-pattern",
+        "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+        "source": "Lobsters",
+        "desc": "讨论 GitHub Wiki 已成为反模式的文章"
+      },
+      {
+        "num": 15,
+        "title": "Plain-text files are at risk",
+        "url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
+        "source": "Lobsters",
+        "desc": "纯文本文件面临风险的讨论"
+      },
+      {
+        "num": 16,
+        "title": "Coast：用十年经验，给记账这件事一个「终点」",
+        "url": "https://sspai.com/post/114479",
+        "source": "少数派",
+        "desc": "极简主义记账应用 Coast 的深度体验"
+      },
+      {
+        "num": 17,
+        "title": "社区速递 159",
+        "url": "https://sspai.com/post/114904",
+        "source": "少数派",
+        "desc": "便携卡片充电器等数码产品速递"
+      },
+      {
+        "num": 18,
+        "title": "Here Wallpaper：把喜欢的地图做成壁纸",
+        "url": "https://sspai.com/post/114211",
+        "source": "少数派",
+        "desc": "个性化地图壁纸制作教程"
+      },
+      {
+        "num": 19,
+        "title": "Abandoning Scientific Linux Was a Mistake",
+        "url": "https://blog.melashri.net/posts/scientific-linux-mistake/",
+        "source": "Lobsters",
+        "desc": "反思放弃 Scientific Linux 的决定"
+      },
+      {
+        "num": 20,
+        "title": "spirula-studio",
+        "url": "https://github.com/harry7557558/spirula-studio",
+        "source": "GitHub Trending",
+        "desc": "跨厂商 3D 高斯泼溅训练器"
+      },
+      {
+        "num": 21,
+        "title": "No Sloptober",
+        "url": "https://no-sloptober.com/",
+        "source": "Lobsters",
+        "desc": "鼓励在秋天保持高效编程的活动"
+      },
+      {
+        "num": 22,
+        "title": "Cheaper LLM labelling",
+        "url": "https://entropicthoughts.com/cheaper-llm-labeling",
+        "source": "Lobsters",
+        "desc": "关于降低大模型标注成本的讨论"
+      },
+      {
+        "num": 23,
+        "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
+        "url": "https://sspai.com/post/114551",
+        "source": "少数派",
+        "desc": "回顾 25 年前笔记本设计哲学的文章"
+      }
+    ],
+    "stats": {
+      "total_items": 23,
+      "total_categories": 5,
+      "total_sources": 3
+    }
+  }
+}
