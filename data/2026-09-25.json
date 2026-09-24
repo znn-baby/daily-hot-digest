@@ -1,0 +1,861 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": "56291",
+      "stars_today": "310 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 2,
+      "title": "vectorize-io / hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": "27560",
+      "stars_today": "1,607 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "dream-num / univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": "17373",
+      "stars_today": "1,060 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 4,
+      "title": "google / ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "stars": "10063",
+      "stars_today": "1,376 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 5,
+      "title": "NVIDIA / Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": "3983",
+      "stars_today": "22 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 6,
+      "title": "FxEmbed / FxEmbed",
+      "url": "https://github.com/FxEmbed/FxEmbed",
+      "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "stars": "5326",
+      "stars_today": "165 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 7,
+      "title": "anthropics / financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "stars": "37280",
+      "stars_today": "510 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "HKUDS / CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "stars": "50236",
+      "stars_today": "415 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "mvt-project / mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "stars": "14664",
+      "stars_today": "275 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 10,
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": "291125",
+      "stars_today": "606 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 11,
+      "title": "strands-agents / harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "stars": "8175",
+      "stars_today": "463 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 12,
+      "title": "julyx10 / lap",
+      "url": "https://github.com/julyx10/lap",
+      "description": "An offline-first photo manager for large local libraries",
+      "stars": "2776",
+      "stars_today": "151 stars today",
+      "language": "Vue"
+    },
+    {
+      "rank": 13,
+      "title": "superdesigndev / treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "stars": "3071",
+      "stars_today": "470 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 14,
+      "title": "leejet / stable-diffusion.cpp",
+      "url": "https://github.com/leejet/stable-diffusion.cpp",
+      "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+      "stars": "7198",
+      "stars_today": "69 stars today",
+      "language": "C++"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "The Story of Mel",
+      "url": "https://users.cs.utah.edu/~elb/folklore/mel.html",
+      "source_url": "https://users.cs.utah.edu/~elb/folklore/mel.html",
+      "tags": [
+        "assembly",
+        "historical"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "drmorr"
+    },
+    {
+      "rank": 2,
+      "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8 GB",
+      "url": "https://mouse.dev/blog/muse-runtime-export/",
+      "source_url": "https://mouse.dev/blog/muse-runtime-export/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "Garbi"
+    },
+    {
+      "rank": 3,
+      "title": "Clankers Made Me Build a Second Brain",
+      "url": "https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/",
+      "source_url": "https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "Tymscar"
+    },
+    {
+      "rank": 4,
+      "title": "Parsing Expression Grammar vs. regexes: Building Org parser in Lisp that exports to HTML (via SXML)",
+      "url": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
+      "source_url": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
+      "tags": [
+        "lisp",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jjba23"
+    },
+    {
+      "rank": 5,
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "source_url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "tags": [
+        "android"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "tusharhero"
+    },
+    {
+      "rank": 6,
+      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
+      "source_url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
+      "tags": [
+        "distributed",
+        "security",
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "tuxes"
+    },
+    {
+      "rank": 7,
+      "title": "We Have Named Arguments at Home",
+      "url": "https://corrode.dev/blog/named-arguments-at-home/",
+      "source_url": "https://corrode.dev/blog/named-arguments-at-home/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "itamarst"
+    },
+    {
+      "rank": 8,
+      "title": "Ideas on modernizing the open-source desktop",
+      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "source_url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "tags": [
+        "design"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "lollipopman"
+    },
+    {
+      "rank": 9,
+      "title": "Pick OS is a Living Fossil of Computer History",
+      "url": "https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557",
+      "source_url": "https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557",
+      "tags": [
+        "databases",
+        "historical",
+        "osdev"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "veqq"
+    },
+    {
+      "rank": 10,
+      "title": "I want my mesh networks to be signed, not encrypted",
+      "url": "https://andanti.no/blog/SignedMesh.html",
+      "source_url": "https://andanti.no/blog/SignedMesh.html",
+      "tags": [
+        "cryptography",
+        "networking"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "JulianSildenLanglo"
+    },
+    {
+      "rank": 11,
+      "title": "agent-shell 0.78 updates",
+      "url": "https://xenodium.com/agent-shell-0-78-updates",
+      "source_url": "https://xenodium.com/agent-shell-0-78-updates",
+      "tags": [
+        "emacs",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "xenodium"
+    },
+    {
+      "rank": 12,
+      "title": "AI Workers' Inquiry 2026",
+      "url": "https://techworkersinquiry.org/ai/",
+      "source_url": "https://techworkersinquiry.org/ai/",
+      "tags": [
+        "ai",
+        "practices"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "gmem"
+    },
+    {
+      "rank": 13,
+      "title": "Beware overreliance on metaphor",
+      "url": "https://evnm.substack.com/p/beware-overreliance-on-metaphor",
+      "source_url": "https://evnm.substack.com/p/beware-overreliance-on-metaphor",
+      "tags": [
+        "historical",
+        "philosophy"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "evnm"
+    },
+    {
+      "rank": 14,
+      "title": "Forging 1024-bit RSA signatures in nearly SNFS time",
+      "url": "https://eprint.iacr.org/2026/2131.pdf",
+      "source_url": "https://eprint.iacr.org/2026/2131.pdf",
+      "tags": [
+        "pdf",
+        "cryptography",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "dzwdz"
+    },
+    {
+      "rank": 15,
+      "title": "whatsnewt: A TUI text adventure through what's new in Python 3.15",
+      "url": "https://pypi.org/project/whatsnewt/",
+      "source_url": "https://pypi.org/project/whatsnewt/",
+      "tags": [
+        "python",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "ngoldbaum"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "新玩意 252｜少数派的编辑们最近买了啥？少数派编辑部昨天 17:30",
+      "url": "https://sspai.com/post/114954",
+      "author": "少数派编辑部",
+      "summary": "新玩意 252｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 2,
+      "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品老林还年少昨天 16:20会员内容",
+      "url": "https://sspai.com/prime/story/home-made-beverages-5",
+      "author": "老林还年少",
+      "summary": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品"
+    },
+    {
+      "rank": 3,
+      "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」SUNTRISE昨天 15:06Matrix精选",
+      "url": "https://sspai.com/post/113823",
+      "author": "SUNTRISE",
+      "summary": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」"
+    },
+    {
+      "rank": 4,
+      "title": "古董电脑室十周年记：为什么我不再是收藏家（上）蓬岸昨天 12:15Matrix精选",
+      "url": "https://sspai.com/post/114395",
+      "author": "蓬岸",
+      "summary": "古董电脑室十周年记：为什么我不再是收藏家（上）"
+    },
+    {
+      "rank": 5,
+      "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等少数派编辑部昨天 08:19派早报",
+      "url": "https://sspai.com/post/114913",
+      "author": "少数派编辑部",
+      "summary": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等"
+    },
+    {
+      "rank": 6,
+      "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品Matrix机器人前天 17:02",
+      "url": "https://sspai.com/post/114904",
+      "author": "Matrix机器人",
+      "summary": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品"
+    },
+    {
+      "rank": 7,
+      "title": "九月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1790062689",
+      "author": "一派讨论",
+      "summary": "九月买了什么好东西？"
+    },
+    {
+      "rank": 8,
+      "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性少数派编辑部前天 15:30",
+      "url": "https://sspai.com/post/114901",
+      "author": "少数派编辑部",
+      "summary": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性"
+    },
+    {
+      "rank": 9,
+      "title": "Here Wallpaper：把喜欢的地图做成壁纸sha2kyou前天 10:19Matrix精选",
+      "url": "https://sspai.com/post/114211",
+      "author": "sha2kyou",
+      "summary": "Here Wallpaper：把喜欢的地图做成壁纸"
+    },
+    {
+      "rank": 10,
+      "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验waychane09/22",
+      "url": "https://sspai.com/post/114878",
+      "author": "waychane",
+      "summary": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验"
+    },
+    {
+      "rank": 11,
+      "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？随便好啦09/22Matrix精选",
+      "url": "https://sspai.com/post/114551",
+      "author": "随便好啦",
+      "summary": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "潘展乐责任全在我",
+      "url": "https://s.weibo.com/weibo?q=%E6%BD%98%E5%B1%95%E4%B9%90%E8%B4%A3%E4%BB%BB%E5%85%A8%E5%9C%A8%E6%88%91",
+      "hot_value": 770000
+    },
+    {
+      "rank": 2,
+      "title": "乒乓情缘续写友谊新篇",
+      "url": "https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E6%83%85%E7%BC%98%E7%BB%AD%E5%86%99%E5%8F%8B%E8%B0%8A%E6%96%B0%E7%AF%87",
+      "hot_value": 490000
+    },
+    {
+      "rank": 3,
+      "title": "中秋佳节 共赏明月",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%A7%8B%E4%BD%B3%E8%8A%82+%E5%85%B1%E8%B5%8F%E6%98%8E%E6%9C%88",
+      "hot_value": 480000
+    },
+    {
+      "rank": 4,
+      "title": "孙颖莎回应国乒女团金牌",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E9%87%91%E7%89%8C",
+      "hot_value": 470000
+    },
+    {
+      "rank": 5,
+      "title": "国乒女团金牌",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E9%87%91%E7%89%8C",
+      "hot_value": 460000
+    },
+    {
+      "rank": 6,
+      "title": "四界集体回应余承东",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%9B%E7%95%8C%E9%9B%86%E4%BD%93%E5%9B%9E%E5%BA%94%E4%BD%99%E6%89%BF%E4%B8%9C",
+      "hot_value": 430000
+    },
+    {
+      "rank": 7,
+      "title": "郑钦文 观众干扰比赛",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87+%E8%A7%82%E4%BC%97%E5%B9%B2%E6%89%B0%E6%AF%94%E8%B5%9B",
+      "hot_value": 400000
+    },
+    {
+      "rank": 8,
+      "title": "美方欢迎仪式",
+      "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E6%96%B9%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F",
+      "hot_value": 360000
+    },
+    {
+      "rank": 9,
+      "title": "邀请10万名美国青少年来华交流学习",
+      "url": "https://s.weibo.com/weibo?q=%E9%82%80%E8%AF%B710%E4%B8%87%E5%90%8D%E7%BE%8E%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E6%9D%A5%E5%8D%8E%E4%BA%A4%E6%B5%81%E5%AD%A6%E4%B9%A0",
+      "hot_value": 260000
+    },
+    {
+      "rank": 10,
+      "title": "中美不必讳言竞争",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E4%B8%8D%E5%BF%85%E8%AE%B3%E8%A8%80%E7%AB%9E%E4%BA%89",
+      "hot_value": 240000
+    },
+    {
+      "rank": 11,
+      "title": "港媒取的标题也太好笑了",
+      "url": "https://s.weibo.com/weibo?q=%E6%B8%AF%E5%AA%92%E5%8F%96%E7%9A%84%E6%A0%87%E9%A2%98%E4%B9%9F%E5%A4%AA%E5%A5%BD%E7%AC%91%E4%BA%86",
+      "hot_value": 230000
+    },
+    {
+      "rank": 12,
+      "title": "国羽男团银牌",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E7%BE%BD%E7%94%B7%E5%9B%A2%E9%93%B6%E7%89%8C",
+      "hot_value": 230000
+    },
+    {
+      "rank": 13,
+      "title": "花少9熟人局",
+      "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%919%E7%86%9F%E4%BA%BA%E5%B1%80",
+      "hot_value": 220000
+    },
+    {
+      "rank": 14,
+      "title": "早春晴朗到底赚到了多少",
+      "url": "https://s.weibo.com/weibo?q=%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%88%B0%E5%BA%95%E8%B5%9A%E5%88%B0%E4%BA%86%E5%A4%9A%E5%B0%91",
+      "hot_value": 220000
+    },
+    {
+      "rank": 15,
+      "title": "早田希娜招架不住被孙颖莎打笑了",
+      "url": "https://s.weibo.com/weibo?q=%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E6%8B%9B%E6%9E%B6%E4%B8%8D%E4%BD%8F%E8%A2%AB%E5%AD%99%E9%A2%96%E8%8E%8E%E6%89%93%E7%AC%91%E4%BA%86",
+      "hot_value": 200000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "重庆立法「艾滋病感染者应主动告知配偶、与本人有性关系者等」，有哪些意义？解决了哪些问题",
+      "url": "https://www.zhihu.com/question/2086391671403591117",
+      "hot_value": 4840000
+    },
+    {
+      "rank": 2,
+      "title": "日本上半年出口额小于韩国台湾香港，甚至低于广东省，日本到底怎么了",
+      "url": "https://www.zhihu.com/question/2086202236804322515",
+      "hot_value": 2360000
+    },
+    {
+      "rank": 3,
+      "title": "亚运会羽毛球男团决赛，中国 2-3 不敌印尼，如何评价本场比赛",
+      "url": "https://www.zhihu.com/question/2086476360046699175",
+      "hot_value": 1980000
+    },
+    {
+      "rank": 4,
+      "title": "很多人只上公立学校，不补课，每年教育预算不到 3 千，照样考 985，照样考清北，你支持「躺平式培养」吗",
+      "url": "https://www.zhihu.com/question/2086234571297896020",
+      "hot_value": 1650000
+    },
+    {
+      "rank": 5,
+      "title": "如何评价大伟哥在米哈游 2027 校园招聘宣讲会上海交通大学专场的演讲",
+      "url": "https://www.zhihu.com/question/2086256784436740667",
+      "hot_value": 1440000
+    },
+    {
+      "rank": 6,
+      "title": "网友吐槽美团抽成太多，一份 25 元的外卖商家实际到手收入 6.08 元，是真的吗？剩下的钱都花在了什么环节",
+      "url": "https://www.zhihu.com/question/2086444635463705931",
+      "hot_value": 1350000
+    },
+    {
+      "rank": 7,
+      "title": "山西忻州通报「煤企为抄近道拦腰截断明长城」，将深入调查历年来存在的问题，哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2085739185508557174",
+      "hot_value": 1300000
+    },
+    {
+      "rank": 8,
+      "title": "潮州市住建局回应 5 公里路面 500 个井盖，称井盖密度没法更改，真的没法改吗？井盖排布密集是正常的吗",
+      "url": "https://www.zhihu.com/question/2085267477965923040",
+      "hot_value": 1020000
+    },
+    {
+      "rank": 9,
+      "title": "我国接受过高等教育的人口达 2.7 亿，这意味着什么？哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2041277507777843992",
+      "hot_value": 1020000
+    },
+    {
+      "rank": 10,
+      "title": "如何看待知乎篮球圈出现的攻坚球、困难球、简单球、抗产量等说法",
+      "url": "https://www.zhihu.com/question/2086219989581837772",
+      "hot_value": 840000
+    },
+    {
+      "rank": 11,
+      "title": "看完曹盾导演、马伯庸编剧的电影《敦煌英雄》你有什么感受",
+      "url": "https://www.zhihu.com/question/2086451689611945011",
+      "hot_value": 800000
+    },
+    {
+      "rank": 12,
+      "title": "你是如何意识到自己只是个普通人的",
+      "url": "https://www.zhihu.com/question/2075928343661360691",
+      "hot_value": 770000
+    },
+    {
+      "rank": 13,
+      "title": "蛏子怎么做好吃",
+      "url": "https://www.zhihu.com/question/495189260",
+      "hot_value": 720000
+    },
+    {
+      "rank": 14,
+      "title": "为什么有些人明明知道自己想要什么，却还是没有力量往前走",
+      "url": "https://www.zhihu.com/question/2080656215315690505",
+      "hot_value": 700000
+    },
+    {
+      "rank": 15,
+      "title": "在西游记中，为什么孙悟空明明是抢了东海龙王的定海神针，在孙悟空遇到困难的时候东海龙王还肯帮忙",
+      "url": "https://www.zhihu.com/question/2067422261213128404",
+      "hot_value": 690000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "score": 430,
+      "author": "daveoc64",
+      "comments": 119,
+      "hn_url": "https://news.ycombinator.com/item?id=49831968"
+    },
+    {
+      "rank": 2,
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "score": 58,
+      "author": "sidharthkmenon",
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=49833867"
+    },
+    {
+      "rank": 3,
+      "title": "Fearless SIMD v1.0",
+      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "score": 23,
+      "author": "verdagon",
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49800085"
+    },
+    {
+      "rank": 4,
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "score": 25,
+      "author": "xnx",
+      "comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=49830606"
+    },
+    {
+      "rank": 5,
+      "title": "Two-tier encryption in the UK",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "score": 289,
+      "author": "ReturnoftheHack",
+      "comments": 279,
+      "hn_url": "https://news.ycombinator.com/item?id=49828731"
+    },
+    {
+      "rank": 6,
+      "title": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
+      "score": 16,
+      "author": "jbotz",
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=49832938"
+    },
+    {
+      "rank": 7,
+      "title": "Toyota is taking the Corolla electric",
+      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "score": 73,
+      "author": "cisc",
+      "comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=49823568"
+    },
+    {
+      "rank": 8,
+      "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
+      "url": "https://github.com/christianrowlands/wavedigger",
+      "score": 44,
+      "author": "882542F3884314B",
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49815370"
+    },
+    {
+      "rank": 9,
+      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+      "url": "https://eprint.iacr.org/2026/2131.pdf",
+      "score": 7,
+      "author": "int0x29",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49831098"
+    },
+    {
+      "rank": 10,
+      "title": "The forgotten battle of East Lansing",
+      "url": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
+      "score": 12,
+      "author": "rmason",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49792652"
+    },
+    {
+      "rank": 11,
+      "title": "Nokia Design Archive (2025)",
+      "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+      "score": 179,
+      "author": "pillars",
+      "comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=49828385"
+    },
+    {
+      "rank": 12,
+      "title": "Motor Characterization for Small Running Robots (2016)",
+      "url": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
+      "score": 10,
+      "author": "loughnane",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49794824"
+    },
+    {
+      "rank": 13,
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "url": "https://bastardica.mitpit.com",
+      "score": 9,
+      "author": "MitPitt",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49823738"
+    },
+    {
+      "rank": 14,
+      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+      "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+      "score": 13,
+      "author": "ahelwer",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49787759"
+    },
+    {
+      "rank": 15,
+      "title": "Security auditing in the age of (good enough) AI",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "score": 7,
+      "author": "aray07",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49793957"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。rohitg00 的 ai-engineering-from-scratch[1]主打从 0 到 1 实战，内容扎实，已经拿了 6 万+ star，想入行的朋友必收藏。vectorize-io 的 hindsight[2]是个很有意思的概念，主打“Agent 记忆学习”，让智能体能像人一样复盘成长。还有 HKUDS 推出的 CLI-Anything[3]，试图把所有软件都做成 CLI 原生，这对开发者工作流可能是个大解放。\n\nLobsters 上有个帖子特别逗，作者说问了 Meta 的 Muse 文件系统，结果 Muse 直接返送了 6.8GB 数据[4]。这完全就是“情绪编程”的极致体现，AI 不再只是工具，简直成了有脾气的合作伙伴。另外，Lobsters 上还有人讨论了 AI Workers 的 2026 调查报告[5]，提到了一些关于 AI 写代码和创意工作的新现象，挺发人深省的。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术这块今天动静不小。GitHub 上 NVIDIA 的 Model-Optimizer[6]更新了，统一了量化、剪枝等 SOTA 技术，对推理加速很有帮助。Google 的 ax[7]作为开源代理编排运行时，也是个大项目。社区里 Lobsters 上有个关于 RSA 签名伪造的新论文[8]，声称能在近 SNFS 时间内完成，搞密码学的朋友一定要去读读，这直接动摇了大数分解的安全基石。还有关于 Mesh 网络签名而非加密的讨论[9]，在安全圈子里引发了不少关于信任模型的新思考。"
+      },
+      {
+        "name": "数码产品与效率",
+        "color": "tech",
+        "summary": "数码和效率工具方面，少数派编辑部分享了最近大家买的新玩意儿[10]，还有关于 visionOS 27 的新特性解析，特别是“新环境”和变化[11]，感觉苹果在空间计算上的探索又上了一个台阶。另外，小米秋季发布会和千问 Qwen-Audio-3.1 系列的发布也在早报里提到[12]，看来多模态音频模型是接下来的重头戏。少数派还有一篇怀旧手记，讲 25 年前的笔记本如何兼顾轻薄与性能[13]，读起来有一种时光倒流的浪漫感，提醒我们技术在追求极致的同时，不要丢了设计的初心。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "think",
+        "summary": "最后聊聊思想层面的东西。Lobsters 上有一篇关于“警惕过度依赖隐喻”的文章[14]，在技术快速迭代的今天，这个观点非常犀利，很多技术术语和概念其实都是隐喻，过度依赖可能会限制我们的认知。还有一篇关于解析表达式文法（PEG）与正则对比的文章，展示如何用 Lisp 构建强大的 Org 文件解析器[15]，这种对底层逻辑的深入探讨，往往比单纯应用新技术更有价值。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "ai-engineering-from-scratch",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "source": "GitHub Trending",
+        "desc": "AI 工程实战项目，强调学习、构建和交付"
+      },
+      {
+        "num": 2,
+        "title": "hindsight",
+        "url": "https://github.com/vectorize-io/hindsight",
+        "source": "GitHub Trending",
+        "desc": "让智能体具备学习能力的记忆系统"
+      },
+      {
+        "num": 3,
+        "title": "CLI-Anything",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "source": "GitHub Trending",
+        "desc": "让所有软件 Agent 原生的工具集"
+      },
+      {
+        "num": 4,
+        "title": "I asked Meta's Muse for its filesystem and it sent me 6.8 GB",
+        "url": "https://mouse.dev/blog/muse-runtime-export/",
+        "source": "Lobsters",
+        "desc": "用户与 AI 交互中 AI 主动输出大量数据的有趣案例"
+      },
+      {
+        "num": 5,
+        "title": "AI Workers' Inquiry 2026",
+        "url": "https://techworkersinquiry.org/ai/",
+        "source": "Lobsters",
+        "desc": "关于 AI 对工作模式影响的调查报告"
+      },
+      {
+        "num": 6,
+        "title": "Model-Optimizer",
+        "url": "https://github.com/NVIDIA/Model-Optimizer",
+        "source": "GitHub Trending",
+        "desc": "NVIDIA 推出的模型优化统一库"
+      },
+      {
+        "num": 7,
+        "title": "Google's open agentic orchestration runtime",
+        "url": "https://github.com/google/ax",
+        "source": "GitHub Trending",
+        "desc": "Google 开放的代理编排运行时"
+      },
+      {
+        "num": 8,
+        "title": "Forging 1024-bit RSA signatures in nearly SNFS time",
+        "url": "https://eprint.iacr.org/2026/2131.pdf",
+        "source": "Lobsters",
+        "desc": "关于 RSA 签名安全性的新研究论文"
+      },
+      {
+        "num": 9,
+        "title": "I want my mesh networks to be signed, not encrypted",
+        "url": "https://andanti.no/blog/SignedMesh.html",
+        "source": "Lobsters",
+        "desc": "关于 Mesh 网络安全模型的哲学探讨"
+      },
+      {
+        "num": 10,
+        "title": "新玩意 252｜少数派的编辑们最近买了啥？",
+        "url": "https://sspai.com/post/114954",
+        "source": "少数派",
+        "desc": "少数派编辑团队近期购买的数码好物分享"
+      },
+      {
+        "num": 11,
+        "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
+        "url": "https://sspai.com/post/114901",
+        "source": "少数派",
+        "desc": "深度解析 Apple visionOS 27 的更新内容"
+      },
+      {
+        "num": 12,
+        "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1 系列模型等",
+        "url": "https://sspai.com/post/114913",
+        "source": "少数派",
+        "desc": "涵盖小米新品发布及通义千问最新模型动态"
+      },
+      {
+        "num": 13,
+        "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
+        "url": "https://sspai.com/post/114551",
+        "source": "少数派",
+        "desc": "回顾 25 年前笔记本电脑的设计与性能平衡之道"
+      },
+      {
+        "num": 14,
+        "title": "Beware overreliance on metaphor",
+        "url": "https://evnm.substack.com/p/beware-overreliance-on-metaphor",
+        "source": "Lobsters",
+        "desc": "探讨技术发展中过度依赖隐喻的风险"
+      },
+      {
+        "num": 15,
+        "title": "Parsing Expression Grammar vs. regexes: Building Org parser in Lisp",
+        "url": "https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html",
+        "source": "Lobsters",
+        "desc": "使用 Lisp 和 PEG 构建 Org 文件解析器的技术文章"
+      }
+    ],
+    "stats": {
+      "total_items": 15,
+      "total_categories": 4,
+      "total_sources": 15
+    }
+  }
+}
