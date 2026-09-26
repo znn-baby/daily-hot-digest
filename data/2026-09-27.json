@@ -1,0 +1,876 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "paperclipai / paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": "86645",
+      "stars_today": "2,589 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "vectorize-io / hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": "31403",
+      "stars_today": "2,152 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "NVIDIA / Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": "4666",
+      "stars_today": "354 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "dream-num / univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": "19085",
+      "stars_today": "845 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 5,
+      "title": "tensorflow / tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "stars": "200389",
+      "stars_today": "31 stars today",
+      "language": "C++"
+    },
+    {
+      "rank": 6,
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": "58169",
+      "stars_today": "828 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "openbao / openbao",
+      "url": "https://github.com/openbao/openbao",
+      "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "stars": "7936",
+      "stars_today": "360 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 8,
+      "title": "block / buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "stars": "34773",
+      "stars_today": "367 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 9,
+      "title": "microsoft / vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "stars": "193022",
+      "stars_today": "78 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 10,
+      "title": "zhaoxuya520 / reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "stars": "37886",
+      "stars_today": "409 stars today",
+      "language": "PowerShell"
+    },
+    {
+      "rank": 11,
+      "title": "llvm / llvm-project",
+      "url": "https://github.com/llvm/llvm-project",
+      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "stars": "40717",
+      "stars_today": "29 stars today",
+      "language": "LLVM"
+    },
+    {
+      "rank": 12,
+      "title": "anthropics / claude-code-action",
+      "url": "https://github.com/anthropics/claude-code-action",
+      "description": "",
+      "stars": "9036",
+      "stars_today": "15 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 13,
+      "title": "actions / runner-images",
+      "url": "https://github.com/actions/runner-images",
+      "description": "GitHub Actions runner images",
+      "stars": "13247",
+      "stars_today": "13 stars today",
+      "language": "PowerShell"
+    },
+    {
+      "rank": 14,
+      "title": "mobile-next / mobile-mcp",
+      "url": "https://github.com/mobile-next/mobile-mcp",
+      "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+      "stars": "7214",
+      "stars_today": "143 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 15,
+      "title": "vercel / next.js",
+      "url": "https://github.com/vercel/next.js",
+      "description": "The React Framework",
+      "stars": "142543",
+      "stars_today": "31 stars today",
+      "language": "JavaScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "If we do not stop to help each other, what do we become?",
+      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "source_url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "tags": [
+        "culture"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "j11g"
+    },
+    {
+      "rank": 2,
+      "title": "Commodified Intelligence",
+      "url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
+      "source_url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "mond"
+    },
+    {
+      "rank": 3,
+      "title": "Infecting the Steam Link with NixOS",
+      "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+      "source_url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+      "tags": [
+        "hardware",
+        "nix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "Shorden"
+    },
+    {
+      "rank": 4,
+      "title": "The state of SIMD in Rust in 2026",
+      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "source_url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "janerik"
+    },
+    {
+      "rank": 5,
+      "title": "Go concurrency distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "source_url": "https://antonz.org/go-concurrency-distilled/",
+      "tags": [
+        "go"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "cgrinds"
+    },
+    {
+      "rank": 6,
+      "title": "What About Rails?",
+      "url": "https://jardo.dev/what-about-rails",
+      "source_url": "https://jardo.dev/what-about-rails",
+      "tags": [
+        "ruby",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "nick4"
+    },
+    {
+      "rank": 7,
+      "title": "Keep if clauses side-effect free",
+      "url": "https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html",
+      "source_url": "https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html",
+      "tags": [
+        "practices",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "gavinmorrow"
+    },
+    {
+      "rank": 8,
+      "title": "Goodbye Google",
+      "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+      "source_url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+      "tags": [
+        "ai",
+        "person"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "classichasclass"
+    },
+    {
+      "rank": 9,
+      "title": "Can we have reachability properties in TLA⁺?",
+      "url": "https://ahelwer.ca/post/2026-09-26-reachability/",
+      "source_url": "https://ahelwer.ca/post/2026-09-26-reachability/",
+      "tags": [
+        "formalmethods"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "ahelwer"
+    },
+    {
+      "rank": 10,
+      "title": "NetBSD Playing with disklabels",
+      "url": "https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html",
+      "source_url": "https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html",
+      "tags": [
+        "netbsd"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jaypatelani"
+    },
+    {
+      "rank": 11,
+      "title": "Suggestion to replace LibreOffice with Collabora as default on Fedora",
+      "url": "https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office",
+      "source_url": "https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jonatan"
+    },
+    {
+      "rank": 12,
+      "title": "The JavaScript Pun: tagged template literal",
+      "url": "https://shukla.io/blog/2026-09/pun.html",
+      "source_url": "https://shukla.io/blog/2026-09/pun.html",
+      "tags": [
+        "javascript"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "binroot"
+    },
+    {
+      "rank": 13,
+      "title": "This Month in Redox - August 2026",
+      "url": "https://www.redox-os.org/news/this-month-260831/",
+      "source_url": "https://www.redox-os.org/news/this-month-260831/",
+      "tags": [
+        "osdev",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "theelx"
+    },
+    {
+      "rank": 14,
+      "title": "Tuning a Server for Benchmarking",
+      "url": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/",
+      "source_url": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/",
+      "tags": [
+        "linux",
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "dalvrosa"
+    },
+    {
+      "rank": 15,
+      "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
+      "url": "https://greasyfork.org/en/scripts?by=1646191",
+      "source_url": "https://greasyfork.org/en/scripts?by=1646191",
+      "tags": [
+        "meta",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "joshka"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局南桥北桥不是桥昨天 14:00",
+      "url": "https://sspai.com/post/114958",
+      "author": "南桥北桥不是桥",
+      "summary": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局"
+    },
+    {
+      "rank": 2,
+      "title": "本周看什么 | 最近值得一看的 6 部作品少数派编辑部前天 17:30",
+      "url": "https://sspai.com/post/114957",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 6 部作品"
+    },
+    {
+      "rank": 3,
+      "title": "新玩意 252｜少数派的编辑们最近买了啥？少数派编辑部09/24",
+      "url": "https://sspai.com/post/114954",
+      "author": "少数派编辑部",
+      "summary": "新玩意 252｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 4,
+      "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品老林还年少09/24会员内容",
+      "url": "https://sspai.com/prime/story/home-made-beverages-5",
+      "author": "老林还年少",
+      "summary": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品"
+    },
+    {
+      "rank": 5,
+      "title": "九月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1790062689",
+      "author": "一派讨论",
+      "summary": "九月买了什么好东西？"
+    },
+    {
+      "rank": 6,
+      "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」SUNTRISE09/24Matrix精选",
+      "url": "https://sspai.com/post/113823",
+      "author": "SUNTRISE",
+      "summary": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」"
+    },
+    {
+      "rank": 7,
+      "title": "古董电脑室十周年记：为什么我不再是收藏家（上）蓬岸09/24Matrix精选",
+      "url": "https://sspai.com/post/114395",
+      "author": "蓬岸",
+      "summary": "古董电脑室十周年记：为什么我不再是收藏家（上）"
+    },
+    {
+      "rank": 8,
+      "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等少数派编辑部09/24派早报",
+      "url": "https://sspai.com/post/114913",
+      "author": "少数派编辑部",
+      "summary": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等"
+    },
+    {
+      "rank": 9,
+      "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品Matrix机器人09/23",
+      "url": "https://sspai.com/post/114904",
+      "author": "Matrix机器人",
+      "summary": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品"
+    },
+    {
+      "rank": 10,
+      "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性少数派编辑部09/23",
+      "url": "https://sspai.com/post/114901",
+      "author": "少数派编辑部",
+      "summary": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性"
+    },
+    {
+      "rank": 11,
+      "title": "Here Wallpaper：把喜欢的地图做成壁纸sha2kyou09/23Matrix精选",
+      "url": "https://sspai.com/post/114211",
+      "author": "sha2kyou",
+      "summary": "Here Wallpaper：把喜欢的地图做成壁纸"
+    },
+    {
+      "rank": 12,
+      "title": "快速投票：换机只选 512GB 起步？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1789222518",
+      "author": "一派投票",
+      "summary": "快速投票：换机只选 512GB 起步？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "王楚钦感谢孙颖莎一起守住了混双金牌",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%84%9F%E8%B0%A2%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%80%E8%B5%B7%E5%AE%88%E4%BD%8F%E4%BA%86%E6%B7%B7%E5%8F%8C%E9%87%91%E7%89%8C",
+      "hot_value": 830000
+    },
+    {
+      "rank": 2,
+      "title": "中美八点成果共识公布",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%85%AB%E7%82%B9%E6%88%90%E6%9E%9C%E5%85%B1%E8%AF%86%E5%85%AC%E5%B8%83",
+      "hot_value": 760000
+    },
+    {
+      "rank": 3,
+      "title": "现在的消费需求越来越清晰了",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%B6%88%E8%B4%B9%E9%9C%80%E6%B1%82%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%B8%85%E6%99%B0%E4%BA%86",
+      "hot_value": 730000
+    },
+    {
+      "rank": 4,
+      "title": "乒乓球男单",
+      "url": "https://s.weibo.com/weibo?q=%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%8D%95",
+      "hot_value": 590000
+    },
+    {
+      "rank": 5,
+      "title": "兰香如故腾讯第五部破33000剧集",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E8%85%BE%E8%AE%AF%E7%AC%AC%E4%BA%94%E9%83%A8%E7%A0%B433000%E5%89%A7%E9%9B%86",
+      "hot_value": 550000
+    },
+    {
+      "rank": 6,
+      "title": "张本智和回应爆冷出局",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E5%9B%9E%E5%BA%94%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80",
+      "hot_value": 440000
+    },
+    {
+      "rank": 7,
+      "title": "孙颖莎回应不敌林诗栋蒯曼",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%95%8C%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC",
+      "hot_value": 390000
+    },
+    {
+      "rank": 8,
+      "title": "张本智和被淘汰日本电视台立刻换节目",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%A2%AB%E6%B7%98%E6%B1%B0%E6%97%A5%E6%9C%AC%E7%94%B5%E8%A7%86%E5%8F%B0%E7%AB%8B%E5%88%BB%E6%8D%A2%E8%8A%82%E7%9B%AE",
+      "hot_value": 320000
+    },
+    {
+      "rank": 9,
+      "title": "中美建立推进贸易理事会等机制",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%BB%BA%E7%AB%8B%E6%8E%A8%E8%BF%9B%E8%B4%B8%E6%98%93%E7%90%86%E4%BA%8B%E4%BC%9A%E7%AD%89%E6%9C%BA%E5%88%B6",
+      "hot_value": 320000
+    },
+    {
+      "rank": 10,
+      "title": "赵雷",
+      "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9B%B7",
+      "hot_value": 320000
+    },
+    {
+      "rank": 11,
+      "title": "中国医生赴美进修被同行年薪震住",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E8%B5%B4%E7%BE%8E%E8%BF%9B%E4%BF%AE%E8%A2%AB%E5%90%8C%E8%A1%8C%E5%B9%B4%E8%96%AA%E9%9C%87%E4%BD%8F",
+      "hot_value": 310000
+    },
+    {
+      "rank": 12,
+      "title": "得知未婚妻遭性侵男子称错不在你",
+      "url": "https://s.weibo.com/weibo?q=%E5%BE%97%E7%9F%A5%E6%9C%AA%E5%A9%9A%E5%A6%BB%E9%81%AD%E6%80%A7%E4%BE%B5%E7%94%B7%E5%AD%90%E7%A7%B0%E9%94%99%E4%B8%8D%E5%9C%A8%E4%BD%A0",
+      "hot_value": 310000
+    },
+    {
+      "rank": 13,
+      "title": "曝素媛原型成为医生",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%B4%A0%E5%AA%9B%E5%8E%9F%E5%9E%8B%E6%88%90%E4%B8%BA%E5%8C%BB%E7%94%9F",
+      "hot_value": 300000
+    },
+    {
+      "rank": 14,
+      "title": "周深雨中唱响我爱你中国好震撼",
+      "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E9%9B%A8%E4%B8%AD%E5%94%B1%E5%93%8D%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%E5%A5%BD%E9%9C%87%E6%92%BC",
+      "hot_value": 290000
+    },
+    {
+      "rank": 15,
+      "title": "田曦薇在米兰送的签名被秒卖",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E5%9C%A8%E7%B1%B3%E5%85%B0%E9%80%81%E7%9A%84%E7%AD%BE%E5%90%8D%E8%A2%AB%E7%A7%92%E5%8D%96",
+      "hot_value": 280000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "亚运会乒乓球混双决赛，王楚钦 / 孙颖莎 0-4 林诗栋 / 蒯曼，国乒包揽亚运混双金银牌，如何评价本场比赛",
+      "url": "https://www.zhihu.com/question/2087238239216034395",
+      "hot_value": 34010000
+    },
+    {
+      "rank": 2,
+      "title": "亚运乒乓男单 1/4 决赛，张本智和 3-4 不敌伊朗阿拉米扬，如何评价本场比赛，张本到底什么水平",
+      "url": "https://www.zhihu.com/question/2087227137711240686",
+      "hot_value": 23640000
+    },
+    {
+      "rank": 3,
+      "title": "亚运男足 1/4 决赛，中国男足 3-0 泰国男足，时隔 28 年重回亚运会四强，如何评价本场比赛",
+      "url": "https://www.zhihu.com/question/2087159273436313549",
+      "hot_value": 5330000
+    },
+    {
+      "rank": 4,
+      "title": "为什么现在不谈论可燃冰了",
+      "url": "https://www.zhihu.com/question/652812178",
+      "hot_value": 3920000
+    },
+    {
+      "rank": 5,
+      "title": "浙江男子出生 28 天就被送养到山东，58 年后寻亲成功，比哥哥高一头，山东人每天吃什么？为啥会高出这么多",
+      "url": "https://www.zhihu.com/question/2087153255042082803",
+      "hot_value": 3460000
+    },
+    {
+      "rank": 6,
+      "title": "为什么鸡转头是「一下一下」「瞬移」，而不是像人一样有肉眼可见的转头过程",
+      "url": "https://www.zhihu.com/question/665173840",
+      "hot_value": 2920000
+    },
+    {
+      "rank": 7,
+      "title": "财务自由的感觉是怎样的",
+      "url": "https://www.zhihu.com/question/23668539",
+      "hot_value": 2650000
+    },
+    {
+      "rank": 8,
+      "title": "如何评价哈工程新出台的校园网管理办法",
+      "url": "https://www.zhihu.com/question/2086440332393238791",
+      "hot_value": 2380000
+    },
+    {
+      "rank": 9,
+      "title": "为什么很多谈了长时间恋爱的最后都会分手，或者十年长跑结了婚不久就离婚了",
+      "url": "https://www.zhihu.com/question/309507000",
+      "hot_value": 2200000
+    },
+    {
+      "rank": 10,
+      "title": "著名音乐家刘欢于 9 月 25 日在上海病逝，享年 63 岁，如何评价他在华语乐坛的地位？哪首歌是你的时代记忆",
+      "url": "https://www.zhihu.com/question/2087120107130598179",
+      "hot_value": 1950000
+    },
+    {
+      "rank": 11,
+      "title": "比尔•盖茨警告 AI 或可致十亿人死亡，呼吁立法监管，怎样看待他的观点？现阶段需要怎样的法律约束 AI",
+      "url": "https://www.zhihu.com/question/2087176327761584946",
+      "hot_value": 1820000
+    },
+    {
+      "rank": 12,
+      "title": "为什么游戏里的「血条」，永远是从左往右减少，而不是从右往左",
+      "url": "https://www.zhihu.com/question/2085313776849633283",
+      "hot_value": 1690000
+    },
+    {
+      "rank": 13,
+      "title": "网红狗头萝莉自曝负债 650 万成老赖，主播为何频频陷入天价违约金困境",
+      "url": "https://www.zhihu.com/question/2086478767204086698",
+      "hot_value": 1680000
+    },
+    {
+      "rank": 14,
+      "title": "《微微一笑很倾城》女主换脸后重上流媒体，你观感如何？类似原因下架的作品都能这样「复活」吗",
+      "url": "https://www.zhihu.com/question/2086446703897310714",
+      "hot_value": 1490000
+    },
+    {
+      "rank": 15,
+      "title": "四川 38 岁男子赴泰失联 79 天获救，称自己「超龄不好卖」被当赠品卖给园区，有哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2085859065209660285",
+      "hot_value": 1480000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "score": 478,
+      "author": "ezst",
+      "comments": 188,
+      "hn_url": "https://news.ycombinator.com/item?id=49855315"
+    },
+    {
+      "rank": 2,
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "score": 102,
+      "author": "Qision",
+      "comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=49842764"
+    },
+    {
+      "rank": 3,
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "score": 32,
+      "author": "brumar",
+      "comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=49857528"
+    },
+    {
+      "rank": 4,
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "score": 243,
+      "author": "ksec",
+      "comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=49854693"
+    },
+    {
+      "rank": 5,
+      "title": "The Lost Atomic Update on Loongson CPU",
+      "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+      "score": 32,
+      "author": "jiegec",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49827900"
+    },
+    {
+      "rank": 6,
+      "title": "Modern Object Pascal Introduction for Programmers – Castle Game Engine",
+      "url": "https://castle-engine.io/modern_pascal",
+      "score": 71,
+      "author": "birdculture",
+      "comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=49829202"
+    },
+    {
+      "rank": 7,
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "score": 625,
+      "author": "specked-citrus",
+      "comments": 400,
+      "hn_url": "https://news.ycombinator.com/item?id=49849985"
+    },
+    {
+      "rank": 8,
+      "title": "Make Claude your assistant in excalidraw",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "score": 13,
+      "author": "parasitid",
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49857729"
+    },
+    {
+      "rank": 9,
+      "title": "Reflections on 1,000 Days of Math",
+      "url": "https://gmays.com/reflections-on-1000-days-of-math/",
+      "score": 40,
+      "author": "gmays",
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=49816907"
+    },
+    {
+      "rank": 10,
+      "title": "We're gonna need a lot more mathematicians",
+      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "score": 269,
+      "author": "srcreigh",
+      "comments": 374,
+      "hn_url": "https://news.ycombinator.com/item?id=49852717"
+    },
+    {
+      "rank": 11,
+      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+      "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
+      "score": 37,
+      "author": "Brajeshwar",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49857651"
+    },
+    {
+      "rank": 12,
+      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+      "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+      "score": 24,
+      "author": "msephton",
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49849820"
+    },
+    {
+      "rank": 13,
+      "title": "I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband",
+      "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+      "score": 124,
+      "author": "minimaxir",
+      "comments": 38,
+      "hn_url": "https://news.ycombinator.com/item?id=49857899"
+    },
+    {
+      "rank": 14,
+      "title": "Plan mode is dead",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "score": 481,
+      "author": "jmvldz",
+      "comments": 430,
+      "hn_url": "https://news.ycombinator.com/item?id=49840054"
+    },
+    {
+      "rank": 15,
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "score": 550,
+      "author": "Ardakilic",
+      "comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=49848269"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与工程实践",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。paperclip[1] 是个开源团队管理应用，已经拿了 66,000+ star，搞跨国协作的朋友可以看看。hindsight[2] 解决的是 Agent 记忆学习问题，Vectorize 出品，想搞多智能体记忆管理的可以关注。另外有个 reverse-skill[3] 项目很有意思，它是个 AI 驱动的技能路由包，支持 Claude Code、Cursor 这些代码 AI 客户端自动生成逆向工程或渗透测试的工具链，搞安全的朋友必看！\n\n在 Lobsters 社区，大家正在热烈讨论\"Commodified Intelligence\"[4]，也就是“商品化智能”这个概念，引发了关于 AI 时代劳动本质的激烈辩论。还有篇 Goodbye Google[5] 的文章，作者 Robert O'Callahan 分享了他决定离开 Google 的内心独白，这种技术大佬的“出走记”在圈子里总是能引起很大共鸣。"
+      },
+      {
+        "name": "开发工具与底层技术",
+        "color": "life",
+        "summary": "数码产品方面，小米秋季发布会[14] 成了焦点，千问也发布了 Qwen-Audio-3.1 系列模型。还有篇关于 visionOS 27 新特性的文章[15]，提到了新“环境”和新变化，苹果生态的持续迭代让人眼花缭乱。\n\n生活美学这块，少数派编辑部分享了本周值得一看的 6 部作品[16]，还有新玩意 252 栏目讲了编辑们最近买了啥[17]。老林还年少还分享了家庭饮品 DIY 指南[18]，在忙碌的编程之余，调剂一下生活也是很有必要的。\n    }\n  ],\n  \"sources\": [\n    {\n      \"num\": 1,\n      \"title\": \"paperclip",
+        "url": "https://github.com/paperclipai/paperclip",
+        "source": "GitHub Trending",
+        "desc": "The open-source app everyone uses to manage agents at work"
+      },
+      {
+        "num": 2,
+        "title": "hindsight",
+        "url": "https://github.com/vectorize-io/hindsight",
+        "source": "GitHub Trending",
+        "desc": "Hindsight: Agent Memory That Learns"
+      },
+      {
+        "num": 3,
+        "title": "reverse-skill",
+        "url": "https://github.com/zhaoxuya520/reverse-skill",
+        "source": "GitHub Trending",
+        "desc": "逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链"
+      },
+      {
+        "num": 4,
+        "title": "Commodified Intelligence",
+        "url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
+        "source": "Lobsters",
+        "desc": "关于智能商品化的深度思考"
+      },
+      {
+        "num": 5,
+        "title": "Goodbye Google",
+        "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+        "source": "Lobsters",
+        "desc": "Google 前核心开发者分享离职心路历程"
+      },
+      {
+        "num": 6,
+        "title": "Model-Optimizer",
+        "url": "https://github.com/NVIDIA/Model-Optimizer",
+        "source": "GitHub Trending",
+        "desc": "NVIDIA 统一模型优化技术库"
+      },
+      {
+        "num": 7,
+        "title": "mobile-mcp",
+        "url": "https://github.com/mobile-next/mobile-mcp",
+        "source": "GitHub Trending",
+        "desc": "移动端自动化与爬取的 MCP 服务器"
+      },
+      {
+        "num": 8,
+        "title": "The state of SIMD in Rust in 2026",
+        "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+        "source": "Lobsters",
+        "desc": "2026 年 Rust 语言 SIMD 支持状态分析"
+      },
+      {
+        "num": 9,
+        "title": "Go concurrency distilled",
+        "url": "https://antonz.org/go-concurrency-distilled/",
+        "source": "Lobsters",
+        "desc": "Go 语言并发模型深度解析"
+      },
+      {
+        "num": 10,
+        "title": "openbao",
+        "url": "https://github.com/openbao/openbao",
+        "source": "GitHub Trending",
+        "desc": "开源敏感数据管理解决方案"
+      },
+      {
+        "num": 11,
+        "title": "llvm-project",
+        "url": "https://github.com/llvm/llvm-project",
+        "source": "GitHub Trending",
+        "desc": "LLVM 编译器基础设施项目"
+      },
+      {
+        "num": 12,
+        "title": "宜家 Matter 智能家居终于要来了？",
+        "url": "https://sspai.com/post/114958",
+        "source": "少数派",
+        "desc": "分析宜家在中国市场引入 Matter 协议的破局策略"
+      },
+      {
+        "num": 13,
+        "title": "微软在游戏行业的早期试水",
+        "url": "https://sspai.com/post/113823",
+        "source": "少数派",
+        "desc": "回顾微软与梦工厂的历史合作"
+      },
+      {
+        "num": 14,
+        "title": "派早报：小米召开秋季新品发布会...",
+        "url": "https://sspai.com/post/114913",
+        "source": "少数派",
+        "desc": "小米秋季发布会及通义千问新模型动态"
+      },
+      {
+        "num": 15,
+        "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
+        "url": "https://sspai.com/post/114901",
+        "source": "少数派",
+        "desc": "解析 visionOS 27 带来的最新交互变化"
+      },
+      {
+        "num": 16,
+        "title": "本周看什么 | 最近值得一看的 6 部作品",
+        "url": "https://sspai.com/post/114957",
+        "source": "少数派",
+        "desc": "少数派编辑部推荐的本周影视作品"
+      },
+      {
+        "num": 17,
+        "title": "新玩意 252｜少数派的编辑们最近买了啥？",
+        "url": "https://sspai.com/post/114954",
+        "source": "少数派",
+        "desc": "编辑们分享近期购入的数码好物"
+      },
+      {
+        "num": 18,
+        "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
+        "url": "https://sspai.com/prime/story/home-made-beverages-5",
+        "source": "少数派",
+        "desc": "老林还年少分享的家庭特调咖啡制作教程"
+      }
+    ],
+    "stats": {
+      "total_items": 18,
+      "total_categories": 4,
+      "total_sources": 18
+    }
+  }
+}
