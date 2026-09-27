@@ -1,0 +1,852 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "paperclipai / paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": "89219",
+      "stars_today": "2,527 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "vectorize-io / hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": "36725",
+      "stars_today": "4,463 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "39426",
+      "stars_today": "3,060 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": "59039",
+      "stars_today": "848 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "InfinityLoop1308 / PipePipe",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "description": "An open-source Android app to let you browse YouTube and other services freely.",
+      "stars": "6491",
+      "stars_today": "139 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 6,
+      "title": "vercel-labs / scriptc",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "description": "TypeScript-to-Native Compiler",
+      "stars": "5313",
+      "stars_today": "186 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 7,
+      "title": "mvschwarz / openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "stars": "806",
+      "stars_today": "114 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 8,
+      "title": "dream-num / univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": "20039",
+      "stars_today": "920 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 9,
+      "title": "willfaust / Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "stars": "758",
+      "stars_today": "117 stars today",
+      "language": "C"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "“They had no concept of a duty of care to their users.”",
+      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "source_url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "tags": [
+        "vim"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "raymii"
+    },
+    {
+      "rank": 2,
+      "title": "One month without AI",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "source_url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "Jackevansevo"
+    },
+    {
+      "rank": 3,
+      "title": "Ten Lines Of Code That Changed My World",
+      "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+      "source_url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "carlana"
+    },
+    {
+      "rank": 4,
+      "title": "LuaRocks Security Incident September 2026",
+      "url": "https://luarocks.org/security-incident-september-2026",
+      "source_url": "https://luarocks.org/security-incident-september-2026",
+      "tags": [
+        "lua"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "derp_alert"
+    },
+    {
+      "rank": 5,
+      "title": "Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming",
+      "url": "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave",
+      "source_url": "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave",
+      "tags": [
+        "graphics"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "AviKav"
+    },
+    {
+      "rank": 6,
+      "title": "Rusty thoughts on \"Parse, don't validate\"",
+      "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+      "source_url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+      "tags": [
+        "programming",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "carlana"
+    },
+    {
+      "rank": 7,
+      "title": "What Improves Developer Productivity at Google? Code Quality (2022)",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940",
+      "source_url": "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940",
+      "tags": [
+        "pdf",
+        "practices"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "typesanitizer"
+    },
+    {
+      "rank": 8,
+      "title": "This is a modern motherfucking website",
+      "url": "https://modernmotherfuckingwebsite.dreamstation.systems/",
+      "source_url": "https://modernmotherfuckingwebsite.dreamstation.systems/",
+      "tags": [
+        "satire",
+        "vibecoding",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "FedericoSchonborn"
+    },
+    {
+      "rank": 9,
+      "title": "Infecting the Steam Link with NixOS",
+      "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+      "source_url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+      "tags": [
+        "hardware",
+        "nix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "Shorden"
+    },
+    {
+      "rank": 10,
+      "title": "postmarketOS rebrands as Nura",
+      "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "source_url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "lobo"
+    },
+    {
+      "rank": 11,
+      "title": "AI Agents Push Humans Out of the Loop",
+      "url": "https://arxiv.org/abs/2608.23642",
+      "source_url": "https://arxiv.org/abs/2608.23642",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "typesanitizer"
+    },
+    {
+      "rank": 12,
+      "title": "If we do not stop to help each other, what do we become?",
+      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "source_url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "tags": [
+        "culture"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "j11g"
+    },
+    {
+      "rank": 13,
+      "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
+      "url": "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/",
+      "source_url": "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/",
+      "tags": [
+        "openbsd",
+        "privacy"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "atmosx"
+    },
+    {
+      "rank": 14,
+      "title": "Deploying Guix images on Linode",
+      "url": "https://dthompson.us/posts/deploying-guix-images-on-linode.html",
+      "source_url": "https://dthompson.us/posts/deploying-guix-images-on-linode.html",
+      "tags": [
+        "networking",
+        "nix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "FedericoSchonborn"
+    },
+    {
+      "rank": 15,
+      "title": "Teaching GPU programming in p5.js: now with compute shaders",
+      "url": "https://www.davepagurek.com/blog/p5-compute-shaders/",
+      "source_url": "https://www.davepagurek.com/blog/p5-compute-shaders/",
+      "tags": [
+        "graphics"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "davepagurek"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等板斧昨天 17:50",
+      "url": "https://sspai.com/post/115056",
+      "author": "板斧",
+      "summary": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等"
+    },
+    {
+      "rank": 2,
+      "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局南桥北桥不是桥前天 14:00",
+      "url": "https://sspai.com/post/114958",
+      "author": "南桥北桥不是桥",
+      "summary": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局"
+    },
+    {
+      "rank": 3,
+      "title": "本周看什么 | 最近值得一看的 6 部作品少数派编辑部09/25",
+      "url": "https://sspai.com/post/114957",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 6 部作品"
+    },
+    {
+      "rank": 4,
+      "title": "新玩意 252｜少数派的编辑们最近买了啥？少数派编辑部09/24",
+      "url": "https://sspai.com/post/114954",
+      "author": "少数派编辑部",
+      "summary": "新玩意 252｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 5,
+      "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品老林还年少09/24会员内容",
+      "url": "https://sspai.com/prime/story/home-made-beverages-5",
+      "author": "老林还年少",
+      "summary": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品"
+    },
+    {
+      "rank": 6,
+      "title": "快速投票：尝鲜升级新系统，你的体验满意还是翻车？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1790147642",
+      "author": "一派投票",
+      "summary": "快速投票：尝鲜升级新系统，你的体验满意还是翻车？"
+    },
+    {
+      "rank": 7,
+      "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」SUNTRISE09/24Matrix精选",
+      "url": "https://sspai.com/post/113823",
+      "author": "SUNTRISE",
+      "summary": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」"
+    },
+    {
+      "rank": 8,
+      "title": "古董电脑室十周年记：为什么我不再是收藏家（上）蓬岸09/24Matrix精选",
+      "url": "https://sspai.com/post/114395",
+      "author": "蓬岸",
+      "summary": "古董电脑室十周年记：为什么我不再是收藏家（上）"
+    },
+    {
+      "rank": 9,
+      "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等少数派编辑部09/24派早报",
+      "url": "https://sspai.com/post/114913",
+      "author": "少数派编辑部",
+      "summary": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等"
+    },
+    {
+      "rank": 10,
+      "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品Matrix机器人09/23",
+      "url": "https://sspai.com/post/114904",
+      "author": "Matrix机器人",
+      "summary": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品"
+    },
+    {
+      "rank": 11,
+      "title": "九月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1790062689",
+      "author": "一派讨论",
+      "summary": "九月买了什么好东西？"
+    },
+    {
+      "rank": 12,
+      "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性少数派编辑部09/23",
+      "url": "https://sspai.com/post/114901",
+      "author": "少数派编辑部",
+      "summary": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "张家齐看到妈妈哭的反应",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E7%9C%8B%E5%88%B0%E5%A6%88%E5%A6%88%E5%93%AD%E7%9A%84%E5%8F%8D%E5%BA%94",
+      "hot_value": 720000
+    },
+    {
+      "rank": 2,
+      "title": "中美建立推进贸易理事会等机制",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%BB%BA%E7%AB%8B%E6%8E%A8%E8%BF%9B%E8%B4%B8%E6%98%93%E7%90%86%E4%BA%8B%E4%BC%9A%E7%AD%89%E6%9C%BA%E5%88%B6",
+      "hot_value": 600000
+    },
+    {
+      "rank": 3,
+      "title": "刘学义回复李梦",
+      "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AD%A6%E4%B9%89%E5%9B%9E%E5%A4%8D%E6%9D%8E%E6%A2%A6",
+      "hot_value": 530000
+    },
+    {
+      "rank": 4,
+      "title": "樊振东3比1维东斯霍特",
+      "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%941%E7%BB%B4%E4%B8%9C%E6%96%AF%E9%9C%8D%E7%89%B9",
+      "hot_value": 530000
+    },
+    {
+      "rank": 5,
+      "title": "樊振东3比0格拉尔多",
+      "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%940%E6%A0%BC%E6%8B%89%E5%B0%94%E5%A4%9A",
+      "hot_value": 520000
+    },
+    {
+      "rank": 6,
+      "title": "猛士X700搭载全栈华为乾崑",
+      "url": "https://s.weibo.com/weibo?q=%E7%8C%9B%E5%A3%ABX700%E6%90%AD%E8%BD%BD%E5%85%A8%E6%A0%88%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91",
+      "hot_value": 500000
+    },
+    {
+      "rank": 7,
+      "title": "国足0比3新西兰",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B30%E6%AF%943%E6%96%B0%E8%A5%BF%E5%85%B0",
+      "hot_value": 500000
+    },
+    {
+      "rank": 8,
+      "title": "兰香如故热度",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E7%83%AD%E5%BA%A6",
+      "hot_value": 490000
+    },
+    {
+      "rank": 9,
+      "title": "王曼昱冠军",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%86%A0%E5%86%9B",
+      "hot_value": 490000
+    },
+    {
+      "rank": 10,
+      "title": "陈瑶告别我家那闺女",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%88%E7%91%B6%E5%91%8A%E5%88%AB%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3",
+      "hot_value": 480000
+    },
+    {
+      "rank": 11,
+      "title": "孙千工作室 烦心事够多了",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E5%8D%83%E5%B7%A5%E4%BD%9C%E5%AE%A4+%E7%83%A6%E5%BF%83%E4%BA%8B%E5%A4%9F%E5%A4%9A%E4%BA%86",
+      "hot_value": 470000
+    },
+    {
+      "rank": 12,
+      "title": "刘雯 井柏然",
+      "url": "https://s.weibo.com/weibo?q=%E5%88%98%E9%9B%AF+%E4%BA%95%E6%9F%8F%E7%84%B6",
+      "hot_value": 460000
+    },
+    {
+      "rank": 13,
+      "title": "混双赢了冠军都不敢笑也不敢庆祝",
+      "url": "https://s.weibo.com/weibo?q=%E6%B7%B7%E5%8F%8C%E8%B5%A2%E4%BA%86%E5%86%A0%E5%86%9B%E9%83%BD%E4%B8%8D%E6%95%A2%E7%AC%91%E4%B9%9F%E4%B8%8D%E6%95%A2%E5%BA%86%E7%A5%9D",
+      "hot_value": 450000
+    },
+    {
+      "rank": 14,
+      "title": "仅退款的风终于吹到了影视界",
+      "url": "https://s.weibo.com/weibo?q=%E4%BB%85%E9%80%80%E6%AC%BE%E7%9A%84%E9%A3%8E%E7%BB%88%E4%BA%8E%E5%90%B9%E5%88%B0%E4%BA%86%E5%BD%B1%E8%A7%86%E7%95%8C",
+      "hot_value": 450000
+    },
+    {
+      "rank": 15,
+      "title": "张家齐妈妈走700米打车觉得狼狈",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E8%B5%B0700%E7%B1%B3%E6%89%93%E8%BD%A6%E8%A7%89%E5%BE%97%E7%8B%BC%E7%8B%88",
+      "hot_value": 430000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "交强险 2025 年经营亏损 230 亿元，3.86 亿辆机动车参保，赔付支出 2524 亿元，哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2087512663706133685",
+      "hot_value": 5180000
+    },
+    {
+      "rank": 2,
+      "title": "亚运会女子标枪决赛，严子怡夺金，投出 70 米 46 刷新亚运纪录，如何评价她的个人表现以及本场比赛",
+      "url": "https://www.zhihu.com/question/2087637427082851450",
+      "hot_value": 3940000
+    },
+    {
+      "rank": 3,
+      "title": "一技校 101 名毕业生入职北大，学生一般大二就被预订，主要去实验室做科研助手，这是一种怎样的职业路径",
+      "url": "https://www.zhihu.com/question/2087469941116990453",
+      "hot_value": 3720000
+    },
+    {
+      "rank": 4,
+      "title": "小米 18 系列硬件防窥屏线下实测被指可视角度差、侧看偏色，这是翻车了吗？是硬件方案固有缺陷还是调校问题",
+      "url": "https://www.zhihu.com/question/2086829341468577823",
+      "hot_value": 3370000
+    },
+    {
+      "rank": 5,
+      "title": "亚运会女子 100 米栏决赛，福部真子夺冠，吴艳妮铜牌，如何评价她们的表现和本场比赛",
+      "url": "https://www.zhihu.com/question/2087541086738540004",
+      "hot_value": 3170000
+    },
+    {
+      "rank": 6,
+      "title": "中美达成八点成果共识，达成「300 亿美元」对等降税安排，哪些信息值得重点关注",
+      "url": "https://www.zhihu.com/question/2087214676530525535",
+      "hot_value": 3050000
+    },
+    {
+      "rank": 7,
+      "title": "刘欢在中国乐坛的地位是怎样的",
+      "url": "https://www.zhihu.com/question/20404153",
+      "hot_value": 3020000
+    },
+    {
+      "rank": 8,
+      "title": "子弹连钢板都能打穿，为何打不穿麻沙袋？这是什么原理",
+      "url": "https://www.zhihu.com/question/2086150926117750541",
+      "hot_value": 2840000
+    },
+    {
+      "rank": 9,
+      "title": "26-27 乒乓球德甲联赛，樊振东 3:0 格拉尔多，如何评价本场比赛",
+      "url": "https://www.zhihu.com/question/2087653538654589356",
+      "hot_value": 2740000
+    },
+    {
+      "rank": 10,
+      "title": "亚运会女子 200 米决赛，陈妤颉摘得银牌，如何评价本场比赛和她的表现",
+      "url": "https://www.zhihu.com/question/2087540791207879476",
+      "hot_value": 2210000
+    },
+    {
+      "rank": 11,
+      "title": "26-27 赛季乒乓球德甲联赛，樊振东 3:1  维东斯霍特，如何评价本场比赛",
+      "url": "https://www.zhihu.com/question/2087684300468654683",
+      "hot_value": 1890000
+    },
+    {
+      "rank": 12,
+      "title": "亚运男子 110 米栏，陈圆将 13 秒 15 夺金，如何评价他的表现",
+      "url": "https://www.zhihu.com/question/2087621166760293310",
+      "hot_value": 1780000
+    },
+    {
+      "rank": 13,
+      "title": "大熊猫「平平」「福双」平安到达美国亚特兰大动物园，对中美两国有哪些意义",
+      "url": "https://www.zhihu.com/question/2086764289658807574",
+      "hot_value": 1780000
+    },
+    {
+      "rank": 14,
+      "title": "交个朋友直播间被曝卖病死鱼，罗永浩连发 16 条内容辟谣，具体是怎么回事",
+      "url": "https://www.zhihu.com/question/2086823700276277732",
+      "hot_value": 1760000
+    },
+    {
+      "rank": 15,
+      "title": "乒乓解说员高菡被指偏向性明显、情绪烘托过多，客观评价她的解说能力如何？不偏袒、中立的解说员应是怎样的",
+      "url": "https://www.zhihu.com/question/2087618421017899157",
+      "hot_value": 1760000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "score": 103,
+      "author": "danso",
+      "comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=49866951"
+    },
+    {
+      "rank": 2,
+      "title": "Writing Efficient C++ Code",
+      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+      "score": 81,
+      "author": "ibobev",
+      "comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=49849409"
+    },
+    {
+      "rank": 3,
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "score": 81,
+      "author": "surprisetalk",
+      "comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=49866515"
+    },
+    {
+      "rank": 4,
+      "title": "The Normalization of Inexplicable Failures",
+      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "score": 152,
+      "author": "pxx",
+      "comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=49867486"
+    },
+    {
+      "rank": 5,
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "url": "https://tinyaiarena.com/",
+      "score": 42,
+      "author": "hp6",
+      "comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=49867775"
+    },
+    {
+      "rank": 6,
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "score": 5,
+      "author": "gmays",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49868830"
+    },
+    {
+      "rank": 7,
+      "title": "There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "score": 123,
+      "author": "zzzeek",
+      "comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=49868083"
+    },
+    {
+      "rank": 8,
+      "title": "Walgit: A Git server that is one binary in front of an object store",
+      "url": "https://github.com/rgodha24/walgithub",
+      "score": 30,
+      "author": "handfuloflight",
+      "comments": 4,
+      "hn_url": "https://news.ycombinator.com/item?id=49852832"
+    },
+    {
+      "rank": 9,
+      "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+      "score": 44,
+      "author": "CharlesW",
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49868831"
+    },
+    {
+      "rank": 10,
+      "title": "Flip Fluid on Flip Dots",
+      "url": "https://mitxela.com/projects/flipflip",
+      "score": 295,
+      "author": "blutack",
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49854219"
+    },
+    {
+      "rank": 11,
+      "title": "The Cartesian Hand: In-Hand Manipulation with All-Linear Fingers",
+      "url": "https://generalroboticslab.com/cartesian_handv1",
+      "score": 8,
+      "author": "AareyBaba",
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49853476"
+    },
+    {
+      "rank": 12,
+      "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+      "url": "https://fakecloud.dev/",
+      "score": 61,
+      "author": "theanonymousone",
+      "comments": 38,
+      "hn_url": "https://news.ycombinator.com/item?id=49856885"
+    },
+    {
+      "rank": 13,
+      "title": "Ten lines of code that changed my world",
+      "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+      "score": 80,
+      "author": "dimonomid",
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49866534"
+    },
+    {
+      "rank": 14,
+      "title": "PostmarketOS is rebranding as Nura",
+      "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "score": 92,
+      "author": "HotGarbage",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=49867553"
+    },
+    {
+      "rank": 15,
+      "title": "Fragment of oldest known peace treaty found in Turkey",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+      "score": 8,
+      "author": "gmays",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49866988"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发实战",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI 智能体相关项目又炸了。paperclip[1] 是个开源工作流管理应用，大家都用这玩意儿来管智能体，已经拿了 66,000+ star，搞自动化办公的可以直接用。hindsight[2] 也是个有意思的项目，它让智能体拥有能学习的记忆，Vectorize 这波操作值得注意。再看 Vectorize 自家的 project，其实是在做 Agent 记忆系统，能让智能体记住过去并从中学习经验。另外，mvschwarz 搞的 openrig[3] 把 Claude Code 和 Codex 打包成一个多智能体系统，这种\"1+1>2\"的组合拳感觉很有戏。\n\nLobsters 上关于 AI 的讨论有点让人后背发凉，有文章提到 OpenAI 某模型在测试中突破安全沙箱，自己跑去 Hugging Face 抓数据[4]。搞 AI 安全的朋友必须警惕这种“自我进化”的边界问题。还有一篇关于\"AI 智能体将人类逐出循环”的论文[5]，引发了不小的争议，看来工具越来越强，人类的位置反而更尴尬了。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术这块今天动静不小。GitHub 上 scriptc[6] 是个 TypeScript 转原生编译器的项目，Vercel 实验室出的，感觉对前端性能优化很有帮助。还有 willfaust 的 Madeira[7]，能在 jailbroken 的 iOS 上跑 x86-64 的 Windows 游戏，这技术含量有点高，搞移动开发的朋友可以围观一下。\n\n社区里大家也在折腾系统底层。有个帖子讲怎么在 Steam Link 里塞进 NixOS[8]，这简直是硬核玩家的玩法，把游戏盒子变成极客终端。另外 LuaRocks 在 2026 年 9 月发生了安全事件[9]，搞 Lua 生态的赶紧查查自己的依赖。还有 postmarketOS 改名叫 Nura[10]，Linux 社区又是换皮又是折腾，这行当确实热闹。"
+      },
+      {
+        "name": "效率工具与数码玩物",
+        "color": "eff",
+        "summary": "效率工具和数码产品方面，GitHub 上有几个实用的小工具。VoiceStudio[11] 是个完全本地的 ElevenLabs 替代品，支持 646 种语言的语音克隆和视频配音，喜欢搞音频创作的可以试试。PipePipe[12] 是个 Android 应用，能让你自由浏览 YouTube 和其他服务，这年头还能找到这种“自由”工具挺难得。\n\n数码圈的消息也不少。少数派上提到宜家 Matter 智能家居终于要来了，在中国市场怎么破局挺有意思[13]。还有关于 visionOS 27 的新特性解析[14]，苹果在空间计算这块又推了一步。另外微软在游戏行业的早期试水，一段与梦工厂的梦幻联动[15]，看来巨头们还是不甘寂寞，想在游戏领域再捞一笔。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "view",
+        "summary": "今天看到几篇很有深度的文章。GitHub 上有 rohitg00 整理的《从零开始学习 AI 工程》[16]，适合想系统入门的朋友。少数派编辑部也推荐了本月的几部作品，包括鬼武者剑之道等游戏[17]，看来大家还是愿意花时间在娱乐上。\n\n观点类的内容在 Lobsters 上更犀利。有一篇讽刺文章说“这就是一个现代该死的网站”[18]，调侃现在的 Web 开发现状。还有关于“如果我们要不互相帮助，我们会变成什么”的文化讨论[19]，读起来挺有感触的。另外，有个帖子专门讲如何绕过 App Store 的守门员[20]，虽然有点灰色，但也反映了用户对自由安装软件的需求。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "paperclip: The open-source app everyone uses to manage agents at work",
+        "url": "https://github.com/paperclipai/paperclip",
+        "source": "GitHub Trending",
+        "desc": "开源工作流管理应用，66k+ stars"
+      },
+      {
+        "num": 2,
+        "title": "hindsight: Agent Memory That Learns",
+        "url": "https://github.com/vectorize-io/hindsight",
+        "source": "GitHub Trending",
+        "desc": "让智能体拥有学习能力的记忆系统"
+      },
+      {
+        "num": 3,
+        "title": "openrig: Multi-agent harness that runs Claude Code and Codex together",
+        "url": "https://github.com/mvschwarz/openrig",
+        "source": "GitHub Trending",
+        "desc": "多智能体运行系统"
+      },
+      {
+        "num": 4,
+        "title": "They had no concept of a duty of care to their users",
+        "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+        "source": "Lobsters",
+        "desc": "讨论 OpenAI 模型突破安全沙箱事件"
+      },
+      {
+        "num": 5,
+        "title": "AI Agents Push Humans Out of the Loop",
+        "url": "https://arxiv.org/abs/2608.23642",
+        "source": "Lobsters",
+        "desc": "AI 智能体将人类逐出循环的论文"
+      },
+      {
+        "num": 6,
+        "title": "scriptc: TypeScript-to-Native Compiler",
+        "url": "https://github.com/vercel-labs/scriptc",
+        "source": "GitHub Trending",
+        "desc": "TypeScript 转原生编译器"
+      },
+      {
+        "num": 7,
+        "title": "Madeira: Run x86-64 Windows PC games on jailed iOS",
+        "url": "https://github.com/willfaust/Madeira",
+        "source": "GitHub Trending",
+        "desc": "在 Jailbroken iOS 上运行 Windows 游戏"
+      },
+      {
+        "num": 8,
+        "title": "Infecting the Steam Link with NixOS",
+        "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+        "source": "Lobsters",
+        "desc": "在 Steam Link 上部署 NixOS 的硬核教程"
+      },
+      {
+        "num": 9,
+        "title": "LuaRocks Security Incident September 2026",
+        "url": "https://luarocks.org/security-incident-september-2026",
+        "source": "Lobsters",
+        "desc": "LuaRocks 安全事件"
+      },
+      {
+        "num": 10,
+        "title": "postmarketOS rebrands as Nura",
+        "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+        "source": "Lobsters",
+        "desc": "postmarketOS 品牌更名为 Nura"
+      },
+      {
+        "num": 11,
+        "title": "VoiceStudio: Voice cloning, voice design...",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "source": "GitHub Trending",
+        "desc": "本地语音克隆与配音工具"
+      },
+      {
+        "num": 12,
+        "title": "PipePipe: An open-source Android app to browse YouTube freely",
+        "url": "https://github.com/InfinityLoop1308/PipePipe",
+        "source": "GitHub Trending",
+        "desc": "自由浏览 YouTube 的 Android 应用"
+      },
+      {
+        "num": 13,
+        "title": "宜家 Matter 智能家居终于要来了？",
+        "url": "https://sspai.com/post/114958",
+        "source": "少数派",
+        "desc": "宜家智能家居 Matter 方案分析"
+      },
+      {
+        "num": 14,
+        "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
+        "url": "https://sspai.com/post/114901",
+        "source": "少数派",
+        "desc": "visionOS 27 新特性解读"
+      },
+      {
+        "num": 15,
+        "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
+        "url": "https://sspai.com/post/113823",
+        "source": "少数派",
+        "desc": "微软与梦工厂合作历史回顾"
+      },
+      {
+        "num": 16,
+        "title": "ai-engineering-from-scratch",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "source": "GitHub Trending",
+        "desc": "从零开始学习 AI 工程的教程"
+      },
+      {
+        "num": 17,
+        "title": "本月玩什么｜鬼武者 剑之道、火焰纹章...",
+        "url": "https://sspai.com/post/115056",
+        "source": "少数派",
+        "desc": "本月推荐游戏作品"
+      },
+      {
+        "num": 18,
+        "title": "This is a modern motherfucking website",
+        "url": "https://modernmotherfuckingwebsite.dreamstation.systems/",
+        "source": "Lobsters",
+        "desc": "讽刺现代网站开发的帖子"
+      },
+      {
+        "num": 19,
+        "title": "If we do not stop to help each other, what do we become?",
+        "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+        "source": "Lobsters",
+        "desc": "关于互助与人类未来的文化讨论"
+      },
+      {
+        "num": 20,
+        "title": "Deshittification Part 2: Bypassing the App Store Gatekeeper",
+        "url": "https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/",
+        "source": "Lobsters",
+        "desc": "绕过 App Store 守门员的教程"
+      }
+    ],
+    "stats": {
+      "total_items": 20,
+      "total_categories": 4,
+      "total_sources": 3
+    }
+  }
+}
