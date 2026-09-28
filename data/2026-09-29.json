@@ -1,0 +1,671 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "43533",
+      "stars_today": "3,274 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 2,
+      "title": "paperclipai / paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": "92499",
+      "stars_today": "3,185 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 3,
+      "title": "vectorize-io / hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": "40776",
+      "stars_today": "4,413 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "NawfalMotii79 / PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "stars": "25701",
+      "stars_today": "145 stars today",
+      "language": "PLSQL"
+    },
+    {
+      "rank": 5,
+      "title": "cs341-illinois / coursebook",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "stars": "2440",
+      "stars_today": "316 stars today",
+      "language": "TeX"
+    },
+    {
+      "rank": 6,
+      "title": "byoungd / up",
+      "url": "https://github.com/byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "stars": "64593",
+      "stars_today": "310 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 7,
+      "title": "mvschwarz / openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "stars": "1610",
+      "stars_today": "781 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 8,
+      "title": "dream-num / univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": "21158",
+      "stars_today": "1,105 stars today",
+      "language": "TypeScript"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Yes, no AI is now a feature",
+      "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
+      "source_url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "johnolinda"
+    },
+    {
+      "rank": 2,
+      "title": "Hijacking the PS5's RTMP Stream",
+      "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "source_url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "tags": [
+        "networking"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "yashgarg"
+    },
+    {
+      "rank": 3,
+      "title": "Leaving them behind",
+      "url": "https://dbushell.com/2026/09/28/leaving-them-behind/",
+      "source_url": "https://dbushell.com/2026/09/28/leaving-them-behind/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "diktomat"
+    },
+    {
+      "rank": 4,
+      "title": "What makes Lisp difficult to read?",
+      "url": "https://paultm.nl/paren-thesis",
+      "source_url": "https://paultm.nl/paren-thesis",
+      "tags": [
+        "plt"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "veqq"
+    },
+    {
+      "rank": 5,
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "source_url": "https://sancho.bearblog.dev/google-weird/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "dimonomid"
+    },
+    {
+      "rank": 6,
+      "title": "Bill Gates tries to install Movie Maker",
+      "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+      "source_url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+      "tags": [
+        "windows"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "nrposner"
+    },
+    {
+      "rank": 7,
+      "title": "What Would A Serious AI Product Look Like?",
+      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "source_url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "tags": [
+        "a11y",
+        "design",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "Corbin"
+    },
+    {
+      "rank": 8,
+      "title": "“They had no concept of a duty of care to their users.”",
+      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "source_url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "tags": [
+        "vim"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "raymii"
+    },
+    {
+      "rank": 9,
+      "title": "Rickrolling with a Pharmacy cross",
+      "url": "https://hugoarnal.com/blog/rickroll-pharmacy-cross/",
+      "source_url": "https://hugoarnal.com/blog/rickroll-pharmacy-cross/",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "hugoarnal"
+    },
+    {
+      "rank": 10,
+      "title": "HardenedBSD August / September 2026 Status Report",
+      "url": "https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report",
+      "source_url": "https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report",
+      "tags": [
+        "freebsd",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "lattera"
+    },
+    {
+      "rank": 11,
+      "title": "What are you doing this week?",
+      "url": "https://lobste.rs/s/hgmgp2/what_are_you_doing_this_week",
+      "source_url": "https://lobste.rs/s/hgmgp2/what_are_you_doing_this_week",
+      "tags": [
+        "ask",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "caius"
+    },
+    {
+      "rank": 12,
+      "title": "How to Solve Hallucination (with RLCD)",
+      "url": "https://www.robw.fyi/2026/09/28/how-to-solve-hallucination/",
+      "source_url": "https://www.robw.fyi/2026/09/28/how-to-solve-hallucination/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "MrFantastik"
+    },
+    {
+      "rank": 13,
+      "title": "postmarketOS rebrands as Nura",
+      "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "source_url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "lobo"
+    },
+    {
+      "rank": 14,
+      "title": "Fool's Expertise",
+      "url": "https://bcantrill.dtrace.org/2026/09/27/fools-expertise/",
+      "source_url": "https://bcantrill.dtrace.org/2026/09/27/fools-expertise/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "vaguelytagged"
+    },
+    {
+      "rank": 15,
+      "title": "the normalization of inexplicable failures",
+      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "source_url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "tags": [
+        "testing",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "untitaker"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "派评 | 近期值得关注的 App少数派编辑部昨天 17:45",
+      "url": "https://sspai.com/post/115094",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 2,
+      "title": "基于 Termux 的 Android 手机开发服务器实操neyham昨天 17:33会员内容",
+      "url": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
+      "author": "neyham",
+      "summary": "基于 Termux 的 Android 手机开发服务器实操"
+    },
+    {
+      "rank": 3,
+      "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷一起来看看 Apple 是如何围绕一块会改变形状的屏幕，重新思考人与界面的关系。阿斯巴盐昨天 15:00",
+      "url": "https://sspai.com/post/114972",
+      "author": "阿斯巴盐",
+      "summary": "比起折痕， iPhone Duo 的交互设计更加令人着迷"
+    },
+    {
+      "rank": 4,
+      "title": "摸鱼+3 | 还剩三天班，一天一个解谜游戏北鸮昨天 11:00",
+      "url": "https://sspai.com/post/114967",
+      "author": "北鸮",
+      "summary": "摸鱼+3 | 还剩三天班，一天一个解谜游戏"
+    },
+    {
+      "rank": 5,
+      "title": "派早报：OpenAI 称与苹果合作效果不佳少数派编辑部昨天 07:03派早报",
+      "url": "https://sspai.com/post/115079",
+      "author": "少数派编辑部",
+      "summary": "派早报：OpenAI 称与苹果合作效果不佳"
+    },
+    {
+      "rank": 6,
+      "title": "快速投票：尝鲜升级新系统，你的体验满意还是翻车？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1790147642",
+      "author": "一派投票",
+      "summary": "快速投票：尝鲜升级新系统，你的体验满意还是翻车？"
+    },
+    {
+      "rank": 7,
+      "title": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等板斧前天 17:50",
+      "url": "https://sspai.com/post/115056",
+      "author": "板斧",
+      "summary": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等"
+    },
+    {
+      "rank": 8,
+      "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局南桥北桥不是桥09/26",
+      "url": "https://sspai.com/post/114958",
+      "author": "南桥北桥不是桥",
+      "summary": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局"
+    },
+    {
+      "rank": 9,
+      "title": "本周看什么 | 最近值得一看的 6 部作品少数派编辑部09/25",
+      "url": "https://sspai.com/post/114957",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 6 部作品"
+    },
+    {
+      "rank": 10,
+      "title": "新玩意 252｜少数派的编辑们最近买了啥？少数派编辑部09/24",
+      "url": "https://sspai.com/post/114954",
+      "author": "少数派编辑部",
+      "summary": "新玩意 252｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 11,
+      "title": "九月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1790062689",
+      "author": "一派讨论",
+      "summary": "九月买了什么好东西？"
+    },
+    {
+      "rank": 12,
+      "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品老林还年少09/24会员内容",
+      "url": "https://sspai.com/prime/story/home-made-beverages-5",
+      "author": "老林还年少",
+      "summary": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "Tiffany 小红书",
+      "url": "https://s.weibo.com/weibo?q=Tiffany+%E5%B0%8F%E7%BA%A2%E4%B9%A6",
+      "hot_value": 650000
+    },
+    {
+      "rank": 2,
+      "title": "平平福双已运至亚特兰大动物园",
+      "url": "https://s.weibo.com/weibo?q=%E5%B9%B3%E5%B9%B3%E7%A6%8F%E5%8F%8C%E5%B7%B2%E8%BF%90%E8%87%B3%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7%E5%8A%A8%E7%89%A9%E5%9B%AD",
+      "hot_value": 420000
+    },
+    {
+      "rank": 3,
+      "title": "iQOO16新品发布",
+      "url": "https://s.weibo.com/weibo?q=iQOO16%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83",
+      "hot_value": 420000
+    },
+    {
+      "rank": 4,
+      "title": "国乒 最后一届亚运",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92+%E6%9C%80%E5%90%8E%E4%B8%80%E5%B1%8A%E4%BA%9A%E8%BF%90",
+      "hot_value": 410000
+    },
+    {
+      "rank": 5,
+      "title": "张家齐大大方方谈钱",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E8%B0%88%E9%92%B1",
+      "hot_value": 230000
+    },
+    {
+      "rank": 6,
+      "title": "李蠕蠕收入比娱乐圈很多人高",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E8%A0%95%E8%A0%95%E6%94%B6%E5%85%A5%E6%AF%94%E5%A8%B1%E4%B9%90%E5%9C%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E9%AB%98",
+      "hot_value": 200000
+    },
+    {
+      "rank": 7,
+      "title": "迪奥二零二七夏季女装秀",
+      "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E5%A5%A5%E4%BA%8C%E9%9B%B6%E4%BA%8C%E4%B8%83%E5%A4%8F%E5%AD%A3%E5%A5%B3%E8%A3%85%E7%A7%80",
+      "hot_value": 200000
+    },
+    {
+      "rank": 8,
+      "title": "兰香如故韩粱被冻死了",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E9%9F%A9%E7%B2%B1%E8%A2%AB%E5%86%BB%E6%AD%BB%E4%BA%86",
+      "hot_value": 190000
+    },
+    {
+      "rank": 9,
+      "title": "女顾客吐槽Tiffany后账号被限制",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BDTiffany%E5%90%8E%E8%B4%A6%E5%8F%B7%E8%A2%AB%E9%99%90%E5%88%B6",
+      "hot_value": 190000
+    },
+    {
+      "rank": 10,
+      "title": "涨薪意识",
+      "url": "https://s.weibo.com/weibo?q=%E6%B6%A8%E8%96%AA%E6%84%8F%E8%AF%86",
+      "hot_value": 190000
+    },
+    {
+      "rank": 11,
+      "title": "何猷君妈妈感谢奚梦瑶",
+      "url": "https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E5%A6%88%E5%A6%88%E6%84%9F%E8%B0%A2%E5%A5%9A%E6%A2%A6%E7%91%B6",
+      "hot_value": 140000
+    },
+    {
+      "rank": 12,
+      "title": "王楚钦虽一金未得仍当得起一个赞",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%99%BD%E4%B8%80%E9%87%91%E6%9C%AA%E5%BE%97%E4%BB%8D%E5%BD%93%E5%BE%97%E8%B5%B7%E4%B8%80%E4%B8%AA%E8%B5%9E",
+      "hot_value": 140000
+    },
+    {
+      "rank": 13,
+      "title": "詹姆斯 76人",
+      "url": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF+76%E4%BA%BA",
+      "hot_value": 130000
+    },
+    {
+      "rank": 14,
+      "title": "深圳一街道办深夜打麻将实为视觉误差",
+      "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E4%B8%80%E8%A1%97%E9%81%93%E5%8A%9E%E6%B7%B1%E5%A4%9C%E6%89%93%E9%BA%BB%E5%B0%86%E5%AE%9E%E4%B8%BA%E8%A7%86%E8%A7%89%E8%AF%AF%E5%B7%AE",
+      "hot_value": 110000
+    },
+    {
+      "rank": 15,
+      "title": "华鼎奖提名名单",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E9%BC%8E%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95",
+      "hot_value": 80000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "我觉得乾隆的字挺好看呀，为什么在书法界评价很低",
+      "url": "https://www.zhihu.com/question/2085453188900168444",
+      "hot_value": 3760000
+    },
+    {
+      "rank": 2,
+      "title": "怎么看待超长蛋挞的爆红",
+      "url": "https://www.zhihu.com/question/2085307820598105501",
+      "hot_value": 3340000
+    },
+    {
+      "rank": 3,
+      "title": "如何看待常德一老人因误解养老金政策拾荒 21 年，最终领到 42 万养老金？暴露了背后哪些问题",
+      "url": "https://www.zhihu.com/question/2087842325703520513",
+      "hot_value": 2850000
+    },
+    {
+      "rank": 4,
+      "title": "如何评价《新大头儿子》系列电影被网友吐槽画风诡异、大头儿子像「鬼火少年」",
+      "url": "https://www.zhihu.com/question/2087565298354189686",
+      "hot_value": 2310000
+    },
+    {
+      "rank": 5,
+      "title": "王楚钦本届亚运会一金未拿，怎样评价他的状态？打法上可能有哪些问题",
+      "url": "https://www.zhihu.com/question/2087999745213949009",
+      "hot_value": 2230000
+    },
+    {
+      "rank": 6,
+      "title": "双汇火腿肠销量连续下滑，传统火腿肠为何越来越卖不动？方便面触底反弹，火腿肠却持续下滑，问题出在哪里",
+      "url": "https://www.zhihu.com/question/2087819360249144084",
+      "hot_value": 2140000
+    },
+    {
+      "rank": 7,
+      "title": "体育总局局长表示，亚运会部分传统优势项目遇到挑战，成绩不及预期，可能有哪些原因",
+      "url": "https://www.zhihu.com/question/2087828556701241405",
+      "hot_value": 1900000
+    },
+    {
+      "rank": 8,
+      "title": "印、美联合团队研究称「混凝土中掺入人粪，抗折强度提高 42%」，如何理解该研究的理论和现实意义",
+      "url": "https://www.zhihu.com/question/2087853929207787791",
+      "hot_value": 1660000
+    },
+    {
+      "rank": 9,
+      "title": "怎么看 OpenAI 的 Pro 订阅取消 5x 和 20x 的描述",
+      "url": "https://www.zhihu.com/question/2087607174948186086",
+      "hot_value": 1620000
+    },
+    {
+      "rank": 10,
+      "title": "中美「300 亿对 300 亿」对等降税框架公布，超 90% 产品将享受最惠国关税待遇，将带来哪些利好",
+      "url": "https://www.zhihu.com/question/2087868581669070116",
+      "hot_value": 1590000
+    },
+    {
+      "rank": 11,
+      "title": "曝携程推新规鼓励「无理由事假」，员工休 1 天无理由事假，团队得 600 元团建经费，如何看待这种激励方式",
+      "url": "https://www.zhihu.com/question/2087911286118019819",
+      "hot_value": 1510000
+    },
+    {
+      "rank": 12,
+      "title": "杭州女子每月花 3000 元跨省 2 小时去上海上班，称「算了笔账总体是划算的」，真划算吗？怎样看待她的选择",
+      "url": "https://www.zhihu.com/question/2087928868850112302",
+      "hot_value": 1300000
+    },
+    {
+      "rank": 13,
+      "title": "如何评价 2026 年 9 月米哈游《原神》7.1 版本，冰神冰之女皇戏份",
+      "url": "https://www.zhihu.com/question/2086242322979804924",
+      "hot_value": 1150000
+    },
+    {
+      "rank": 14,
+      "title": "网上都说计算机炸了，为什么现实中一堆转专业到计算机的",
+      "url": "https://www.zhihu.com/question/2075577882076884995",
+      "hot_value": 1050000
+    },
+    {
+      "rank": 15,
+      "title": "亚运会乒乓球女双决赛，王曼昱 / 蒯曼 4-0 战胜张本美和 / 早田希娜夺得金牌，如何评价本场比赛",
+      "url": "https://www.zhihu.com/question/2087912811338920038",
+      "hot_value": 1050000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Pirating the Pirates",
+      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "score": 284,
+      "author": "piotrgrabowski",
+      "comments": 117,
+      "hn_url": "https://news.ycombinator.com/item?id=49880036"
+    },
+    {
+      "rank": 2,
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "score": 45,
+      "author": "logicallee",
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=49882781"
+    },
+    {
+      "rank": 3,
+      "title": "Joseph Szabo’s pictures of American adolescents",
+      "url": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
+      "score": 44,
+      "author": "prismatic",
+      "comments": 17,
+      "hn_url": "https://news.ycombinator.com/item?id=49881606"
+    },
+    {
+      "rank": 4,
+      "title": "Hijacking the PS5's RTMP stream",
+      "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "score": 133,
+      "author": "ibobev",
+      "comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=49879702"
+    },
+    {
+      "rank": 5,
+      "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials",
+      "url": "https://blog.plcred.org/3mwlphq42d227",
+      "score": 15,
+      "author": "embedding-shape",
+      "comments": 4,
+      "hn_url": "https://news.ycombinator.com/item?id=49883159"
+    },
+    {
+      "rank": 6,
+      "title": "Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "score": 362,
+      "author": "D2OQZG8l5BI1S06",
+      "comments": 228,
+      "hn_url": "https://news.ycombinator.com/item?id=49881850"
+    },
+    {
+      "rank": 7,
+      "title": "SB 923 is Law: CCPA deletion rights now reach third-party data",
+      "url": "https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed",
+      "score": 28,
+      "author": "patrickwdaly",
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=49883345"
+    },
+    {
+      "rank": 8,
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "url": "https://git.mills.io/prologic/parley",
+      "score": 262,
+      "author": "davidcollantes",
+      "comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=49875913"
+    },
+    {
+      "rank": 9,
+      "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+      "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
+      "score": 22,
+      "author": "topaztee",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49881505"
+    },
+    {
+      "rank": 10,
+      "title": "GrapheneOS – When an app is slow",
+      "url": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
+      "score": 49,
+      "author": "speckx",
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=49882208"
+    },
+    {
+      "rank": 11,
+      "title": "Who wrote Elizabeth I's most scathing letters?",
+      "url": "https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/",
+      "score": 15,
+      "author": "benbreen",
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=49881692"
+    },
+    {
+      "rank": 12,
+      "title": "Cf: The Agentic CLI for the Cloudflare API",
+      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+      "score": 62,
+      "author": "macleos",
+      "comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=49879577"
+    },
+    {
+      "rank": 13,
+      "title": "What heraldry and Japanese mon can teach about visual-identity generators",
+      "url": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
+      "score": 51,
+      "author": "bovermyer",
+      "comments": 17,
+      "hn_url": "https://news.ycombinator.com/item?id=49878900"
+    },
+    {
+      "rank": 14,
+      "title": "MongoDB CEO resigns to join Meta",
+      "url": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
+      "score": 256,
+      "author": "diek",
+      "comments": 214,
+      "hn_url": "https://news.ycombinator.com/item?id=49879000"
+    },
+    {
+      "rank": 15,
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "score": 45,
+      "author": "jonbaer",
+      "comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=49879883"
+    }
+  ]
+}
