@@ -1,0 +1,920 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "47513",
+      "stars_today": "4,712 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 2,
+      "title": "NVIDIA / OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": "10384",
+      "stars_today": "978 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 3,
+      "title": "vectorize-io / hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": "42637",
+      "stars_today": "2,541 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "paperclipai / paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": "94263",
+      "stars_today": "2,412 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 5,
+      "title": "t8y2 / dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "stars": "21851",
+      "stars_today": "349 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 6,
+      "title": "mvschwarz / openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "stars": "2287",
+      "stars_today": "733 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 7,
+      "title": "oblien / openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "stars": "13730",
+      "stars_today": "436 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 8,
+      "title": "averygan / reclip",
+      "url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "stars": "9972",
+      "stars_today": "114 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 9,
+      "title": "cs341-illinois / coursebook",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "stars": "3004",
+      "stars_today": "569 stars today",
+      "language": "TeX"
+    },
+    {
+      "rank": 10,
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": "61170",
+      "stars_today": "855 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 11,
+      "title": "VectifyAI / PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": "37158",
+      "stars_today": "822 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 12,
+      "title": "willfaust / Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "stars": "1070",
+      "stars_today": "85 stars today",
+      "language": "C"
+    },
+    {
+      "rank": 13,
+      "title": "dream-num / univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": "21755",
+      "stars_today": "692 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 14,
+      "title": "rakyll / hey",
+      "url": "https://github.com/rakyll/hey",
+      "description": "HTTP load generator, ApacheBench (ab) replacement",
+      "stars": "20439",
+      "stars_today": "31 stars today",
+      "language": "Go"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "CoW — a stacking window manager for Wayland",
+      "url": "https://cow-wm.codeberg.page/cow/",
+      "source_url": "https://cow-wm.codeberg.page/cow/",
+      "tags": [
+        "freebsd",
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "hawski"
+    },
+    {
+      "rank": 2,
+      "title": "Pining for Arc Downcasting in Rust",
+      "url": "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/",
+      "source_url": "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "polywolf"
+    },
+    {
+      "rank": 3,
+      "title": "Aho-Corasick Algorithm",
+      "url": "https://compiler.club/aho-corasick/",
+      "source_url": "https://compiler.club/aho-corasick/",
+      "tags": [
+        "compsci"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "abhin4v"
+    },
+    {
+      "rank": 4,
+      "title": "Bill Gates tries to install Movie Maker",
+      "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+      "source_url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+      "tags": [
+        "windows"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "nrposner"
+    },
+    {
+      "rank": 5,
+      "title": "My experience writing automated tests for a SPA",
+      "url": "https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa",
+      "source_url": "https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa",
+      "tags": [
+        "testing",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "motet-a"
+    },
+    {
+      "rank": 6,
+      "title": "What Would A Serious AI Product Look Like?",
+      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "source_url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "tags": [
+        "a11y",
+        "design",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "Corbin"
+    },
+    {
+      "rank": 7,
+      "title": "Switching To Emacs as a Neovim User",
+      "url": "https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/",
+      "source_url": "https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/",
+      "tags": [
+        "emacs",
+        "vim"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "tusharhero"
+    },
+    {
+      "rank": 8,
+      "title": "MotifCentral - All Things Motif/Xt/Xlib",
+      "url": "https://motif-central.org/",
+      "source_url": "https://motif-central.org/",
+      "tags": [
+        "graphics",
+        "unix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "hawski"
+    },
+    {
+      "rank": 9,
+      "title": "Yes, no AI is now a feature",
+      "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
+      "source_url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "johnolinda"
+    },
+    {
+      "rank": 10,
+      "title": "Getting root on OnePlus 15 from an untrusted app",
+      "url": "https://blog.nns.ee/2026/09/24/oneplus-root/",
+      "source_url": "https://blog.nns.ee/2026/09/24/oneplus-root/",
+      "tags": [
+        "android",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "lknuth"
+    },
+    {
+      "rank": 11,
+      "title": "AI Didn’t Make Programming Easier. It Just Made It Differently Difficult",
+      "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+      "source_url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "remmelt"
+    },
+    {
+      "rank": 12,
+      "title": "Hijacking the PS5's RTMP Stream",
+      "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "source_url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "tags": [
+        "networking"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "yashgarg"
+    },
+    {
+      "rank": 13,
+      "title": "Leaving them behind",
+      "url": "https://dbushell.com/2026/09/28/leaving-them-behind/",
+      "source_url": "https://dbushell.com/2026/09/28/leaving-them-behind/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "diktomat"
+    },
+    {
+      "rank": 14,
+      "title": "State of the (Tagged) Union Address by Andrew Kelley",
+      "url": "https://www.youtube.com/watch?v=zwi5b5xSsKA",
+      "source_url": "https://www.youtube.com/watch?v=zwi5b5xSsKA",
+      "tags": [
+        "video",
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "trousers"
+    },
+    {
+      "rank": 15,
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "source_url": "https://sancho.bearblog.dev/google-weird/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "dimonomid"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单Matrix机器人昨天 17:03",
+      "url": "https://sspai.com/post/115153",
+      "author": "Matrix机器人",
+      "summary": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单"
+    },
+    {
+      "rank": 2,
+      "title": "更懂你的心，也更懂你：Apple Watch Series 12 体验全新 Apple Watch Series 12，有哪些可感知的升级？ElijahLee昨天 15:44",
+      "url": "https://sspai.com/post/115061",
+      "author": "ElijahLee",
+      "summary": "更懂你的心，也更懂你：Apple Watch Series 12 体验"
+    },
+    {
+      "rank": 3,
+      "title": "可塑的白昼：ColorOS17 深度评测Enc3lMag1k昨天 11:28",
+      "url": "https://sspai.com/post/114728",
+      "author": "Enc3lMag1k",
+      "summary": "可塑的白昼：ColorOS17 深度评测"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等少数派编辑部昨天 08:09派早报",
+      "url": "https://sspai.com/post/115134",
+      "author": "少数派编辑部",
+      "summary": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等"
+    },
+    {
+      "rank": 5,
+      "title": "快速投票：尝鲜升级新系统，你的体验满意还是翻车？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1790147642",
+      "author": "一派投票",
+      "summary": "快速投票：尝鲜升级新系统，你的体验满意还是翻车？"
+    },
+    {
+      "rank": 6,
+      "title": "派评 | 近期值得关注的 App少数派编辑部前天 17:45",
+      "url": "https://sspai.com/post/115094",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 7,
+      "title": "基于 Termux 的 Android 手机开发服务器实操neyham前天 17:33会员内容",
+      "url": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
+      "author": "neyham",
+      "summary": "基于 Termux 的 Android 手机开发服务器实操"
+    },
+    {
+      "rank": 8,
+      "title": "比起折痕， iPhone Duo 的交互设计更加令人着迷一起来看看 Apple 是如何围绕一块会改变形状的屏幕，重新思考人与界面的关系。阿斯巴盐前天 15:00",
+      "url": "https://sspai.com/post/114972",
+      "author": "阿斯巴盐",
+      "summary": "比起折痕， iPhone Duo 的交互设计更加令人着迷"
+    },
+    {
+      "rank": 9,
+      "title": "摸鱼+3 | 还剩三天班，一天一个解谜游戏北鸮前天 11:00",
+      "url": "https://sspai.com/post/114967",
+      "author": "北鸮",
+      "summary": "摸鱼+3 | 还剩三天班，一天一个解谜游戏"
+    },
+    {
+      "rank": 10,
+      "title": "派早报：OpenAI 称与苹果合作效果不佳少数派编辑部前天 07:03派早报",
+      "url": "https://sspai.com/post/115079",
+      "author": "少数派编辑部",
+      "summary": "派早报：OpenAI 称与苹果合作效果不佳"
+    },
+    {
+      "rank": 11,
+      "title": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等板斧09/27",
+      "url": "https://sspai.com/post/115056",
+      "author": "板斧",
+      "summary": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等"
+    },
+    {
+      "rank": 12,
+      "title": "九月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1790062689",
+      "author": "一派讨论",
+      "summary": "九月买了什么好东西？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "芒果的策划又封神了",
+      "url": "https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E7%9A%84%E7%AD%96%E5%88%92%E5%8F%88%E5%B0%81%E7%A5%9E%E4%BA%86",
+      "hot_value": 320000
+    },
+    {
+      "rank": 2,
+      "title": "遵义三日",
+      "url": "https://s.weibo.com/weibo?q=%E9%81%B5%E4%B9%89%E4%B8%89%E6%97%A5",
+      "hot_value": 220000
+    },
+    {
+      "rank": 3,
+      "title": "不赶时间赶海",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%B5%B6%E6%97%B6%E9%97%B4%E8%B5%B6%E6%B5%B7",
+      "hot_value": 200000
+    },
+    {
+      "rank": 4,
+      "title": "小巷人家 陪跑",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%B7%B7%E4%BA%BA%E5%AE%B6+%E9%99%AA%E8%B7%91",
+      "hot_value": 170000
+    },
+    {
+      "rank": 5,
+      "title": "泰国洪灾后大量蛇和鳄鱼出没",
+      "url": "https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E6%B4%AA%E7%81%BE%E5%90%8E%E5%A4%A7%E9%87%8F%E8%9B%87%E5%92%8C%E9%B3%84%E9%B1%BC%E5%87%BA%E6%B2%A1",
+      "hot_value": 130000
+    },
+    {
+      "rank": 6,
+      "title": "赵丽颖身体到底怎么了",
+      "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%BA%AB%E4%BD%93%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E4%BA%86",
+      "hot_value": 120000
+    },
+    {
+      "rank": 7,
+      "title": "吃糖才会升血糖是误区",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%83%E7%B3%96%E6%89%8D%E4%BC%9A%E5%8D%87%E8%A1%80%E7%B3%96%E6%98%AF%E8%AF%AF%E5%8C%BA",
+      "hot_value": 120000
+    },
+    {
+      "rank": 8,
+      "title": "刘学义不认识杨迪何炅",
+      "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AD%A6%E4%B9%89%E4%B8%8D%E8%AE%A4%E8%AF%86%E6%9D%A8%E8%BF%AA%E4%BD%95%E7%82%85",
+      "hot_value": 120000
+    },
+    {
+      "rank": 9,
+      "title": "购房贴息 150万",
+      "url": "https://s.weibo.com/weibo?q=%E8%B4%AD%E6%88%BF%E8%B4%B4%E6%81%AF+150%E4%B8%87",
+      "hot_value": 110000
+    },
+    {
+      "rank": 10,
+      "title": "买新房贷款超一百万可获一万补贴",
+      "url": "https://s.weibo.com/weibo?q=%E4%B9%B0%E6%96%B0%E6%88%BF%E8%B4%B7%E6%AC%BE%E8%B6%85%E4%B8%80%E7%99%BE%E4%B8%87%E5%8F%AF%E8%8E%B7%E4%B8%80%E4%B8%87%E8%A1%A5%E8%B4%B4",
+      "hot_value": 110000
+    },
+    {
+      "rank": 11,
+      "title": "罗福莉31岁登顶小米最高职级",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E7%A6%8F%E8%8E%8931%E5%B2%81%E7%99%BB%E9%A1%B6%E5%B0%8F%E7%B1%B3%E6%9C%80%E9%AB%98%E8%81%8C%E7%BA%A7",
+      "hot_value": 110000
+    },
+    {
+      "rank": 12,
+      "title": "张家齐妈妈说不能和男孩子开玩笑",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E8%AF%B4%E4%B8%8D%E8%83%BD%E5%92%8C%E7%94%B7%E5%AD%A9%E5%AD%90%E5%BC%80%E7%8E%A9%E7%AC%91",
+      "hot_value": 100000
+    },
+    {
+      "rank": 13,
+      "title": "张家齐说陈芋汐21岁状态可怕",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E8%AF%B4%E9%99%88%E8%8A%8B%E6%B1%9021%E5%B2%81%E7%8A%B6%E6%80%81%E5%8F%AF%E6%80%95",
+      "hot_value": 100000
+    },
+    {
+      "rank": 14,
+      "title": "邓亚萍直言输球不要找借口",
+      "url": "https://s.weibo.com/weibo?q=%E9%82%93%E4%BA%9A%E8%90%8D%E7%9B%B4%E8%A8%80%E8%BE%93%E7%90%83%E4%B8%8D%E8%A6%81%E6%89%BE%E5%80%9F%E5%8F%A3",
+      "hot_value": 100000
+    },
+    {
+      "rank": 15,
+      "title": "心动9 脚底板",
+      "url": "https://s.weibo.com/weibo?q=%E5%BF%83%E5%8A%A89+%E8%84%9A%E5%BA%95%E6%9D%BF",
+      "hot_value": 100000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "陕西醉驾碾压教师并拖行 5.9 公里致死案提级审理，罪名变更为故意杀人，法律上如何分析",
+      "url": "https://www.zhihu.com/question/2088119863676089068",
+      "hot_value": 8270000
+    },
+    {
+      "rank": 2,
+      "title": "8.59 元香菜遭「仅退款」，商家驱车千里跨省讨回，如何评价？电商商家维权成本这么高，症结在哪",
+      "url": "https://www.zhihu.com/question/2087999455794566650",
+      "hot_value": 1850000
+    },
+    {
+      "rank": 3,
+      "title": "深蓝董事长称车载冰箱使用率 5%，娱乐屏全年使用不足 10 次，这些配置真的鸡肋吗？那为啥行业在狂卷配置",
+      "url": "https://www.zhihu.com/question/2087587655189881447",
+      "hot_value": 1590000
+    },
+    {
+      "rank": 4,
+      "title": "曾风靡全国的五笔为什么逐渐被拼音输入法取代了",
+      "url": "https://www.zhihu.com/question/561899452",
+      "hot_value": 1390000
+    },
+    {
+      "rank": 5,
+      "title": "怎么看媒体曝 Anthropic 提交 IPO 招股书，25 年营收增长 12 倍，净亏损 420 亿美元",
+      "url": "https://www.zhihu.com/question/2088194648518947828",
+      "hot_value": 1370000
+    },
+    {
+      "rank": 6,
+      "title": "国乒亚运会参加 7 项，拿下 6 金 4 银，仅男团未能夺金，如何评价本届亚运会国乒战绩",
+      "url": "https://www.zhihu.com/question/2088001437158720152",
+      "hot_value": 1310000
+    },
+    {
+      "rank": 7,
+      "title": "媒体追问那英临时加唱是否罚款引热议，「举报式采访」为啥引发争议？媒体这样报道合理吗",
+      "url": "https://www.zhihu.com/question/2088304193140252778",
+      "hot_value": 1240000
+    },
+    {
+      "rank": 8,
+      "title": "东京奥运前夕，张家齐母亲写了一封满是训诫内容的家书，但教练没有把家书给张家齐，怎样看待教练的做法",
+      "url": "https://www.zhihu.com/question/2087956519622898632",
+      "hot_value": 1200000
+    },
+    {
+      "rank": 9,
+      "title": "假如我在 GPT3.5 发布的第三天立刻上线性能对标 DeepSeekV4.1 的模型会怎么样",
+      "url": "https://www.zhihu.com/question/2086464412991371217",
+      "hot_value": 1190000
+    },
+    {
+      "rank": 10,
+      "title": "亚运会男女混 4×100 米接力决赛，中国队以 40 秒 78 夺金，拿下该项目亚运会历史首金，如何评价这场比赛",
+      "url": "https://www.zhihu.com/question/2088247556220400683",
+      "hot_value": 1040000
+    },
+    {
+      "rank": 11,
+      "title": "于和伟、宋佳分封视帝、视后，如何评价第 33 届中国电视金鹰奖获奖名单",
+      "url": "https://www.zhihu.com/question/2088357319029384022",
+      "hot_value": 980000
+    },
+    {
+      "rank": 12,
+      "title": "有运动员称亚运金牌有「瑕疵」，边缘区域存在色差，组委会连夜更换，为什么会这样？可能是哪些环节出现问题",
+      "url": "https://www.zhihu.com/question/2087090532799308553",
+      "hot_value": 810000
+    },
+    {
+      "rank": 13,
+      "title": "如何评价 FPS 游戏《战狗》的【贿赂医疗兵】系统，玩家可以花钱让医疗兵优先救自己？算不算本末倒置",
+      "url": "https://www.zhihu.com/question/2083645115826959080",
+      "hot_value": 780000
+    },
+    {
+      "rank": 14,
+      "title": "一线导演和编剧是怎样看待普通观众所写的影评的",
+      "url": "https://www.zhihu.com/question/2065017988923889015",
+      "hot_value": 740000
+    },
+    {
+      "rank": 15,
+      "title": "神雕侠侣到底是一部拙劣的言情武侠，还是一部高级的隐喻神作",
+      "url": "https://www.zhihu.com/question/2068998233511219282",
+      "hot_value": 710000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "score": 470,
+      "author": "crorella",
+      "comments": 374,
+      "hn_url": "https://news.ycombinator.com/item?id=49896586"
+    },
+    {
+      "rank": 2,
+      "title": "Tcl/Tk 9.1 Released",
+      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+      "score": 107,
+      "author": "dmux",
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49896712"
+    },
+    {
+      "rank": 3,
+      "title": "Dots: Always-on agents",
+      "url": "https://openai.com/index/introducing-dots/",
+      "score": 315,
+      "author": "alvis",
+      "comments": 214,
+      "hn_url": "https://news.ycombinator.com/item?id=49896604"
+    },
+    {
+      "rank": 4,
+      "title": "New PlayStation 5 Console Jailbreak Released",
+      "url": "https://github.com/ntfargo/Relapse-Exploit",
+      "score": 102,
+      "author": "therepanic",
+      "comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=49895304"
+    },
+    {
+      "rank": 5,
+      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "score": 303,
+      "author": "paimapi",
+      "comments": 202,
+      "hn_url": "https://news.ycombinator.com/item?id=49896050"
+    },
+    {
+      "rank": 6,
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "score": 350,
+      "author": "rbanffy",
+      "comments": 202,
+      "hn_url": "https://news.ycombinator.com/item?id=49892245"
+    },
+    {
+      "rank": 7,
+      "title": "NAND-16: a computer built from 277,248 NAND gates",
+      "url": "https://somethingbig.ai/computer",
+      "score": 31,
+      "author": "rossant",
+      "comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=49871018"
+    },
+    {
+      "rank": 8,
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "score": 386,
+      "author": "damaru2",
+      "comments": 124,
+      "hn_url": "https://news.ycombinator.com/item?id=49890226"
+    },
+    {
+      "rank": 9,
+      "title": "Virus Stole a Human Gene and Won't Let Go of It",
+      "url": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
+      "score": 36,
+      "author": "gumby",
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49883635"
+    },
+    {
+      "rank": 10,
+      "title": "Without the Hot Air",
+      "url": "https://www.withouthotair.com/",
+      "score": 107,
+      "author": "0sake_rs",
+      "comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=49892175"
+    },
+    {
+      "rank": 11,
+      "title": "Walking Men",
+      "url": "https://bookofjoe2.blogspot.com/2026/09/walking-men.html",
+      "score": 61,
+      "author": "surprisetalk",
+      "comments": 18,
+      "hn_url": "https://news.ycombinator.com/item?id=49878093"
+    },
+    {
+      "rank": 12,
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "url": "https://jagi.studio/posts/phyllotaxis/",
+      "score": 227,
+      "author": "evakhoury",
+      "comments": 40,
+      "hn_url": "https://news.ycombinator.com/item?id=49880411"
+    },
+    {
+      "rank": 13,
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "url": "https://github.com/PostHog/jeeves",
+      "score": 199,
+      "author": "nicowaltz",
+      "comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=49891290"
+    },
+    {
+      "rank": 14,
+      "title": "Using any C++ library in Godot",
+      "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+      "score": 141,
+      "author": "czoido",
+      "comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=49890051"
+    },
+    {
+      "rank": 15,
+      "title": "ChatGPT Pro 500",
+      "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "score": 132,
+      "author": "prodigycorp",
+      "comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=49896975"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发工具",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。VoiceStudio[1] 简直是本地版的 ElevenLabs，支持 666 种语言的语音克隆和视频配音，完全离线运行，数字人搞起来不用怕隐私泄露，已经拿了 4,000+ star。OpenShell[2] 则是 NVIDIA 推出的自主 AI 代理安全运行时，搞开发的朋友肯定关心这个，毕竟安全边界是核心痛点。Hindsight[3] 和 Univer[4] 一个让 AI 记忆能自我学习，一个把 Office 全家桶变成 AI 代理的统一运行时，这种生产力工具的进化速度太快了。还有 Paperclip[5] 这种办公管理神器，让团队协作更丝滑。\n\nLobsters 社区今天最火的一条挺有意思：文章讨论“什么才是真正的严肃 AI 产品”，提到现在很多人被 hype 冲昏了头脑[6]。这跟 GitHub 上那些实打实可用的工具形成了鲜明对比。少数派那边也有呼应，有一篇文章专门讲“近期值得关注的 App[7]\"，感觉大家都在从概念验证转向实际落地了。搞开发的朋友值得关注一下 dbx[8]，这个轻量级数据库工具支持 100+ 种数据库，内置 AI 助手，简直是数据库管理员的梦中情工。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术这块今天动静不小。GitHub 上的 Madeira[9] 项目厉害了，居然能在 jailbroken 的 iOS 设备上通过 FEX-Emu 运行 Windows 游戏，这技术跨度有点大，苹果生态玩家可以围观一下。Hijacking the PS5's RTMP Stream[10] 这个帖子在 Lobsters 上让很多人绷不住了，直接接管 PS5 的直播流，这操作有点“黑客精神”，不过得注意法律风险。MotifCentral[11] 则是对老牌 Unix 图形库 Motif 的致敬，看来经典永不过时。\n\n少数派社区里，关于“基于 Termux 的 Android 手机开发服务器实操[12]\"的文章很干货，把手机变服务器的思路又带火了一波。这种利用现有设备突破硬件限制的思路，总是能给人带来新的灵感。对于喜欢折腾硬件和系统的极客来说，这些开源工具和社区讨论都是宝藏。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "tech",
+        "summary": "数码界最近动作频频。Waterfall 水月雨发布了首款游戏耳机，还有八月派友的剁手清单[13]，看来大家过节前的购物欲不减。Apple Watch Series 12 和 iPhone Duo 的交互设计成了热议话题[14]，尤其是那块会变形的屏幕，重新定义了人与界面的关系，设计感拉满。ColorOS 17 的评测[15] 也显示国产系统还在疯狂进化。荣耀 Magic9 系列和智界 RX 的发布[16] 更是让手机圈热闹非凡。\n\n在效率工具方面，reclip[17] 这个轻量级视频下载器支持几乎任何网站，界面干净，适合需要素材的朋友。GitHub 上的 coursebook[18] 是爱荷华大学的开源系统编程教材，想补基础的同学可以看看。Lobsters 上 Bill Gates 尝试安装 Movie Maker 的趣事[19] 虽然有点怀旧，但也反映了不同时代用户对软件体验的微妙变化。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "think",
+        "summary": "今天的社区讨论充满了哲学思考。Lobsters 上有一篇长文《AI 并没有让编程更容易，只是让它变得困难了》[20]，观点很犀利，说 AI 改变了编程的方式，但并没有降低门槛，反而带来了新的复杂度。这跟 GitHub 上那些 AI 工程从 scratch 开始的项目[21] 形成了有趣的互文——既要会用 AI，又要懂底层。\n\n还有一个帖子《离开它们》[22]，讨论在 AI 无处不在的时代，我们该如何保持独立思考。这些观点文章很有深度，提醒我们在享受技术便利的同时，不要失去对技术的掌控感。少数派的一派投票[23] 也在收集用户对尝鲜新系统的反馈，这种自下而上的声音对于产品迭代很有价值。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "VoiceStudio",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "source": "GitHub Trending",
+        "desc": "开源本地 ElevenLabs 替代品，支持语音克隆"
+      },
+      {
+        "num": 2,
+        "title": "OpenShell",
+        "url": "https://github.com/NVIDIA/OpenShell",
+        "source": "GitHub Trending",
+        "desc": "NVIDIA 推出的自主 AI 代理安全运行时"
+      },
+      {
+        "num": 3,
+        "title": "Hindsight",
+        "url": "https://github.com/vectorize-io/hindsight",
+        "source": "GitHub Trending",
+        "desc": "让 AI 代理记忆能够自我学习的技术"
+      },
+      {
+        "num": 4,
+        "title": "Univer",
+        "url": "https://github.com/dream-num/univer",
+        "source": "GitHub Trending",
+        "desc": "AI 代理的 Office 统一运行时"
+      },
+      {
+        "num": 5,
+        "title": "Paperclip",
+        "url": "https://github.com/paperclipai/paperclip",
+        "source": "GitHub Trending",
+        "desc": "开源办公管理应用，用于管理 AI 代理"
+      },
+      {
+        "num": 6,
+        "title": "What Would A Serious AI Product Look Like?",
+        "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+        "source": "Lobsters",
+        "desc": "探讨严肃 AI 产品应具备的特质"
+      },
+      {
+        "num": 7,
+        "title": "近期值得关注的 App",
+        "url": "https://sspai.com/post/115094",
+        "source": "少数派",
+        "desc": "少数派编辑部推荐近期值得关注的应用"
+      },
+      {
+        "num": 8,
+        "title": "dbx",
+        "url": "https://github.com/t8y2/dbx",
+        "source": "GitHub Trending",
+        "desc": "轻量级跨平台数据库管理工具，内置 AI"
+      },
+      {
+        "num": 9,
+        "title": "Madeira",
+        "url": "https://github.com/willfaust/Madeira",
+        "source": "GitHub Trending",
+        "desc": "在 jailbroken iOS 上运行 Windows 游戏的工具"
+      },
+      {
+        "num": 10,
+        "title": "Hijacking the PS5's RTMP Stream",
+        "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+        "source": "Lobsters",
+        "desc": "关于接管 PS5 直播流的技术讨论"
+      },
+      {
+        "num": 11,
+        "title": "MotifCentral",
+        "url": "https://motif-central.org/",
+        "source": "Lobsters",
+        "desc": "关于 Motif/Xt/Xlib 图形库的讨论"
+      },
+      {
+        "num": 12,
+        "title": "基于 Termux 的 Android 手机开发服务器实操",
+        "url": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
+        "source": "少数派",
+        "desc": "利用 Termux 构建 Android 开发环境"
+      },
+      {
+        "num": 13,
+        "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
+        "url": "https://sspai.com/post/115153",
+        "source": "少数派",
+        "desc": "水月雨游戏耳机发布及购物清单"
+      },
+      {
+        "num": 14,
+        "title": "更懂你的心，也更懂你：Apple Watch Series 12 体验",
+        "url": "https://sspai.com/post/115061",
+        "source": "少数派",
+        "desc": "Apple Watch Series 12 深度体验评测"
+      },
+      {
+        "num": 15,
+        "title": "可塑的白昼：ColorOS17 深度评测",
+        "url": "https://sspai.com/post/114728",
+        "source": "少数派",
+        "desc": "ColorOS 17 系统深度评测"
+      },
+      {
+        "num": 16,
+        "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
+        "url": "https://sspai.com/post/115134",
+        "source": "少数派",
+        "desc": "荣耀与鸿蒙智行最新产品发布资讯"
+      },
+      {
+        "num": 17,
+        "title": "reclip",
+        "url": "https://github.com/averygan/reclip",
+        "source": "GitHub Trending",
+        "desc": "轻量级自托管视频下载器"
+      },
+      {
+        "num": 18,
+        "title": "coursebook",
+        "url": "https://github.com/cs341-illinois/coursebook",
+        "source": "GitHub Trending",
+        "desc": "爱荷华大学开源系统编程教材"
+      },
+      {
+        "num": 19,
+        "title": "Bill Gates tries to install Movie Maker",
+        "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+        "source": "Lobsters",
+        "desc": "关于 Bill Gates 安装 Movie Maker 的趣事"
+      },
+      {
+        "num": 20,
+        "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
+        "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+        "source": "Lobsters",
+        "desc": "探讨 AI 对编程难度的影响"
+      },
+      {
+        "num": 21,
+        "title": "ai-engineering-from-scratch",
+        "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+        "source": "GitHub Trending",
+        "desc": "从零开始学习 AI 工程的项目"
+      },
+      {
+        "num": 22,
+        "title": "Leaving them behind",
+        "url": "https://dbushell.com/2026/09/28/leaving-them-behind/",
+        "source": "Lobsters",
+        "desc": "在 AI 时代保持独立思考的讨论"
+      },
+      {
+        "num": 23,
+        "title": "快速投票：尝鲜升级新系统，你的体验满意还是翻车？",
+        "url": "https://sspai.com/bullet/1790147642",
+        "source": "少数派",
+        "desc": "关于尝鲜新系统的用户投票"
+      }
+    ],
+    "stats": {
+      "total_items": 23,
+      "total_categories": 4,
+      "total_sources": 23
+    }
+  }
+}
