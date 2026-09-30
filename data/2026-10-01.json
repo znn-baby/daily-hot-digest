@@ -1,0 +1,864 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "NVIDIA / OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": "12181",
+      "stars_today": "1,280 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 2,
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "50149",
+      "stars_today": "3,481 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "mvschwarz / openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "stars": "2881",
+      "stars_today": "622 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 4,
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": "24407",
+      "stars_today": "88 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 5,
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": "148968",
+      "stars_today": "865 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 6,
+      "title": "harry0703 / MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars": "127439",
+      "stars_today": "464 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "openclaw / openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+      "stars": "390927",
+      "stars_today": "136 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 8,
+      "title": "ComposioHQ / awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": "76062",
+      "stars_today": "118 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": "272843",
+      "stars_today": "908 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 10,
+      "title": "heygen-com / hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "stars": "54601",
+      "stars_today": "352 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 11,
+      "title": "firebase / firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "stars": "6738",
+      "stars_today": "4 stars today",
+      "language": "C++"
+    },
+    {
+      "rank": 12,
+      "title": "modelcontextprotocol / servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "stars": "90763",
+      "stars_today": "48 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 13,
+      "title": "byoungd / up",
+      "url": "https://github.com/byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "stars": "66326",
+      "stars_today": "714 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 14,
+      "title": "colbymchenry / codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "stars": "72537",
+      "stars_today": "159 stars today",
+      "language": "C"
+    },
+    {
+      "rank": 15,
+      "title": "t8y2 / dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "stars": "23039",
+      "stars_today": "1,133 stars today",
+      "language": "Rust"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "The Cuckoo's Egg",
+      "url": "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)",
+      "source_url": "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)",
+      "tags": [
+        "book",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "atmosx"
+    },
+    {
+      "rank": 2,
+      "title": "What TLA+ can and can't check",
+      "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "source_url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "tags": [
+        "formalmethods"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "hwayne"
+    },
+    {
+      "rank": 3,
+      "title": "Differences between `foldl` and `foldr`",
+      "url": "https://blog.haskell.org/foldl-and-foldr/",
+      "source_url": "https://blog.haskell.org/foldl-and-foldr/",
+      "tags": [
+        "haskell"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "eatonphil"
+    },
+    {
+      "rank": 4,
+      "title": "Tcl/Tk 9.1",
+      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+      "source_url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+      "tags": [
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "fanf"
+    },
+    {
+      "rank": 5,
+      "title": "How to speed up the Rust compiler in September 2026",
+      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "source_url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "tags": [
+        "compilers",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "patchunwrap"
+    },
+    {
+      "rank": 6,
+      "title": "Pining for Arc Downcasting in Rust",
+      "url": "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/",
+      "source_url": "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "polywolf"
+    },
+    {
+      "rank": 7,
+      "title": "Turbo Haskell",
+      "url": "https://comonad.com/reader/2026/turbo-haskell/",
+      "source_url": "https://comonad.com/reader/2026/turbo-haskell/",
+      "tags": [
+        "haskell",
+        "java",
+        "programming",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "carbolymer"
+    },
+    {
+      "rank": 8,
+      "title": "Hanami, Why?: Introductions",
+      "url": "https://aaronmallen.me/writing/hanami-why-introductions",
+      "source_url": "https://aaronmallen.me/writing/hanami-why-introductions",
+      "tags": [
+        "ruby"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "aaronmallen"
+    },
+    {
+      "rank": 9,
+      "title": "CoW — a stacking window manager for Wayland",
+      "url": "https://cow-wm.codeberg.page/cow/",
+      "source_url": "https://cow-wm.codeberg.page/cow/",
+      "tags": [
+        "freebsd",
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "hawski"
+    },
+    {
+      "rank": 10,
+      "title": "Q2 2026 Backblaze Drive Stats: Hard Drive Failure Rates",
+      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+      "source_url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "hoistbypetard"
+    },
+    {
+      "rank": 11,
+      "title": "Deser: Rethinking Rust Serialization",
+      "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+      "source_url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+      "tags": [
+        "rust",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "asb"
+    },
+    {
+      "rank": 12,
+      "title": "Two Kinds of SQL Query Builders",
+      "url": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
+      "source_url": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
+      "tags": [
+        "databases"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "pushcx"
+    },
+    {
+      "rank": 13,
+      "title": "Branch Target Reuse: Spectre-v2 Attacks in JIT Engines",
+      "url": "https://www.vusec.net/projects/btr/",
+      "source_url": "https://www.vusec.net/projects/btr/",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "fro"
+    },
+    {
+      "rank": 14,
+      "title": "Coding is not solved",
+      "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+      "source_url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "abareplace"
+    },
+    {
+      "rank": 15,
+      "title": "Dirty Optimization Secrets (C for Playdate)",
+      "url": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
+      "source_url": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
+      "tags": [
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "strugee"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉Plutonium昨天 22:32Matrix精选",
+      "url": "https://sspai.com/post/115070",
+      "author": "Plutonium",
+      "summary": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉"
+    },
+    {
+      "rank": 2,
+      "title": "经典任务管理软件的现代重构：新版 2Do 详解完全重构的 2Do 是我的心目中最佳的任务管理工具。广陵止息昨天 15:00",
+      "url": "https://sspai.com/post/115166",
+      "author": "广陵止息",
+      "summary": "经典任务管理软件的现代重构：新版 2Do 详解"
+    },
+    {
+      "rank": 3,
+      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的胡九思昨天 11:02Matrix精选",
+      "url": "https://sspai.com/post/114945",
+      "author": "胡九思",
+      "summary": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等少数派编辑部昨天 07:39派早报",
+      "url": "https://sspai.com/post/115197",
+      "author": "少数派编辑部",
+      "summary": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等"
+    },
+    {
+      "rank": 5,
+      "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单Matrix机器人前天 17:03",
+      "url": "https://sspai.com/post/115153",
+      "author": "Matrix机器人",
+      "summary": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单"
+    },
+    {
+      "rank": 6,
+      "title": "更懂你的心，也更懂你：Apple Watch Series 12 体验全新 Apple Watch Series 12，有哪些可感知的升级？ElijahLee前天 15:44",
+      "url": "https://sspai.com/post/115061",
+      "author": "ElijahLee",
+      "summary": "更懂你的心，也更懂你：Apple Watch Series 12 体验"
+    },
+    {
+      "rank": 7,
+      "title": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1790146393",
+      "author": "一派投票",
+      "summary": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？"
+    },
+    {
+      "rank": 8,
+      "title": "可塑的白昼：ColorOS17 深度评测Enc3lMag1k前天 11:28",
+      "url": "https://sspai.com/post/114728",
+      "author": "Enc3lMag1k",
+      "summary": "可塑的白昼：ColorOS17 深度评测"
+    },
+    {
+      "rank": 9,
+      "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等少数派编辑部前天 08:09派早报",
+      "url": "https://sspai.com/post/115134",
+      "author": "少数派编辑部",
+      "summary": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等"
+    },
+    {
+      "rank": 10,
+      "title": "派评 | 近期值得关注的 App少数派编辑部09/28",
+      "url": "https://sspai.com/post/115094",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 11,
+      "title": "基于 Termux 的 Android 手机开发服务器实操neyham09/28会员内容",
+      "url": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
+      "author": "neyham",
+      "summary": "基于 Termux 的 Android 手机开发服务器实操"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "为什么不喜欢全民发钱",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%85%A8%E6%B0%91%E5%8F%91%E9%92%B1",
+      "hot_value": 270000
+    },
+    {
+      "rank": 2,
+      "title": "少年儿童高唱我们是共产主义接班人",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%91%E5%B9%B4%E5%84%BF%E7%AB%A5%E9%AB%98%E5%94%B1%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA",
+      "hot_value": 210000
+    },
+    {
+      "rank": 3,
+      "title": "踹翻孕妇电动车当事司机发声",
+      "url": "https://s.weibo.com/weibo?q=%E8%B8%B9%E7%BF%BB%E5%AD%95%E5%A6%87%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%BD%93%E4%BA%8B%E5%8F%B8%E6%9C%BA%E5%8F%91%E5%A3%B0",
+      "hot_value": 190000
+    },
+    {
+      "rank": 4,
+      "title": "副机长刺伤机长迪拜航空客机失控俯冲",
+      "url": "https://s.weibo.com/weibo?q=%E5%89%AF%E6%9C%BA%E9%95%BF%E5%88%BA%E4%BC%A4%E6%9C%BA%E9%95%BF%E8%BF%AA%E6%8B%9C%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%9C%BA%E5%A4%B1%E6%8E%A7%E4%BF%AF%E5%86%B2",
+      "hot_value": 150000
+    },
+    {
+      "rank": 5,
+      "title": "奚梦瑶给女儿买了可爱版菜篮子",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%BB%99%E5%A5%B3%E5%84%BF%E4%B9%B0%E4%BA%86%E5%8F%AF%E7%88%B1%E7%89%88%E8%8F%9C%E7%AF%AE%E5%AD%90",
+      "hot_value": 150000
+    },
+    {
+      "rank": 6,
+      "title": "辨明食品谣言小龙虾放心吃",
+      "url": "https://s.weibo.com/weibo?q=%E8%BE%A8%E6%98%8E%E9%A3%9F%E5%93%81%E8%B0%A3%E8%A8%80%E5%B0%8F%E9%BE%99%E8%99%BE%E6%94%BE%E5%BF%83%E5%90%83",
+      "hot_value": 150000
+    },
+    {
+      "rank": 7,
+      "title": "只有李一桐有艺名",
+      "url": "https://s.weibo.com/weibo?q=%E5%8F%AA%E6%9C%89%E6%9D%8E%E4%B8%80%E6%A1%90%E6%9C%89%E8%89%BA%E5%90%8D",
+      "hot_value": 150000
+    },
+    {
+      "rank": 8,
+      "title": "郭晓东道歉",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%AD%E6%99%93%E4%B8%9C%E9%81%93%E6%AD%89",
+      "hot_value": 140000
+    },
+    {
+      "rank": 9,
+      "title": "飞天奖提名名单",
+      "url": "https://s.weibo.com/weibo?q=%E9%A3%9E%E5%A4%A9%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95",
+      "hot_value": 120000
+    },
+    {
+      "rank": 10,
+      "title": "兰香如故三小姐侯爷是一见钟情",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E4%B8%89%E5%B0%8F%E5%A7%90%E4%BE%AF%E7%88%B7%E6%98%AF%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85",
+      "hot_value": 110000
+    },
+    {
+      "rank": 11,
+      "title": "这种大大方方真的招人喜欢",
+      "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E7%A7%8D%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E7%9C%9F%E7%9A%84%E6%8B%9B%E4%BA%BA%E5%96%9C%E6%AC%A2",
+      "hot_value": 110000
+    },
+    {
+      "rank": 12,
+      "title": "陈浩民妻子拿雅典娜事件教育孩子",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%88%E6%B5%A9%E6%B0%91%E5%A6%BB%E5%AD%90%E6%8B%BF%E9%9B%85%E5%85%B8%E5%A8%9C%E4%BA%8B%E4%BB%B6%E6%95%99%E8%82%B2%E5%AD%A9%E5%AD%90",
+      "hot_value": 90000
+    },
+    {
+      "rank": 13,
+      "title": "中国首位金牌电竞女选手桃晚安",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%BD%8D%E9%87%91%E7%89%8C%E7%94%B5%E7%AB%9E%E5%A5%B3%E9%80%89%E6%89%8B%E6%A1%83%E6%99%9A%E5%AE%89",
+      "hot_value": 90000
+    },
+    {
+      "rank": 14,
+      "title": "迪拜航空客机事故最新画面",
+      "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E6%8B%9C%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%9C%BA%E4%BA%8B%E6%95%85%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2",
+      "hot_value": 80000
+    },
+    {
+      "rank": 15,
+      "title": "国庆节",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%BA%86%E8%8A%82",
+      "hot_value": 80000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "为什么 GPT-6 Astra 玩《我的世界》被炸毁进度后连续数小时种植土豆？这种异常行为怎么产生的",
+      "url": "https://www.zhihu.com/question/2083989447276762504",
+      "hot_value": 4880000
+    },
+    {
+      "rank": 2,
+      "title": "如何评价 OpenAI 发布的 GPT-6.1 SOL",
+      "url": "https://www.zhihu.com/question/2088438691786246011",
+      "hot_value": 1830000
+    },
+    {
+      "rank": 3,
+      "title": "如何看待江苏高考接近满分记叙文《衬衫的价格为 9 镑 15 便士》火了？为啥会引发大家的共鸣",
+      "url": "https://www.zhihu.com/question/2088295452206523479",
+      "hot_value": 1610000
+    },
+    {
+      "rank": 4,
+      "title": "鸿蒙装机量突破 9000 万台，预计年底破亿，对移动操作系统格局有何影响",
+      "url": "https://www.zhihu.com/question/2088353923895772803",
+      "hot_value": 1580000
+    },
+    {
+      "rank": 5,
+      "title": "我国最好吃的淡水鱼是什么鱼",
+      "url": "https://www.zhihu.com/question/570224987",
+      "hot_value": 1250000
+    },
+    {
+      "rank": 6,
+      "title": "能把一个刺头从个人贡献者培养成为团队管理者吗",
+      "url": "https://www.zhihu.com/question/1963395783874295704",
+      "hot_value": 680000
+    },
+    {
+      "rank": 7,
+      "title": "为啥到底谁是中上 985，谁是中下 985，吵得不可开交，但几乎没人吵谁是中上 211，谁是中下 211",
+      "url": "https://www.zhihu.com/question/2087821422802507545",
+      "hot_value": 590000
+    },
+    {
+      "rank": 8,
+      "title": "太阳系是扁平的，那向上或向下飞，不就可以快速飞出太阳系了吗",
+      "url": "https://www.zhihu.com/question/1888618640896657261",
+      "hot_value": 590000
+    },
+    {
+      "rank": 9,
+      "title": "电脑删除的文件，到底去哪了",
+      "url": "https://www.zhihu.com/question/2079914321300157706",
+      "hot_value": 580000
+    },
+    {
+      "rank": 10,
+      "title": "虫子为啥不进化的可爱一点，这样人类就不忍心踩死了",
+      "url": "https://www.zhihu.com/question/2088262311232235410",
+      "hot_value": 580000
+    },
+    {
+      "rank": 11,
+      "title": "如何评价 OpenAI 推出个人 AI 助理 Dot，可全天候自主执行任务并连接 4000 多款应用",
+      "url": "https://www.zhihu.com/question/2088542369264005449",
+      "hot_value": 580000
+    },
+    {
+      "rank": 12,
+      "title": "如何看待年轻人花一万二买房去大兴安岭隐居，折合下来一平方米仅一百块钱？这种生活方式怎么样",
+      "url": "https://www.zhihu.com/question/2087955133321761257",
+      "hot_value": 570000
+    },
+    {
+      "rank": 13,
+      "title": "《火影忍者》中的我爱罗出场强得不行，后期为什么感觉变弱了",
+      "url": "https://www.zhihu.com/question/585489155",
+      "hot_value": 570000
+    },
+    {
+      "rank": 14,
+      "title": "你知道最小众的冷知识是什么",
+      "url": "https://www.zhihu.com/question/2018007805169284858",
+      "hot_value": 560000
+    },
+    {
+      "rank": 15,
+      "title": "一个人开车跑高速犯困了，除了喝红牛和掐大腿，还有什么真正有效的提神方法",
+      "url": "https://www.zhihu.com/question/2084653683766191673",
+      "hot_value": 560000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "score": 52,
+      "author": "anerli",
+      "comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=49911995"
+    },
+    {
+      "rank": 2,
+      "title": "Commit Description as a Thinking Tool",
+      "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+      "score": 57,
+      "author": "yedhukrishnan",
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49911757"
+    },
+    {
+      "rank": 3,
+      "title": "A brief history of the Bloomberg terminal",
+      "url": "https://spectrum.ieee.org/bloomberg-terminal",
+      "score": 132,
+      "author": "rbanffy",
+      "comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=49909583"
+    },
+    {
+      "rank": 4,
+      "title": "You Said No MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "score": 507,
+      "author": "yarapavan",
+      "comments": 285,
+      "hn_url": "https://news.ycombinator.com/item?id=49906637"
+    },
+    {
+      "rank": 5,
+      "title": "Burning Man Death Rates – A Short Lesson in Statistics",
+      "url": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
+      "score": 57,
+      "author": "viraj_shah",
+      "comments": 38,
+      "hn_url": "https://news.ycombinator.com/item?id=49882754"
+    },
+    {
+      "rank": 6,
+      "title": "I Could've Accessed 17T Microsoft Records",
+      "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+      "score": 164,
+      "author": "luispa",
+      "comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=49883970"
+    },
+    {
+      "rank": 7,
+      "title": "What TLA+ can and can't check",
+      "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "score": 61,
+      "author": "b-man",
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=49909056"
+    },
+    {
+      "rank": 8,
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "score": 93,
+      "author": "ibobev",
+      "comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=49908962"
+    },
+    {
+      "rank": 9,
+      "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
+      "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
+      "score": 36,
+      "author": "croes",
+      "comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=49910613"
+    },
+    {
+      "rank": 10,
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+      "score": 1,
+      "author": "rooppal",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49911531"
+    },
+    {
+      "rank": 11,
+      "title": "The last time my family was replaced by technology",
+      "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+      "score": 82,
+      "author": "megalomanu",
+      "comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=49908394"
+    },
+    {
+      "rank": 12,
+      "title": "SDF Public Access Unix System ... est. 1987",
+      "url": "https://sdf.org/",
+      "score": 45,
+      "author": "kmstout",
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49909610"
+    },
+    {
+      "rank": 13,
+      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+      "score": 9,
+      "author": "jbott",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49912444"
+    },
+    {
+      "rank": 14,
+      "title": "Reverse-engineering a $35 backup camera display (AMT630A)",
+      "url": "https://github.com/mogrinz/AMT630A",
+      "score": 46,
+      "author": "mogrinz",
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49884346"
+    },
+    {
+      "rank": 15,
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "score": 840,
+      "author": "bryan0",
+      "comments": 355,
+      "hn_url": "https://news.ycombinator.com/item?id=49901736"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与生成式工作流",
+        "color": "ai",
+        "summary": "GitHub 上 AI Agent 相关项目又炸了。NVIDIA 推出的 OpenShell[1] 号称自主 AI 代理的私密运行时环境，主打安全与私有化，这在企业级落地场景下非常有吸引力。context-mode[4] 这个项目很有意思，它专门优化 AI 代码代理的上下文窗口，能把工具输出沙箱化以减少 98% 的冗余，还能通过 MCP 协议连接 17 个平台，让多模型协作更顺滑。Lobsters 那边关于 \"Coding is not solved\"[14] 的讨论也挺戳人，大家都在反思 AI 到底有没有真正解决编程痛点的核心问题，毕竟像 Turbo Haskell[7] 这种让 Haskell 写出 Java 级性能的努力还在继续，但底层逻辑的瓶颈可能还没破。少数派的文章《从玩家的世界掠过》[1] 提到 Bungie 的列车终焉，其实也是在讲数字世界的演进，这和 AI 如何重塑开发流程是同一个主题，都在探讨旧秩序如何被新技术冲刷。"
+      },
+      {
+        "name": "开发工具与系统底层",
+        "color": "dev",
+        "summary": "工具类项目今天也很卷。VoiceStudio[2] 是个完全本地的开源 ElevenLabs 替代品，支持 646 种语言的声音克隆和视频配音，搞独立开发或者内容创作的可以关注一下，不用把数据传到云端去。dbx[15] 这个轻量级跨平台数据库客户端支持超过 100 种数据库，连达梦这种国产库都覆盖了，还内置了 AI 助手，对于需要多源数据管理的朋友很实用。Lobsters 社区对 Rust 编译器的加速讨论[5] 以及 Deser 序列化库的重新思考[11] 显示底层语言生态依然活跃，搞 Rust 的朋友值得细看。少数派分享了基于 Termux 把安卓手机变成开发服务器的实操[9]，这种极客玩法虽然小众，但证明了移动设备在边缘计算上的潜力，搞安全的朋友也可以留意这种非传统终端的利用可能性。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "think",
+        "summary": "今天读的 Lobsters 帖子最有感触的是 \"Branch Target Reuse: Spectre-v2 Attacks in JIT Engines\"[12]，这揭示了 JIT 引擎中存在的侧信道攻击新向量，搞安全的朋友必须转给团队看，这可是实打实的硬件级威胁。另外，关于 \"What TLA+ can and can't check\"[2] 的讨论提醒我们，形式化验证虽然强大，但也不是万能药。少数派那篇《聊聊你用开源项目或 AI Coding 代替了哪些付费订阅》[6] 的投票很有意思，大家开始尝试用开源方案替代商业软件，这种趋势下，开源社区的成熟度直接决定了生产力的边界。还有个挺有意思的点是 Tcl/Tk 9.1 的发布[4]，在这个图形界面普遍被 Web 取代的年代，经典 GUI 库还能出新版本，说明基础设施的生命力远超想象。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "product",
+        "summary": "数码圈最近动静不小。Apple Watch Series 12 带来了更懂用户心的升级[5]，特别是针对睡眠呼吸暂停迹象的提示功能，对于关注健康管理的用户来说是实打实的利好。荣耀 Magic9 系列和鸿蒙智行智界 RX 的发布[7] 也让国内智能硬件市场又热闹了一把。效率方面，新版 2Do 的完全重构[2] 让它重回最佳任务管理工具的神坛，这种经典软件的大厂级重构确实难得。还有 ColorOS 17 的深度评测[8]，展示了国产系统在底层优化上的新花样。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "OpenShell",
+        "url": "https://github.com/NVIDIA/OpenShell",
+        "source": "GitHub",
+        "desc": "NVIDIA 推出的自主 AI 代理安全运行时"
+      },
+      {
+        "num": 2,
+        "title": "VoiceStudio",
+        "url": "https://github.com/debpalash/VoiceStudio",
+        "source": "GitHub",
+        "desc": "全本地开源 ElevenLabs 替代品，支持 646 种语言"
+      },
+      {
+        "num": 3,
+        "title": "The Cuckoo's Egg (book)",
+        "url": "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)",
+        "source": "Lobsters",
+        "desc": "经典网络安全书籍讨论"
+      },
+      {
+        "num": 4,
+        "title": "context-mode",
+        "url": "https://github.com/mksglu/context-mode",
+        "source": "GitHub",
+        "desc": "AI 代码代理上下文窗口优化与沙箱化工具"
+      },
+      {
+        "num": 5,
+        "title": "What TLA+ can and can't check",
+        "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+        "source": "Lobsters",
+        "desc": "关于形式化验证能力的技术讨论"
+      },
+      {
+        "num": 6,
+        "title": "新版 2Do 详解",
+        "url": "https://sspai.com/post/115166",
+        "source": "少数派",
+        "desc": "经典任务管理软件 2Do 的完全重构评测"
+      },
+      {
+        "num": 7,
+        "title": "Turbo Haskell",
+        "url": "https://comonad.com/reader/2026/turbo-haskell/",
+        "source": "Lobsters",
+        "desc": "关于 Haskell 性能优化的社区讨论"
+      },
+      {
+        "num": 8,
+        "title": "ColorOS17 深度评测",
+        "url": "https://sspai.com/post/114728",
+        "source": "少数派",
+        "desc": "ColorOS 17 系统底层优化与新特性解析"
+      },
+      {
+        "num": 9,
+        "title": "基于 Termux 的 Android 手机开发服务器实操",
+        "url": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
+        "source": "少数派",
+        "desc": "利用安卓终端作为开发服务器的极客教程"
+      },
+      {
+        "num": 10,
+        "title": "Apple Watch Series 12 体验",
+        "url": "https://sspai.com/post/115061",
+        "source": "少数派",
+        "desc": "全新 Apple Watch Series 12 健康功能升级评测"
+      },
+      {
+        "num": 11,
+        "title": "Deser: Rethinking Rust Serialization",
+        "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+        "source": "Lobsters",
+        "desc": "Rust 序列化库的重新思考与架构讨论"
+      },
+      {
+        "num": 12,
+        "title": "Branch Target Reuse: Spectre-v2 Attacks in JIT Engines",
+        "url": "https://www.vusec.net/projects/btr/",
+        "source": "Lobsters",
+        "desc": "JIT 引擎中的 Spectre-v2 侧信道攻击研究"
+      },
+      {
+        "num": 13,
+        "title": "Coding is not solved",
+        "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+        "source": "Lobsters",
+        "desc": "关于 AI 是否真正解决了编程问题的反思"
+      },
+      {
+        "num": 14,
+        "title": "Tcl/Tk 9.1",
+        "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+        "source": "Lobsters",
+        "desc": "经典 GUI 框架 Tcl/Tk 新版本发布"
+      },
+      {
+        "num": 15,
+        "title": "dbx",
+        "url": "https://github.com/t8y2/dbx",
+        "source": "GitHub",
+        "desc": "轻量级跨平台数据库管理工具，支持 100+ 数据库"
+      }
+    ],
+    "stats": {
+      "total_items": 15,
+      "total_categories": 4,
+      "total_sources": 15
+    }
+  }
+}
