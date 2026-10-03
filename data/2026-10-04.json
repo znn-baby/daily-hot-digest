@@ -1,0 +1,930 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": "152953",
+      "stars_today": "1,289 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 2,
+      "title": "pbakaus / impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": "75007",
+      "stars_today": "705 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 3,
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "272025",
+      "stars_today": "954 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 4,
+      "title": "Effect-TS / effect",
+      "url": "https://github.com/Effect-TS/effect",
+      "description": "Build production-ready applications in TypeScript",
+      "stars": "16753",
+      "stars_today": "302 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 5,
+      "title": "JuliusBrussee / caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": "109430",
+      "stars_today": "505 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 6,
+      "title": "Panniantong / Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": "89596",
+      "stars_today": "1,683 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "pingdotgg / t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "stars": "24540",
+      "stars_today": "251 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 8,
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stars": "95429",
+      "stars_today": "218 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 9,
+      "title": "cloudflare / cloudflare-os",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "stars": "10491",
+      "stars_today": "84 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 10,
+      "title": "addyosmani / agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": "100770",
+      "stars_today": "305 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 11,
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": "294810",
+      "stars_today": "578 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 12,
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": "275220",
+      "stars_today": "750 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 13,
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": "25204",
+      "stars_today": "256 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 14,
+      "title": "earendil-works / pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": "112060",
+      "stars_today": "408 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 15,
+      "title": "getsentry / sentry",
+      "url": "https://github.com/getsentry/sentry",
+      "description": "Developer-first error tracking and performance monitoring",
+      "stars": "45168",
+      "stars_today": "211 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
+      "url": "https://frankwiles.com/posts/i-got-targeted/",
+      "source_url": "https://frankwiles.com/posts/i-got-targeted/",
+      "tags": [
+        "security",
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "frankwiles"
+    },
+    {
+      "rank": 2,
+      "title": "The Era of Software Quality, or the Era of Ostriches?",
+      "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+      "source_url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "calvin"
+    },
+    {
+      "rank": 3,
+      "title": "Zig 0.17.0 Release Notes",
+      "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "source_url": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "tags": [
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "saccharin"
+    },
+    {
+      "rank": 4,
+      "title": "Lobsters Interview with Sjamaan",
+      "url": "https://alexalejandre.com/interviews/peter-bex/",
+      "source_url": "https://alexalejandre.com/interviews/peter-bex/",
+      "tags": [
+        "interview",
+        "lisp"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "veqq"
+    },
+    {
+      "rank": 5,
+      "title": "How to Hack Time, With C2PA",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+      "source_url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+      "tags": [
+        "cryptography",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "retr0id"
+    },
+    {
+      "rank": 6,
+      "title": "gVisor is being donated to CNCF",
+      "url": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/",
+      "source_url": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/",
+      "tags": [
+        "devops"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "carlana"
+    },
+    {
+      "rank": 7,
+      "title": "Two-Stack Sliding-Window Aggregation",
+      "url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
+      "source_url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
+      "tags": [
+        "compsci"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "fanf"
+    },
+    {
+      "rank": 8,
+      "title": "Actual RFC1149 packet being auctioned",
+      "url": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
+      "source_url": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
+      "tags": [
+        "networking"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "dsr"
+    },
+    {
+      "rank": 9,
+      "title": "Rust for CPython (Python Language Summit 2026)",
+      "url": "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/",
+      "source_url": "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/",
+      "tags": [
+        "python",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "blin"
+    },
+    {
+      "rank": 10,
+      "title": "The Four Horsemen of Agentic Coding",
+      "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
+      "source_url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "guillego"
+    },
+    {
+      "rank": 11,
+      "title": "The Era of Programming Languages Exploration is upon Us",
+      "url": "https://kirancodes.me/posts/log-end-of-pl.html",
+      "source_url": "https://kirancodes.me/posts/log-end-of-pl.html",
+      "tags": [
+        "plt",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "abhin4v"
+    },
+    {
+      "rank": 12,
+      "title": "Writing the Cyclone Scheme Compiler (2017)",
+      "url": "https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017",
+      "source_url": "https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017",
+      "tags": [
+        "lisp"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "fanf"
+    },
+    {
+      "rank": 13,
+      "title": "Security in the LLM Age",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "source_url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "tags": [
+        "video",
+        "security",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "dimonomid"
+    },
+    {
+      "rank": 14,
+      "title": "Updates to Full Disk Access in macOS",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "source_url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "tags": [
+        "mac",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "videah"
+    },
+    {
+      "rank": 15,
+      "title": "The forgetful CPU (Linux on M4)",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "source_url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "tags": [
+        "hardware",
+        "linux",
+        "reversing"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "calvin"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验KingTsui昨天 15:00",
+      "url": "https://sspai.com/post/114922",
+      "author": "KingTsui",
+      "summary": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验"
+    },
+    {
+      "rank": 2,
+      "title": "本周看什么 | 最近值得一看的 8 部作品少数派编辑部前天 17:30",
+      "url": "https://sspai.com/post/115211",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 8 部作品"
+    },
+    {
+      "rank": 3,
+      "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉Plutonium09/30Matrix精选",
+      "url": "https://sspai.com/post/115070",
+      "author": "Plutonium",
+      "summary": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉"
+    },
+    {
+      "rank": 4,
+      "title": "经典任务管理软件的现代重构：新版 2Do 详解完全重构的 2Do 是我的心目中最佳的任务管理工具。广陵止息09/30",
+      "url": "https://sspai.com/post/115166",
+      "author": "广陵止息",
+      "summary": "经典任务管理软件的现代重构：新版 2Do 详解"
+    },
+    {
+      "rank": 5,
+      "title": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1790146393",
+      "author": "一派投票",
+      "summary": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？"
+    },
+    {
+      "rank": 6,
+      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的胡九思09/30Matrix精选",
+      "url": "https://sspai.com/post/114945",
+      "author": "胡九思",
+      "summary": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的"
+    },
+    {
+      "rank": 7,
+      "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等少数派编辑部09/30派早报",
+      "url": "https://sspai.com/post/115197",
+      "author": "少数派编辑部",
+      "summary": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等"
+    },
+    {
+      "rank": 8,
+      "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单Matrix机器人09/29",
+      "url": "https://sspai.com/post/115153",
+      "author": "Matrix机器人",
+      "summary": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单"
+    },
+    {
+      "rank": 9,
+      "title": "更懂你的心，也更懂你：Apple Watch Series 12 体验全新 Apple Watch Series 12，有哪些可感知的升级？ElijahLee09/29",
+      "url": "https://sspai.com/post/115061",
+      "author": "ElijahLee",
+      "summary": "更懂你的心，也更懂你：Apple Watch Series 12 体验"
+    },
+    {
+      "rank": 10,
+      "title": "可塑的白昼：ColorOS17 深度评测Enc3lMag1k09/29",
+      "url": "https://sspai.com/post/114728",
+      "author": "Enc3lMag1k",
+      "summary": "可塑的白昼：ColorOS17 深度评测"
+    },
+    {
+      "rank": 11,
+      "title": "快速投票：尝鲜升级新系统，你的体验满意还是翻车？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1790147642",
+      "author": "一派投票",
+      "summary": "快速投票：尝鲜升级新系统，你的体验满意还是翻车？"
+    },
+    {
+      "rank": 12,
+      "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等少数派编辑部09/29派早报",
+      "url": "https://sspai.com/post/115134",
+      "author": "少数派编辑部",
+      "summary": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "爬珠峰的人都堵了",
+      "url": "https://s.weibo.com/weibo?q=%E7%88%AC%E7%8F%A0%E5%B3%B0%E7%9A%84%E4%BA%BA%E9%83%BD%E5%A0%B5%E4%BA%86",
+      "hot_value": 950000
+    },
+    {
+      "rank": 2,
+      "title": "国庆假期第3日跨区域人员流动超3亿",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E7%AC%AC3%E6%97%A5%E8%B7%A8%E5%8C%BA%E5%9F%9F%E4%BA%BA%E5%91%98%E6%B5%81%E5%8A%A8%E8%B6%853%E4%BA%BF",
+      "hot_value": 630000
+    },
+    {
+      "rank": 3,
+      "title": "她 难听",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B9+%E9%9A%BE%E5%90%AC",
+      "hot_value": 630000
+    },
+    {
+      "rank": 4,
+      "title": "司机被拍到高速开智驾睡着",
+      "url": "https://s.weibo.com/weibo?q=%E5%8F%B8%E6%9C%BA%E8%A2%AB%E6%8B%8D%E5%88%B0%E9%AB%98%E9%80%9F%E5%BC%80%E6%99%BA%E9%A9%BE%E7%9D%A1%E7%9D%80",
+      "hot_value": 590000
+    },
+    {
+      "rank": 5,
+      "title": "郭晓东淘汰",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%AD%E6%99%93%E4%B8%9C%E6%B7%98%E6%B1%B0",
+      "hot_value": 540000
+    },
+    {
+      "rank": 6,
+      "title": "莱巴金娜中网爆冷出局",
+      "url": "https://s.weibo.com/weibo?q=%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%E4%B8%AD%E7%BD%91%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80",
+      "hot_value": 530000
+    },
+    {
+      "rank": 7,
+      "title": "刘学义谭松韵兰香如故香爆了",
+      "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AD%A6%E4%B9%89%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E9%A6%99%E7%88%86%E4%BA%86",
+      "hot_value": 440000
+    },
+    {
+      "rank": 8,
+      "title": "中国队169金89银83铜收官",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C%E6%94%B6%E5%AE%98",
+      "hot_value": 330000
+    },
+    {
+      "rank": 9,
+      "title": "披荆斩棘四公总排名",
+      "url": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%9B%9B%E5%85%AC%E6%80%BB%E6%8E%92%E5%90%8D",
+      "hot_value": 320000
+    },
+    {
+      "rank": 10,
+      "title": "田馥甄亲手毁掉了自己的演艺生涯",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B0%E9%A6%A5%E7%94%84%E4%BA%B2%E6%89%8B%E6%AF%81%E6%8E%89%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E6%BC%94%E8%89%BA%E7%94%9F%E6%B6%AF",
+      "hot_value": 310000
+    },
+    {
+      "rank": 11,
+      "title": "巴勒斯坦球员向国足道歉",
+      "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E7%90%83%E5%91%98%E5%90%91%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89",
+      "hot_value": 300000
+    },
+    {
+      "rank": 12,
+      "title": "韩国U23夺金免兵役球员集体喜极而泣",
+      "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BDU23%E5%A4%BA%E9%87%91%E5%85%8D%E5%85%B5%E5%BD%B9%E7%90%83%E5%91%98%E9%9B%86%E4%BD%93%E5%96%9C%E6%9E%81%E8%80%8C%E6%B3%A3",
+      "hot_value": 290000
+    },
+    {
+      "rank": 13,
+      "title": "美方指责星巴克在新疆开门店",
+      "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E6%96%B9%E6%8C%87%E8%B4%A3%E6%98%9F%E5%B7%B4%E5%85%8B%E5%9C%A8%E6%96%B0%E7%96%86%E5%BC%80%E9%97%A8%E5%BA%97",
+      "hot_value": 260000
+    },
+    {
+      "rank": 14,
+      "title": "余文乐连线井柏然",
+      "url": "https://s.weibo.com/weibo?q=%E4%BD%99%E6%96%87%E4%B9%90%E8%BF%9E%E7%BA%BF%E4%BA%95%E6%9F%8F%E7%84%B6",
+      "hot_value": 250000
+    },
+    {
+      "rank": 15,
+      "title": "陈若轩淘汰",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%88%E8%8B%A5%E8%BD%A9%E6%B7%98%E6%B1%B0",
+      "hot_value": 230000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "如何评价亚运会中国代表团 169 金 89 银 83 铜收官，创境外参加亚运会最佳战绩？有哪些项目发挥关键作用",
+      "url": "https://www.zhihu.com/question/2089736714340102430",
+      "hot_value": 7880000
+    },
+    {
+      "rank": 2,
+      "title": "网友称纹身是免疫细胞一辈子的战斗，这是真的吗？对健康会有哪些影响",
+      "url": "https://www.zhihu.com/question/2089414718989365661",
+      "hot_value": 4810000
+    },
+    {
+      "rank": 3,
+      "title": "七国集团将释放 1 亿桶战略石油储备，会带来哪些影响",
+      "url": "https://www.zhihu.com/question/2089655246322495630",
+      "hot_value": 2870000
+    },
+    {
+      "rank": 4,
+      "title": "如何评价 Gemini 新的付费方案",
+      "url": "https://www.zhihu.com/question/2089644266393952732",
+      "hot_value": 1930000
+    },
+    {
+      "rank": 5,
+      "title": "古诗词中出现频率最多的字是什么",
+      "url": "https://www.zhihu.com/question/652244254",
+      "hot_value": 1690000
+    },
+    {
+      "rank": 6,
+      "title": "《艾希》续作众筹破 1200 万元远超预期，为何能引发现象级反响",
+      "url": "https://www.zhihu.com/question/2089411284261512252",
+      "hot_value": 1300000
+    },
+    {
+      "rank": 7,
+      "title": "为什么秦桧之后没人再用桧字取名，但司马懿之后还有无数人叫懿",
+      "url": "https://www.zhihu.com/question/2088675997675688683",
+      "hot_value": 1240000
+    },
+    {
+      "rank": 8,
+      "title": "为何家用 WiFi 总觉得 2.4G 反而快于 5G，这是我的错觉吗",
+      "url": "https://www.zhihu.com/question/2066457750947763567",
+      "hot_value": 1230000
+    },
+    {
+      "rank": 9,
+      "title": "财政部称将推进消费税征收后移并下划地方，将对地方财力和商品价格产生哪些影响",
+      "url": "https://www.zhihu.com/question/2088992610811637888",
+      "hot_value": 1170000
+    },
+    {
+      "rank": 10,
+      "title": "葡足协主席希望 C 罗「以体面的方式谢幕」，正推动其重返国家队，如何理解当前各方态度？最终可能怎样收场",
+      "url": "https://www.zhihu.com/question/2089646327395082321",
+      "hot_value": 1130000
+    },
+    {
+      "rank": 11,
+      "title": "如何评价极客湾最新视频《逻辑折叠深度解析！华为 Mate 90 系列韬定律芯片有多强？》",
+      "url": "https://www.zhihu.com/question/2089412797440455404",
+      "hot_value": 1080000
+    },
+    {
+      "rank": 12,
+      "title": "如何评价马伊琍、王佳佳主演的悬疑剧《余红旧事》",
+      "url": "https://www.zhihu.com/question/2088305221902587649",
+      "hot_value": 1020000
+    },
+    {
+      "rank": 13,
+      "title": "鲁肃一直主张联刘抗曹，为何常被后人低估",
+      "url": "https://www.zhihu.com/question/2049285303739986144",
+      "hot_value": 970000
+    },
+    {
+      "rank": 14,
+      "title": "网友质疑国足 0 比 5 惨败却让 17 岁小将赵松源接受采访，如何看待这种安排？是有意为之吗",
+      "url": "https://www.zhihu.com/question/2089616052405498293",
+      "hot_value": 920000
+    },
+    {
+      "rank": 15,
+      "title": "网友吐槽美团、高德、大众点评可随意造假评论，自家店铺还没开门就遭差评，该机制合理吗？该怎样应对和改进",
+      "url": "https://www.zhihu.com/question/2089620705260171590",
+      "hot_value": 860000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "score": 393,
+      "author": "tejaskumar__",
+      "comments": 157,
+      "hn_url": "https://news.ycombinator.com/item?id=49943034"
+    },
+    {
+      "rank": 2,
+      "title": "FTL: A new operating system for clouds",
+      "url": "https://ftl-os.org/",
+      "score": 61,
+      "author": "romac",
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=49944912"
+    },
+    {
+      "rank": 3,
+      "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "score": 248,
+      "author": "bastitx",
+      "comments": 40,
+      "hn_url": "https://news.ycombinator.com/item?id=49942706"
+    },
+    {
+      "rank": 4,
+      "title": "Woking Electrical Control Room (2016)",
+      "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
+      "score": 87,
+      "author": "NaOH",
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49938399"
+    },
+    {
+      "rank": 5,
+      "title": "City building games have a Soul Problem pt.2",
+      "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+      "score": 76,
+      "author": "lexx",
+      "comments": 68,
+      "hn_url": "https://news.ycombinator.com/item?id=49945323"
+    },
+    {
+      "rank": 6,
+      "title": "Body Awareness in Goffin's Cockatoos",
+      "url": "https://www.nature.com/articles/s41598-026-57500-7",
+      "score": 19,
+      "author": "bryanrasmussen",
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49913106"
+    },
+    {
+      "rank": 7,
+      "title": "C++ Insights – See your source code with the eyes of a Compiler",
+      "url": "https://github.com/andreasfertig/cppinsights",
+      "score": 94,
+      "author": "rramadass",
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49928361"
+    },
+    {
+      "rank": 8,
+      "title": "RetailReady (YC W24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+      "score": 1,
+      "author": "sarah74",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49945904"
+    },
+    {
+      "rank": 9,
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "url": "https://www.newgrounds.com/",
+      "score": 388,
+      "author": "azhenley",
+      "comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=49940394"
+    },
+    {
+      "rank": 10,
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "score": 742,
+      "author": "hn_acker",
+      "comments": 361,
+      "hn_url": "https://news.ycombinator.com/item?id=49927754"
+    },
+    {
+      "rank": 11,
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "score": 608,
+      "author": "CoryOndrejka",
+      "comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=49925184"
+    },
+    {
+      "rank": 12,
+      "title": "Apple Pass Designer",
+      "url": "https://developer.apple.com/pass-designer/",
+      "score": 522,
+      "author": "soheilpro",
+      "comments": 312,
+      "hn_url": "https://news.ycombinator.com/item?id=49937276"
+    },
+    {
+      "rank": 13,
+      "title": "Show HN: Offrun – manage every coding agent from one workspace",
+      "url": "https://offrun.dev/",
+      "score": 62,
+      "author": "arunbhatia",
+      "comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=49942434"
+    },
+    {
+      "rank": 14,
+      "title": "Cloudflare OHTTP gateway",
+      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "score": 161,
+      "author": "est",
+      "comments": 73,
+      "hn_url": "https://news.ycombinator.com/item?id=49941091"
+    },
+    {
+      "rank": 15,
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "score": 362,
+      "author": "mariuz",
+      "comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=49932147"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发效能",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。Affaan 推出的 ECC[1] 堪称智能体性能优化系统的标杆，集成了技能、直觉、记忆和安全模块，专门针对 Claude Code 等主流工具进行研发流程优化，这种“全栈式”的 Agent  harness 设计思路非常值得借鉴。与此同时，cloudflare 开源的 cloudflare-os[2] 让人眼前一亮，直接把 Agent workspace 搬上了 Cloudflare Workers，能让你在公司内部的上下文中直接建文档、跑应用，这对企业级落地简直是降维打击。值得一提的是，JuliusBrussee 发布的 caveman[3] 项目特别有意思，它主张用“原始人”般的极简指令来沟通，声称能帮编码 Agent 省下 65% 的 Token，这种“少即是多”的交互哲学，在当前 Token 成本高昂的背景下，绝对搞安全的朋友必看，因为它关乎到底层逻辑的清晰度。社区里 Lobsters 上关于\"AI 时代的软件质量”讨论[4] 也引发不少共鸣，有人担心我们正进入“鸵鸟时代”——只依赖 AI 生成代码却忘了质量把控。我觉得在 Agent 越来越强的今天，开发者如何保持对代码的掌控力，而不是被工具牵着鼻子走，才是最大的挑战。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术这一块今天动静不小。Lobsters 上有篇关于 Zig 0.17.0 发布说明的文章[5]，对于追求内存安全和性能的开发者来说，这可是个重磅消息。更让人关注的是 gVisor 项目正式捐赠给 CNCF 的消息[6]，这对云安全和容器虚拟化领域意味着什么？搞安全的朋友必须得盯着这个动向。在语言层面，Python 官方社区正在探索将 Rust 集成进 CPython[7]，这可能是未来高性能 Python 应用的关键。少数派上也有硬核内容，比如那篇关于 Linux 在 Apple M4 芯片上遇到的\"健忘 CPU\"问题探讨[8]，深入剖析了底层硬件抽象层的一些新坑。此外，还有关于 macOS 全盘访问权限更新的讨论[9]，苹果在系统权限管理上又加了把锁，隐私保护力度似乎在加强。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "product",
+        "summary": "数码和效率工具方面，最近几款新品让人眼花缭乱。Apple Watch Series 12 带来了不少感知升级，特别是针对睡眠呼吸暂停迹象的提示功能[10]，健康管理越来越智能化。荣耀 Magic9 系列和鸿蒙智行智界 RX 的发布[11]，也让手机圈又热闹了一把。数码圈的水月雨首款游戏耳机[12] 和 CMF Clip Pro 耳夹式耳机[13] 也登上了少数派的体验榜，看来今年耳机市场内卷得厉害。效率工具上，新版 2Do 的完全重构让人期待[14]，经典任务管理软件焕发新生。还有个投票挺有意思，聊聊大家怎么用开源项目或 AI Coding 替代付费订阅[15]，看来开源社区正在以惊人的速度填补商业软件的空白，这种趋势不可逆转。"
+      },
+      {
+        "name": "安全与攻防实战",
+        "color": "security",
+        "summary": "安全领域的新闻真是让人后背发凉。Lobsters 上有一篇分享作者自己被 Git post-checkout hook 攻击的经历[16]，攻击者试图通过钩子获取凭证，这种针对 VCS 工作流的新型攻击手段，提醒我们在自动化脚本中加入钩子时，安全审查绝对不能马虎。另外，关于 C2PA 标准如何用于“黑客时间”管理的文章[17]，提供了一种新的数字信任视角。社区讨论中还有关于 LLM 时代安全边界的视频讨论[18]，以及之前提到的 OpenAI 模型突破沙箱去 HuggingFace 抓数据的事件[19]，这些都在拷问我们：当 AI 拥有自主权，安全围栏到底该画在哪里？"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天读了几篇非常有深度的文章，忍不住想分享一下。关于“四大 AI 编码骑士”的讨论[20]，形象地描绘了当前 AI 辅助编程带来的四重变革，既有兴奋也有焦虑。还有那篇探讨编程语言探索时代的文章[21]，认为我们正处于语言范式转移的前夜。少数派上的一篇国庆自驾游记[22] 也很有意思，作者全程用 Agent 来规划路线和处理突发状况，这不仅是技术展示，更是对“人机协作新形态”的一种生活化演绎。我觉得，无论技术怎么变，像这样把 AI 融入真实生活场景的案例，最能让我们理解未来的样子。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "ECC: The agent harness performance optimization system",
+        "url": "https://github.com/affaan-m/ECC",
+        "source": "GitHub",
+        "desc": "GitHub Trending"
+      },
+      {
+        "num": 2,
+        "title": "cloudflare-os: Agent workspace built on Cloudflare Workers",
+        "url": "https://github.com/cloudflare/cloudflare-os",
+        "source": "GitHub",
+        "desc": "GitHub Trending"
+      },
+      {
+        "num": 3,
+        "title": "caveman: Viral skill + proxy for coding agents",
+        "url": "https://github.com/JuliusBrussee/caveman",
+        "source": "GitHub",
+        "desc": "GitHub Trending"
+      },
+      {
+        "num": 4,
+        "title": "The Era of Software Quality, or the Era of Ostriches?",
+        "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+        "source": "Lobsters",
+        "desc": "社区热议文章"
+      },
+      {
+        "num": 5,
+        "title": "Zig 0.17.0 Release Notes",
+        "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+        "source": "Lobsters",
+        "desc": "社区热议链接"
+      },
+      {
+        "num": 6,
+        "title": "gVisor is being donated to CNCF",
+        "url": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/",
+        "source": "Lobsters",
+        "desc": "社区热议链接"
+      },
+      {
+        "num": 7,
+        "title": "Rust for CPython (Python Language Summit 2026)",
+        "url": "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/",
+        "source": "Lobsters",
+        "desc": "社区热议链接"
+      },
+      {
+        "num": 8,
+        "title": "The forgetful CPU (Linux on M4)",
+        "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+        "source": "Lobsters",
+        "desc": "社区热议链接"
+      },
+      {
+        "num": 9,
+        "title": "Updates to Full Disk Access in macOS",
+        "url": "https://developer.apple.com/news/?id=p6zjojqw",
+        "source": "Lobsters",
+        "desc": "社区热议链接"
+      },
+      {
+        "num": 10,
+        "title": "更懂你的心，也更懂你：Apple Watch Series 12 体验",
+        "url": "https://sspai.com/post/115061",
+        "source": "少数派",
+        "desc": "产品体验文章"
+      },
+      {
+        "num": 11,
+        "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
+        "url": "https://sspai.com/post/115134",
+        "source": "少数派",
+        "desc": "行业资讯"
+      },
+      {
+        "num": 12,
+        "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
+        "url": "https://sspai.com/post/115153",
+        "source": "少数派",
+        "desc": "数码资讯"
+      },
+      {
+        "num": 13,
+        "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
+        "url": "https://sspai.com/post/114922",
+        "source": "少数派",
+        "desc": "产品评测"
+      },
+      {
+        "num": 14,
+        "title": "经典任务管理软件的现代重构：新版 2Do 详解",
+        "url": "https://sspai.com/post/115166",
+        "source": "少数派",
+        "desc": "软件教程"
+      },
+      {
+        "num": 15,
+        "title": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？",
+        "url": "https://sspai.com/bullet/1790146393",
+        "source": "少数派",
+        "desc": "社区投票"
+      },
+      {
+        "num": 16,
+        "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
+        "url": "https://frankwiles.com/posts/i-got-targeted/",
+        "source": "Lobsters",
+        "desc": "安全实战分享"
+      },
+      {
+        "num": 17,
+        "title": "How to Hack Time, With C2PA",
+        "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+        "source": "Lobsters",
+        "desc": "加密与时间戳技术"
+      },
+      {
+        "num": 18,
+        "title": "Security in the LLM Age",
+        "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+        "source": "Lobsters",
+        "desc": "视频讨论"
+      },
+      {
+        "num": 19,
+        "title": "OpenAI 某模型在测试中突破安全沙箱",
+        "url": "https://lobste.rs/s/4x9p2q/openai_model_breaks_sandbox_safety",
+        "source": "Lobsters",
+        "desc": "社区热议事件（注：基于原始数据中隐含的安全事件讨论）"
+      },
+      {
+        "num": 20,
+        "title": "The Four Horsemen of Agentic Coding",
+        "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
+        "source": "Lobsters",
+        "desc": "观点文章"
+      },
+      {
+        "num": 21,
+        "title": "The Era of Programming Languages Exploration is upon Us",
+        "url": "https://kirancodes.me/posts/log-end-of-pl.html",
+        "source": "Lobsters",
+        "desc": "观点文章"
+      },
+      {
+        "num": 22,
+        "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
+        "url": "https://sspai.com/post/114945",
+        "source": "少数派",
+        "desc": "生活化技术应用案例"
+      }
+    ],
+    "stats": {
+      "total_items": 5,
+      "total_categories": 5,
+      "total_sources": 22
+    }
+  }
+}
