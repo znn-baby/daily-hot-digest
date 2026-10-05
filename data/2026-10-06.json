@@ -1,0 +1,725 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "tester-army / e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "stars": "4584",
+      "stars_today": "1,430 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stars": "96579",
+      "stars_today": "534 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 3,
+      "title": "earthtojake / text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "stars": "17350",
+      "stars_today": "456 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "pingdotgg / t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "stars": "25561",
+      "stars_today": "487 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 5,
+      "title": "boykopovar / AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars": "4851",
+      "stars_today": "994 stars today",
+      "language": "C++"
+    },
+    {
+      "rank": 6,
+      "title": "Panniantong / Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": "91804",
+      "stars_today": "1,156 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "calesthio / OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "stars": "63922",
+      "stars_today": "758 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "caddyserver / caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "stars": "77049",
+      "stars_today": "526 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 9,
+      "title": "DuarteSantos8 / openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "stars": "4089",
+      "stars_today": "1,444 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 10,
+      "title": "cloudflare / cloudflare-os",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "stars": "10965",
+      "stars_today": "102 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 11,
+      "title": "Stremio / stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "description": "Stremio - Freedom to Stream",
+      "stars": "14253",
+      "stars_today": "111 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 12,
+      "title": "msitarzewski / agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": "157192",
+      "stars_today": "595 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 13,
+      "title": "M-Abozaid / esp32-c3-adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard.https://youtube.com/shorts/RaxszOUMi8E?feature=share",
+      "stars": "1294",
+      "stars_today": "196 stars today",
+      "language": "C++"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "source_url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "tags": [
+        "compilers",
+        "erlang",
+        "gleam"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "novedevo"
+    },
+    {
+      "rank": 2,
+      "title": "Flirt is now Open-Source",
+      "url": "https://blog.buenzli.dev/flirt-is-open-source/",
+      "source_url": "https://blog.buenzli.dev/flirt-is-open-source/",
+      "tags": [
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "senekor"
+    },
+    {
+      "rank": 3,
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "source_url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "tags": [
+        "nodejs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "FedericoSchonborn"
+    },
+    {
+      "rank": 4,
+      "title": "Another step towards elm v1",
+      "url": "https://elm-lang.org/news/another-step-towards-elm-v1",
+      "source_url": "https://elm-lang.org/news/another-step-towards-elm-v1",
+      "tags": [
+        "elm"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "Jackevansevo"
+    },
+    {
+      "rank": 5,
+      "title": "Async Rust: Where does the scheduler live?",
+      "url": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
+      "source_url": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "mond"
+    },
+    {
+      "rank": 6,
+      "title": "Mold 3.0.0 Released",
+      "url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+      "source_url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+      "tags": [
+        "release",
+        "rust",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "theelx"
+    },
+    {
+      "rank": 7,
+      "title": "Using docker-compose with Podman rootless",
+      "url": "https://elou.world/en/tutorial/podman-docker-compose",
+      "source_url": "https://elou.world/en/tutorial/podman-docker-compose",
+      "tags": [
+        "devops",
+        "linux",
+        "systemd",
+        "virtualization"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "Exagone313"
+    },
+    {
+      "rank": 8,
+      "title": "ncdu: NCurses Disk Usage (an updated fork)",
+      "url": "https://github.com/rcalixte/ncdu",
+      "source_url": "https://github.com/rcalixte/ncdu",
+      "tags": [
+        "release",
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "rcalixte"
+    },
+    {
+      "rank": 9,
+      "title": "Refinement E-Graphs",
+      "url": "https://www.philipzucker.com/refinement_egraph/",
+      "source_url": "https://www.philipzucker.com/refinement_egraph/",
+      "tags": [
+        "compilers",
+        "formalmethods"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "philzook"
+    },
+    {
+      "rank": 10,
+      "title": "What are you doing this week?",
+      "url": "https://lobste.rs/s/nvkrb9/what_are_you_doing_this_week",
+      "source_url": "https://lobste.rs/s/nvkrb9/what_are_you_doing_this_week",
+      "tags": [
+        "ask",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "caius"
+    },
+    {
+      "rank": 11,
+      "title": "Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers",
+      "url": "https://git.sig-io.nl/Sig-IO/mailcheck/",
+      "source_url": "https://git.sig-io.nl/Sig-IO/mailcheck/",
+      "tags": [
+        "email",
+        "go",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "sigio"
+    },
+    {
+      "rank": 12,
+      "title": "Factor Overview",
+      "url": "https://re.factorcode.org/2026/10/factor-overview.html",
+      "source_url": "https://re.factorcode.org/2026/10/factor-overview.html",
+      "tags": [
+        "concatenative"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "kryptiskt"
+    },
+    {
+      "rank": 13,
+      "title": "Reverse Engineering Comanche Terrain Maps",
+      "url": "https://pikuma.com/blog/comanche-maps-reverse-engineering",
+      "source_url": "https://pikuma.com/blog/comanche-maps-reverse-engineering",
+      "tags": [
+        "games",
+        "programming",
+        "retrocomputing"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "gustavo-pezzi"
+    },
+    {
+      "rank": 14,
+      "title": "Making a GTK application in Haskell, part 1",
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "source_url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "tags": [
+        "graphics",
+        "haskell"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "Hecate"
+    },
+    {
+      "rank": 15,
+      "title": "Iroh global content discovery",
+      "url": "https://www.iroh.computer/blog/iroh-global-content-discovery",
+      "source_url": "https://www.iroh.computer/blog/iroh-global-content-discovery",
+      "tags": [
+        "distributed"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "sanqui"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "十个案例助你轻松上手 iOS 27 通知自动化谷雨G2rain昨天 10:59",
+      "url": "https://sspai.com/post/114536",
+      "author": "谷雨G2rain",
+      "summary": "十个案例助你轻松上手 iOS 27 通知自动化"
+    },
+    {
+      "rank": 2,
+      "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。waychane前天 15:58",
+      "url": "https://sspai.com/post/115308",
+      "author": "waychane",
+      "summary": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验"
+    },
+    {
+      "rank": 3,
+      "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验KingTsui10/03",
+      "url": "https://sspai.com/post/114922",
+      "author": "KingTsui",
+      "summary": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验"
+    },
+    {
+      "rank": 4,
+      "title": "本周看什么 | 最近值得一看的 8 部作品少数派编辑部10/02",
+      "url": "https://sspai.com/post/115211",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 8 部作品"
+    },
+    {
+      "rank": 5,
+      "title": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1790146393",
+      "author": "一派投票",
+      "summary": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？"
+    },
+    {
+      "rank": 6,
+      "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉Plutonium09/30Matrix精选",
+      "url": "https://sspai.com/post/115070",
+      "author": "Plutonium",
+      "summary": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉"
+    },
+    {
+      "rank": 7,
+      "title": "经典任务管理软件的现代重构：新版 2Do 详解完全重构的 2Do 是我的心目中最佳的任务管理工具。广陵止息09/30",
+      "url": "https://sspai.com/post/115166",
+      "author": "广陵止息",
+      "summary": "经典任务管理软件的现代重构：新版 2Do 详解"
+    },
+    {
+      "rank": 8,
+      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的胡九思09/30Matrix精选",
+      "url": "https://sspai.com/post/114945",
+      "author": "胡九思",
+      "summary": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的"
+    },
+    {
+      "rank": 9,
+      "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等少数派编辑部09/30派早报",
+      "url": "https://sspai.com/post/115197",
+      "author": "少数派编辑部",
+      "summary": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等"
+    },
+    {
+      "rank": 10,
+      "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单Matrix机器人09/29",
+      "url": "https://sspai.com/post/115153",
+      "author": "Matrix机器人",
+      "summary": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单"
+    },
+    {
+      "rank": 11,
+      "title": "更懂你的心，也更懂你：Apple Watch Series 12 体验全新 Apple Watch Series 12，有哪些可感知的升级？ElijahLee09/29",
+      "url": "https://sspai.com/post/115061",
+      "author": "ElijahLee",
+      "summary": "更懂你的心，也更懂你：Apple Watch Series 12 体验"
+    },
+    {
+      "rank": 12,
+      "title": "快速投票：尝鲜升级新系统，你的体验满意还是翻车？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1790147642",
+      "author": "一派投票",
+      "summary": "快速投票：尝鲜升级新系统，你的体验满意还是翻车？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "未来几年能留住现金流最重要",
+      "url": "https://s.weibo.com/weibo?q=%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%B9%B4%E8%83%BD%E7%95%99%E4%BD%8F%E7%8E%B0%E9%87%91%E6%B5%81%E6%9C%80%E9%87%8D%E8%A6%81",
+      "hot_value": 90000
+    },
+    {
+      "rank": 2,
+      "title": "中国空心光纤网速更快了",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%A9%BA%E5%BF%83%E5%85%89%E7%BA%A4%E7%BD%91%E9%80%9F%E6%9B%B4%E5%BF%AB%E4%BA%86",
+      "hot_value": 90000
+    },
+    {
+      "rank": 3,
+      "title": "代露娃不被同情的原因",
+      "url": "https://s.weibo.com/weibo?q=%E4%BB%A3%E9%9C%B2%E5%A8%83%E4%B8%8D%E8%A2%AB%E5%90%8C%E6%83%85%E7%9A%84%E5%8E%9F%E5%9B%A0",
+      "hot_value": 80000
+    },
+    {
+      "rank": 4,
+      "title": "参加过的最混乱婚礼",
+      "url": "https://s.weibo.com/weibo?q=%E5%8F%82%E5%8A%A0%E8%BF%87%E7%9A%84%E6%9C%80%E6%B7%B7%E4%B9%B1%E5%A9%9A%E7%A4%BC",
+      "hot_value": 80000
+    },
+    {
+      "rank": 5,
+      "title": "李勒优现在正在拼豆店打工",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%8B%92%E4%BC%98%E7%8E%B0%E5%9C%A8%E6%AD%A3%E5%9C%A8%E6%8B%BC%E8%B1%86%E5%BA%97%E6%89%93%E5%B7%A5",
+      "hot_value": 80000
+    },
+    {
+      "rank": 6,
+      "title": "女子遭网暴才得知半年前被造黄谣",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E9%81%AD%E7%BD%91%E6%9A%B4%E6%89%8D%E5%BE%97%E7%9F%A5%E5%8D%8A%E5%B9%B4%E5%89%8D%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A3",
+      "hot_value": 80000
+    },
+    {
+      "rank": 7,
+      "title": "刘亦菲 掉代言",
+      "url": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2+%E6%8E%89%E4%BB%A3%E8%A8%80",
+      "hot_value": 70000
+    },
+    {
+      "rank": 8,
+      "title": "李勒优回应",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%8B%92%E4%BC%98%E5%9B%9E%E5%BA%94",
+      "hot_value": 70000
+    },
+    {
+      "rank": 9,
+      "title": "三千的工资愣是存了80万",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E5%8D%83%E7%9A%84%E5%B7%A5%E8%B5%84%E6%84%A3%E6%98%AF%E5%AD%98%E4%BA%8680%E4%B8%87",
+      "hot_value": 60000
+    },
+    {
+      "rank": 10,
+      "title": "曝腾讯退了几部大剧",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%85%BE%E8%AE%AF%E9%80%80%E4%BA%86%E5%87%A0%E9%83%A8%E5%A4%A7%E5%89%A7",
+      "hot_value": 60000
+    },
+    {
+      "rank": 11,
+      "title": "代露娃多年好友发声",
+      "url": "https://s.weibo.com/weibo?q=%E4%BB%A3%E9%9C%B2%E5%A8%83%E5%A4%9A%E5%B9%B4%E5%A5%BD%E5%8F%8B%E5%8F%91%E5%A3%B0",
+      "hot_value": 60000
+    },
+    {
+      "rank": 12,
+      "title": "谭松韵面相都变了",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%9D%A2%E7%9B%B8%E9%83%BD%E5%8F%98%E4%BA%86",
+      "hot_value": 60000
+    },
+    {
+      "rank": 13,
+      "title": "刘亦菲一下子加了五个代言",
+      "url": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%80%E4%B8%8B%E5%AD%90%E5%8A%A0%E4%BA%86%E4%BA%94%E4%B8%AA%E4%BB%A3%E8%A8%80",
+      "hot_value": 60000
+    },
+    {
+      "rank": 14,
+      "title": "港媒拍到杨幂又悄悄到香港了",
+      "url": "https://s.weibo.com/weibo?q=%E6%B8%AF%E5%AA%92%E6%8B%8D%E5%88%B0%E6%9D%A8%E5%B9%82%E5%8F%88%E6%82%84%E6%82%84%E5%88%B0%E9%A6%99%E6%B8%AF%E4%BA%86",
+      "hot_value": 60000
+    },
+    {
+      "rank": 15,
+      "title": "建议大家买房一定要远离公园",
+      "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B9%B0%E6%88%BF%E4%B8%80%E5%AE%9A%E8%A6%81%E8%BF%9C%E7%A6%BB%E5%85%AC%E5%9B%AD",
+      "hot_value": 60000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "如何评价 5 万人口的祁连县国庆迎 10 万游客，酒店民宿全满房，文旅局免费安置游客到学生宿舍",
+      "url": "https://www.zhihu.com/question/2090194037965677844",
+      "hot_value": 6000000
+    },
+    {
+      "rank": 2,
+      "title": "中方工作组曾 3 次约见果敢「四大家族」代表但收效甚微，背后的深层原因是什么",
+      "url": "https://www.zhihu.com/question/2090445207380743793",
+      "hot_value": 5690000
+    },
+    {
+      "rank": 3,
+      "title": "2026 年巴西总统选举首轮投票无人胜出，将进行第二轮角逐，目前的形势如何",
+      "url": "https://www.zhihu.com/question/2090289046253839954",
+      "hot_value": 3060000
+    },
+    {
+      "rank": 4,
+      "title": "耐克股价年内跌幅近 50% 且计划裁员重组，其市场表现缘何急转直下",
+      "url": "https://www.zhihu.com/question/2089754786040174167",
+      "hot_value": 2040000
+    },
+    {
+      "rank": 5,
+      "title": "央视披露缅北电诈真实案例，男子讲述被割肾经历，哪些细节值得关注",
+      "url": "https://www.zhihu.com/question/2090396384771794120",
+      "hot_value": 1400000
+    },
+    {
+      "rank": 6,
+      "title": "水刚咽下去，口渴怎么就缓解了？身体从哪里知道我喝水了",
+      "url": "https://www.zhihu.com/question/2085687195193587606",
+      "hot_value": 1250000
+    },
+    {
+      "rank": 7,
+      "title": "女高管称一周之内和马斯克从相爱走到「被分手」，两人共育有 4 个孩子，马斯克对待亲密关系是否有规律",
+      "url": "https://www.zhihu.com/question/2089738680290353399",
+      "hot_value": 1250000
+    },
+    {
+      "rank": 8,
+      "title": "医生辟谣「高铁座椅或为 HPV 感染重灾区」，这个说法怎么来的？坐高铁有必要使用一次性座套吗",
+      "url": "https://www.zhihu.com/question/2090394927318266883",
+      "hot_value": 1100000
+    },
+    {
+      "rank": 9,
+      "title": "为什么孩子明明知道做错了事，可被指出错误时第一反应不是认错，而是立刻反驳、辩解，甚至顶嘴",
+      "url": "https://www.zhihu.com/question/2081871879607001235",
+      "hot_value": 890000
+    },
+    {
+      "rank": 10,
+      "title": "连续抛硬币出了十次正面，第十一次选反面真的更聪明吗",
+      "url": "https://www.zhihu.com/question/2089681731007918587",
+      "hot_value": 750000
+    },
+    {
+      "rank": 11,
+      "title": "一位数学家如何证明自己没有使用 AI 做论文",
+      "url": "https://www.zhihu.com/question/2088882471890859810",
+      "hot_value": 740000
+    },
+    {
+      "rank": 12,
+      "title": "怎么评价《蜗居》里小贝不肯借 6 万全部存款给海萍买房的行为",
+      "url": "https://www.zhihu.com/question/432093354",
+      "hot_value": 710000
+    },
+    {
+      "rank": 13,
+      "title": "国安部通报境外组织借医疗检测非法采血样，曾有超 10 万份孕妇血样被偷运出境，会对生物安全产生哪些影响",
+      "url": "https://www.zhihu.com/question/2090049001483661702",
+      "hot_value": 690000
+    },
+    {
+      "rank": 14,
+      "title": "为何日本的铁轨坚持不和世界统一？一直用窄轨，有什么好处",
+      "url": "https://www.zhihu.com/question/10602213310",
+      "hot_value": 670000
+    },
+    {
+      "rank": 15,
+      "title": "如何看待中国航协针对「东航空姐下跪」事件发声，呼吁广大旅客文明乘机、理性维权",
+      "url": "https://www.zhihu.com/question/2090527958293110955",
+      "hot_value": 660000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "score": 178,
+      "author": "Philpax",
+      "comments": 51,
+      "hn_url": "https://news.ycombinator.com/item?id=49969183"
+    },
+    {
+      "rank": 2,
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "score": 48,
+      "author": "outlier99",
+      "comments": 28,
+      "hn_url": "https://news.ycombinator.com/item?id=49970667"
+    },
+    {
+      "rank": 3,
+      "title": "Web Search API",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "score": 424,
+      "author": "tosh",
+      "comments": 201,
+      "hn_url": "https://news.ycombinator.com/item?id=49963171"
+    },
+    {
+      "rank": 4,
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "url": "https://cses.fi/book/book.pdf",
+      "score": 51,
+      "author": "vinhnx",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=49944049"
+    },
+    {
+      "rank": 5,
+      "title": "Making a GTK application in Haskell, part 1",
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "score": 115,
+      "author": "Vosporos",
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=49965308"
+    },
+    {
+      "rank": 6,
+      "title": "Linux containers in 500 lines of code (2016)",
+      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "score": 75,
+      "author": "mkornaukhov",
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49965118"
+    },
+    {
+      "rank": 7,
+      "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear",
+      "url": "https://github.com/rsutcliffe/nightwatch",
+      "score": 55,
+      "author": "delphidolphin",
+      "comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=49952148"
+    },
+    {
+      "rank": 8,
+      "title": "The Future of Mathematics",
+      "url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
+      "score": 37,
+      "author": "smilelamp",
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=49969256"
+    },
+    {
+      "rank": 9,
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "score": 378,
+      "author": "emptybits",
+      "comments": 310,
+      "hn_url": "https://news.ycombinator.com/item?id=49961057"
+    },
+    {
+      "rank": 10,
+      "title": "How to save a life without knowing CPR",
+      "url": "https://bookofjoe2.blogspot.com/2026/10/beyondthemedspeak-how-to-save-life.html",
+      "score": 20,
+      "author": "bookofjoe",
+      "comments": 19,
+      "hn_url": "https://news.ycombinator.com/item?id=49938270"
+    },
+    {
+      "rank": 11,
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance/",
+      "score": 47,
+      "author": "tosh",
+      "comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=49966293"
+    },
+    {
+      "rank": 12,
+      "title": "Huawei and Qualcomm announce broad patent license agreement",
+      "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+      "score": 164,
+      "author": "0xedb",
+      "comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=49961861"
+    },
+    {
+      "rank": 13,
+      "title": "Incident with Actions",
+      "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+      "score": 69,
+      "author": "hising",
+      "comments": 42,
+      "hn_url": "https://news.ycombinator.com/item?id=49969961"
+    },
+    {
+      "rank": 14,
+      "title": "The mental health of young men is declining. Experts warn it could get worse",
+      "url": "https://www.cbc.ca/news/health/the-mental-health-of-young-men-is-declining-experts-warn-it-could-get-worse-9.7361010",
+      "score": 45,
+      "author": "rdmuser",
+      "comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=49969933"
+    },
+    {
+      "rank": 15,
+      "title": "After bankruptcy, he was banned from sports betting sites. Then he found Kalshi",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction",
+      "score": 28,
+      "author": "momentmaker",
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49969375"
+    }
+  ]
+}
