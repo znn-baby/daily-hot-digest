@@ -1,0 +1,823 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "boykopovar / AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars": "14734",
+      "stars_today": "4,640 stars today",
+      "language": "C++"
+    },
+    {
+      "rank": 2,
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "46095",
+      "stars_today": "1,163 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 3,
+      "title": "morluto / rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": "23015",
+      "stars_today": "7,744 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 4,
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": "280866",
+      "stars_today": "1,770 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 5,
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stars": "98319",
+      "stars_today": "662 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 6,
+      "title": "EpicGames / raddebugger",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "stars": "8069",
+      "stars_today": "283 stars today",
+      "language": "C"
+    },
+    {
+      "rank": 7,
+      "title": "anthropics / knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": "27425",
+      "stars_today": "309 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "storytold / artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars": "7253",
+      "stars_today": "2,510 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 9,
+      "title": "liquidslr / system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "stars": "24481",
+      "stars_today": "398 stars today",
+      "language": ""
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "source_url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "tags": [
+        "person"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "lorddimwit"
+    },
+    {
+      "rank": 2,
+      "title": "The people holding up the internet",
+      "url": "https://sheets.works/data-viz/holding-up-the-internet",
+      "source_url": "https://sheets.works/data-viz/holding-up-the-internet",
+      "tags": [
+        "historical",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "eaj"
+    },
+    {
+      "rank": 3,
+      "title": "I've Been Deindexed by Google",
+      "url": "https://kennyqin.com/deindexed-by-google/",
+      "source_url": "https://kennyqin.com/deindexed-by-google/",
+      "tags": [
+        "practices"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "brn"
+    },
+    {
+      "rank": 4,
+      "title": "Anti-Patterns in Software Blogging",
+      "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+      "source_url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+      "tags": [
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "mtlynch"
+    },
+    {
+      "rank": 5,
+      "title": "Software developers are not okay",
+      "url": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
+      "source_url": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
+      "tags": [
+        "philosophy",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "aloys"
+    },
+    {
+      "rank": 6,
+      "title": "Calling a function in C without naming it",
+      "url": "https://wiro.world/posts/calling-c-func-without-naming-it/",
+      "source_url": "https://wiro.world/posts/calling-c-func-without-naming-it/",
+      "tags": [
+        "c",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "mrnossiom"
+    },
+    {
+      "rank": 7,
+      "title": "jujutsu (jj) 0.46.0",
+      "url": "https://github.com/jj-vcs/jj/releases/tag/v0.46.0",
+      "source_url": "https://github.com/jj-vcs/jj/releases/tag/v0.46.0",
+      "tags": [
+        "release",
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "kingmob"
+    },
+    {
+      "rank": 8,
+      "title": "A rant about APIs",
+      "url": "https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html",
+      "source_url": "https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html",
+      "tags": [
+        "api",
+        "practices"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "clintonb"
+    },
+    {
+      "rank": 9,
+      "title": "Gentoo infrastructure sponsors wanted",
+      "url": "https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html",
+      "source_url": "https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "gmem"
+    },
+    {
+      "rank": 10,
+      "title": "Ending the Casuarina Linux Experiment",
+      "url": "https://casuarina.org/news/ending-the-casuarina-linux-experiment/",
+      "source_url": "https://casuarina.org/news/ending-the-casuarina-linux-experiment/",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "FedericoSchonborn"
+    },
+    {
+      "rank": 11,
+      "title": "Extending Guix",
+      "url": "https://guix.gnu.org/en/blog/2026/extending-guix/",
+      "source_url": "https://guix.gnu.org/en/blog/2026/extending-guix/",
+      "tags": [
+        "nix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "tusharhero"
+    },
+    {
+      "rank": 12,
+      "title": "The Missing Piece in Rust Error Handling",
+      "url": "https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/",
+      "source_url": "https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "snej"
+    },
+    {
+      "rank": 13,
+      "title": "Beyond the &",
+      "url": "https://lwn.net/SubscriberLink/1096028/7524dbcae1be7205/",
+      "source_url": "https://lwn.net/SubscriberLink/1096028/7524dbcae1be7205/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "gignico"
+    },
+    {
+      "rank": 14,
+      "title": "C for Rust Programmers",
+      "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+      "source_url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+      "tags": [
+        "c",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "BD103"
+    },
+    {
+      "rank": 15,
+      "title": "`specialArgs` considered harmful",
+      "url": "https://ysun.co/special/",
+      "source_url": "https://ysun.co/special/",
+      "tags": [
+        "nix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "ysun"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "iPhone Duo：苹果，终究还是对强迫症下手了lavande昨天 17:28Matrix精选",
+      "url": "https://sspai.com/post/115282",
+      "author": "lavande",
+      "summary": "iPhone Duo：苹果，终究还是对强迫症下手了"
+    },
+    {
+      "rank": 2,
+      "title": "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：MoleTw93昨天 16:10",
+      "url": "https://sspai.com/post/113843",
+      "author": "Tw93",
+      "summary": "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole"
+    },
+    {
+      "rank": 3,
+      "title": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验鸿苓昨天 14:42",
+      "url": "https://sspai.com/post/115209",
+      "author": "鸿苓",
+      "summary": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验"
+    },
+    {
+      "rank": 4,
+      "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球waychane昨天 09:47",
+      "url": "https://sspai.com/post/115462",
+      "author": "waychane",
+      "summary": "App Store 生态规模五年翻倍，助力中国开发者走向全球"
+    },
+    {
+      "rank": 5,
+      "title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等少数派编辑部昨天 08:16派早报",
+      "url": "https://sspai.com/post/115455",
+      "author": "少数派编辑部",
+      "summary": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等"
+    },
+    {
+      "rank": 6,
+      "title": "罗马：永恒之城，永恒于世程天冲前天 11:00Matrix精选",
+      "url": "https://sspai.com/post/114845",
+      "author": "程天冲",
+      "summary": "罗马：永恒之城，永恒于世"
+    },
+    {
+      "rank": 7,
+      "title": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1790146393",
+      "author": "一派投票",
+      "summary": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？"
+    },
+    {
+      "rank": 8,
+      "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践密码管理服务的数据，当然要掌握在自己手里。大大大K10/06",
+      "url": "https://sspai.com/post/115416",
+      "author": "大大大K",
+      "summary": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践"
+    },
+    {
+      "rank": 9,
+      "title": "十个案例助你轻松上手 iOS 27 通知自动化谷雨G2rain10/05",
+      "url": "https://sspai.com/post/114536",
+      "author": "谷雨G2rain",
+      "summary": "十个案例助你轻松上手 iOS 27 通知自动化"
+    },
+    {
+      "rank": 10,
+      "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。waychane10/04",
+      "url": "https://sspai.com/post/115308",
+      "author": "waychane",
+      "summary": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验"
+    },
+    {
+      "rank": 11,
+      "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验KingTsui10/03",
+      "url": "https://sspai.com/post/114922",
+      "author": "KingTsui",
+      "summary": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "82岁老姑娘养老规划太有智慧",
+      "url": "https://s.weibo.com/weibo?q=82%E5%B2%81%E8%80%81%E5%A7%91%E5%A8%98%E5%85%BB%E8%80%81%E8%A7%84%E5%88%92%E5%A4%AA%E6%9C%89%E6%99%BA%E6%85%A7",
+      "hot_value": 140000
+    },
+    {
+      "rank": 2,
+      "title": "假期超21亿人次跨区域流动",
+      "url": "https://s.weibo.com/weibo?q=%E5%81%87%E6%9C%9F%E8%B6%8521%E4%BA%BF%E4%BA%BA%E6%AC%A1%E8%B7%A8%E5%8C%BA%E5%9F%9F%E6%B5%81%E5%8A%A8",
+      "hot_value": 130000
+    },
+    {
+      "rank": 3,
+      "title": "王楚然请回答",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%AF%B7%E5%9B%9E%E7%AD%94",
+      "hot_value": 130000
+    },
+    {
+      "rank": 4,
+      "title": "肺鼠疫会人传人",
+      "url": "https://s.weibo.com/weibo?q=%E8%82%BA%E9%BC%A0%E7%96%AB%E4%BC%9A%E4%BA%BA%E4%BC%A0%E4%BA%BA",
+      "hot_value": 120000
+    },
+    {
+      "rank": 5,
+      "title": "肖战 南京演唱会",
+      "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98+%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "hot_value": 120000
+    },
+    {
+      "rank": 6,
+      "title": "崔晋李勒优聊天记录",
+      "url": "https://s.weibo.com/weibo?q=%E5%B4%94%E6%99%8B%E6%9D%8E%E5%8B%92%E4%BC%98%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95",
+      "hot_value": 120000
+    },
+    {
+      "rank": 7,
+      "title": "林依晨老公",
+      "url": "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E8%80%81%E5%85%AC",
+      "hot_value": 120000
+    },
+    {
+      "rank": 8,
+      "title": "纪委回应女局长被举报婚内出轨多人",
+      "url": "https://s.weibo.com/weibo?q=%E7%BA%AA%E5%A7%94%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%B1%80%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E5%A4%9A%E4%BA%BA",
+      "hot_value": 120000
+    },
+    {
+      "rank": 9,
+      "title": "警方通报小区楼顶发现可疑骨头",
+      "url": "https://s.weibo.com/weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%8C%BA%E6%A5%BC%E9%A1%B6%E5%8F%91%E7%8E%B0%E5%8F%AF%E7%96%91%E9%AA%A8%E5%A4%B4",
+      "hot_value": 120000
+    },
+    {
+      "rank": 10,
+      "title": "原来花千骨当时那么惨啊",
+      "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%8A%B1%E5%8D%83%E9%AA%A8%E5%BD%93%E6%97%B6%E9%82%A3%E4%B9%88%E6%83%A8%E5%95%8A",
+      "hot_value": 120000
+    },
+    {
+      "rank": 11,
+      "title": "肺鼠疫症状",
+      "url": "https://s.weibo.com/weibo?q=%E8%82%BA%E9%BC%A0%E7%96%AB%E7%97%87%E7%8A%B6",
+      "hot_value": 120000
+    },
+    {
+      "rank": 12,
+      "title": "俄罗斯不明肺炎会传进来吗",
+      "url": "https://s.weibo.com/weibo?q=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%8D%E6%98%8E%E8%82%BA%E7%82%8E%E4%BC%9A%E4%BC%A0%E8%BF%9B%E6%9D%A5%E5%90%97",
+      "hot_value": 120000
+    },
+    {
+      "rank": 13,
+      "title": "李一桐le成断层第一",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90le%E6%88%90%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80",
+      "hot_value": 120000
+    },
+    {
+      "rank": 14,
+      "title": "新冠刚开始也是不明原因肺炎",
+      "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%86%A0%E5%88%9A%E5%BC%80%E5%A7%8B%E4%B9%9F%E6%98%AF%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E",
+      "hot_value": 110000
+    },
+    {
+      "rank": 15,
+      "title": "赵丽颖 飞天奖",
+      "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96+%E9%A3%9E%E5%A4%A9%E5%A5%96",
+      "hot_value": 110000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "车子熄火距加油站仅 20 米，加油员拒绝打散装汽油，车主花 350 元拖车到加油站，到底是谁的问题",
+      "url": "https://www.zhihu.com/question/2091483293715846330",
+      "hot_value": 3740000
+    },
+    {
+      "rank": 2,
+      "title": "购房者买房多年才得知客厅正上方天台埋着一座土坟，房东和物业应承担责任吗？购房者应怎样维权",
+      "url": "https://www.zhihu.com/question/2091475651387547736",
+      "hot_value": 3600000
+    },
+    {
+      "rank": 3,
+      "title": "央行发布关于人民币汇率的政策立场，称中国没有必要，也无意通过汇率贬值获取贸易竞争优势，如何解读",
+      "url": "https://www.zhihu.com/question/2091589191394185302",
+      "hot_value": 3380000
+    },
+    {
+      "rank": 4,
+      "title": "如何评价字节 Seed 团队发现 DeepSeek 性能漂移",
+      "url": "https://www.zhihu.com/question/2091513666864682278",
+      "hot_value": 3260000
+    },
+    {
+      "rank": 5,
+      "title": "国庆电影票房以 11.65 亿收官，创十三年来新低，如何看待国庆档电影票房持续走低",
+      "url": "https://www.zhihu.com/question/2091479232845238698",
+      "hot_value": 1770000
+    },
+    {
+      "rank": 6,
+      "title": "德法提议设贸易「紧急切断开关」指向中国，将对中欧经贸产生何种影响",
+      "url": "https://www.zhihu.com/question/2090751605838815361",
+      "hot_value": 1690000
+    },
+    {
+      "rank": 7,
+      "title": "跳水运动员张家齐和她母亲的关系揭示了中国式母女的哪些问题",
+      "url": "https://www.zhihu.com/question/2088041826112618837",
+      "hot_value": 1680000
+    },
+    {
+      "rank": 8,
+      "title": "国内有哪些「德不配位」的 5A 级景区",
+      "url": "https://www.zhihu.com/question/641121892",
+      "hot_value": 1570000
+    },
+    {
+      "rank": 9,
+      "title": "为了实现 Token 自由，自己买 GPU 值得吗",
+      "url": "https://www.zhihu.com/question/2080572349796168710",
+      "hot_value": 1450000
+    },
+    {
+      "rank": 10,
+      "title": "俄罗斯官方将研究员死因定性为不明病因肺炎，为啥外界会联系到「鼠疫」？网传四种感染来源的说法哪种更合理",
+      "url": "https://www.zhihu.com/question/2091484309827712122",
+      "hot_value": 1450000
+    },
+    {
+      "rank": 11,
+      "title": "女子在美容院做「排毒水光肌」套餐，灌肠时肠子被捅破致肠穿孔，这有多危险？美容院要承担哪些责任",
+      "url": "https://www.zhihu.com/question/2091169766090043415",
+      "hot_value": 1450000
+    },
+    {
+      "rank": 12,
+      "title": "我国房地产进入存量时代，二手房交易占比超 50%，现房销售是大势所趋，普通人买房该如何调整思路",
+      "url": "https://www.zhihu.com/question/2084228022954111660",
+      "hot_value": 1410000
+    },
+    {
+      "rank": 13,
+      "title": "如何看待现在大部分零零后学生几乎不会使用网址进行搜索",
+      "url": "https://www.zhihu.com/question/2081375256166637639",
+      "hot_value": 1340000
+    },
+    {
+      "rank": 14,
+      "title": "如何看待 DeepSeek 估值已接近 5000 亿元",
+      "url": "https://www.zhihu.com/question/2091466415639196511",
+      "hot_value": 1290000
+    },
+    {
+      "rank": 15,
+      "title": "越南连续推出多型主战装备，其军工为何能「突然崛起」",
+      "url": "https://www.zhihu.com/question/2090385161133343985",
+      "hot_value": 1130000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "score": 227,
+      "author": "gmays",
+      "comments": 59,
+      "hn_url": "https://news.ycombinator.com/item?id=50008427"
+    },
+    {
+      "rank": 2,
+      "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
+      "url": "https://github.com/p10node/k10s",
+      "score": 40,
+      "author": "pierreneter",
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=50009904"
+    },
+    {
+      "rank": 3,
+      "title": "The value of not getting to the point (2015)",
+      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "score": 19,
+      "author": "NaOH",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50010470"
+    },
+    {
+      "rank": 4,
+      "title": "Trump administration is suspending Microsoft from a green card program",
+      "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+      "score": 655,
+      "author": "alephnerd",
+      "comments": 1103,
+      "hn_url": "https://news.ycombinator.com/item?id=50006832"
+    },
+    {
+      "rank": 5,
+      "title": "What ArtCraft's Vibe-Coded Apps Say About Adobe",
+      "url": "https://tedium.co/2026/10/08/artcraft-vibe-coding-creative-cloud-remake/",
+      "score": 15,
+      "author": "speckx",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=50010170"
+    },
+    {
+      "rank": 6,
+      "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+      "url": "https://openrouter.ai/stepfun/step-5-preview",
+      "score": 52,
+      "author": "AnneWodell",
+      "comments": 18,
+      "hn_url": "https://news.ycombinator.com/item?id=50007764"
+    },
+    {
+      "rank": 7,
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "score": 206,
+      "author": "mfiguiere",
+      "comments": 119,
+      "hn_url": "https://news.ycombinator.com/item?id=50008187"
+    },
+    {
+      "rank": 8,
+      "title": "Beauty in DVD Menus",
+      "url": "https://vale.rocks/posts/dvd-menus",
+      "score": 201,
+      "author": "speckx",
+      "comments": 128,
+      "hn_url": "https://news.ycombinator.com/item?id=50005527"
+    },
+    {
+      "rank": 9,
+      "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
+      "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+      "score": 73,
+      "author": "Hooke",
+      "comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=49998992"
+    },
+    {
+      "rank": 10,
+      "title": "“Math 2.0” will need to value mathematical progress more holistically",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
+      "score": 574,
+      "author": "ent101",
+      "comments": 592,
+      "hn_url": "https://news.ycombinator.com/item?id=50002008"
+    },
+    {
+      "rank": 11,
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "score": 14,
+      "author": "jonotime",
+      "comments": 4,
+      "hn_url": "https://news.ycombinator.com/item?id=50000488"
+    },
+    {
+      "rank": 12,
+      "title": "New CRAM method offers giant boost to compressed memory reads",
+      "url": "https://www.tomshardware.com/software/linux/new-linux-tech-compresses-memory-in-ram-as-ram-for-452x-speedup-new-cram-method-offers-giant-boost-to-compressed-memory-reads",
+      "score": 30,
+      "author": "danny00",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=50005424"
+    },
+    {
+      "rank": 13,
+      "title": "OLED burn-in test: 30-month update",
+      "url": "https://www.techspot.com/article/3178-oled-burn-in-test/",
+      "score": 32,
+      "author": "baal80spam",
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=50004115"
+    },
+    {
+      "rank": 14,
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+      "score": 294,
+      "author": "stared",
+      "comments": 154,
+      "hn_url": "https://news.ycombinator.com/item?id=50004790"
+    },
+    {
+      "rank": 15,
+      "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+      "url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
+      "score": 188,
+      "author": "01-_-",
+      "comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=50007519"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发效能",
+        "color": "ai",
+        "summary": "今天 GitHub 上的 AI Agent 圈子简直热闹得不行。首先是 boykopovar 的 AnyPS5[1]，直接把 PS5 的游戏打包移植到 Linux 和 Windows，这思路太野了，star 数已经冲到 100+，搞模拟器或者跨平台开发的朋友肯定得收藏。还有 thedotmack 的 claude-mem[2]，专门解决 AI 助手“记性不好”的问题，能把整个会话的上下文压缩注入到下次对话里，让 Agent 真正具备长期记忆，这个功能对写长代码或者做复杂任务太关键了。\n\nLobsters 上最近有个帖子让我挺感慨的，叫“Software developers are not okay”[3]，直白地说出了很多程序员的职业倦怠和身份焦虑，尤其是现在 AI 工具这么猛，大家到底在焦虑什么？这话题比单纯聊技术更有意思。另外少数派那边有个投票“聊聊你用开源项目或 AI Coding 代替了哪些付费订阅”[4]，我看评论区很多人都在吐槽那些收月费的 IDE 插件，看来大家是真的想“省钱”了，这种趋势下，开源社区确实得扛大旗。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "系统领域的动静主要围绕调试工具和发行版生态。GitHub 上 EpicGames 开源了 raddebugger[5]，这是个原生的图形化调试器，支持多进程，Epic 自己搞这个是为了优化 Unreal 引擎开发体验吧，但搞底层开发的兄弟也能拿来用用。\n\n社区那边 Lobsters 有个帖子挺硬核，说“Calling a function in C without naming it”[6]，在 C 语言里实现匿名函数调用，搞安全的朋友觉得这个挺有意思，可能是某种代码混淆或者绕过检测技巧，值得研究下。还有关于 Guix 和 Nix 的讨论，比如“`specialArgs` considered harmful”[7]，这种关于包管理器最佳实践的争论，虽然枯燥但对构建系统很重要。少数派文章里提到的“基于 Vaultwarden 和 Keyguard 的自托管密码管理实践”[8]，也是回归系统控制权的典型思路，密码数据自己掌握在自己手里，确实让人安心。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "prod",
+        "summary": "数码产品这块新闻挺多。iPhone 18 Pro 的体验报告出来了，叫“方方面面都熟悉，方方面面都更好”[9]，看来苹果这代是在做小修小补的“挤牙膏”，虽然没大惊喜，但细节打磨得更到位了。另外那个叫 iPhone Duo 的功能[10]，说是针对强迫症的，可能是指分屏或者多任务处理的新玩法？这种针对特定人群优化的功能，有时候比大更新更受欢迎。\n\nLobsters 上有个关于 Gentoo 基础设施赞助的帖子[11]，还有 Casuarina Linux 实验结束的消息[12]，这些关于 Linux 发行版生死存亡的讨论其实挺反映社区现状的，现在大家都更倾向于稳定成熟的发行版了。少数派里还有篇关于 App Store 生态规模五年翻倍的报道[13]，中国开发者出海越来越难，但机会也更多了，这对咱们独立开发者是个利好消息。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "vibe",
+        "summary": "今天的内容里有很多值得玩味的观点。GitHub 上 cathrynlavery 的 diagram-design[14] 虽然是个画图工具，但它强调\"No Mermaid slop\"（拒绝 Mermaid 生成的垃圾图），这种对工具细节的吐槽和追求，恰恰体现了开发者对审美和效率的极致要求。\n\nLobsters 上 Margaret Hamilton，阿波罗登月计划的软件负责人去世的消息[15]，这位传奇人物走了，让人想起那个代码还没那么泛滥的年代。还有个帖子叫\"A rant about APIs\"[16]，作者对当前 API 设计的混乱表示不满，这种“吐槽”其实也是推动 API 规范化的动力。少数派文章“扔掉的是杂念，掌控的是生活”[17]，讲的是断舍离，虽然和代码关系不大，但在信息过载的今天，这种数字极简主义的思路对我们整理桌面和代码库其实也有启发。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "AnyPS5: Tool for automatic PS5 executables porting to Linux and Windows",
+        "url": "https://github.com/boykopovar/AnyPS5",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 2,
+        "title": "claude-mem: Persistent Context Across Sessions for Every Agent",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 3,
+        "title": "Software developers are not okay",
+        "url": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
+        "source": "Lobsters",
+        "desc": "Lobsters 热门讨论"
+      },
+      {
+        "num": 4,
+        "title": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？",
+        "url": "https://sspai.com/bullet/1790146393",
+        "source": "少数派",
+        "desc": "少数派投票"
+      },
+      {
+        "num": 5,
+        "title": "raddebugger: A native, user-mode, multi-process, graphical debugger",
+        "url": "https://github.com/EpicGames/raddebugger",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 6,
+        "title": "Calling a function in C without naming it",
+        "url": "https://wiro.world/posts/calling-c-func-without-naming-it/",
+        "source": "Lobsters",
+        "desc": "Lobsters 热门讨论"
+      },
+      {
+        "num": 7,
+        "title": "`specialArgs` considered harmful",
+        "url": "https://ysun.co/special/",
+        "source": "Lobsters",
+        "desc": "Lobsters 热门讨论"
+      },
+      {
+        "num": 8,
+        "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
+        "url": "https://sspai.com/post/115416",
+        "source": "少数派",
+        "desc": "少数派文章"
+      },
+      {
+        "num": 9,
+        "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+        "url": "https://sspai.com/post/115308",
+        "source": "少数派",
+        "desc": "少数派文章"
+      },
+      {
+        "num": 10,
+        "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
+        "url": "https://sspai.com/post/115282",
+        "source": "少数派",
+        "desc": "少数派文章"
+      },
+      {
+        "num": 11,
+        "title": "Gentoo infrastructure sponsors wanted",
+        "url": "https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html",
+        "source": "Lobsters",
+        "desc": "Lobsters 热门讨论"
+      },
+      {
+        "num": 12,
+        "title": "Ending the Casuarina Linux Experiment",
+        "url": "https://casuarina.org/news/ending-the-casuarina-linux-experiment/",
+        "source": "Lobsters",
+        "desc": "Lobsters 热门讨论"
+      },
+      {
+        "num": 13,
+        "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
+        "url": "https://sspai.com/post/115462",
+        "source": "少数派",
+        "desc": "少数派文章"
+      },
+      {
+        "num": 14,
+        "title": "diagram-design: Editorial diagram design for Claude Code, Codex, GitHub Copilot...",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 15,
+        "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+        "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+        "source": "Lobsters",
+        "desc": "Lobsters 热门讨论"
+      },
+      {
+        "num": 16,
+        "title": "A rant about APIs",
+        "url": "https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html",
+        "source": "Lobsters",
+        "desc": "Lobsters 热门讨论"
+      },
+      {
+        "num": 17,
+        "title": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验",
+        "url": "https://sspai.com/post/115209",
+        "source": "少数派",
+        "desc": "少数派文章"
+      }
+    ],
+    "stats": {
+      "total_items": 17,
+      "total_categories": 4,
+      "total_sources": 3
+    }
+  }
+}
