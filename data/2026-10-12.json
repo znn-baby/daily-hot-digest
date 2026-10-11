@@ -1,0 +1,813 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "morluto / rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": "96755",
+      "stars_today": "25,585 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "boykopovar / AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "stars": "29294",
+      "stars_today": "3,977 stars today",
+      "language": "C++"
+    },
+    {
+      "rank": 3,
+      "title": "storytold / artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars": "17056",
+      "stars_today": "2,956 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 4,
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "50031",
+      "stars_today": "1,083 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 5,
+      "title": "bilawalsidhu / gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": "51248",
+      "stars_today": "872 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 6,
+      "title": "pytorch / pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": "104391",
+      "stars_today": "314 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "lyogavin / airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "stars": "36306",
+      "stars_today": "541 stars today",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "rank": 8,
+      "title": "chrislgarry / Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "stars": "74083",
+      "stars_today": "496 stars today",
+      "language": "Assembly"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "What's Wrong with GitHub",
+      "url": "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
+      "source_url": "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
+      "tags": [
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "tusharhero"
+    },
+    {
+      "rank": 2,
+      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+      "url": "https://verdagon.dev/blog/valen-group-borrowing",
+      "source_url": "https://verdagon.dev/blog/valen-group-borrowing",
+      "tags": [
+        "compilers",
+        "plt"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "Verdagon"
+    },
+    {
+      "rank": 3,
+      "title": "I'm still around.. I'm just not writing here",
+      "url": "https://rachelbythebay.com/w/2026/10/08/idle/",
+      "source_url": "https://rachelbythebay.com/w/2026/10/08/idle/",
+      "tags": [
+        "culture"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jcd"
+    },
+    {
+      "rank": 4,
+      "title": "LineageOS 24.0 released",
+      "url": "https://lineageos.org/Changelog-32/",
+      "source_url": "https://lineageos.org/Changelog-32/",
+      "tags": [
+        "android",
+        "mobile",
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "timschumi"
+    },
+    {
+      "rank": 5,
+      "title": "How big is a Git commit?",
+      "url": "https://ratfactor.com/cards/git-commit-size",
+      "source_url": "https://ratfactor.com/cards/git-commit-size",
+      "tags": [
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "rajtilakjee"
+    },
+    {
+      "rank": 6,
+      "title": "Arena Allocators in C",
+      "url": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
+      "source_url": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
+      "tags": [
+        "c"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "eliasebner"
+    },
+    {
+      "rank": 7,
+      "title": "I'm sorry, but you still have to think",
+      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+      "source_url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "dimonomid"
+    },
+    {
+      "rank": 8,
+      "title": "How shredding JSON is giving Logfire 1000x query speedups",
+      "url": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
+      "source_url": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
+      "tags": [
+        "databases",
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "typesanitizer"
+    },
+    {
+      "rank": 9,
+      "title": "The wild west of polyglot docs sites",
+      "url": "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
+      "source_url": "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
+      "tags": [
+        "c",
+        "c++",
+        "practices",
+        "python",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "kaycebasques"
+    },
+    {
+      "rank": 10,
+      "title": "oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c",
+      "url": "https://sebsite.pw/w/20261009-strtod.html",
+      "source_url": "https://sebsite.pw/w/20261009-strtod.html",
+      "tags": [
+        "c"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "seb"
+    },
+    {
+      "rank": 11,
+      "title": "The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors",
+      "url": "https://lightbulbcomputer.com/",
+      "source_url": "https://lightbulbcomputer.com/",
+      "tags": [
+        "design"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "pyfisch"
+    },
+    {
+      "rank": 12,
+      "title": "Making np.searchsorted up to 25× Faster in NumPy 2.5",
+      "url": "https://blog.scientific-python.org/numpy/searchsorted/",
+      "source_url": "https://blog.scientific-python.org/numpy/searchsorted/",
+      "tags": [
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "itamarst"
+    },
+    {
+      "rank": 13,
+      "title": "What we ended up doing about alias propagation",
+      "url": "https://futhark-lang.org/blog/2026-10-11-what-we-did-about-aliasing.html",
+      "source_url": "https://futhark-lang.org/blog/2026-10-11-what-we-did-about-aliasing.html",
+      "tags": [
+        "plt",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "fanf"
+    },
+    {
+      "rank": 14,
+      "title": "Consistency is not a localized property",
+      "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+      "source_url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+      "tags": [
+        "ai",
+        "databases",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "b--man"
+    },
+    {
+      "rank": 15,
+      "title": "Kiesel Devlog #15: Release 0.4.0",
+      "url": "https://linus.dev/posts/kiesel-devlog-15/",
+      "source_url": "https://linus.dev/posts/kiesel-devlog-15/",
+      "tags": [
+        "javascript",
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "FedericoSchonborn"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复阿帅的健康笔记昨天 15:00",
+      "url": "https://sspai.com/post/115568",
+      "author": "阿帅的健康笔记",
+      "summary": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复"
+    },
+    {
+      "rank": 2,
+      "title": "App+1｜专注星空：让「少刷手机」这件事更愉悦一点少玩手机多睡觉前天 10:19Matrix精选",
+      "url": "https://sspai.com/post/115237",
+      "author": "少玩手机多睡觉",
+      "summary": "App+1｜专注星空：让「少刷手机」这件事更愉悦一点"
+    },
+    {
+      "rank": 3,
+      "title": "本周看什么 | 最近值得一看的 11 部作品少数派编辑部10/09",
+      "url": "https://sspai.com/post/115566",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 11 部作品"
+    },
+    {
+      "rank": 4,
+      "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧让生活里的寻常片刻，在被轻松记录的同时依然经得起回味。Microhoo10/09",
+      "url": "https://sspai.com/post/115456",
+      "author": "Microhoo",
+      "summary": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧"
+    },
+    {
+      "rank": 5,
+      "title": "行李箱减重反思：这次长假出门，你带了哪些「全程没掏出来」的数码装备？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1791445045",
+      "author": "一派投票",
+      "summary": "行李箱减重反思：这次长假出门，你带了哪些「全程没掏出来」的数码装备？"
+    },
+    {
+      "rank": 6,
+      "title": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.FontsJJYing10/09Matrix精选",
+      "url": "https://sspai.com/post/114869",
+      "author": "JJYing",
+      "summary": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts"
+    },
+    {
+      "rank": 7,
+      "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等少数派编辑部10/09派早报",
+      "url": "https://sspai.com/post/115532",
+      "author": "少数派编辑部",
+      "summary": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等"
+    },
+    {
+      "rank": 8,
+      "title": "iPhone Duo：苹果，终究还是对强迫症下手了lavande10/08Matrix精选",
+      "url": "https://sspai.com/post/115282",
+      "author": "lavande",
+      "summary": "iPhone Duo：苹果，终究还是对强迫症下手了"
+    },
+    {
+      "rank": 9,
+      "title": "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：MoleTw9310/08",
+      "url": "https://sspai.com/post/113843",
+      "author": "Tw93",
+      "summary": "从开源清理工具到付费 Mac 应用，用户教会了我如何做产品：Mole"
+    },
+    {
+      "rank": 10,
+      "title": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验鸿苓10/08",
+      "url": "https://sspai.com/post/115209",
+      "author": "鸿苓",
+      "summary": "扔掉的是杂念，掌控的是生活：我的断舍离实践经验"
+    },
+    {
+      "rank": 11,
+      "title": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1790146393",
+      "author": "一派投票",
+      "summary": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？"
+    },
+    {
+      "rank": 12,
+      "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球waychane10/08",
+      "url": "https://sspai.com/post/115462",
+      "author": "waychane",
+      "summary": "App Store 生态规模五年翻倍，助力中国开发者走向全球"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "郑钦文就差一个大满贯冠军了",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%B0%B1%E5%B7%AE%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%A0%E5%86%9B%E4%BA%86",
+      "hot_value": 220000
+    },
+    {
+      "rank": 2,
+      "title": "本周这些数据值得关注",
+      "url": "https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E8%BF%99%E4%BA%9B%E6%95%B0%E6%8D%AE%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8",
+      "hot_value": 180000
+    },
+    {
+      "rank": 3,
+      "title": "李娜 郑钦文",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%A8%9C+%E9%83%91%E9%92%A6%E6%96%87",
+      "hot_value": 160000
+    },
+    {
+      "rank": 4,
+      "title": "郑钦文收获明年澳网的种子席位",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%94%B6%E8%8E%B7%E6%98%8E%E5%B9%B4%E6%BE%B3%E7%BD%91%E7%9A%84%E7%A7%8D%E5%AD%90%E5%B8%AD%E4%BD%8D",
+      "hot_value": 150000
+    },
+    {
+      "rank": 5,
+      "title": "身高2.2米巨人网红小玥去世",
+      "url": "https://s.weibo.com/weibo?q=%E8%BA%AB%E9%AB%982.2%E7%B1%B3%E5%B7%A8%E4%BA%BA%E7%BD%91%E7%BA%A2%E5%B0%8F%E7%8E%A5%E5%8E%BB%E4%B8%96",
+      "hot_value": 140000
+    },
+    {
+      "rank": 6,
+      "title": "中国护肤科研向世界再进一步",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%8A%A4%E8%82%A4%E7%A7%91%E7%A0%94%E5%90%91%E4%B8%96%E7%95%8C%E5%86%8D%E8%BF%9B%E4%B8%80%E6%AD%A5",
+      "hot_value": 140000
+    },
+    {
+      "rank": 7,
+      "title": "解说调侃AG轮换填错",
+      "url": "https://s.weibo.com/weibo?q=%E8%A7%A3%E8%AF%B4%E8%B0%83%E4%BE%83AG%E8%BD%AE%E6%8D%A2%E5%A1%AB%E9%94%99",
+      "hot_value": 130000
+    },
+    {
+      "rank": 8,
+      "title": "厚本我不是NPC演技",
+      "url": "https://s.weibo.com/weibo?q=%E5%8E%9A%E6%9C%AC%E6%88%91%E4%B8%8D%E6%98%AFNPC%E6%BC%94%E6%8A%80",
+      "hot_value": 130000
+    },
+    {
+      "rank": 9,
+      "title": "李九 AG",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E4%B9%9D+AG",
+      "hot_value": 120000
+    },
+    {
+      "rank": 10,
+      "title": "李思潼妆前妆后变化好大",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%80%9D%E6%BD%BC%E5%A6%86%E5%89%8D%E5%A6%86%E5%90%8E%E5%8F%98%E5%8C%96%E5%A5%BD%E5%A4%A7",
+      "hot_value": 110000
+    },
+    {
+      "rank": 11,
+      "title": "社保",
+      "url": "https://s.weibo.com/weibo?q=%E7%A4%BE%E4%BF%9D",
+      "hot_value": 110000
+    },
+    {
+      "rank": 12,
+      "title": "关晓彤回应去宋雨琦演唱会",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E5%9B%9E%E5%BA%94%E5%8E%BB%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "hot_value": 100000
+    },
+    {
+      "rank": 13,
+      "title": "网传缅北诈骗盯上泰百粉丝",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97%E7%9B%AF%E4%B8%8A%E6%B3%B0%E7%99%BE%E7%B2%89%E4%B8%9D",
+      "hot_value": 100000
+    },
+    {
+      "rank": 14,
+      "title": "中网奖金",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BD%91%E5%A5%96%E9%87%91",
+      "hot_value": 90000
+    },
+    {
+      "rank": 15,
+      "title": "记者暗访有偿陪伴服务",
+      "url": "https://s.weibo.com/weibo?q=%E8%AE%B0%E8%80%85%E6%9A%97%E8%AE%BF%E6%9C%89%E5%81%BF%E9%99%AA%E4%BC%B4%E6%9C%8D%E5%8A%A1",
+      "hot_value": 90000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "为什么五子棋始终没有发展起来",
+      "url": "https://www.zhihu.com/question/284634562",
+      "hot_value": 4190000
+    },
+    {
+      "rank": 2,
+      "title": "大二专科生自述靠切片三年赚七百万，直播切片究竟是怎么赚钱的？这种赚钱模式能复制吗",
+      "url": "https://www.zhihu.com/question/2092562681433514181",
+      "hot_value": 2660000
+    },
+    {
+      "rank": 3,
+      "title": "为什么大部分医院的院长副院长都是心外科胸外科上任的",
+      "url": "https://www.zhihu.com/question/1904336392173093128",
+      "hot_value": 2200000
+    },
+    {
+      "rank": 4,
+      "title": "沙特利雅得机场遭袭，造成 12 人死亡 309 人受伤，哪些信息值得关注？对中东局势有何影响",
+      "url": "https://www.zhihu.com/question/2092513467722719411",
+      "hot_value": 1960000
+    },
+    {
+      "rank": 5,
+      "title": "岸本齐史的全新漫画《火影忍者：暗影崛起》正式公布，对此你有哪些期待",
+      "url": "https://www.zhihu.com/question/2092554410895171870",
+      "hot_value": 1910000
+    },
+    {
+      "rank": 6,
+      "title": "网红贵价面包接连遇冷，迎来烘焙「闭店潮」，是消费回归理性还是烘焙商业模式本身就存在硬伤",
+      "url": "https://www.zhihu.com/question/2092203524230754555",
+      "hot_value": 1790000
+    },
+    {
+      "rank": 7,
+      "title": "广东 5 人吃野生红尾鲤确诊哈夫病，这种病是如何引发的？日常吃鱼该怎样防范",
+      "url": "https://www.zhihu.com/question/2091593487581975365",
+      "hot_value": 1590000
+    },
+    {
+      "rank": 8,
+      "title": "我国验证出一种全新抗癌疗法，一针纳米材料打进肿瘤可让癌细胞生锈死亡，原理是什么？这一成果具有哪些意义",
+      "url": "https://www.zhihu.com/question/2092387652544589909",
+      "hot_value": 1450000
+    },
+    {
+      "rank": 9,
+      "title": "第四届衢州烂柯杯世界围棋公开赛，韩国申真谞、申旻埈、卞相壹、李志贤包揽四强，如何看待这一结果",
+      "url": "https://www.zhihu.com/question/2092304359237406726",
+      "hot_value": 1430000
+    },
+    {
+      "rank": 10,
+      "title": "因长期辱骂江秋莲被判道歉 + 赔付，网红黄建生公开发文向江秋莲道歉，哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2092373331072612285",
+      "hot_value": 1390000
+    },
+    {
+      "rank": 11,
+      "title": "深圳中小学将迎春秋假且不调休，会对双职工家庭带来哪些影响",
+      "url": "https://www.zhihu.com/question/2092006267560649453",
+      "hot_value": 1350000
+    },
+    {
+      "rank": 12,
+      "title": "OpenAI 发布 175 页四维挂谷猜想证明稿，这意味着什么",
+      "url": "https://www.zhihu.com/question/2092197283857175132",
+      "hot_value": 1330000
+    },
+    {
+      "rank": 13,
+      "title": "为什么喝酒喝到微醺会让人感到快乐",
+      "url": "https://www.zhihu.com/question/614889347",
+      "hot_value": 1320000
+    },
+    {
+      "rank": 14,
+      "title": "WTT 中国大满贯赛，男世一松岛辉空 4-3 林昀儒夺冠，怎么评价本场比赛以及 19 岁松岛辉空的上升势头",
+      "url": "https://www.zhihu.com/question/2092697880695928022",
+      "hot_value": 1180000
+    },
+    {
+      "rank": 15,
+      "title": "人社部提出「通过政策优化、数据找人等措施，力争基本养老保险参保率稳定在 95% 以上」，哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2092332439364489582",
+      "hot_value": 1110000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "score": 28,
+      "author": "jttnr",
+      "comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=50045984"
+    },
+    {
+      "rank": 2,
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "score": 157,
+      "author": "Anon84",
+      "comments": 193,
+      "hn_url": "https://news.ycombinator.com/item?id=50043026"
+    },
+    {
+      "rank": 3,
+      "title": "How to Build Wealth as a Career Person",
+      "url": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
+      "score": 41,
+      "author": "doppp",
+      "comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=50044715"
+    },
+    {
+      "rank": 4,
+      "title": "apsw: Another Python SQLite Wrapper",
+      "url": "https://github.com/rogerbinns/apsw",
+      "score": 19,
+      "author": "tosh",
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=50045273"
+    },
+    {
+      "rank": 5,
+      "title": "The tilde in your PATH may not be your HOME",
+      "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "score": 161,
+      "author": "arusekk",
+      "comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=50042425"
+    },
+    {
+      "rank": 6,
+      "title": "LineageOS 24.0",
+      "url": "https://lineageos.org/Changelog-32/",
+      "score": 341,
+      "author": "timschumi",
+      "comments": 127,
+      "hn_url": "https://news.ycombinator.com/item?id=50040276"
+    },
+    {
+      "rank": 7,
+      "title": "How I reverse engineered a commercial spatial audio effect",
+      "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+      "score": 39,
+      "author": "epestr",
+      "comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=50044272"
+    },
+    {
+      "rank": 8,
+      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+      "url": "https://verdagon.dev/blog/valen-group-borrowing",
+      "score": 98,
+      "author": "verdagon",
+      "comments": 42,
+      "hn_url": "https://news.ycombinator.com/item?id=50042362"
+    },
+    {
+      "rank": 9,
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "score": 310,
+      "author": "edent",
+      "comments": 165,
+      "hn_url": "https://news.ycombinator.com/item?id=50042219"
+    },
+    {
+      "rank": 10,
+      "title": "Akhetonics Photonic Computing: 1,000x Faster CPUs",
+      "url": "https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079",
+      "score": 18,
+      "author": "peter_d_sherman",
+      "comments": 4,
+      "hn_url": "https://news.ycombinator.com/item?id=50008566"
+    },
+    {
+      "rank": 11,
+      "title": "I'm sorry, but you still have to think",
+      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+      "score": 159,
+      "author": "drogus",
+      "comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=50043689"
+    },
+    {
+      "rank": 12,
+      "title": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+      "url": "https://betterwispr.com/",
+      "score": 92,
+      "author": "kartik017",
+      "comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=50042333"
+    },
+    {
+      "rank": 13,
+      "title": "The RAM shortage is bringing back DDR4",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "score": 213,
+      "author": "1potato",
+      "comments": 200,
+      "hn_url": "https://news.ycombinator.com/item?id=50028647"
+    },
+    {
+      "rank": 14,
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "url": "https://www.nyc.gov/main/click-to-cancel",
+      "score": 12,
+      "author": "gregsadetsky",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50045946"
+    },
+    {
+      "rank": 15,
+      "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "score": 26,
+      "author": "pseudolus",
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=50028264"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 与智能体",
+        "color": "thought",
+        "summary": "最后聊聊软性的内容。GitHub 上的 cathrynlavery / diagram-design[16] 提供了一组精美的图表设计模板，专门针对 Claude Code、Cursor 等 AI 编程场景，44 种类型，完全没有那些花里胡哨的阴影，很纯粹。\n\nLobsters 上有个帖子标题就叫 \"I'm still around.. I'm just not writing here\"[17]，探讨了在数字时代人们表达欲减少的现象，很有共鸣。还有关于 \"Vibecoding\" 的讨论，提到虽然 AI 能写很多代码，但 \"you still have to think\"[18]，这点说得特别对，工具再强，人类的思考核心不能丢。\n    }\n  ],\n  \"sources\": [\n    {\n      \"num\": 1,\n      \"title\": \"rea: Reverse engineer anything with agents",
+        "url": "https://github.com/morluto/rea",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 2,
+        "title": "ArtCraft: An intentional crafting engine",
+        "url": "https://github.com/storytold/artcraft",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 3,
+        "title": "What's Wrong with GitHub [vcs]",
+        "url": "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
+        "source": "Lobsters",
+        "desc": "关于 GitHub 哲学和 VCS 的讨论"
+      },
+      {
+        "num": 4,
+        "title": "The wild west of polyglot docs sites",
+        "url": "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
+        "source": "Lobsters",
+        "desc": "关于多语言文档混乱的吐槽"
+      },
+      {
+        "num": 5,
+        "title": "Apollo-11: Original Apollo 11 Guidance Computer source code",
+        "url": "https://github.com/chrislgarry/Apollo-11",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 6,
+        "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+        "url": "https://verdagon.dev/blog/valen-group-borrowing",
+        "source": "Lobsters",
+        "desc": "关于内存安全和 Borrow Checking 的新研究"
+      },
+      {
+        "num": 7,
+        "title": "Arena Allocators in C",
+        "url": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
+        "source": "Lobsters",
+        "desc": "C 语言中的 Arena 分配器指南"
+      },
+      {
+        "num": 8,
+        "title": "it's not possible to portably check for string-to-float conversion errors in standard c",
+        "url": "https://sebsite.pw/w/20261009-strtod.html",
+        "source": "Lobsters",
+        "desc": "关于标准 C 中浮点数转换检查的局限性"
+      },
+      {
+        "num": 9,
+        "title": "pytorch: Tensors and Dynamic neural networks",
+        "url": "https://github.com/pytorch/pytorch",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 10,
+        "title": "AirLLM 70B inference with single 4GB GPU",
+        "url": "https://github.com/lyogavin/airllm",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 11,
+        "title": "How shredding JSON is giving Logfire 1000x query speedups",
+        "url": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
+        "source": "Lobsters",
+        "desc": "关于 Logfire 通过 JSON 粉碎提升查询速度的文章"
+      },
+      {
+        "num": 12,
+        "title": "Making np.searchsorted up to 25× Faster in NumPy 2.5",
+        "url": "https://blog.scientific-python.org/numpy/searchsorted/",
+        "source": "Lobsters",
+        "desc": "NumPy 2.5 性能优化更新"
+      },
+      {
+        "num": 13,
+        "title": "iPhone Duo：苹果，终究还是对强迫症下手了",
+        "url": "https://sspai.com/post/115282",
+        "source": "少数派",
+        "desc": "关于 iPhone 新功能的体验"
+      },
+      {
+        "num": 14,
+        "title": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
+        "url": "https://sspai.com/post/114869",
+        "source": "少数派",
+        "desc": "效率工具推荐"
+      },
+      {
+        "num": 15,
+        "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
+        "url": "https://sspai.com/post/115462",
+        "source": "少数派",
+        "desc": "关于 App Store 生态发展的报道"
+      },
+      {
+        "num": 16,
+        "title": "diagram-design: Editorial diagram design for Claude Code...",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 17,
+        "title": "I'm still around.. I'm just not writing here",
+        "url": "https://rachelbythebay.com/w/2026/10/08/idle/",
+        "source": "Lobsters",
+        "desc": "关于数字时代写作文化的思考"
+      },
+      {
+        "num": 18,
+        "title": "I'm sorry, but you still have to think",
+        "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+        "source": "Lobsters",
+        "desc": "关于 Vibecoding 和人类思考必要性的讨论"
+      }
+    ],
+    "stats": {
+      "total_items": 18,
+      "total_categories": 5,
+      "total_sources": 18
+    }
+  }
+}
