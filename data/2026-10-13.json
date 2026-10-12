@@ -1,0 +1,891 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "morluto / rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": "152792",
+      "stars_today": "45,495 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "bilawalsidhu / gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": "53500",
+      "stars_today": "1,903 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 3,
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": "27213",
+      "stars_today": "394 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 4,
+      "title": "storytold / artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars": "21646",
+      "stars_today": "4,106 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 5,
+      "title": "open-webui / open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "stars": "154886",
+      "stars_today": "142 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 6,
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "52451",
+      "stars_today": "2,100 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 7,
+      "title": "lyogavin / airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "stars": "37454",
+      "stars_today": "886 stars today",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "rank": 8,
+      "title": "microsoft / BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "stars": "40877",
+      "stars_today": "134 stars today",
+      "language": "C++"
+    },
+    {
+      "rank": 9,
+      "title": "Alishahryar1 / free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "stars": "58987",
+      "stars_today": "705 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Living in the Weimar era of Ruby",
+      "url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+      "source_url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+      "tags": [
+        "ruby",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "julik"
+    },
+    {
+      "rank": 2,
+      "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+      "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+      "source_url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+      "tags": [
+        "linux",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "oceanhaiyang"
+    },
+    {
+      "rank": 3,
+      "title": "'AI' is Not a Tool",
+      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+      "source_url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "regulator"
+    },
+    {
+      "rank": 4,
+      "title": "(Post-Quantum) Cryptographic Right Answers",
+      "url": "https://words.filippo.io/right-answers/",
+      "source_url": "https://words.filippo.io/right-answers/",
+      "tags": [
+        "cryptography"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jtdowney"
+    },
+    {
+      "rank": 5,
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "source_url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "tags": [
+        "privacy"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "eduard"
+    },
+    {
+      "rank": 6,
+      "title": "What are you doing this week?",
+      "url": "https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week",
+      "source_url": "https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week",
+      "tags": [
+        "ask",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "caius"
+    },
+    {
+      "rank": 7,
+      "title": "Finding a $90,000 Remote Code Execution Vulnerability in Google",
+      "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+      "source_url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "hoistbypetard"
+    },
+    {
+      "rank": 8,
+      "title": "French supermarket chains say cyberattack forced refrigerator shutdown",
+      "url": "https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown",
+      "source_url": "https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "aldantanneo"
+    },
+    {
+      "rank": 9,
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "source_url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "tags": [
+        "retrocomputing"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "mdr"
+    },
+    {
+      "rank": 10,
+      "title": "I'm sorry, but you still have to think",
+      "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+      "source_url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+      "tags": [
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "dimonomid"
+    },
+    {
+      "rank": 11,
+      "title": "Parsing JSON at tens of gigabytes per second… in Python",
+      "url": "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/",
+      "source_url": "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/",
+      "tags": [
+        "python"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "raymii"
+    },
+    {
+      "rank": 12,
+      "title": "What I've been seeing lately (in software)",
+      "url": "https://mei.puppycat.house/w/seeing-261010",
+      "source_url": "https://mei.puppycat.house/w/seeing-261010",
+      "tags": [
+        "culture",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "mei"
+    },
+    {
+      "rank": 13,
+      "title": "your c is not standard c",
+      "url": "https://sebsite.pw/w/20261012-notstdc.html",
+      "source_url": "https://sebsite.pw/w/20261012-notstdc.html",
+      "tags": [
+        "c"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "nytpu"
+    },
+    {
+      "rank": 14,
+      "title": "Type-safe HTML templating in Zig",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "source_url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "tags": [
+        "web",
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "nemin"
+    },
+    {
+      "rank": 15,
+      "title": "3-2-1 Backup Strategy with restic and Backblaze B2",
+      "url": "https://chuck.is/paranoid/",
+      "source_url": "https://chuck.is/paranoid/",
+      "tags": [
+        "devops",
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "zk"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "派评 | 近期值得关注的 App少数派编辑部昨天 17:30",
+      "url": "https://sspai.com/post/115934",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 2,
+      "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注ElijahLee昨天 15:00",
+      "url": "https://sspai.com/post/115242",
+      "author": "ElijahLee",
+      "summary": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注"
+    },
+    {
+      "rank": 3,
+      "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小随便好啦昨天 11:20Matrix精选",
+      "url": "https://sspai.com/post/114821",
+      "author": "随便好啦",
+      "summary": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见少数派编辑部昨天 06:34派早报",
+      "url": "https://sspai.com/post/115845",
+      "author": "少数派编辑部",
+      "summary": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见"
+    },
+    {
+      "rank": 5,
+      "title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复阿帅的健康笔记前天 15:00",
+      "url": "https://sspai.com/post/115568",
+      "author": "阿帅的健康笔记",
+      "summary": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复"
+    },
+    {
+      "rank": 6,
+      "title": "行李箱减重反思：这次长假出门，你带了哪些「全程没掏出来」的数码装备？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1791445045",
+      "author": "一派投票",
+      "summary": "行李箱减重反思：这次长假出门，你带了哪些「全程没掏出来」的数码装备？"
+    },
+    {
+      "rank": 7,
+      "title": "App+1｜专注星空：让「少刷手机」这件事更愉悦一点少玩手机多睡觉10/10Matrix精选",
+      "url": "https://sspai.com/post/115237",
+      "author": "少玩手机多睡觉",
+      "summary": "App+1｜专注星空：让「少刷手机」这件事更愉悦一点"
+    },
+    {
+      "rank": 8,
+      "title": "本周看什么 | 最近值得一看的 11 部作品少数派编辑部10/09",
+      "url": "https://sspai.com/post/115566",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 11 部作品"
+    },
+    {
+      "rank": 9,
+      "title": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧让生活里的寻常片刻，在被轻松记录的同时依然经得起回味。Microhoo10/09",
+      "url": "https://sspai.com/post/115456",
+      "author": "Microhoo",
+      "summary": "vivo X500 Pro Max 影像漫谈：当视频创作像拍照一样轻巧"
+    },
+    {
+      "rank": 10,
+      "title": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.FontsJJYing10/09Matrix精选",
+      "url": "https://sspai.com/post/114869",
+      "author": "JJYing",
+      "summary": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts"
+    },
+    {
+      "rank": 11,
+      "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等少数派编辑部10/09派早报",
+      "url": "https://sspai.com/post/115532",
+      "author": "少数派编辑部",
+      "summary": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等"
+    },
+    {
+      "rank": 12,
+      "title": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1790146393",
+      "author": "一派投票",
+      "summary": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "内娱来了五位AI艺人",
+      "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E6%9D%A5%E4%BA%86%E4%BA%94%E4%BD%8DAI%E8%89%BA%E4%BA%BA",
+      "hot_value": 50000
+    },
+    {
+      "rank": 2,
+      "title": "红星照耀中国",
+      "url": "https://s.weibo.com/weibo?q=%E7%BA%A2%E6%98%9F%E7%85%A7%E8%80%80%E4%B8%AD%E5%9B%BD",
+      "hot_value": 50000
+    },
+    {
+      "rank": 3,
+      "title": "朋友离世后我送的同人本被卖",
+      "url": "https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E7%A6%BB%E4%B8%96%E5%90%8E%E6%88%91%E9%80%81%E7%9A%84%E5%90%8C%E4%BA%BA%E6%9C%AC%E8%A2%AB%E5%8D%96",
+      "hot_value": 40000
+    },
+    {
+      "rank": 4,
+      "title": "郭宇欣收拾收拾准备升咖",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%AD%E5%AE%87%E6%AC%A3%E6%94%B6%E6%8B%BE%E6%94%B6%E6%8B%BE%E5%87%86%E5%A4%87%E5%8D%87%E5%92%96",
+      "hot_value": 40000
+    },
+    {
+      "rank": 5,
+      "title": "谭松韵计划27岁结婚30岁前生娃",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%AD%E6%9D%BE%E9%9F%B5%E8%AE%A1%E5%88%9227%E5%B2%81%E7%BB%93%E5%A9%9A30%E5%B2%81%E5%89%8D%E7%94%9F%E5%A8%83",
+      "hot_value": 40000
+    },
+    {
+      "rank": 6,
+      "title": "内部人员代缴采暖费打折系谣言",
+      "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%83%A8%E4%BA%BA%E5%91%98%E4%BB%A3%E7%BC%B4%E9%87%87%E6%9A%96%E8%B4%B9%E6%89%93%E6%8A%98%E7%B3%BB%E8%B0%A3%E8%A8%80",
+      "hot_value": 40000
+    },
+    {
+      "rank": 7,
+      "title": "陈小纭已经是完全认不出的程度了",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%8F%E7%BA%AD%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%AE%8C%E5%85%A8%E8%AE%A4%E4%B8%8D%E5%87%BA%E7%9A%84%E7%A8%8B%E5%BA%A6%E4%BA%86",
+      "hot_value": 40000
+    },
+    {
+      "rank": 8,
+      "title": "霸王茶姬回应买一送一活动初衷",
+      "url": "https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%9B%9E%E5%BA%94%E4%B9%B0%E4%B8%80%E9%80%81%E4%B8%80%E6%B4%BB%E5%8A%A8%E5%88%9D%E8%A1%B7",
+      "hot_value": 40000
+    },
+    {
+      "rank": 9,
+      "title": "武网施晗爆冷淘汰伊埃拉",
+      "url": "https://s.weibo.com/weibo?q=%E6%AD%A6%E7%BD%91%E6%96%BD%E6%99%97%E7%88%86%E5%86%B7%E6%B7%98%E6%B1%B0%E4%BC%8A%E5%9F%83%E6%8B%89",
+      "hot_value": 40000
+    },
+    {
+      "rank": 10,
+      "title": "小说里产后妻子被嘲丈夫出手",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E8%AF%B4%E9%87%8C%E4%BA%A7%E5%90%8E%E5%A6%BB%E5%AD%90%E8%A2%AB%E5%98%B2%E4%B8%88%E5%A4%AB%E5%87%BA%E6%89%8B",
+      "hot_value": 40000
+    },
+    {
+      "rank": 11,
+      "title": "备婚女生因三金折现和父母争吵",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%87%E5%A9%9A%E5%A5%B3%E7%94%9F%E5%9B%A0%E4%B8%89%E9%87%91%E6%8A%98%E7%8E%B0%E5%92%8C%E7%88%B6%E6%AF%8D%E4%BA%89%E5%90%B5",
+      "hot_value": 40000
+    },
+    {
+      "rank": 12,
+      "title": "霸王茶姬加盟商发声",
+      "url": "https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%8A%A0%E7%9B%9F%E5%95%86%E5%8F%91%E5%A3%B0",
+      "hot_value": 40000
+    },
+    {
+      "rank": 13,
+      "title": "鹿晗说谁是你老公",
+      "url": "https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E8%AF%B4%E8%B0%81%E6%98%AF%E4%BD%A0%E8%80%81%E5%85%AC",
+      "hot_value": 40000
+    },
+    {
+      "rank": 14,
+      "title": "刘学义是谭松韵的铁粉",
+      "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AD%A6%E4%B9%89%E6%98%AF%E8%B0%AD%E6%9D%BE%E9%9F%B5%E7%9A%84%E9%93%81%E7%B2%89",
+      "hot_value": 30000
+    },
+    {
+      "rank": 15,
+      "title": "女子左臀疼1个月挤出发黑注射针头",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%B7%A6%E8%87%80%E7%96%BC1%E4%B8%AA%E6%9C%88%E6%8C%A4%E5%87%BA%E5%8F%91%E9%BB%91%E6%B3%A8%E5%B0%84%E9%92%88%E5%A4%B4",
+      "hot_value": 30000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "日本爆发倒闭潮，2026 财年上半年负债千万日元以上企业破产 5373 起，创 13 年新高，背后有哪些原因",
+      "url": "https://www.zhihu.com/question/2092964786921107847",
+      "hot_value": 1880000
+    },
+    {
+      "rank": 2,
+      "title": "曝某大厂员工当众掌掴领导，疑因遭领导拒绝批假，其企微个签「研究国法企规」获 1 万同事点赞，具体啥情况",
+      "url": "https://www.zhihu.com/question/2092693417465569589",
+      "hot_value": 1770000
+    },
+    {
+      "rank": 3,
+      "title": "中文在线称，中国 55% 的 token 消耗指向 AI 短剧，如何看待这一现象",
+      "url": "https://www.zhihu.com/question/2092571772189153120",
+      "hot_value": 1660000
+    },
+    {
+      "rank": 4,
+      "title": "如何评价番茄小说 2026 年 10 月 12 日签约新规",
+      "url": "https://www.zhihu.com/question/2093092262758635198",
+      "hot_value": 1330000
+    },
+    {
+      "rank": 5,
+      "title": "新能源车出口退税从 13% 降至 9%，2027 年 4 月落地，会影响国内车企出海利润与海外定价吗",
+      "url": "https://www.zhihu.com/question/2093026302219571568",
+      "hot_value": 1170000
+    },
+    {
+      "rank": 6,
+      "title": "如何看待穆欣月（桃晚安）成亚运会电竞项目首位女子冠军后，其父亲说后悔以前阻拦她打游戏搞电竞",
+      "url": "https://www.zhihu.com/question/2092396723658346628",
+      "hot_value": 1050000
+    },
+    {
+      "rank": 7,
+      "title": "为什么医院验血要抽好几管血？为什么不能一管多用",
+      "url": "https://www.zhihu.com/question/2081195847480619059",
+      "hot_value": 1030000
+    },
+    {
+      "rank": 8,
+      "title": "莫氏鸡煲莫叔称为养鸡场砸了 600 万，儿女都已辞职，很可能会再背上一身债务，如何看待他的选择",
+      "url": "https://www.zhihu.com/question/2091597639112512575",
+      "hot_value": 1020000
+    },
+    {
+      "rank": 9,
+      "title": "江淮汽车 10 月 12 日开盘大跌，市值跌破 500 亿，午间收盘重回 500 亿，江淮汽车未来股价还将如何变化",
+      "url": "https://www.zhihu.com/question/2092934926333129329",
+      "hot_value": 980000
+    },
+    {
+      "rank": 10,
+      "title": "周鸿祎攀岩从 3 米高处摔下，左膝粉碎性骨折，攀岩有哪些易被忽视的风险？攀岩时需要做好哪些防护",
+      "url": "https://www.zhihu.com/question/2092747969921602735",
+      "hot_value": 950000
+    },
+    {
+      "rank": 11,
+      "title": "AI 逆向工程项目 REA 爆火，闭源软件是否都要被迫开源",
+      "url": "https://www.zhihu.com/question/2092910466892830417",
+      "hot_value": 930000
+    },
+    {
+      "rank": 12,
+      "title": "日本用工市场再现「挑企业」潮，12.1 万求职者对应 49.9 万岗位，应届生薪资普涨达 40%，你怎么看",
+      "url": "https://www.zhihu.com/question/2092365723654006104",
+      "hot_value": 880000
+    },
+    {
+      "rank": 13,
+      "title": "关机再开机和重启有什么区别",
+      "url": "https://www.zhihu.com/question/657921447",
+      "hot_value": 800000
+    },
+    {
+      "rank": 14,
+      "title": "广州一放生团体因官方报备太严格，直接放生两万条鲮鱼，还有放生者称「做善事干吗报备」，随意放生有啥危害",
+      "url": "https://www.zhihu.com/question/2092292280925287418",
+      "hot_value": 780000
+    },
+    {
+      "rank": 15,
+      "title": "如何看待近期社保纳入税务处罚，单位欠缴社保最高罚三倍引发热议",
+      "url": "https://www.zhihu.com/question/2092944563266479186",
+      "hot_value": 780000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "AI Is a Tool. Using It Well Takes Skill.",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "score": 28,
+      "author": "layer8",
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=50063427"
+    },
+    {
+      "rank": 2,
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "score": 366,
+      "author": "ilreb",
+      "comments": 205,
+      "hn_url": "https://news.ycombinator.com/item?id=50058507"
+    },
+    {
+      "rank": 3,
+      "title": "A Modern Web App in C",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "score": 314,
+      "author": "prophittcorey",
+      "comments": 130,
+      "hn_url": "https://news.ycombinator.com/item?id=50058528"
+    },
+    {
+      "rank": 4,
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "score": 41,
+      "author": "zdw",
+      "comments": 4,
+      "hn_url": "https://news.ycombinator.com/item?id=50061859"
+    },
+    {
+      "rank": 5,
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "score": 318,
+      "author": "Zeekaas",
+      "comments": 542,
+      "hn_url": "https://news.ycombinator.com/item?id=50055304"
+    },
+    {
+      "rank": 6,
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "score": 367,
+      "author": "whimblepop",
+      "comments": 205,
+      "hn_url": "https://news.ycombinator.com/item?id=50060694"
+    },
+    {
+      "rank": 7,
+      "title": "Phreak.ing – Internet Phone Switch",
+      "url": "https://phreak.ing/",
+      "score": 7,
+      "author": "rickcarlino",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50063417"
+    },
+    {
+      "rank": 8,
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "url": "https://news.ycombinator.com/item?id=50059096",
+      "score": 71,
+      "author": "vishnukool",
+      "comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=50059096"
+    },
+    {
+      "rank": 9,
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "score": 213,
+      "author": "djfergus",
+      "comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=50055593"
+    },
+    {
+      "rank": 10,
+      "title": "Citroen revives the 2CV for an electric age",
+      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "score": 228,
+      "author": "scrlk",
+      "comments": 267,
+      "hn_url": "https://news.ycombinator.com/item?id=50055220"
+    },
+    {
+      "rank": 11,
+      "title": "Muse Wonder",
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "score": 450,
+      "author": "meetpateltech",
+      "comments": 239,
+      "hn_url": "https://news.ycombinator.com/item?id=50059115"
+    },
+    {
+      "rank": 12,
+      "title": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "score": 201,
+      "author": "gregsadetsky",
+      "comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=50036287"
+    },
+    {
+      "rank": 13,
+      "title": "AI coding agents generate more code, but not more software",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "score": 264,
+      "author": "gumby",
+      "comments": 215,
+      "hn_url": "https://news.ycombinator.com/item?id=50059523"
+    },
+    {
+      "rank": 14,
+      "title": "Secret of Orange Cats Revealed After 60-Year Search",
+      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+      "score": 208,
+      "author": "bookofjoe",
+      "comments": 168,
+      "hn_url": "https://news.ycombinator.com/item?id=50037711"
+    },
+    {
+      "rank": 15,
+      "title": "'AI' Is Not a Tool by Rich Hickey",
+      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+      "score": 111,
+      "author": "svieira",
+      "comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=50060269"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发效率",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。rea[1] 号称能用智能体逆向工程任何东西，从 App 行为到原生二进制，这种自动化逆向能力太硬核了。context-mode[2] 优化了 AI 编程代理的上下文窗口，通过沙盒工具输出能减少 98% 的冗余数据，搞大模型微调的朋友绝对需要关注。另外，free-claude-code[3] 整合了多个免费 Tokens 来源，让你在终端就能免费用 Claude Code，这点对开发者太友好了。\n\nLobsters 社区今天讨论最热烈的还是 Linus Torvalds 亲自上号用 Claude Code 优化 Linux 内核[4]，Linux 之父和 AI 工具的直接碰撞，感觉有点“威宁时代”的味道了。还有几篇关于 AI 本质的思考文章，比如《'AI' 不是工具》[5] 和《对不起，你仍然必须思考》[6]，都在提醒我们：AI 再强，核心决策还得靠人。少数派那边也跟进很快，报道了 Anthropic 刚发布的 Claude Haiku 5.5 模型[7]，看来各家都在疯狂内卷小参数模型。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "system",
+        "summary": "系统层面的动静也不小。微软官方推出了 BitNet 框架[8]，专门用于推理 1-bit 大语言模型，这意味着模型体积能压到极小。AirLLM[9] 更是个狠活，声称能在单张 4GB 显存的显卡上跑通 70B 参数模型，搞边缘计算的朋友必须冲一下。Linux 方面，除了 Linus 用 AI 干活，还有关于后量子密码学的正确解法讨论[10]，安全底线不能忘。\n\nLobsters 上有个挺吓人的帖子，说有人发现了 Google 开发站的一个 90,000 美元的远程代码执行漏洞[11]，搞安全的朋友务必看看这篇写透的分析。还有法国超市因网络攻击被迫关闭冰箱的新闻[12]，IoT 设备的安全问题真的越来越严峻了。少数派文章也提到了工信部关于汽车创新设计的征求意见[13]，软硬结合的安全和合规问题在未来只会更多。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "gadget",
+        "summary": "数码圈今天最火的是 vivo X500 Pro Max 的影像漫谈[14]，主打视频创作像拍照一样轻松，这对 Vlog 创作者很有吸引力。另外，iOS 27 传闻中要推出的全新家长控制和儿童安全功能也值得关注[15]，毕竟孩子上网的事儿家长最操心。工具类方面，有一个叫 Anyway.Fonts 的字体预览工具[16]，号称更适合中文场景，解决了很多设计师的痛点。\n\nLobsters 还聊到了指纹识别正在成为新的追踪手段，就像当年的 Cookie 一样[17]，隐私保护这块真的越来越难搞。少数派那边有个怀旧手记，讲索尼如何把电脑越做越小，从迷你电脑到口袋笔记本[18]，读起来挺有感触的。还有关于行李箱减重的投票[19]，大家吐槽那些“全程没掏出来”的数码装备，看来现在出门带东西太多也是个时代病。"
+      },
+      {
+        "name": "设计与视觉工程",
+        "color": "design",
+        "summary": "今天 GitHub 上有个很有意思的项目 diagram-design[20]，它是专门为 Claude Code、Copilot 这些 AI 编程工具设计的编辑图设计库，支持 44 种图表类型，而且完全自包含，不需要 Mermaid 那些花里胡哨的阴影，纯粹又高效。ArtCraft[21] 也是个不错的发现，它是专为艺术家和设计师打造的有意愿创作引擎，感觉是给创作者量身定做的。\n\nLobsters 上有人分享了自己写的 ZX Spectrum 复古游戏开场动画[22]，这种硬核的复古计算经历很有情怀。还有关于在 Zig 语言里做类型安全的 HTML 模板的讨论[23]，看起来是想在静态站点生成领域搞点新花样。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天的社区讨论挺有深度的。Lobsters 上有一篇 Living in the Weimar era of Ruby[24]，把 Ruby 现在的状态比作魏玛共和国，挺悲观但也挺现实的。还有《'AI' 不是工具》[5] 和《I'm sorry, but you still have to think》[6]，都在反复强调人的主体性。\n\n少数派那边有个投票，聊大家用开源项目或 AI  Coding 替代了哪些付费订阅[25]，看来开源生态和 AI 工具正在大规模冲击传统软件商业模式。另外，关于后量子密码的讨论[10] 也值得深思，现在的加密方案可能很快就要变成“历史遗留代码”了。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "Reverse engineer anything with agents",
+        "url": "https://github.com/morluto/rea",
+        "source": "GitHub Trending",
+        "desc": "GitHub 项目 rea，通过智能体进行逆向工程"
+      },
+      {
+        "num": 2,
+        "title": "Context window optimization for AI coding agents",
+        "url": "https://github.com/mksglu/context-mode",
+        "source": "GitHub Trending",
+        "desc": "GitHub 项目 context-mode，优化 AI 代理上下文"
+      },
+      {
+        "num": 3,
+        "title": "Use Claude Code, Codex... for free",
+        "url": "https://github.com/Alishahryar1/free-claude-code",
+        "source": "GitHub Trending",
+        "desc": "GitHub 项目 free-claude-code，提供多种免费 Token 来源"
+      },
+      {
+        "num": 4,
+        "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+        "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+        "source": "Lobsters",
+        "desc": "Phoronix 报道 Linus Torvalds 使用 Claude Code 优化内核"
+      },
+      {
+        "num": 5,
+        "title": "'AI' is Not a Tool",
+        "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+        "source": "Lobsters",
+        "desc": "LinkedIn 文章探讨 AI 的本质"
+      },
+      {
+        "num": 6,
+        "title": "I'm sorry, but you still have to think",
+        "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+        "source": "Lobsters",
+        "desc": "文章强调人类思考的必要性"
+      },
+      {
+        "num": 7,
+        "title": "派早报：英伟达 RTX Spark 新品一览、Anthropic 发布 Claude Haiku 5.5 模型等",
+        "url": "https://sspai.com/post/115532",
+        "source": "少数派",
+        "desc": "少数派早报，包含 Anthropic 新模型发布"
+      },
+      {
+        "num": 8,
+        "title": "Official inference framework for 1-bit LLMs",
+        "url": "https://github.com/microsoft/BitNet",
+        "source": "GitHub Trending",
+        "desc": "微软 BitNet 1-bit LLM 推理框架"
+      },
+      {
+        "num": 9,
+        "title": "AirLLM 70B inference with single 4GB GPU",
+        "url": "https://github.com/lyogavin/airllm",
+        "source": "GitHub Trending",
+        "desc": "AirLLM 低显存大模型推理项目"
+      },
+      {
+        "num": 10,
+        "title": "(Post-Quantum) Cryptographic Right Answers",
+        "url": "https://words.filippo.io/right-answers/",
+        "source": "Lobsters",
+        "desc": "Filippo Vailo 关于后量子密码学的文章"
+      },
+      {
+        "num": 11,
+        "title": "Finding a $90,000 Remote Code Execution Vulnerability in Google",
+        "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+        "source": "Lobsters",
+        "desc": "关于 Google 远程代码执行漏洞的深入分析"
+      },
+      {
+        "num": 12,
+        "title": "French supermarket chains say cyberattack forced refrigerator shutdown",
+        "url": "https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown",
+        "source": "Lobsters",
+        "desc": "AFP 报道法国超市网络攻击事件"
+      },
+      {
+        "num": 13,
+        "title": "派评 | 近期值得关注的 App",
+        "url": "https://sspai.com/post/115934",
+        "source": "少数派",
+        "desc": "少数派编辑部关于近期 App 的报道"
+      },
+      {
+        "num": 14,
+        "title": "vivo X500 Pro Max 影像漫谈",
+        "url": "https://sspai.com/post/115456",
+        "source": "少数派",
+        "desc": "Microhoo 关于 vivo X500 Pro Max 的视频创作能力讨论"
+      },
+      {
+        "num": 15,
+        "title": "iOS 27 推出全新家长控制与儿童安全功能",
+        "url": "https://sspai.com/post/115242",
+        "source": "少数派",
+        "desc": "ElijahLee 关于 iOS 27 家长控制功能的报道"
+      },
+      {
+        "num": 16,
+        "title": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
+        "url": "https://sspai.com/post/114869",
+        "source": "少数派",
+        "desc": "JJYing 推荐的中文字体预览工具 Anyway.Fonts"
+      },
+      {
+        "num": 17,
+        "title": "Fingerprints are the new cookies",
+        "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+        "source": "Lobsters",
+        "desc": "关于指纹追踪成为新隐私威胁的讨论"
+      },
+      {
+        "num": 18,
+        "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
+        "url": "https://sspai.com/post/114821",
+        "source": "少数派",
+        "desc": "随便好啦 关于索尼迷你电脑历史的怀旧文章"
+      },
+      {
+        "num": 19,
+        "title": "行李箱减重反思",
+        "url": "https://sspai.com/bullet/1791445045",
+        "source": "少数派",
+        "desc": "一派投票关于行李箱减重和数码装备的讨论"
+      },
+      {
+        "num": 20,
+        "title": "Editorial diagram design for Claude Code...",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "source": "GitHub Trending",
+        "desc": "GitHub 项目 diagram-design，专为 AI 编程工具设计的图表库"
+      },
+      {
+        "num": 21,
+        "title": "ArtCraft is an intentional crafting engine...",
+        "url": "https://github.com/storytold/artcraft",
+        "source": "GitHub Trending",
+        "desc": "GitHub 项目 ArtCraft，为艺术家设计的创作引擎"
+      },
+      {
+        "num": 22,
+        "title": "Writing a Demoscene Intro for the ZX Spectrum",
+        "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+        "source": "Lobsters",
+        "desc": "Mark Round 关于编写 ZX Spectrum 复古开场动画的博客"
+      },
+      {
+        "num": 23,
+        "title": "Type-safe HTML templating in Zig",
+        "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+        "source": "Lobsters",
+        "desc": "Lalinsky 关于在 Zig 中实现类型安全 HTML 模板的文章"
+      },
+      {
+        "num": 24,
+        "title": "Living in the Weimar era of Ruby",
+        "url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+        "source": "Lobsters",
+        "desc": "Julik 关于 Ruby 现状的评论文章"
+      },
+      {
+        "num": 25,
+        "title": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？",
+        "url": "https://sspai.com/bullet/1790146393",
+        "source": "少数派",
+        "desc": "一派投票关于开源/AI 替代付费订阅的讨论"
+      }
+    ],
+    "stats": {
+      "total_items": 25,
+      "total_categories": 5,
+      "total_sources": 25
+    }
+  }
+}
