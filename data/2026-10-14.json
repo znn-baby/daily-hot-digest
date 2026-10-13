@@ -1,0 +1,807 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "morluto / rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": "202271",
+      "stars_today": "54,706 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "bilawalsidhu / gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "stars": "55122",
+      "stars_today": "1,961 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 3,
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "62733",
+      "stars_today": "2,277 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": "28082",
+      "stars_today": "978 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 5,
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "53900",
+      "stars_today": "1,813 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 6,
+      "title": "vercel-labs / skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "stars": "34373",
+      "stars_today": "187 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 7,
+      "title": "lyogavin / airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "stars": "38216",
+      "stars_today": "1,004 stars today",
+      "language": "Jupyter Notebook"
+    },
+    {
+      "rank": 8,
+      "title": "storytold / artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "stars": "25190",
+      "stars_today": "4,078 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 9,
+      "title": "xtool-org / xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "stars": "9124",
+      "stars_today": "1,182 stars today",
+      "language": "Swift"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "A plea not to use uv-build",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+      "source_url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+      "tags": [
+        "devops",
+        "python"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "lim"
+    },
+    {
+      "rank": 2,
+      "title": "Did Ente Locker copy my code without attribution?",
+      "url": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
+      "source_url": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
+      "tags": [
+        "law"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "tusharhero"
+    },
+    {
+      "rank": 3,
+      "title": "Who is vfmaddrnd231pd??",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "source_url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "tags": [
+        "assembly"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "valdemar"
+    },
+    {
+      "rank": 4,
+      "title": "Where is all the new, good software?",
+      "url": "https://www.natemeyvis.com/where-is-all-the-new-good-software/",
+      "source_url": "https://www.natemeyvis.com/where-is-all-the-new-good-software/",
+      "tags": [
+        "practices",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "gerikson"
+    },
+    {
+      "rank": 5,
+      "title": "The reverts will continue until morale improves",
+      "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+      "source_url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+      "tags": [
+        "databases"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "kngl"
+    },
+    {
+      "rank": 6,
+      "title": "Vi Hart's Big Navier-Stokes Post",
+      "url": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
+      "source_url": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
+      "tags": [
+        "math",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "archagon"
+    },
+    {
+      "rank": 7,
+      "title": "Lotus Improv on the NeXT",
+      "url": "https://stonetools.ghost.io/lotusimprov-next/",
+      "source_url": "https://stonetools.ghost.io/lotusimprov-next/",
+      "tags": [
+        "historical"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "gecko"
+    },
+    {
+      "rank": 8,
+      "title": "Creusot 0.14.0 release - Contracts for Rust, formally proved",
+      "url": "https://devlog.creusot.rs/v0-14-0/",
+      "source_url": "https://devlog.creusot.rs/v0-14-0/",
+      "tags": [
+        "formalmethods",
+        "release",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "lyxia"
+    },
+    {
+      "rank": 9,
+      "title": "A slightly faster slimmer curl",
+      "url": "https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/",
+      "source_url": "https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/",
+      "tags": [
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "wonk"
+    },
+    {
+      "rank": 10,
+      "title": "Living in the Weimar era of Ruby",
+      "url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+      "source_url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+      "tags": [
+        "ruby",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "julik"
+    },
+    {
+      "rank": 11,
+      "title": "Easylang: A Simple, Browser-Based Programming Language in the Spirit of the Old Home Computer BASIC",
+      "url": "https://easylang.online/ide",
+      "source_url": "https://easylang.online/ide",
+      "tags": [
+        "show",
+        "education",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "chkas"
+    },
+    {
+      "rank": 12,
+      "title": "Chasing a -O2 pessimization in antcc",
+      "url": "https://386s.org/w/lua-antcc-pessimization/",
+      "source_url": "https://386s.org/w/lua-antcc-pessimization/",
+      "tags": [
+        "c",
+        "compilers"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "lemon"
+    },
+    {
+      "rank": 13,
+      "title": "Can Ease of Creation Lead to Decrease in Quality & Value?",
+      "url": "https://pikuma.com/blog/ease-creation-decrease-quality-value",
+      "source_url": "https://pikuma.com/blog/ease-creation-decrease-quality-value",
+      "tags": [
+        "art",
+        "programming",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "gustavo-pezzi"
+    },
+    {
+      "rank": 14,
+      "title": "Data-oriented Design for Mortals",
+      "url": "https://www.youtube.com/watch?v=uI1Yx1CJAB0",
+      "source_url": "https://www.youtube.com/watch?v=uI1Yx1CJAB0",
+      "tags": [
+        "video"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "rcalixte"
+    },
+    {
+      "rank": 15,
+      "title": "(Post-Quantum) Cryptographic Right Answers",
+      "url": "https://words.filippo.io/right-answers/",
+      "source_url": "https://words.filippo.io/right-answers/",
+      "tags": [
+        "cryptography"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jtdowney"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议Matrix机器人昨天 17:00",
+      "url": "https://sspai.com/post/116068",
+      "author": "Matrix机器人",
+      "summary": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议"
+    },
+    {
+      "rank": 2,
+      "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 AppTp昨天 15:00",
+      "url": "https://sspai.com/post/115400",
+      "author": "Tp",
+      "summary": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App"
+    },
+    {
+      "rank": 3,
+      "title": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官waychane昨天 11:30",
+      "url": "https://sspai.com/post/116028",
+      "author": "waychane",
+      "summary": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官"
+    },
+    {
+      "rank": 4,
+      "title": "高端，不只是材质而已：Apple Watch Edition 的前世今生秋风花雨落昨天 11:09Matrix精选",
+      "url": "https://sspai.com/post/114561",
+      "author": "秋风花雨落",
+      "summary": "高端，不只是材质而已：Apple Watch Edition 的前世今生"
+    },
+    {
+      "rank": 5,
+      "title": "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等少数派编辑部昨天 08:01派早报",
+      "url": "https://sspai.com/post/116033",
+      "author": "少数派编辑部",
+      "summary": "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等"
+    },
+    {
+      "rank": 6,
+      "title": "行李箱减重反思：这次长假出门，你带了哪些「全程没掏出来」的数码装备？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1791445045",
+      "author": "一派投票",
+      "summary": "行李箱减重反思：这次长假出门，你带了哪些「全程没掏出来」的数码装备？"
+    },
+    {
+      "rank": 7,
+      "title": "派评 | 近期值得关注的 App少数派编辑部前天 17:30",
+      "url": "https://sspai.com/post/115934",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 8,
+      "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注ElijahLee前天 15:00",
+      "url": "https://sspai.com/post/115242",
+      "author": "ElijahLee",
+      "summary": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注"
+    },
+    {
+      "rank": 9,
+      "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小随便好啦前天 11:20Matrix精选",
+      "url": "https://sspai.com/post/114821",
+      "author": "随便好啦",
+      "summary": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小"
+    },
+    {
+      "rank": 10,
+      "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见少数派编辑部前天 06:34派早报",
+      "url": "https://sspai.com/post/115845",
+      "author": "少数派编辑部",
+      "summary": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见"
+    },
+    {
+      "rank": 11,
+      "title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复阿帅的健康笔记10/11",
+      "url": "https://sspai.com/post/115568",
+      "author": "阿帅的健康笔记",
+      "summary": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "吃播网红干饭莹去世",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%83%E6%92%AD%E7%BD%91%E7%BA%A2%E5%B9%B2%E9%A5%AD%E8%8E%B9%E5%8E%BB%E4%B8%96",
+      "hot_value": 370000
+    },
+    {
+      "rank": 2,
+      "title": "永不褪色的红飘带",
+      "url": "https://s.weibo.com/weibo?q=%E6%B0%B8%E4%B8%8D%E8%A4%AA%E8%89%B2%E7%9A%84%E7%BA%A2%E9%A3%98%E5%B8%A6",
+      "hot_value": 260000
+    },
+    {
+      "rank": 3,
+      "title": "拼多多双11美妆尖货节不用蹲机制",
+      "url": "https://s.weibo.com/weibo?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%8F%8C11%E7%BE%8E%E5%A6%86%E5%B0%96%E8%B4%A7%E8%8A%82%E4%B8%8D%E7%94%A8%E8%B9%B2%E6%9C%BA%E5%88%B6",
+      "hot_value": 230000
+    },
+    {
+      "rank": 4,
+      "title": "真实姓名被9年未联系友人用作昵称",
+      "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E5%AE%9E%E5%A7%93%E5%90%8D%E8%A2%AB9%E5%B9%B4%E6%9C%AA%E8%81%94%E7%B3%BB%E5%8F%8B%E4%BA%BA%E7%94%A8%E4%BD%9C%E6%98%B5%E7%A7%B0",
+      "hot_value": 220000
+    },
+    {
+      "rank": 5,
+      "title": "老人凌晨下地干活被气枪击中身亡",
+      "url": "https://s.weibo.com/weibo?q=%E8%80%81%E4%BA%BA%E5%87%8C%E6%99%A8%E4%B8%8B%E5%9C%B0%E5%B9%B2%E6%B4%BB%E8%A2%AB%E6%B0%94%E6%9E%AA%E5%87%BB%E4%B8%AD%E8%BA%AB%E4%BA%A1",
+      "hot_value": 150000
+    },
+    {
+      "rank": 6,
+      "title": "金晨说王楚然在现发撒得开",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E6%99%A8%E8%AF%B4%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%9C%A8%E7%8E%B0%E5%8F%91%E6%92%92%E5%BE%97%E5%BC%80",
+      "hot_value": 140000
+    },
+    {
+      "rank": 7,
+      "title": "厚本回应特殊面容",
+      "url": "https://s.weibo.com/weibo?q=%E5%8E%9A%E6%9C%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%AE%8A%E9%9D%A2%E5%AE%B9",
+      "hot_value": 140000
+    },
+    {
+      "rank": 8,
+      "title": "警方已确认与未成年金赛纶交往男星",
+      "url": "https://s.weibo.com/weibo?q=%E8%AD%A6%E6%96%B9%E5%B7%B2%E7%A1%AE%E8%AE%A4%E4%B8%8E%E6%9C%AA%E6%88%90%E5%B9%B4%E9%87%91%E8%B5%9B%E7%BA%B6%E4%BA%A4%E5%BE%80%E7%94%B7%E6%98%9F",
+      "hot_value": 140000
+    },
+    {
+      "rank": 9,
+      "title": "女子高铁上和男友开免提打1小时电话",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E9%AB%98%E9%93%81%E4%B8%8A%E5%92%8C%E7%94%B7%E5%8F%8B%E5%BC%80%E5%85%8D%E6%8F%90%E6%89%931%E5%B0%8F%E6%97%B6%E7%94%B5%E8%AF%9D",
+      "hot_value": 130000
+    },
+    {
+      "rank": 10,
+      "title": "79岁老干妈陶华碧用AI一年赚54亿",
+      "url": "https://s.weibo.com/weibo?q=79%E5%B2%81%E8%80%81%E5%B9%B2%E5%A6%88%E9%99%B6%E5%8D%8E%E7%A2%A7%E7%94%A8AI%E4%B8%80%E5%B9%B4%E8%B5%9A54%E4%BA%BF",
+      "hot_value": 120000
+    },
+    {
+      "rank": 11,
+      "title": "王星被胁迫借下的网贷该不该还",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%98%9F%E8%A2%AB%E8%83%81%E8%BF%AB%E5%80%9F%E4%B8%8B%E7%9A%84%E7%BD%91%E8%B4%B7%E8%AF%A5%E4%B8%8D%E8%AF%A5%E8%BF%98",
+      "hot_value": 110000
+    },
+    {
+      "rank": 12,
+      "title": "京城大师赛蹄蹄作弊被抓",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%AC%E5%9F%8E%E5%A4%A7%E5%B8%88%E8%B5%9B%E8%B9%84%E8%B9%84%E4%BD%9C%E5%BC%8A%E8%A2%AB%E6%8A%93",
+      "hot_value": 110000
+    },
+    {
+      "rank": 13,
+      "title": "郑钦文夺冠父亲给她泼冷水",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E7%88%B6%E4%BA%B2%E7%BB%99%E5%A5%B9%E6%B3%BC%E5%86%B7%E6%B0%B4",
+      "hot_value": 100000
+    },
+    {
+      "rank": 14,
+      "title": "送1.9元汽水患者连续投诉医生2年",
+      "url": "https://s.weibo.com/weibo?q=%E9%80%811.9%E5%85%83%E6%B1%BD%E6%B0%B4%E6%82%A3%E8%80%85%E8%BF%9E%E7%BB%AD%E6%8A%95%E8%AF%89%E5%8C%BB%E7%94%9F2%E5%B9%B4",
+      "hot_value": 100000
+    },
+    {
+      "rank": 15,
+      "title": "百果园2年亏掉了7个亿",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%BE%E6%9E%9C%E5%9B%AD2%E5%B9%B4%E4%BA%8F%E6%8E%89%E4%BA%867%E4%B8%AA%E4%BA%BF",
+      "hot_value": 90000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "老人凌晨下地干活被气枪击中身亡，持气枪打猎合法吗？案件还有哪些疑点待查？涉事人员将承担什么法律责任",
+      "url": "https://www.zhihu.com/question/2093446305422862227",
+      "hot_value": 4720000
+    },
+    {
+      "rank": 2,
+      "title": "如何看待 Andrej Karpathy 提出「AI 能力认知漏斗」，少数专业人士已开始有「眩晕感」",
+      "url": "https://www.zhihu.com/question/2092928330336925348",
+      "hot_value": 2010000
+    },
+    {
+      "rank": 3,
+      "title": "为什么这么多人讨厌陈岩石夫妇在饭桌上向沙瑞金告状的行为",
+      "url": "https://www.zhihu.com/question/2090843777707537340",
+      "hot_value": 1380000
+    },
+    {
+      "rank": 4,
+      "title": "男生高考 522 分被调剂马术专业，成为在校本科生中唯一持证钉蹄师，前景如何？能带给选专业的学生哪些启发",
+      "url": "https://www.zhihu.com/question/2093388530156135905",
+      "hot_value": 1200000
+    },
+    {
+      "rank": 5,
+      "title": "朱琳真的美貌绝伦吗？为什么我看央视版《西游记》时觉得女儿国国王出场无感，蝎子精出场才有惊艳的感觉",
+      "url": "https://www.zhihu.com/question/418887484",
+      "hot_value": 1200000
+    },
+    {
+      "rank": 6,
+      "title": "PS5 全机型遭底层漏洞破解，会对索尼主机生态产生哪些冲击",
+      "url": "https://www.zhihu.com/question/2088701899113489158",
+      "hot_value": 1180000
+    },
+    {
+      "rank": 7,
+      "title": "一男子在悬空寺古建筑横梁做引体向上，警方已立案，涉事者将承担哪些责任",
+      "url": "https://www.zhihu.com/question/2093390624560871266",
+      "hot_value": 1110000
+    },
+    {
+      "rank": 8,
+      "title": "夫妻点一杯 58 元咖啡只能一人落座，市监局称「一人一座一消费」合理与否不能一刀切判定，如何理解此事",
+      "url": "https://www.zhihu.com/question/2093309415939991490",
+      "hot_value": 920000
+    },
+    {
+      "rank": 9,
+      "title": "方便面煮着吃为什么比泡着吃更香",
+      "url": "https://www.zhihu.com/question/2088359008025559455",
+      "hot_value": 860000
+    },
+    {
+      "rank": 10,
+      "title": "2027 国考笔试公告发布，共计划招录 3.57 万人，笔试 11 月 29 日举行，今年有哪些变化",
+      "url": "https://www.zhihu.com/question/2093290893197272727",
+      "hot_value": 780000
+    },
+    {
+      "rank": 11,
+      "title": "35 焦段做 1.2 光圈意义是什么",
+      "url": "https://www.zhihu.com/question/1920157962732832567",
+      "hot_value": 690000
+    },
+    {
+      "rank": 12,
+      "title": "《暗影崛起》佐樱感情线挽尊是否必要",
+      "url": "https://www.zhihu.com/question/2092630676424213746",
+      "hot_value": 580000
+    },
+    {
+      "rank": 13,
+      "title": "刘国梁 16 岁女儿刘宇婕登顶高尔夫中国女子公开赛，成赛事创办以来首位业余冠军，哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2093019602653536666",
+      "hot_value": 580000
+    },
+    {
+      "rank": 14,
+      "title": "你们认为芯片圈里哪家公司的产品命名最为混乱",
+      "url": "https://www.zhihu.com/question/1949264896328966810",
+      "hot_value": 580000
+    },
+    {
+      "rank": 15,
+      "title": "如何评价动画电影《小猪佩奇·完美假期》",
+      "url": "https://www.zhihu.com/question/2088300737918940463",
+      "hot_value": 560000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "score": 663,
+      "author": "737max",
+      "comments": 547,
+      "hn_url": "https://news.ycombinator.com/item?id=50073879"
+    },
+    {
+      "rank": 2,
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "score": 558,
+      "author": "etothet",
+      "comments": 688,
+      "hn_url": "https://news.ycombinator.com/item?id=50071017"
+    },
+    {
+      "rank": 3,
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "score": 147,
+      "author": "thm",
+      "comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=50054092"
+    },
+    {
+      "rank": 4,
+      "title": "Thunderbird for iOS",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "score": 234,
+      "author": "mjorgers",
+      "comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=50072913"
+    },
+    {
+      "rank": 5,
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "score": 31,
+      "author": "talccc",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=50077020"
+    },
+    {
+      "rank": 6,
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "score": 271,
+      "author": "Philpax",
+      "comments": 236,
+      "hn_url": "https://news.ycombinator.com/item?id=50073633"
+    },
+    {
+      "rank": 7,
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "score": 606,
+      "author": "formerly_proven",
+      "comments": 340,
+      "hn_url": "https://news.ycombinator.com/item?id=50069499"
+    },
+    {
+      "rank": 8,
+      "title": "A plea not to use uv-build",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+      "score": 50,
+      "author": "Ravencentric",
+      "comments": 40,
+      "hn_url": "https://news.ycombinator.com/item?id=50076048"
+    },
+    {
+      "rank": 9,
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "score": 164,
+      "author": "sammy0910",
+      "comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=50073221"
+    },
+    {
+      "rank": 10,
+      "title": "Firefox Enterprise",
+      "url": "https://www.firefox.com/en-US/enterprise/",
+      "score": 494,
+      "author": "recvonline",
+      "comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=50070302"
+    },
+    {
+      "rank": 11,
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "url": "https://eg2.haku.sh/",
+      "score": 348,
+      "author": "amrrs",
+      "comments": 81,
+      "hn_url": "https://news.ycombinator.com/item?id=50069971"
+    },
+    {
+      "rank": 12,
+      "title": "Coris (YC S22) Is Hiring Back End Engineer",
+      "url": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
+      "score": 1,
+      "author": "smaddali",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50074969"
+    },
+    {
+      "rank": 13,
+      "title": "New Apple TV 4K",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "score": 215,
+      "author": "corvad",
+      "comments": 424,
+      "hn_url": "https://news.ycombinator.com/item?id=50071310"
+    },
+    {
+      "rank": 14,
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "score": 129,
+      "author": "xnx",
+      "comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=50074869"
+    },
+    {
+      "rank": 15,
+      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+      "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
+      "score": 75,
+      "author": "zdw",
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=50061659"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发效率",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。rea[1] 是个能反向工程任何应用的智能体，从 App 行为一直挖到原生二进制，已经拿了 66,000+ star，搞逆向的朋友可以看看。context-mode[2] 专门优化 AI 代码助手的上下文窗口，能把工具输出压缩 98%，还能在 17 个平台间路由，这对写 Agent 的人太实用了。\n\nLobsters 上有人吐槽 uv-build 太激进，建议别用[3]，这挺有意思，工具链的稳定性确实容易被忽视。另外 Creusot 0.14.0 发布了，这是 Rust 的形式化验证工具，号称合约能数学证明[4]，搞底层安全的朋友值得关注。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "GitHub 上有个叫 AirLLM 的项目[5]，号称单张 4GB 显存就能跑 2.8T 的 LLM 推理，这优化力度有点夸张，值得去试试。还有个 XTool 项目[6]，想做个跨平台的 Xcode 替代品，能在 Linux 和 Windows 上编译 iOS 应用，这对开发者来说是个大新闻。\n\n少数派最近发了篇关于 iOS 27 家长控制功能的文章[7]，说会有全新的儿童安全功能，这变化值得关注，家长群可能要热闹了。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "product",
+        "summary": "小米手表 S5 和 EVA 联名香水最近挺火，社区里换机讨论很热烈[8]。另外 App+1 是个专门为\"P 人”和 ADHD 设计的精力管理 App[9]，这种细分市场的工具越来越多了。\n\nLobsters 上有人问“现在的软件去哪了？”[10]，感觉大家都有点找不到新好软件了。还有人聊到 Vi Hart 的大纳维 - 斯托克斯方程帖子[11]，数学和编程结合得真妙。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天看到个挺有深度的讨论，关于“易用性是否会导致质量下降”[12]，这问题在编程圈和艺术设计圈都挺热的。还有篇关于“后量子密码学的正确答案”[13]，搞加密的朋友必看，这可是未来方向。\n\n少数派还发了篇怀旧手记，讲索尼怎么把电脑从迷你电脑做到口袋笔记本的[14]，读起来挺有感触的。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "Reverse engineer anything with agents",
+        "url": "https://github.com/morluto/rea",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 2,
+        "title": "Context window optimization for AI coding agents",
+        "url": "https://github.com/mksglu/context-mode",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 3,
+        "title": "A plea not to use uv-build",
+        "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 4,
+        "title": "Creusot 0.14.0 release - Contracts for Rust, formally proved",
+        "url": "https://devlog.creusot.rs/v0-14-0/",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 5,
+        "title": "AirLLM 2.8T LLM inference with single 4GB GPU",
+        "url": "https://github.com/lyogavin/airllm",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 6,
+        "title": "Cross-platform Xcode replacement",
+        "url": "https://github.com/xtool-org/xtool",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目"
+      },
+      {
+        "num": 7,
+        "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
+        "url": "https://sspai.com/post/115242",
+        "source": "少数派",
+        "desc": "少数派文章"
+      },
+      {
+        "num": 8,
+        "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
+        "url": "https://sspai.com/post/116068",
+        "source": "少数派",
+        "desc": "少数派文章"
+      },
+      {
+        "num": 9,
+        "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
+        "url": "https://sspai.com/post/115400",
+        "source": "少数派",
+        "desc": "少数派文章"
+      },
+      {
+        "num": 10,
+        "title": "Where is all the new, good software?",
+        "url": "https://www.natemeyvis.com/where-is-all-the-new-good-software/",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 11,
+        "title": "Vi Hart's Big Navier-Stokes Post",
+        "url": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 12,
+        "title": "Can Ease of Creation Lead to Decrease in Quality & Value?",
+        "url": "https://pikuma.com/blog/ease-creation-decrease-quality-value",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 13,
+        "title": "(Post-Quantum) Cryptographic Right Answers",
+        "url": "https://words.filippo.io/right-answers/",
+        "source": "Lobsters",
+        "desc": "Lobsters 讨论帖"
+      },
+      {
+        "num": 14,
+        "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
+        "url": "https://sspai.com/post/114821",
+        "source": "少数派",
+        "desc": "少数派文章"
+      }
+    ],
+    "stats": {
+      "total_items": 14,
+      "total_categories": 4,
+      "total_sources": 14
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "categories": [
+    {
+      "name": "AI 智能体与开发工具",
+      "color": "ai",
+      "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。rea[1] 主打逆向工程，能用 AI 从应用行为反推到底层原生二进制，已经拿了 500+ star，搞安全研究的朋友值得深挖。context-mode[2] 优化了 AI 编码代理的上下文窗口，通过沙盒输出和 MCP + hooks 强制路由，star 数也破千了，能显著减少上下文污染。mksglu 做的这个工具挺有意思，能把工具输出减少 98%，顺便还能跨平台持久化会话记忆。
+
+Lobsters 社区今天关于开发环境的讨论有点意思。有人发帖反对使用 uv-build，认为它可能破坏了 Python 生态的某种平衡 [3]。还有人在怀念 Lotus Improv 在 NeXT 上的历史，感叹现在的新软件似乎少了些灵魂 [4]。搞全栈开发的朋友可以看看 Creusot 0.14.0 的发布，它正式为 Rust 提供了形式化验证的合约，这在编译安全领域绝对是重磅 [5]。
+    },
+    {
+      "name": "系统与底层技术",
+      "color": "infra",
+      "summary": "底层技术这块今天动静不小。bilawalsidhu 搞了个 gods-eye-view[6]，是个基于真实卫星数据的浏览器内间谍卫星模拟器，能在 3D 地球上进行开源空间情报分析，star 数已经冲到 4000+ 了，视觉效果很震撼。AirLLM 2.8 也是个狠角色，宣称单张 4GB 显存的 GPU 就能运行大模型推理，这效率提升太惊人了 [7]。A slightly faster slimmer curl[8] 的发布也值得关注，性能优化总是开发者的刚需。
+
+少数派今天有篇怀旧手记，从迷你电脑讲到口袋笔记本，索尼是如何把电脑越做越小的 [9]。这让人想到当年那些硬核的硬件探索，虽然现在大家都在卷云端，但底层硬件的演进史还是值得回味。
+    },
+    {
+      "name": "数码产品与效率工具",
+      "color": "gadget",
+      "summary": "数码产品方面，小米手表 S5 和 EVA 联名香水引发了一些换机讨论，看来可穿戴设备和生活美学的结合越来越紧密了 [10]。App+1 推出了一个专为"P 人”和 ADHD 设计的精力管理 App，这种细分领域的工具越来越多了，对咱们这种容易分心的人来说简直是救星 [11]。iOS 27 据说要推出全新的家长控制和儿童安全功能，虽然版本号有点离谱，但方向是对的，家庭安全确实需要更硬核的守护 [12]。
+
+值得一提的是，最近不少人在讨论行李箱减重，反思长假出门带了哪些“全程没掏出来”的数码装备 [13]。这其实是个伪需求，现在的趋势是设备集成化，少带几个砖头，多带点云端的算力，可能才是真·减负。
+    },
+    {
+      "name": "思考与观点",
+      "color": "thought",
+      "summary": "最后聊聊社区的观点。Who is vfmaddrnd231pd?? 这个帖子在 Lobsters 上挺火，大家猜测某个神秘汇编语言高手的身份，这种社区侦探游戏总是让人欲罢不能 [14]。Can Ease of Creation Lead to Decrease in Quality & Value? 这篇文章探讨了一个扎心的问题：创作门槛越低，作品质量真的会下降吗？在 AI 生成内容泛滥的今天，这个问题显得尤为重要 [15]。
+
+关于 Ent Locker 是否抄袭代码的法律诉讼 [16]，搞法律合规的朋友可能需要关注一下，开源界的版权纠纷从来都不简单。Vi Hart 的大纳维 - 斯托克斯方程图解 [17] 则是个彩蛋，用艺术的方式解构数学，这种跨界的内容总能让人眼前一亮。"
+  ],
+  "sources": [
+    {
+      "num": 1,
+      "title": "Reverse engineer anything with agents",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub Trending",
+      "desc": "GitHub Trending 项目"
+    },
+    {
+      "num": 2,
+      "title": "Context window optimization for AI coding agents",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending",
+      "desc": "GitHub Trending 项目"
+    },
+    {
+      "num": 3,
+      "title": "A plea not to use uv-build",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+      "source": "Lobsters",
+      "desc": "Lobsters 技术讨论"
+    },
+    {
+      "num": 4,
+      "title": "Where is all the new, good software?",
+      "url": "https://www.natemeyvis.com/where-is-all-the-new-good-software/",
+      "source": "Lobsters",
+      "desc": "Lobsters 社区观点"
+    },
+    {
+      "num": 5,
+      "title": "Creusot 0.14.0 release - Contracts for Rust, formally proved",
+      "url": "https://devlog.creusot.rs/v0-14-0/",
+      "source": "Lobsters",
+      "desc": "Lobsters 技术发布"
+    },
+    {
+      "num": 6,
+      "title": "A spy satellite simulator in your browser, except the data is real",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "source": "GitHub Trending",
+      "desc": "GitHub Trending 项目"
+    },
+    {
+      "num": 7,
+      "title": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "url": "https://github.com/lyogavin/airllm",
+      "source": "GitHub Trending",
+      "desc": "GitHub Trending 项目"
+    },
+    {
+      "num": 8,
+      "title": "A slightly faster slimmer curl",
+      "url": "https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/",
+      "source": "Lobsters",
+      "desc": "Lobsters 性能优化讨论"
+    },
+    {
+      "num": 9,
+      "title": "怀旧手记｜从迷你电脑到口袋笔记本，索尼如何把电脑越做越小",
+      "url": "https://sspai.com/post/114821",
+      "source": "少数派",
+      "desc": "少数派怀旧文章"
+    },
+    {
+      "num": 10,
+      "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
+      "url": "https://sspai.com/post/116068",
+      "source": "少数派",
+      "desc": "少数派社区速递"
+    },
+    {
+      "num": 11,
+      "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
+      "url": "https://sspai.com/post/115400",
+      "source": "少数派",
+      "desc": "少数派工具推荐"
+    },
+    {
+      "num": 12,
+      "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
+      "url": "https://sspai.com/post/115242",
+      "source": "少数派",
+      "desc": "少数派系统更新解读"
+    },
+    {
+      "num": 13,
+      "title": "行李箱减重反思：这次长假出门，你带了哪些「全程没掏出来」的数码装备？",
+      "url": "https://sspai.com/bullet/1791445045",
+      "source": "少数派",
+      "desc": "少数派投票互动"
+    },
+    {
+      "num": 14,
+      "title": "Who is vfmaddrnd231pd??",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "source": "Lobsters",
+      "desc": "Lobsters 社区八卦"
+    },
+    {
+      "num": 15,
+      "title": "Can Ease of Creation Lead to Decrease in Quality & Value?",
+      "url": "https://pikuma.com/blog/ease-creation-decrease-quality-value",
+      "source": "Lobsters",
+      "desc": "Lobsters 深度思考"
+    },
+    {
+      "num": 16,
+      "title": "Did Ente Locker copy my code without attribution?",
+      "url": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
+      "source": "Lobsters",
+      "desc": "Lobsters 法律与开源"
+    },
+    {
+      "num": 17,
+      "title": "Vi Hart's Big Navier-Stokes Post",
+      "url": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
+      "source": "Lobsters",
+      "desc": "Lobsters 艺术与科学"
+    }
+  ],
+  "stats": {
+    "total_items": 20,
+    "total_categories": 4,
+    "total_sources": 17
+  }
+}
