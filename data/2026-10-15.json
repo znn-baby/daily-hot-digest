@@ -1,0 +1,825 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "morluto / rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": "236115",
+      "stars_today": "41,187 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "65670",
+      "stars_today": "3,547 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": "28939",
+      "stars_today": "946 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 4,
+      "title": "nvm-sh / nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "stars": "95410",
+      "stars_today": "70 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 5,
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": "49147",
+      "stars_today": "146 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 6,
+      "title": "HKUDS / CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "stars": "52347",
+      "stars_today": "94 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 7,
+      "title": "ifixai-ai / iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "stars": "27058",
+      "stars_today": "2,143 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "vxcontrol / pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": "29121",
+      "stars_today": "1,070 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 9,
+      "title": "rust-lang / rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "stars": "119885",
+      "stars_today": "205 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 10,
+      "title": "xtool-org / xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "stars": "10453",
+      "stars_today": "1,510 stars today",
+      "language": "Swift"
+    },
+    {
+      "rank": 11,
+      "title": "ntdevlabs / tiny11builder",
+      "url": "https://github.com/ntdevlabs/tiny11builder",
+      "description": "WinUI app for building smaller, customized Windows 11 images.",
+      "stars": "20136",
+      "stars_today": "194 stars today",
+      "language": "C#"
+    },
+    {
+      "rank": 12,
+      "title": "NationalSecurityAgency / ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": "87177",
+      "stars_today": "1,002 stars today",
+      "language": "Java"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Introducing Firefox Enterprise",
+      "url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
+      "source_url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
+      "tags": [
+        "browsers",
+        "release",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "viccuad"
+    },
+    {
+      "rank": 2,
+      "title": "Fancy Curl Sites",
+      "url": "https://nytpu.com/gemlog/2026-03-18",
+      "source_url": "https://nytpu.com/gemlog/2026-03-18",
+      "tags": [
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "seb"
+    },
+    {
+      "rank": 3,
+      "title": "Plasma 6.8 released (KDE's 30th birthday)",
+      "url": "https://kde.org/announcements/plasma/6/6.8.0/",
+      "source_url": "https://kde.org/announcements/plasma/6/6.8.0/",
+      "tags": [
+        "linux",
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "joshsharp"
+    },
+    {
+      "rank": 4,
+      "title": "What I Self-Host | Aspirational Self Hosting Guide",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "source_url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "tags": [
+        "devops",
+        "linux",
+        "osdev",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "tonymet"
+    },
+    {
+      "rank": 5,
+      "title": "yet another place where a linux man page is inaccurate",
+      "url": "https://sebsite.pw/w/20261014-initstate.html",
+      "source_url": "https://sebsite.pw/w/20261014-initstate.html",
+      "tags": [
+        "c",
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "nutmeg"
+    },
+    {
+      "rank": 6,
+      "title": "Apple: Switch to Safari (from Chrome)",
+      "url": "https://www.apple.com/safari/switch/",
+      "source_url": "https://www.apple.com/safari/switch/",
+      "tags": [
+        "browsers"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "classichasclass"
+    },
+    {
+      "rank": 7,
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "source_url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "tags": [
+        "cryptography",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "csomar"
+    },
+    {
+      "rank": 8,
+      "title": "ZXC: Lossless compression built for ultra-fast decode",
+      "url": "https://libzxc.org/",
+      "source_url": "https://libzxc.org/",
+      "tags": [
+        "compsci",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "xyproto"
+    },
+    {
+      "rank": 9,
+      "title": "A plea not to use uv-build",
+      "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+      "source_url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+      "tags": [
+        "devops",
+        "python"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "lim"
+    },
+    {
+      "rank": 10,
+      "title": "Factor 0.102 now available",
+      "url": "https://re.factorcode.org/2026/10/factor-0-102-now-available.html",
+      "source_url": "https://re.factorcode.org/2026/10/factor-0-102-now-available.html",
+      "tags": [
+        "concatenative",
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "toastal"
+    },
+    {
+      "rank": 11,
+      "title": "Did Ente Locker copy my code without attribution?",
+      "url": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
+      "source_url": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
+      "tags": [
+        "law"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "tusharhero"
+    },
+    {
+      "rank": 12,
+      "title": "Awesome Gaming on Linux Without Cheating",
+      "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
+      "source_url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
+      "tags": [
+        "games",
+        "linux",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "calvin"
+    },
+    {
+      "rank": 13,
+      "title": "My Game's Procedural Dialogue System",
+      "url": "https://www.youtube.com/watch?v=NaW0d7Tghw0",
+      "source_url": "https://www.youtube.com/watch?v=NaW0d7Tghw0",
+      "tags": [
+        "video",
+        "games"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "juliethefoxcoon"
+    },
+    {
+      "rank": 14,
+      "title": "A UAF turned RCE",
+      "url": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/",
+      "source_url": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "olliej"
+    },
+    {
+      "rank": 15,
+      "title": "Compiler bootstrapping depends on more than you might think",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges",
+      "source_url": "https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges",
+      "tags": [
+        "compilers"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "abhin4v"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "认知心理学背后的播客剪辑技巧知道分子吴先先昨天 17:33Matrix精选",
+      "url": "https://sspai.com/post/114861",
+      "author": "知道分子吴先先",
+      "summary": "认知心理学背后的播客剪辑技巧"
+    },
+    {
+      "rank": 2,
+      "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验这些新技术将如何让我们的照片和视频更好？Vanilla昨天 15:00",
+      "url": "https://sspai.com/post/115426",
+      "author": "Vanilla",
+      "summary": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验"
+    },
+    {
+      "rank": 3,
+      "title": "家中、这里、那里——Sonos Play 体验mivansaka昨天 12:10",
+      "url": "https://sspai.com/post/115382",
+      "author": "mivansaka",
+      "summary": "家中、这里、那里——Sonos Play 体验"
+    },
+    {
+      "rank": 4,
+      "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验挨石昨天 11:57",
+      "url": "https://sspai.com/post/116109",
+      "author": "挨石",
+      "summary": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验"
+    },
+    {
+      "rank": 5,
+      "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒北鸮昨天 10:00",
+      "url": "https://sspai.com/post/92653",
+      "author": "北鸮",
+      "summary": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒"
+    },
+    {
+      "rank": 6,
+      "title": "行李箱减重反思：这次长假出门，你带了哪些「全程没掏出来」的数码装备？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1791445045",
+      "author": "一派投票",
+      "summary": "行李箱减重反思：这次长假出门，你带了哪些「全程没掏出来」的数码装备？"
+    },
+    {
+      "rank": 7,
+      "title": "派早报：Apple 发布 HomePod mini 2、HomeView 等新品少数派编辑部昨天 08:40派早报",
+      "url": "https://sspai.com/post/116138",
+      "author": "少数派编辑部",
+      "summary": "派早报：Apple 发布 HomePod mini 2、HomeView 等新品"
+    },
+    {
+      "rank": 8,
+      "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议Matrix机器人前天 17:00",
+      "url": "https://sspai.com/post/116068",
+      "author": "Matrix机器人",
+      "summary": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议"
+    },
+    {
+      "rank": 9,
+      "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 AppTp前天 15:00",
+      "url": "https://sspai.com/post/115400",
+      "author": "Tp",
+      "summary": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App"
+    },
+    {
+      "rank": 10,
+      "title": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官waychane前天 11:30",
+      "url": "https://sspai.com/post/116028",
+      "author": "waychane",
+      "summary": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官"
+    },
+    {
+      "rank": 11,
+      "title": "高端，不只是材质而已：Apple Watch Edition 的前世今生秋风花雨落前天 11:09Matrix精选",
+      "url": "https://sspai.com/post/114561",
+      "author": "秋风花雨落",
+      "summary": "高端，不只是材质而已：Apple Watch Edition 的前世今生"
+    },
+    {
+      "rank": 12,
+      "title": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1790146393",
+      "author": "一派投票",
+      "summary": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "好一个乖乖女热度登顶",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E4%B8%80%E4%B8%AA%E4%B9%96%E4%B9%96%E5%A5%B3%E7%83%AD%E5%BA%A6%E7%99%BB%E9%A1%B6",
+      "hot_value": 750000
+    },
+    {
+      "rank": 2,
+      "title": "90多年前红军的承诺生生不息",
+      "url": "https://s.weibo.com/weibo?q=90%E5%A4%9A%E5%B9%B4%E5%89%8D%E7%BA%A2%E5%86%9B%E7%9A%84%E6%89%BF%E8%AF%BA%E7%94%9F%E7%94%9F%E4%B8%8D%E6%81%AF",
+      "hot_value": 570000
+    },
+    {
+      "rank": 3,
+      "title": "中了乐事大奖怎么花",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BA%86%E4%B9%90%E4%BA%8B%E5%A4%A7%E5%A5%96%E6%80%8E%E4%B9%88%E8%8A%B1",
+      "hot_value": 560000
+    },
+    {
+      "rank": 4,
+      "title": "在高铁座位上排便男子已被拘",
+      "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E9%AB%98%E9%93%81%E5%BA%A7%E4%BD%8D%E4%B8%8A%E6%8E%92%E4%BE%BF%E7%94%B7%E5%AD%90%E5%B7%B2%E8%A2%AB%E6%8B%98",
+      "hot_value": 520000
+    },
+    {
+      "rank": 5,
+      "title": "iPhoneDuo维修价格出炉",
+      "url": "https://s.weibo.com/weibo?q=iPhoneDuo%E7%BB%B4%E4%BF%AE%E4%BB%B7%E6%A0%BC%E5%87%BA%E7%82%89",
+      "hot_value": 270000
+    },
+    {
+      "rank": 6,
+      "title": "绿泡泡对标红果",
+      "url": "https://s.weibo.com/weibo?q=%E7%BB%BF%E6%B3%A1%E6%B3%A1%E5%AF%B9%E6%A0%87%E7%BA%A2%E6%9E%9C",
+      "hot_value": 250000
+    },
+    {
+      "rank": 7,
+      "title": "警惕售卖人脸制作AI形象风险",
+      "url": "https://s.weibo.com/weibo?q=%E8%AD%A6%E6%83%95%E5%94%AE%E5%8D%96%E4%BA%BA%E8%84%B8%E5%88%B6%E4%BD%9CAI%E5%BD%A2%E8%B1%A1%E9%A3%8E%E9%99%A9",
+      "hot_value": 240000
+    },
+    {
+      "rank": 8,
+      "title": "肖战演唱会下沉市场",
+      "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8B%E6%B2%89%E5%B8%82%E5%9C%BA",
+      "hot_value": 230000
+    },
+    {
+      "rank": 9,
+      "title": "李吉妮2比1萨巴伦卡",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%90%89%E5%A6%AE2%E6%AF%941%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1",
+      "hot_value": 210000
+    },
+    {
+      "rank": 10,
+      "title": "原来这才是正确的消费观",
+      "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%BF%99%E6%89%8D%E6%98%AF%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%B6%88%E8%B4%B9%E8%A7%82",
+      "hot_value": 210000
+    },
+    {
+      "rank": 11,
+      "title": "萨巴伦卡武网爆冷出局",
+      "url": "https://s.weibo.com/weibo?q=%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1%E6%AD%A6%E7%BD%91%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80",
+      "hot_value": 190000
+    },
+    {
+      "rank": 12,
+      "title": "陈小春",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%8F%E6%98%A5",
+      "hot_value": 190000
+    },
+    {
+      "rank": 13,
+      "title": "黄金",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91",
+      "hot_value": 180000
+    },
+    {
+      "rank": 14,
+      "title": "盛艾敬朋友也发声了",
+      "url": "https://s.weibo.com/weibo?q=%E7%9B%9B%E8%89%BE%E6%95%AC%E6%9C%8B%E5%8F%8B%E4%B9%9F%E5%8F%91%E5%A3%B0%E4%BA%86",
+      "hot_value": 180000
+    },
+    {
+      "rank": 15,
+      "title": "胡先煦 刁卓",
+      "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%88%E7%85%A6+%E5%88%81%E5%8D%93",
+      "hot_value": 180000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "怎么看 OpenAI 的 NS 数学证明被发现其实没遵循 Spanish program",
+      "url": "https://www.zhihu.com/question/2093654423369152454",
+      "hot_value": 2720000
+    },
+    {
+      "rank": 2,
+      "title": "国台办回应蔡康永现身沈伯洋竞选活动，在大是大非问题上没有任何模糊的空间，哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2093662309310620149",
+      "hot_value": 2370000
+    },
+    {
+      "rank": 3,
+      "title": "美国 9 月 CPI 数据公布，同比上涨 3.7%，高于市场预期的 3.6%，释放了哪些信号",
+      "url": "https://www.zhihu.com/question/2093811458442092969",
+      "hot_value": 1760000
+    },
+    {
+      "rank": 4,
+      "title": "为什么《兰香如故》电视剧，女主结婚从丫鬟到豪门贵妇就劝退了观众",
+      "url": "https://www.zhihu.com/question/2092260909305553126",
+      "hot_value": 1710000
+    },
+    {
+      "rank": 5,
+      "title": "群演疑似猥亵女演员，《此处通往繁星》剧组回应将撤下争议片段并调查，若属实剧组及涉事演员需承担哪些责任",
+      "url": "https://www.zhihu.com/question/2093629140502933840",
+      "hot_value": 1700000
+    },
+    {
+      "rank": 6,
+      "title": "《琅琊榜》的权谋真的很幼稚吗",
+      "url": "https://www.zhihu.com/question/1888170995262682445",
+      "hot_value": 1690000
+    },
+    {
+      "rank": 7,
+      "title": "四部门要求新车研发必须包含「两冬一夏」测试，会改变汽车行业格局吗",
+      "url": "https://www.zhihu.com/question/2092952717853571036",
+      "hot_value": 1530000
+    },
+    {
+      "rank": 8,
+      "title": "如何看待网红女装品牌 CHICYOU 因使用狸花猫背部毛皮制作毛领遭网友抵制？哪些渠道的毛皮可能涉嫌违法",
+      "url": "https://www.zhihu.com/question/2093001535881832037",
+      "hot_value": 1160000
+    },
+    {
+      "rank": 9,
+      "title": "人类为什么不能培育一种专门象牙很长的大象？非得去猎杀野生大象",
+      "url": "https://www.zhihu.com/question/1968989779006829679",
+      "hot_value": 1120000
+    },
+    {
+      "rank": 10,
+      "title": "LV 承认起诉茉莉奶白产生负面影响，第三季度中国客群需求下降 15% ，怎样看待这一变化",
+      "url": "https://www.zhihu.com/question/2093383237888484288",
+      "hot_value": 1090000
+    },
+    {
+      "rank": 11,
+      "title": "如何看待二本毕业女生待业一年，仍坚持找一份双休工作？是不愿降低生活标准，还是对就业市场缺乏认知",
+      "url": "https://www.zhihu.com/question/2093283021692605069",
+      "hot_value": 1070000
+    },
+    {
+      "rank": 12,
+      "title": "传 RTX508024GB 定档 2027 年 Q1，如何看待该卡接任新旗舰",
+      "url": "https://www.zhihu.com/question/2093345148323342210",
+      "hot_value": 1040000
+    },
+    {
+      "rank": 13,
+      "title": "33 岁销冠确诊胃癌晚期后突然被辞退，公司不服劳动仲裁判赔 11 万提起诉讼，法院可能会怎样判决",
+      "url": "https://www.zhihu.com/question/2093379096701039540",
+      "hot_value": 900000
+    },
+    {
+      "rank": 14,
+      "title": "如果人的脚进化成蹄子会怎么样",
+      "url": "https://www.zhihu.com/question/645292302",
+      "hot_value": 830000
+    },
+    {
+      "rank": 15,
+      "title": "如果贾宝玉不小心娶了夏金桂，贾家的人能搞定她吗",
+      "url": "https://www.zhihu.com/question/426303627",
+      "hot_value": 800000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "score": 132,
+      "author": "latexr",
+      "comments": 45,
+      "hn_url": "https://news.ycombinator.com/item?id=50091788"
+    },
+    {
+      "rank": 2,
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "url": "https://go.dev/blog/http-connection-reuse",
+      "score": 73,
+      "author": "allddd",
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=50090369"
+    },
+    {
+      "rank": 3,
+      "title": "Submarine cable resilience",
+      "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+      "score": 77,
+      "author": "speckx",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=50089229"
+    },
+    {
+      "rank": 4,
+      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "url": "https://typeof.net/Iosevka/",
+      "score": 593,
+      "author": "otobrglez",
+      "comments": 244,
+      "hn_url": "https://news.ycombinator.com/item?id=50084240"
+    },
+    {
+      "rank": 5,
+      "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+      "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+      "score": 227,
+      "author": "bhrlady",
+      "comments": 88,
+      "hn_url": "https://news.ycombinator.com/item?id=50090246"
+    },
+    {
+      "rank": 6,
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "url": "https://github.com/timescale/pg_vectorsearch",
+      "score": 151,
+      "author": "jascha_eng",
+      "comments": 42,
+      "hn_url": "https://news.ycombinator.com/item?id=50086165"
+    },
+    {
+      "rank": 7,
+      "title": "Do dentists know what they're doing?",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "score": 34,
+      "author": "doitLP",
+      "comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=50050553"
+    },
+    {
+      "rank": 8,
+      "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
+      "url": "https://github.com/bealesh/neckbeard",
+      "score": 5,
+      "author": "bealesh",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50091794"
+    },
+    {
+      "rank": 9,
+      "title": "LittleJS is 2D and 3D now",
+      "url": "https://frankforce.com/littlejs-is-2d-and-3d-now/",
+      "score": 29,
+      "author": "dmit",
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=50065572"
+    },
+    {
+      "rank": 10,
+      "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+      "url": "https://github.com/graphicle-ai/graphicle",
+      "score": 28,
+      "author": "KarLexAI",
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=50088713"
+    },
+    {
+      "rank": 11,
+      "title": "Amazon pushes up prices across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "score": 558,
+      "author": "sighborg",
+      "comments": 511,
+      "hn_url": "https://news.ycombinator.com/item?id=50084757"
+    },
+    {
+      "rank": 12,
+      "title": "Google is silently linking your phone number across all signed-in accounts",
+      "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+      "score": 84,
+      "author": "Brajeshwar",
+      "comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=50090349"
+    },
+    {
+      "rank": 13,
+      "title": "Running Windows desktop tests from Linux with disposable VMs",
+      "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+      "score": 53,
+      "author": "jadenlemmon",
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=50088643"
+    },
+    {
+      "rank": 14,
+      "title": "Linus Torvalds's first LLM-assisted patch series",
+      "url": "https://lwn.net/Articles/1100449/",
+      "score": 66,
+      "author": "janvdberg",
+      "comments": 28,
+      "hn_url": "https://news.ycombinator.com/item?id=50090842"
+    },
+    {
+      "rank": 15,
+      "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
+      "url": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
+      "score": 33,
+      "author": "speckx",
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=50090662"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与安全",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关的动静可真不小。morluto 的 rea[1] 是个能反向工程任何应用的智能体，从 APP 行为一直挖掘到原生二进制，这思路挺野。还有 K-Dense-AI 的 scientific-agent-skills[3]，号称能帮 AI 变身科学家，已有 25 万+ 科学家在用，这规模相当可观。不过最让人后背发凉的是 ifixai-ai 的 iFixAi[4]，专门用于审计 AI 智能体是否真的在干活，能在 120 秒内给出答案，搞安全的朋友必须得关注这种“审计工具”。\n\n社区那边 Lobsters 上也有硬核的安全讨论，Ledger 硬件钱包被确认存在间谍芯片导致加密盗窃，这事儿再次提醒我们硬件信任链的脆弱性[6]。另外还有开发者分享了一个利用 UAF 漏洞转成远程代码执行（RCE）的案例，细节相当精彩[9]。少数派也聊到了 Apple Watch 开始能测夜间体征，未来睡眠呼吸暂停提醒或许会成为标配，可穿戴设备的健康边界正在不断拓展。"
+      },
+      {
+        "name": "开发工具与系统底层",
+        "color": "dev",
+        "summary": "开发工具这块更新挺密集。GitHub 上有个 mksglu 的 context-mode[2]，专门优化 AI 编码代理的上下文窗口，能减少 98% 的无用输出并持久化会话记忆，对写代码效率提升应该很明显。还有 xtool-org 的 xtool[10]，宣称是跨平台的 Xcode 替代品，能在 Linux 和 Windows 上编译 iOS App，这对开源社区来说是个大消息。当然，老牌的 nvm[5] 也依旧高居 Trending，毕竟管理 Node 版本还是刚需。\n\nLobsters 上关于 Plasma 6.8 的讨论很热烈，这是 KDE 的 30 岁生日版，新特性不少[4]。还有一篇关于编译器自举（bootstrapping）的文章，指出了比想象中更复杂的依赖关系[8]。少数派那边则聚焦在效率工具，有个 App+1 是专门给\"P 人”和 ADHD 人群设计的精力管理应用，看来效率工具正在细分化[3]。另外，Fancy Curl Sites 这种用 Curl 命令生成精美页面的技巧也在社区里很火。"
+      },
+      {
+        "name": "数码产品与创意应用",
+        "color": "tech",
+        "summary": "数码产品方面，Apple 全家桶的消息很多。派早报提到 Apple 发布了 HomePod mini 2 和 HomeView 等新硬件[1]。少数派有一篇深聊 iPhone 18 Pro 的影像体验，Austin Mann 谈到了这些新技术如何解放摄影师[2]。还有关于 Apple Watch Edition 前世今生的回顾，聊聊高端材质背后的故事[12]。\n\n创意类工具上，VoiceStudio[0] 是个全本地的 ElevenLabs 替代品，支持 646 种语言的语音克隆和视频配音，完全本地运行对隐私党很友好。Lobsters 上还有一篇关于“在家、这里、那里”的 Sonos Play 体验文，探讨声音在空间中的流动感[3]。此外，还有个关于行李箱减重的投票，大家都在吐槽哪些数码装备“全程没掏出来”，这算是数码圈的自嘲文化了。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "morluto / rea",
+        "url": "https://github.com/morluto/rea",
+        "source": "GitHub",
+        "desc": "Reverse engineer anything with agents"
+      },
+      {
+        "num": 2,
+        "title": "mksglu / context-mode",
+        "url": "https://github.com/mksglu/context-mode",
+        "source": "GitHub",
+        "desc": "Context window optimization for AI coding agents"
+      },
+      {
+        "num": 3,
+        "title": "K-Dense-AI / scientific-agent-skills",
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+        "source": "GitHub",
+        "desc": "Turn any AI agent into an AI Scientist"
+      },
+      {
+        "num": 4,
+        "title": "ifixai-ai / iFixAi",
+        "url": "https://github.com/ifixai-ai/iFixAi",
+        "source": "GitHub",
+        "desc": "Independent Auditing of AI Agents"
+      },
+      {
+        "num": 5,
+        "title": "nvm-sh / nvm",
+        "url": "https://github.com/nvm-sh/nvm",
+        "source": "GitHub",
+        "desc": "Node Version Manager"
+      },
+      {
+        "num": 6,
+        "title": "Ledger confirms spy chip implant",
+        "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+        "source": "Lobsters",
+        "desc": "讨论 Ledger 硬件钱包间谍芯片事件"
+      },
+      {
+        "num": 7,
+        "title": "Fancy Curl Sites",
+        "url": "https://nytpu.com/gemlog/2026-03-18",
+        "source": "Lobsters",
+        "desc": "用 Curl 生成精美页面的技巧分享"
+      },
+      {
+        "num": 8,
+        "title": "Plasma 6.8 released",
+        "url": "https://kde.org/announcements/plasma/6/6.8.0/",
+        "source": "Lobsters",
+        "desc": "KDE Plasma 6.8 发布，庆祝 30 岁生日"
+      },
+      {
+        "num": 9,
+        "title": "A UAF turned RCE",
+        "url": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/",
+        "source": "Lobsters",
+        "desc": "利用 UAF 漏洞转换为远程代码执行的分析"
+      },
+      {
+        "num": 10,
+        "title": "xtool-org / xtool",
+        "url": "https://github.com/xtool-org/xtool",
+        "source": "GitHub",
+        "desc": "Cross-platform Xcode replacement"
+      },
+      {
+        "num": 11,
+        "title": "Austin Mann 评 iPhone 18 Pro",
+        "url": "https://sspai.com/post/115426",
+        "source": "少数派",
+        "desc": "探讨 iPhone 18 Pro 影像新技术"
+      },
+      {
+        "num": 12,
+        "title": "Apple Watch Edition 的前世今生",
+        "url": "https://sspai.com/post/114561",
+        "source": "少数派",
+        "desc": "回顾高端材质 Apple Watch 的发展历程"
+      }
+    ],
+    "stats": {
+      "total_items": 12,
+      "total_categories": 3,
+      "total_sources": 12
+    }
+  }
+}
