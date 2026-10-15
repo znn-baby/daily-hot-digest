@@ -1,0 +1,820 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "morluto / rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": "265226",
+      "stars_today": "32,282 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "anthropics / claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": "38753",
+      "stars_today": "525 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": "50251",
+      "stars_today": "1,091 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "JuliusBrussee / caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": "112346",
+      "stars_today": "530 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 5,
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "68516",
+      "stars_today": "3,027 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 6,
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": "299703",
+      "stars_today": "688 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 7,
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": "74950",
+      "stars_today": "224 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 8,
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": "29698",
+      "stars_today": "902 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 9,
+      "title": "NationalSecurityAgency / ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "stars": "88467",
+      "stars_today": "1,366 stars today",
+      "language": "Java"
+    },
+    {
+      "rank": 10,
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "280126",
+      "stars_today": "1,015 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 11,
+      "title": "lightseekorg / tokenspeed",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "stars": "2397",
+      "stars_today": "25 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 12,
+      "title": "xerj-org / xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "stars": "5413",
+      "stars_today": "725 stars today",
+      "language": "Rust"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Sunsetting decomp.dev",
+      "url": "https://decomp.dev/",
+      "source_url": "https://decomp.dev/",
+      "tags": [
+        "games",
+        "reversing",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "FedericoSchonborn"
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "source_url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "tags": [
+        "vcs",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "mitsuhiko"
+    },
+    {
+      "rank": 3,
+      "title": "Haxy on Haxy",
+      "url": "https://try.haxy.net/haxy:haxy",
+      "source_url": "https://try.haxy.net/haxy:haxy",
+      "tags": [
+        "practices",
+        "vcs",
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "krig"
+    },
+    {
+      "rank": 4,
+      "title": "JPEG XL vs AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "source_url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "tags": [
+        "compsci",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jaffathecake"
+    },
+    {
+      "rank": 5,
+      "title": "My C23 Conventions",
+      "url": "https://abner.page/post/c23-conventions-1/",
+      "source_url": "https://abner.page/post/c23-conventions-1/",
+      "tags": [
+        "c"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "abnercoimbre"
+    },
+    {
+      "rank": 6,
+      "title": "The Costa GUI",
+      "url": "https://costa.jacobpalm.dk",
+      "source_url": "https://costa.jacobpalm.dk",
+      "tags": [
+        "retrocomputing"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "FedericoSchonborn"
+    },
+    {
+      "rank": 7,
+      "title": "Haxy.net is live! — HAXY (git forge) devlog",
+      "url": "https://youtu.be/89yAiqYEwKg",
+      "source_url": "https://youtu.be/89yAiqYEwKg",
+      "tags": [
+        "video",
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jeffective"
+    },
+    {
+      "rank": 8,
+      "title": "Introducing Firefox Enterprise",
+      "url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
+      "source_url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
+      "tags": [
+        "browsers",
+        "release",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "viccuad"
+    },
+    {
+      "rank": 9,
+      "title": "sslx: A fast, modern alternative to OpenSSL's CLI",
+      "url": "https://github.com/glincker/sslx",
+      "source_url": "https://github.com/glincker/sslx",
+      "tags": [
+        "security",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "gmem"
+    },
+    {
+      "rank": 10,
+      "title": "What I Self-Host",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "source_url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "tags": [
+        "devops"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "tonymet"
+    },
+    {
+      "rank": 11,
+      "title": "End-to-end encrypted relays for OCapN",
+      "url": "https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html",
+      "source_url": "https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html",
+      "tags": [
+        "distributed"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "untrusem"
+    },
+    {
+      "rank": 12,
+      "title": "Microsoft Defender for Linux",
+      "url": "https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822",
+      "source_url": "https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822",
+      "tags": [
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "alemi"
+    },
+    {
+      "rank": 13,
+      "title": "Furifont: furigana built into the font",
+      "url": "https://furifont.antfu.me/",
+      "source_url": "https://furifont.antfu.me/",
+      "tags": [
+        "design",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "hongminhee"
+    },
+    {
+      "rank": 14,
+      "title": "Fixing C Strings With String Views",
+      "url": "https://eliasebner.com/blog/guides/fixing-strings-in-c/",
+      "source_url": "https://eliasebner.com/blog/guides/fixing-strings-in-c/",
+      "tags": [
+        "c"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "eliasebner"
+    },
+    {
+      "rank": 15,
+      "title": "Libreboot 26.10 “Ominous Olive” released with full UEFI support",
+      "url": "https://libreboot.org/news/libreboot2610.html",
+      "source_url": "https://libreboot.org/news/libreboot2610.html",
+      "tags": [
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "runxiyu"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "新玩意 253｜少数派的编辑们最近买了啥？少数派编辑部昨天 17:10",
+      "url": "https://sspai.com/post/116246",
+      "author": "少数派编辑部",
+      "summary": "新玩意 253｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 2,
+      "title": "顺应变化，重申标准：《少数派创作手册》修订说明少数派编辑部昨天 16:09",
+      "url": "https://sspai.com/post/116181",
+      "author": "少数派编辑部",
+      "summary": "顺应变化，重申标准：《少数派创作手册》修订说明"
+    },
+    {
+      "rank": 3,
+      "title": "学得会的快捷指令，零基础入门苹果效率魔法Tp昨天 14:30",
+      "url": "https://sspai.com/post/116182",
+      "author": "Tp",
+      "summary": "学得会的快捷指令，零基础入门苹果效率魔法"
+    },
+    {
+      "rank": 4,
+      "title": "App+1｜Mangata：把每次散步当作一次探索旅行zac昨天 11:00",
+      "url": "https://sspai.com/post/115238",
+      "author": "zac",
+      "summary": "App+1｜Mangata：把每次散步当作一次探索旅行"
+    },
+    {
+      "rank": 5,
+      "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等少数派编辑部昨天 08:31派早报",
+      "url": "https://sspai.com/post/116193",
+      "author": "少数派编辑部",
+      "summary": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等"
+    },
+    {
+      "rank": 6,
+      "title": "行李箱减重反思：这次长假出门，你带了哪些「全程没掏出来」的数码装备？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1791445045",
+      "author": "一派投票",
+      "summary": "行李箱减重反思：这次长假出门，你带了哪些「全程没掏出来」的数码装备？"
+    },
+    {
+      "rank": 7,
+      "title": "认知心理学背后的播客剪辑技巧知道分子吴先先前天 17:33Matrix精选",
+      "url": "https://sspai.com/post/114861",
+      "author": "知道分子吴先先",
+      "summary": "认知心理学背后的播客剪辑技巧"
+    },
+    {
+      "rank": 8,
+      "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验这些新技术将如何让我们的照片和视频更好？Vanilla前天 15:00",
+      "url": "https://sspai.com/post/115426",
+      "author": "Vanilla",
+      "summary": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验"
+    },
+    {
+      "rank": 9,
+      "title": "家中、这里、那里——Sonos Play 体验mivansaka前天 12:10",
+      "url": "https://sspai.com/post/115382",
+      "author": "mivansaka",
+      "summary": "家中、这里、那里——Sonos Play 体验"
+    },
+    {
+      "rank": 10,
+      "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验挨石前天 11:57",
+      "url": "https://sspai.com/post/116109",
+      "author": "挨石",
+      "summary": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam Ultra 与 Ace Ultra 抢先体验"
+    },
+    {
+      "rank": 11,
+      "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒北鸮前天 10:00",
+      "url": "https://sspai.com/post/92653",
+      "author": "北鸮",
+      "summary": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒"
+    },
+    {
+      "rank": 12,
+      "title": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1790146393",
+      "author": "一派投票",
+      "summary": "聊聊你用开源项目或 AI Coding 代替了哪些付费订阅？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "AI射雕英雄传看起来比人演的好",
+      "url": "https://s.weibo.com/weibo?q=AI%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%AF%94%E4%BA%BA%E6%BC%94%E7%9A%84%E5%A5%BD",
+      "hot_value": 690000
+    },
+    {
+      "rank": 2,
+      "title": "起初他们参加红军只为找条活路",
+      "url": "https://s.weibo.com/weibo?q=%E8%B5%B7%E5%88%9D%E4%BB%96%E4%BB%AC%E5%8F%82%E5%8A%A0%E7%BA%A2%E5%86%9B%E5%8F%AA%E4%B8%BA%E6%89%BE%E6%9D%A1%E6%B4%BB%E8%B7%AF",
+      "hot_value": 550000
+    },
+    {
+      "rank": 3,
+      "title": "马丽喊你来京东双十一0元换新",
+      "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%E5%96%8A%E4%BD%A0%E6%9D%A5%E4%BA%AC%E4%B8%9C%E5%8F%8C%E5%8D%81%E4%B8%800%E5%85%83%E6%8D%A2%E6%96%B0",
+      "hot_value": 550000
+    },
+    {
+      "rank": 4,
+      "title": "曝李昀锐去hi6接孟子义下班",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%9D%8E%E6%98%80%E9%94%90%E5%8E%BBhi6%E6%8E%A5%E5%AD%9F%E5%AD%90%E4%B9%89%E4%B8%8B%E7%8F%AD",
+      "hot_value": 530000
+    },
+    {
+      "rank": 5,
+      "title": "美股",
+      "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1",
+      "hot_value": 460000
+    },
+    {
+      "rank": 6,
+      "title": "TES经理回应ZUIAN签证问题",
+      "url": "https://s.weibo.com/weibo?q=TES%E7%BB%8F%E7%90%86%E5%9B%9E%E5%BA%94ZUIAN%E7%AD%BE%E8%AF%81%E9%97%AE%E9%A2%98",
+      "hot_value": 300000
+    },
+    {
+      "rank": 7,
+      "title": "为何年轻人不爱去菜市场",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BD%95%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%88%B1%E5%8E%BB%E8%8F%9C%E5%B8%82%E5%9C%BA",
+      "hot_value": 290000
+    },
+    {
+      "rank": 8,
+      "title": "年轻人开始用AI整顿双11了",
+      "url": "https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E7%94%A8AI%E6%95%B4%E9%A1%BF%E5%8F%8C11%E4%BA%86",
+      "hot_value": 280000
+    },
+    {
+      "rank": 9,
+      "title": "周迅釜山电影节影后",
+      "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E8%BF%85%E9%87%9C%E5%B1%B1%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BD%B1%E5%90%8E",
+      "hot_value": 280000
+    },
+    {
+      "rank": 10,
+      "title": "Babycare已起诉靠谱老王",
+      "url": "https://s.weibo.com/weibo?q=Babycare%E5%B7%B2%E8%B5%B7%E8%AF%89%E9%9D%A0%E8%B0%B1%E8%80%81%E7%8E%8B",
+      "hot_value": 270000
+    },
+    {
+      "rank": 11,
+      "title": "黄子韬谈妻子生理期细节被质疑",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E8%B0%88%E5%A6%BB%E5%AD%90%E7%94%9F%E7%90%86%E6%9C%9F%E7%BB%86%E8%8A%82%E8%A2%AB%E8%B4%A8%E7%96%91",
+      "hot_value": 270000
+    },
+    {
+      "rank": 12,
+      "title": "杨和苏公开女友",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%92%8C%E8%8B%8F%E5%85%AC%E5%BC%80%E5%A5%B3%E5%8F%8B",
+      "hot_value": 260000
+    },
+    {
+      "rank": 13,
+      "title": "央企中建七局拖欠农民工工资",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E4%BC%81%E4%B8%AD%E5%BB%BA%E4%B8%83%E5%B1%80%E6%8B%96%E6%AC%A0%E5%86%9C%E6%B0%91%E5%B7%A5%E5%B7%A5%E8%B5%84",
+      "hot_value": 250000
+    },
+    {
+      "rank": 14,
+      "title": "李昀锐哄孟子义拍照",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%98%80%E9%94%90%E5%93%84%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8B%8D%E7%85%A7",
+      "hot_value": 240000
+    },
+    {
+      "rank": 15,
+      "title": "严军曾向严浩翔要1000多万",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%A5%E5%86%9B%E6%9B%BE%E5%90%91%E4%B8%A5%E6%B5%A9%E7%BF%94%E8%A6%811000%E5%A4%9A%E4%B8%87",
+      "hot_value": 240000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "长实集团回应李嘉诚去世传闻称「绝无其事」，目前李嘉诚的身体状况如何",
+      "url": "https://www.zhihu.com/question/2094036953070920084",
+      "hot_value": 8080000
+    },
+    {
+      "rank": 2,
+      "title": "如何评价 DeepSeek 停摆 5 小时后，按最近七日 api 消耗向用户发放补偿赠金",
+      "url": "https://www.zhihu.com/question/2094116217489450760",
+      "hot_value": 6090000
+    },
+    {
+      "rank": 3,
+      "title": "1 岁宝宝吃下被邻居投毒的鸡蛋后进 ICU，邻居自首称「想毒黄鼠狼」，你怎么看？邻居该担什么法律责任",
+      "url": "https://www.zhihu.com/question/2094023847775135091",
+      "hot_value": 3620000
+    },
+    {
+      "rank": 4,
+      "title": "中国科学家首次用中国大模型攻克世界级数学难题，如何理解这一成果的意义",
+      "url": "https://www.zhihu.com/question/2094035039738488688",
+      "hot_value": 2850000
+    },
+    {
+      "rank": 5,
+      "title": "10 月 15 日全球股市大跌，为什么会这样？相互之间有哪些关联吗",
+      "url": "https://www.zhihu.com/question/2094053673290528592",
+      "hot_value": 2720000
+    },
+    {
+      "rank": 6,
+      "title": "为什么人们忽然间对张纪中拍摄的金庸武侠剧好评如潮",
+      "url": "https://www.zhihu.com/question/313748673",
+      "hot_value": 2590000
+    },
+    {
+      "rank": 7,
+      "title": "LoL 官方宣布经典模式将于 2027 年 1 月下架，怀旧模式为何难以留住玩家",
+      "url": "https://www.zhihu.com/question/2094017633859408212",
+      "hot_value": 2230000
+    },
+    {
+      "rank": 8,
+      "title": "蒙古国草原火灾未越过边境线，3400 余人在边境一线巡护，具体情况如何？可能带来怎样的影响",
+      "url": "https://www.zhihu.com/question/2092955690059014764",
+      "hot_value": 2150000
+    },
+    {
+      "rank": 9,
+      "title": "酒店因肖战演唱会从 179 元涨到 2193 元，市监部门称「明码标价都是正常的」，你怎么看？这合理吗",
+      "url": "https://www.zhihu.com/question/2093975692383708744",
+      "hot_value": 2020000
+    },
+    {
+      "rank": 10,
+      "title": "福建工人撞脸陈小春，名字中恰好带陈小春失散弟弟原名中的禄字，当事人回应称仅是巧合，哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2093839969966203705",
+      "hot_value": 1290000
+    },
+    {
+      "rank": 11,
+      "title": "双 11 促销规则越来越简单，为啥电商平台开始放弃复杂的满减玩法？电商大促正在发生哪些变化",
+      "url": "https://www.zhihu.com/question/2093836201601890009",
+      "hot_value": 1230000
+    },
+    {
+      "rank": 12,
+      "title": "《全面战争：幕府将军 2 完全版》在 Steam 差评如潮，翻车的主要原因是什么",
+      "url": "https://www.zhihu.com/question/2093661440074952795",
+      "hot_value": 1110000
+    },
+    {
+      "rank": 13,
+      "title": "看多了 AI 短剧，为什么都不太喜欢看真人演的短剧或电视剧了呢",
+      "url": "https://www.zhihu.com/question/2062123788586726125",
+      "hot_value": 1100000
+    },
+    {
+      "rank": 14,
+      "title": "如何评价《明日方舟：终末地》「丹青渡」版本",
+      "url": "https://www.zhihu.com/question/2094031815048806917",
+      "hot_value": 1000000
+    },
+    {
+      "rank": 15,
+      "title": "日本人是如何看待中国料理的",
+      "url": "https://www.zhihu.com/question/61595446",
+      "hot_value": 880000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "score": 61,
+      "author": "bigwheels",
+      "comments": 24,
+      "hn_url": "https://news.ycombinator.com/item?id=50107379"
+    },
+    {
+      "rank": 2,
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "score": 124,
+      "author": "themgt",
+      "comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=50105647"
+    },
+    {
+      "rank": 3,
+      "title": "More on Anthropic's Scion ripping off Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+      "score": 71,
+      "author": "sunshowers",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=50106738"
+    },
+    {
+      "rank": 4,
+      "title": "Krea 3 – Frontier Image Model 4× faster than Nano Banana Pro",
+      "url": "https://www.krea.ai/krea-3",
+      "score": 98,
+      "author": "dvrp",
+      "comments": 48,
+      "hn_url": "https://news.ycombinator.com/item?id=50105648"
+    },
+    {
+      "rank": 5,
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "url": "https://github.com/fyzugx/DEsk",
+      "score": 304,
+      "author": "FinalDestiny",
+      "comments": 126,
+      "hn_url": "https://news.ycombinator.com/item?id=50103338"
+    },
+    {
+      "rank": 6,
+      "title": "I Know Why the Mathematicians Weep",
+      "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+      "score": 230,
+      "author": "RickJWagner",
+      "comments": 357,
+      "hn_url": "https://news.ycombinator.com/item?id=50103630"
+    },
+    {
+      "rank": 7,
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "url": "https://libreboot.org/news/libreboot2610.html",
+      "score": 188,
+      "author": "iamnothere",
+      "comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=50102923"
+    },
+    {
+      "rank": 8,
+      "title": "Celebrating 70 Years of Fortran",
+      "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+      "score": 104,
+      "author": "rbanffy",
+      "comments": 48,
+      "hn_url": "https://news.ycombinator.com/item?id=50104726"
+    },
+    {
+      "rank": 9,
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "score": 166,
+      "author": "aaraujo002",
+      "comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=50104654"
+    },
+    {
+      "rank": 10,
+      "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
+      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "score": 196,
+      "author": "jcomp",
+      "comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=50101813"
+    },
+    {
+      "rank": 11,
+      "title": "The technical actions needed to ensure the continuity of UTC",
+      "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+      "score": 40,
+      "author": "gliffie",
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=50105777"
+    },
+    {
+      "rank": 12,
+      "title": "Show HN: Unfenced – Land for sale that borders public land",
+      "url": "https://unfenced.land/",
+      "score": 184,
+      "author": "otherwatersflow",
+      "comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=50102247"
+    },
+    {
+      "rank": 13,
+      "title": "Biscoff Cookies Were Supposed to Be Temporary. Then Passengers Fell in Love",
+      "url": "https://www.seriouseats.com/biscoff-history-12168161",
+      "score": 57,
+      "author": "mhb",
+      "comments": 44,
+      "hn_url": "https://news.ycombinator.com/item?id=50080155"
+    },
+    {
+      "rank": 14,
+      "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
+      "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+      "score": 147,
+      "author": "starkparker",
+      "comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=50105635"
+    },
+    {
+      "rank": 15,
+      "title": "Show HN: Proa – a Rust web framework with fast SSR and multi-target rendering",
+      "url": "https://proa.so/",
+      "score": 30,
+      "author": "burnrate",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50105467"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与自动化",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 这块又炸了，感觉大家都在卷“如何让 AI 更像人、更聪明”。morluto 的 rea[1] 号称能逆向工程任何东西，从 App 行为到底层二进制，这工具搞安全或者逆向的朋友绝对得看看。还有一个很有意思的 JuliusBrussee / caveman[2]，它主打一个“返璞归真”，让 AI 像穴居人一样用极少的 Token 交流，据说能砍掉 65% 的 Token，在 Token 越来越贵的今天，这种省钱的思路太实用了。社区那边 Lobsters 也热闹，Anthropic 的新模型 Scion 被吐槽说灵感来自 Mononoke[3]，看来大家对于 AI 的交互方式和底层逻辑还是有很多看法的。"
+      },
+      {
+        "name": "开发工具与系统底层",
+        "color": "dev",
+        "summary": "开发者工具这边更新挺密集。NationalSecurityAgency 出了 Ghidra[4]，老牌的反逆向工程框架，搞漏洞分析或二进制分析的兄弟熟得很。Mozilla 今天正式推出了 Firefox Enterprise[5]，企业级浏览器终于来了，以后公司配电脑可能更有保障了。Lobsters 上还有个关于 JPEG XL 和 AVIF 的讨论[6]，虽然现在 WebP 挺火，但下一代图像格式之争才刚开始，搞前端的可以关注下。"
+      },
+      {
+        "name": "效率工具与数码生活",
+        "color": "life",
+        "summary": "数码产品这块，Apple 的动作不少。新出的 iPhone 18 Pro 影像体验引起了热议[7]，看来苹果想在视频领域再发力。还有 Apple Watch 现在居然能测夜间体征了，为什么还要专门做一个睡眠呼吸暂停提醒？这功能定位确实有点让人摸不着头脑[8]。少数派编辑部昨天发的新玩意 253[9] 挺有意思，大家最近都买了啥，看看能不能找到提升效率的灵感。"
+      },
+      {
+        "name": "安全与分布式技术",
+        "color": "sec",
+        "summary": "搞安全的朋友必看！GitHub 上有个叫 sslx 的项目[10]，号称是 OpenSSL CLI 的快速现代替代品，这种轻量级安全工具在 Linux 环境下可能大受欢迎。Lobsters 上还提到了一个关于 OCapN 的端到端加密中继项目[11]，分布式加密通信一直是技术难点，这种开源尝试值得给个掌声。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "Reverse engineer anything with agents",
+        "url": "https://github.com/morluto/rea",
+        "source": "GitHub Trending",
+        "desc": "Reverse engineer anything with agents, from app behavior down to native binaries."
+      },
+      {
+        "num": 2,
+        "title": "caveman",
+        "url": "https://github.com/JuliusBrussee/caveman",
+        "source": "GitHub Trending",
+        "desc": "Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman."
+      },
+      {
+        "num": 3,
+        "title": "Anthropic's Scion is heavily inspired by Mononoke",
+        "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+        "source": "Lobsters",
+        "desc": "讨论 Anthropic 新模型 Scion 与 Mononoke 的关系。"
+      },
+      {
+        "num": 4,
+        "title": "Ghidra",
+        "url": "https://github.com/NationalSecurityAgency/ghidra",
+        "source": "GitHub Trending",
+        "desc": "Ghidra is a software reverse engineering (SRE) framework."
+      },
+      {
+        "num": 5,
+        "title": "Introducing Firefox Enterprise",
+        "url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
+        "source": "Lobsters",
+        "desc": "Mozilla 推出企业版火狐浏览器。"
+      },
+      {
+        "num": 6,
+        "title": "JPEG XL vs AVIF for web use-cases",
+        "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+        "source": "Lobsters",
+        "desc": "讨论 JPEG XL 与 AVIF 在 Web 场景下的优劣。"
+      },
+      {
+        "num": 7,
+        "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+        "url": "https://sspai.com/post/115426",
+        "source": "少数派",
+        "desc": "探讨 iPhone 18 Pro 的影像新技术。"
+      },
+      {
+        "num": 8,
+        "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
+        "url": "https://sspai.com/post/92653",
+        "source": "少数派",
+        "desc": "讨论 Apple Watch 睡眠监测功能与呼吸暂停提醒的必要性。"
+      },
+      {
+        "num": 9,
+        "title": "新玩意 253｜少数派的编辑们最近买了啥？",
+        "url": "https://sspai.com/post/116246",
+        "source": "少数派",
+        "desc": "编辑部分享最近购买的数码好物。"
+      },
+      {
+        "num": 10,
+        "title": "sslx: A fast, modern alternative to OpenSSL's CLI",
+        "url": "https://github.com/glincker/sslx",
+        "source": "Lobsters",
+        "desc": "OpenSSL CLI 的快速现代替代方案。"
+      },
+      {
+        "num": 11,
+        "title": "End-to-end encrypted relays for OCapN",
+        "url": "https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html",
+        "source": "Lobsters",
+        "desc": "OCapN 项目的端到端加密中继实现。"
+      }
+    ],
+    "stats": {
+      "total_items": 11,
+      "total_categories": 4,
+      "total_sources": 3
+    }
+  }
+}
