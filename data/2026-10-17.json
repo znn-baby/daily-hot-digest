@@ -1,0 +1,941 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "anthropics / claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": "40217",
+      "stars_today": "1,552 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 2,
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": "51291",
+      "stars_today": "1,158 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "281190",
+      "stars_today": "1,057 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 4,
+      "title": "HKUDS / CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "stars": "53353",
+      "stars_today": "323 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": "30122",
+      "stars_today": "449 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 6,
+      "title": "ruvnet / ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "stars": "75524",
+      "stars_today": "672 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 7,
+      "title": "android / skills",
+      "url": "https://github.com/android/skills",
+      "description": "",
+      "stars": "7967",
+      "stars_today": "35 stars today",
+      "language": "Kotlin"
+    },
+    {
+      "rank": 8,
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": "300530",
+      "stars_today": "973 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 9,
+      "title": "cursor / plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": "11853",
+      "stars_today": "282 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 10,
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "70591",
+      "stars_today": "2,301 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 11,
+      "title": "MadsLorentzen / ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": "48130",
+      "stars_today": "879 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 12,
+      "title": "hmjz100 / LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "stars": "23553",
+      "stars_today": "702 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 13,
+      "title": "xerj-org / xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "stars": "6707",
+      "stars_today": "1,647 stars today",
+      "language": "Rust"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Linus Torvalds on AI-assisted kernel contributions",
+      "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+      "source_url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+      "tags": [
+        "linux",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "thang"
+    },
+    {
+      "rank": 2,
+      "title": "The road to iroh 1.0",
+      "url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
+      "source_url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
+      "tags": [
+        "networking"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "Frando"
+    },
+    {
+      "rank": 3,
+      "title": "Why are we even doing all this?",
+      "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+      "source_url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+      "tags": [
+        "math",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "dcao"
+    },
+    {
+      "rank": 4,
+      "title": "Making a 88x31 button book using ImageMagick",
+      "url": "https://k.sosnierz.me/08-11-24/",
+      "source_url": "https://k.sosnierz.me/08-11-24/",
+      "tags": [
+        "art"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "nathell"
+    },
+    {
+      "rank": 5,
+      "title": "JPEG XL vs AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "source_url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "tags": [
+        "compsci",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jaffathecake"
+    },
+    {
+      "rank": 6,
+      "title": "Mull: note-taking with a language server / vscode extension",
+      "url": "https://github.com/stepchowfun/mull",
+      "source_url": "https://github.com/stepchowfun/mull",
+      "tags": [
+        "editors"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "lettuce"
+    },
+    {
+      "rank": 7,
+      "title": "My C23 Conventions",
+      "url": "https://abner.page/post/c23-conventions-1/",
+      "source_url": "https://abner.page/post/c23-conventions-1/",
+      "tags": [
+        "c"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "abnercoimbre"
+    },
+    {
+      "rank": 8,
+      "title": "Epic's EAC2 v2 seems fairly easily bypassable",
+      "url": "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/",
+      "source_url": "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/",
+      "tags": [
+        "linux",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "calvin"
+    },
+    {
+      "rank": 9,
+      "title": "What are you doing this weekend?",
+      "url": "https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend",
+      "source_url": "https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend",
+      "tags": [
+        "ask",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "caius"
+    },
+    {
+      "rank": 10,
+      "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+      "url": "https://maevyn.codes/decoherence",
+      "source_url": "https://maevyn.codes/decoherence",
+      "tags": [
+        "ai"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "pzuraq"
+    },
+    {
+      "rank": 11,
+      "title": "Sunsetting decomp.dev",
+      "url": "https://decomp.dev/",
+      "source_url": "https://decomp.dev/",
+      "tags": [
+        "games",
+        "reversing",
+        "vibecoding"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "FedericoSchonborn"
+    },
+    {
+      "rank": 12,
+      "title": "My self-hosted infrastructure with Incus OS",
+      "url": "https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html",
+      "source_url": "https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html",
+      "tags": [
+        "devops",
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "ggpsv"
+    },
+    {
+      "rank": 13,
+      "title": "Forgejo v17.0 is available",
+      "url": "https://forgejo.org/2026-10-release-v17-0/",
+      "source_url": "https://forgejo.org/2026-10-release-v17-0/",
+      "tags": [
+        "release",
+        "vcs"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "hugoarnal"
+    },
+    {
+      "rank": 14,
+      "title": "Announcing Rust 1.99.1",
+      "url": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
+      "source_url": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
+      "tags": [
+        "release",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "BD103"
+    },
+    {
+      "rank": 15,
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
+      "source_url": "https://calif.io/research/big-fish",
+      "tags": [
+        "openbsd",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "friday"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "本周看什么 | 最近值得一看的 13 部作品少数派编辑部昨天 18:21",
+      "url": "https://sspai.com/post/116423",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 13 部作品"
+    },
+    {
+      "rank": 2,
+      "title": "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式一群小羊说昨天 14:24Matrix精选",
+      "url": "https://sspai.com/post/114836",
+      "author": "一群小羊说",
+      "summary": "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式"
+    },
+    {
+      "rank": 3,
+      "title": "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验什么陈昨天 12:41",
+      "url": "https://sspai.com/post/115679",
+      "author": "什么陈",
+      "summary": "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验"
+    },
+    {
+      "rank": 4,
+      "title": "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具jiayifun昨天 10:18Matrix精选",
+      "url": "https://sspai.com/post/115688",
+      "author": "jiayifun",
+      "summary": "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具"
+    },
+    {
+      "rank": 5,
+      "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本少数派编辑部昨天 08:23派早报",
+      "url": "https://sspai.com/post/116355",
+      "author": "少数派编辑部",
+      "summary": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本"
+    },
+    {
+      "rank": 6,
+      "title": "新玩意 253｜少数派的编辑们最近买了啥？少数派编辑部前天 17:10",
+      "url": "https://sspai.com/post/116246",
+      "author": "少数派编辑部",
+      "summary": "新玩意 253｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 7,
+      "title": "行李箱减重反思：这次长假出门，你带了哪些「全程没掏出来」的数码装备？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1791445045",
+      "author": "一派投票",
+      "summary": "行李箱减重反思：这次长假出门，你带了哪些「全程没掏出来」的数码装备？"
+    },
+    {
+      "rank": 8,
+      "title": "顺应变化，重申标准：《少数派创作手册》修订说明少数派编辑部前天 16:09",
+      "url": "https://sspai.com/post/116181",
+      "author": "少数派编辑部",
+      "summary": "顺应变化，重申标准：《少数派创作手册》修订说明"
+    },
+    {
+      "rank": 9,
+      "title": "学得会的快捷指令，零基础入门苹果效率魔法Tp前天 14:30",
+      "url": "https://sspai.com/post/116182",
+      "author": "Tp",
+      "summary": "学得会的快捷指令，零基础入门苹果效率魔法"
+    },
+    {
+      "rank": 10,
+      "title": "App+1｜Mangata：把每次散步当作一次探索旅行zac前天 11:00",
+      "url": "https://sspai.com/post/115238",
+      "author": "zac",
+      "summary": "App+1｜Mangata：把每次散步当作一次探索旅行"
+    },
+    {
+      "rank": 11,
+      "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等少数派编辑部前天 08:31派早报",
+      "url": "https://sspai.com/post/116193",
+      "author": "少数派编辑部",
+      "summary": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "抖音起诉京东员工",
+      "url": "https://s.weibo.com/weibo?q=%E6%8A%96%E9%9F%B3%E8%B5%B7%E8%AF%89%E4%BA%AC%E4%B8%9C%E5%91%98%E5%B7%A5",
+      "hot_value": 670000
+    },
+    {
+      "rank": 2,
+      "title": "中央红军长征路线全览",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%A4%AE%E7%BA%A2%E5%86%9B%E9%95%BF%E5%BE%81%E8%B7%AF%E7%BA%BF%E5%85%A8%E8%A7%88",
+      "hot_value": 500000
+    },
+    {
+      "rank": 3,
+      "title": "田曦薇和周也上的一个表演课吗",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E5%92%8C%E5%91%A8%E4%B9%9F%E4%B8%8A%E7%9A%84%E4%B8%80%E4%B8%AA%E8%A1%A8%E6%BC%94%E8%AF%BE%E5%90%97",
+      "hot_value": 480000
+    },
+    {
+      "rank": 4,
+      "title": "医生在4岁宝宝睫毛上发现阴虱",
+      "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%94%9F%E5%9C%A84%E5%B2%81%E5%AE%9D%E5%AE%9D%E7%9D%AB%E6%AF%9B%E4%B8%8A%E5%8F%91%E7%8E%B0%E9%98%B4%E8%99%B1",
+      "hot_value": 450000
+    },
+    {
+      "rank": 5,
+      "title": "李昀锐好像要爱死孟子义了",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%98%80%E9%94%90%E5%A5%BD%E5%83%8F%E8%A6%81%E7%88%B1%E6%AD%BB%E5%AD%9F%E5%AD%90%E4%B9%89%E4%BA%86",
+      "hot_value": 420000
+    },
+    {
+      "rank": 6,
+      "title": "网民编造升金湖地震被辟谣",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E6%B0%91%E7%BC%96%E9%80%A0%E5%8D%87%E9%87%91%E6%B9%96%E5%9C%B0%E9%9C%87%E8%A2%AB%E8%BE%9F%E8%B0%A3",
+      "hot_value": 370000
+    },
+    {
+      "rank": 7,
+      "title": "河北卫视靠孙颖莎收视登顶了",
+      "url": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86%E9%9D%A0%E5%AD%99%E9%A2%96%E8%8E%8E%E6%94%B6%E8%A7%86%E7%99%BB%E9%A1%B6%E4%BA%86",
+      "hot_value": 340000
+    },
+    {
+      "rank": 8,
+      "title": "河北卫视回应靠孙颖莎收视登顶",
+      "url": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86%E5%9B%9E%E5%BA%94%E9%9D%A0%E5%AD%99%E9%A2%96%E8%8E%8E%E6%94%B6%E8%A7%86%E7%99%BB%E9%A1%B6",
+      "hot_value": 320000
+    },
+    {
+      "rank": 9,
+      "title": "披荆斩棘五公上半场排名",
+      "url": "https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%BA%94%E5%85%AC%E4%B8%8A%E5%8D%8A%E5%9C%BA%E6%8E%92%E5%90%8D",
+      "hot_value": 310000
+    },
+    {
+      "rank": 10,
+      "title": "女子回应监控取证丈夫出轨不被采用",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E7%9B%91%E6%8E%A7%E5%8F%96%E8%AF%81%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%E4%B8%8D%E8%A2%AB%E9%87%87%E7%94%A8",
+      "hot_value": 300000
+    },
+    {
+      "rank": 11,
+      "title": "黄子韬谁欺负我老婆了",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E8%B0%81%E6%AC%BA%E8%B4%9F%E6%88%91%E8%80%81%E5%A9%86%E4%BA%86",
+      "hot_value": 280000
+    },
+    {
+      "rank": 12,
+      "title": "徐艺洋 孩子是我自己生的",
+      "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%BA%E6%B4%8B+%E5%AD%A9%E5%AD%90%E6%98%AF%E6%88%91%E8%87%AA%E5%B7%B1%E7%94%9F%E7%9A%84",
+      "hot_value": 250000
+    },
+    {
+      "rank": 13,
+      "title": "傅首尔新片投资5000万票房仅8万",
+      "url": "https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%E6%96%B0%E7%89%87%E6%8A%95%E8%B5%845000%E4%B8%87%E7%A5%A8%E6%88%BF%E4%BB%858%E4%B8%87",
+      "hot_value": 240000
+    },
+    {
+      "rank": 14,
+      "title": "特斯拉SpaceX大跌",
+      "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89SpaceX%E5%A4%A7%E8%B7%8C",
+      "hot_value": 210000
+    },
+    {
+      "rank": 15,
+      "title": "孟子义李昀锐一起坐高铁录跑男",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E4%B8%80%E8%B5%B7%E5%9D%90%E9%AB%98%E9%93%81%E5%BD%95%E8%B7%91%E7%94%B7",
+      "hot_value": 210000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "传国玉玺最后一次可信的出现是什么时候",
+      "url": "https://www.zhihu.com/question/592258573",
+      "hot_value": 5000000
+    },
+    {
+      "rank": 2,
+      "title": "大厂员工吐槽新来的校招生特别 mean，被回复不 mean 根本过不了面试，真的吗？面试到底在选什么样的人",
+      "url": "https://www.zhihu.com/question/2094093125488566874",
+      "hot_value": 4320000
+    },
+    {
+      "rank": 3,
+      "title": "美国肯德基 2027 年起将改用可口可乐，背后是什么原因？消费者实际感受差别大吗",
+      "url": "https://www.zhihu.com/question/2094346221913690254",
+      "hot_value": 2310000
+    },
+    {
+      "rank": 4,
+      "title": "日本误报称发生 9.9 级地震，出现这种情况可能是因为啥原因？9.9 级地震是什么概念",
+      "url": "https://www.zhihu.com/question/2094437245025347580",
+      "hot_value": 1930000
+    },
+    {
+      "rank": 5,
+      "title": "李在明颠覆性推动韩国「双首都迁都」，将外交部、国防部等迁出首尔，全部集中到世宗，怎么看他这一举措",
+      "url": "https://www.zhihu.com/question/2094352560085628346",
+      "hot_value": 1770000
+    },
+    {
+      "rank": 6,
+      "title": "TES 上单选手 zuian 美签三面未过基本无缘瑞士轮，将对队伍战力带来哪些影响",
+      "url": "https://www.zhihu.com/question/2094092039180895129",
+      "hot_value": 1610000
+    },
+    {
+      "rank": 7,
+      "title": "四部门组织 30 余家车企座谈，加强产品研发测试验证管理，要求不得作虚假、夸大或引人误解的宣传，怎样解读",
+      "url": "https://www.zhihu.com/question/2094512887410549186",
+      "hot_value": 1580000
+    },
+    {
+      "rank": 8,
+      "title": "网传肖战演唱会门票被炒至 25 万元，高溢价黄牛票为何屡禁不止？倒卖和「天价炒票」涉嫌哪些违法违规",
+      "url": "https://www.zhihu.com/question/2094015917579400301",
+      "hot_value": 1550000
+    },
+    {
+      "rank": 9,
+      "title": "普通人能接住马龙的发球吗",
+      "url": "https://www.zhihu.com/question/365520167",
+      "hot_value": 1540000
+    },
+    {
+      "rank": 10,
+      "title": "全球智能手机出货量第三季度同比降 22% ，创有纪录以来最大降幅，背后是什么原因",
+      "url": "https://www.zhihu.com/question/2094360204083315679",
+      "hot_value": 1520000
+    },
+    {
+      "rank": 11,
+      "title": "如何看待微软已完成 2.8T 大模型的预训练",
+      "url": "https://www.zhihu.com/question/2094234009622599449",
+      "hot_value": 1430000
+    },
+    {
+      "rank": 12,
+      "title": "珠穆朗玛峰只有一半在中国，为何全世界都认为是我国的",
+      "url": "https://www.zhihu.com/question/2094299765097882927",
+      "hot_value": 1380000
+    },
+    {
+      "rank": 13,
+      "title": "枪械为什么要造得这么容易拆卸，连个螺丝都不用",
+      "url": "https://www.zhihu.com/question/1951242084783748156",
+      "hot_value": 1340000
+    },
+    {
+      "rank": 14,
+      "title": "如何评价苹果官方报告称网易、米哈游等中国头部游戏公司会绕过所谓「苹果税」",
+      "url": "https://www.zhihu.com/question/2093817945038250093",
+      "hot_value": 1230000
+    },
+    {
+      "rank": 15,
+      "title": "如何看待网友说 DeepSeek 在爱里长大",
+      "url": "https://www.zhihu.com/question/2093751116613866755",
+      "hot_value": 1170000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "score": 41,
+      "author": "speckx",
+      "comments": 18,
+      "hn_url": "https://news.ycombinator.com/item?id=50121179"
+    },
+    {
+      "rank": 2,
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "score": 164,
+      "author": "antipaul",
+      "comments": 80,
+      "hn_url": "https://news.ycombinator.com/item?id=50118320"
+    },
+    {
+      "rank": 3,
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
+      "score": 105,
+      "author": "rs_rs_rs_rs_rs",
+      "comments": 26,
+      "hn_url": "https://news.ycombinator.com/item?id=50118977"
+    },
+    {
+      "rank": 4,
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "score": 104,
+      "author": "__cayenne__",
+      "comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=50118688"
+    },
+    {
+      "rank": 5,
+      "title": "I Love Software Rendering",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "score": 217,
+      "author": "speckx",
+      "comments": 150,
+      "hn_url": "https://news.ycombinator.com/item?id=50117746"
+    },
+    {
+      "rank": 6,
+      "title": "What on Earth Is Dekton?",
+      "url": "https://www.worksinprogress.news/p/porcelain",
+      "score": 77,
+      "author": "wawayanda",
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=50118828"
+    },
+    {
+      "rank": 7,
+      "title": "Piramidal (YC W24) Is Hiring",
+      "url": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
+      "score": 1,
+      "author": "dsacellarius",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50121188"
+    },
+    {
+      "rank": 8,
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "score": 70,
+      "author": "farlight",
+      "comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=50120224"
+    },
+    {
+      "rank": 9,
+      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "score": 53,
+      "author": "ohjeez",
+      "comments": 35,
+      "hn_url": "https://news.ycombinator.com/item?id=50074322"
+    },
+    {
+      "rank": 10,
+      "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+      "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
+      "score": 57,
+      "author": "porridgeraisin",
+      "comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=50118267"
+    },
+    {
+      "rank": 11,
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "score": 520,
+      "author": "shekhar101",
+      "comments": 795,
+      "hn_url": "https://news.ycombinator.com/item?id=50112657"
+    },
+    {
+      "rank": 12,
+      "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
+      "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
+      "score": 56,
+      "author": "zdw",
+      "comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=50111752"
+    },
+    {
+      "rank": 13,
+      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+      "score": 730,
+      "author": "johnnyApplePRNG",
+      "comments": 226,
+      "hn_url": "https://news.ycombinator.com/item?id=50065859"
+    },
+    {
+      "rank": 14,
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "score": 82,
+      "author": "magoghm",
+      "comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=50119991"
+    },
+    {
+      "rank": 15,
+      "title": "How to make System 1 LLMs show System 2 competencies?",
+      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+      "score": 28,
+      "author": "porridgeraisin",
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=50118662"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与工具",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了。anthropics/claude-plugins-official[1] 作为官方插件目录，资源整理得相当体面。K-Dense-AI/scientific-agent-skills[2] 更是惊艳，号称能把任何 AI 变成科学家，已经有 25 万 + 科学家在用，内置了 177 种现成技能和 100+ 个科学数据库，搞科研的绝对要收藏。affaan-m/ECC[3] 主打一个性能优化，让智能体能跑得更顺、更安全。HKUDS/CLI-Anything[4] 提出让所有软件都变为 Agent 原生，这个思路很超前。mksglu/context-mode[5] 专门解决上下文窗口过大的问题，能把工具输出压缩 98%，还能在 17 个平台间路由，简直是给 AI 编了个“瘦身衣”。ruvnet/ruflo[6] 则是原生支持多玩家智能体群，搞自动化工作流很香。obra/superpowers[7] 和 cursor/plugins[8] 分别提供了通用的技能框架和 Cursor 插件规范，缺一个不行。MadsLorentzen/ai-job-search[9] 这个挺有意思，直接把 AI 变成你的求职助手，本地跑不泄露隐私。\n\nLobsters 上 Terry Tao 发了篇题为《Why are we even doing all this?》的文章[10]，探讨在 AI 时代我们还在坚持做什么，引发了不少关于“振码（Vibe Coding）”本质的讨论。少数派那边，Mozilla 推出企业版火狐浏览器[11]，DLSS 5 模型也要推送了[11]，算是硬件和软件层面的双重利好。搞安全的朋友必看，Big Fish 漏洞利用了一个 37 年前的 OpenBSD 内核 Bug[12]，这种陈年漏洞都能被挖出来，说明系统更新真的不能拖。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "system",
+        "summary": "Linux 和操作系统领域今天动静不小。Linus Torvalds 亲自下场讨论 AI 辅助内核贡献[13]，这话题在圈里肯定吵翻了，毕竟内核是 Linux 的灵魂，容错率极低。Forgejo v17.0[14] 发布了，作为 Gitea 的分支，对自建 Git 服务器需求大的朋友值得关注。Rust 1.99.1[15] 也更新了，生态越来越稳。\n\nLobsters 上有个帖子《Epic's EAC2 v2 seems fairly easily bypassable》[16]，指出 Epic 的 EAC2 加密似乎很容易被绕过，这对依赖其保护的游戏或应用可能是个大问题。在 iroh 1.0 的发布之路讨论中[17]，社区对去中心化通信协议又多了份期待。少数派的文章里，Tp 分享了零基础入门苹果快捷指令的方法[18]，对于想提升 macOS 效率的朋友来说，这是降低门槛的好资料。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "tools",
+        "summary": "数码圈也不闲着。少数派编辑部发布了本周值得一看的 13 部作品[19]，算是个高质量的阅读清单。什么陈体验了麦金獭钢化膜和极稚墨水屏手机壳[20]，看来国产外设也在卷。App+1 栏目介绍了 Mangata[21]，把散步变成探索旅行，这种将生活场景化的应用设计挺有创意。jiayifun 分享了一款跨平台书摘管理工具[22]，专门解决读书笔记吃灰的问题，适合知识管理爱好者。\n\nLobsters 上有人晒出自建的 Incus OS 基础设施[23]，这种轻量的容器化方案在自托管领域很火。还有篇关于 JPEG XL vs AVIF 的文章[24]，讨论未来网络图像格式之争，搞前端和多媒体开发的可以留意。少数派还做了一个投票：长假出门带了哪些“全程没掏”的数码装备[25]，挺真实的，看看大家的数码焦虑都在哪。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天值得深思的内容不少。除了前文提到的 Linus Torvalds 对 AI 介入内核开发的看法，Lobsters 上还有一个帖子《The Decoherence Trap》[26]，标题直白地指出了\"AI Slop（垃圾内容）”如何淹没真实信号的问题，这简直是当下的时代痛点。\n\n少数派编辑部修订了《少数派创作手册》[27]，顺应变化重申标准，说明内容创作社区在自我调整。还有篇《弯道超车》赛车入门指北[28]，虽然讲的是赛车，但那种“让赛车粉身碎骨才是保命”的激进理念，或许也能映射到技术迭代中——有时候不破不立。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "Official, Anthropic-managed directory of high quality Claude Code Plugins",
+        "url": "https://github.com/anthropics/claude-plugins-official",
+        "source": "GitHub Trending",
+        "desc": "Anthropic 官方维护的 Claude 插件目录"
+      },
+      {
+        "num": 2,
+        "title": "scientific-agent-skills",
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+        "source": "GitHub Trending",
+        "desc": "将 AI 转化为科学家的技能库，25 万 + 用户"
+      },
+      {
+        "num": 3,
+        "title": "ECC",
+        "url": "https://github.com/affaan-m/ECC",
+        "source": "GitHub Trending",
+        "desc": "智能体性能优化系统"
+      },
+      {
+        "num": 4,
+        "title": "CLI-Anything",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "source": "GitHub Trending",
+        "desc": "让所有软件变为 Agent 原生的 CLI 框架"
+      },
+      {
+        "num": 5,
+        "title": "context-mode",
+        "url": "https://github.com/mksglu/context-mode",
+        "source": "GitHub Trending",
+        "desc": "AI 编程代理的上下文窗口优化工具"
+      },
+      {
+        "num": 6,
+        "title": "ruflo",
+        "url": "https://github.com/ruvnet/ruflo",
+        "source": "GitHub Trending",
+        "desc": "原生支持多玩家智能体群的智能体框架"
+      },
+      {
+        "num": 7,
+        "title": "superpowers",
+        "url": "https://github.com/obra/superpowers",
+        "source": "GitHub Trending",
+        "desc": "可实际工作的智能体技能框架"
+      },
+      {
+        "num": 8,
+        "title": "plugins",
+        "url": "https://github.com/cursor/plugins",
+        "source": "GitHub Trending",
+        "desc": "Cursor 插件规范及官方插件"
+      },
+      {
+        "num": 9,
+        "title": "ai-job-search",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "source": "GitHub Trending",
+        "desc": "基于本地运行的 AI 求职框架"
+      },
+      {
+        "num": 10,
+        "title": "Why are we even doing all this?",
+        "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
+        "source": "Lobsters",
+        "desc": "Terry Tao 探讨 AI 时代人类工作的意义"
+      },
+      {
+        "num": 11,
+        "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
+        "url": "https://sspai.com/post/116355",
+        "source": "少数派",
+        "desc": "Apple Intelligence 国行测试版上线预告"
+      },
+      {
+        "num": 12,
+        "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+        "url": "https://calif.io/research/big-fish",
+        "source": "Lobsters",
+        "desc": "利用 OpenBSD 37 年前内核漏洞的研究"
+      },
+      {
+        "num": 13,
+        "title": "Linus Torvalds on AI-assisted kernel contributions",
+        "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+        "source": "Lobsters",
+        "desc": "Linus Torvalds 讨论 AI 辅助内核贡献"
+      },
+      {
+        "num": 14,
+        "title": "Forgejo v17.0 is available",
+        "url": "https://forgejo.org/2026-10-release-v17-0/",
+        "source": "Lobsters",
+        "desc": "Forgejo 版本 17.0 发布"
+      },
+      {
+        "num": 15,
+        "title": "Announcing Rust 1.99.1",
+        "url": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
+        "source": "Lobsters",
+        "desc": "Rust 语言版本 1.99.1 发布"
+      },
+      {
+        "num": 16,
+        "title": "Epic's EAC2 v2 seems fairly easily bypassable",
+        "url": "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/",
+        "source": "Lobsters",
+        "desc": "Epic EAC2 加密机制可能被绕过"
+      },
+      {
+        "num": 17,
+        "title": "The road to iroh 1.0",
+        "url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
+        "source": "Lobsters",
+        "desc": "关于 iroh 1.0 去中心化通信协议的路径讨论"
+      },
+      {
+        "num": 18,
+        "title": "学得会的快捷指令，零基础入门苹果效率魔法",
+        "url": "https://sspai.com/post/116182",
+        "source": "少数派",
+        "desc": "零基础入门 Apple Shortcuts"
+      },
+      {
+        "num": 19,
+        "title": "本周看什么 | 最近值得一看的 13 部作品",
+        "url": "https://sspai.com/post/116423",
+        "source": "少数派",
+        "desc": "本周精选书单/影单推荐"
+      },
+      {
+        "num": 20,
+        "title": "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验",
+        "url": "https://sspai.com/post/115679",
+        "source": "少数派",
+        "desc": "麦金獭钢化膜与极稚手机壳体验评测"
+      },
+      {
+        "num": 21,
+        "title": "App+1｜Mangata：把每次散步当作一次探索旅行",
+        "url": "https://sspai.com/post/115238",
+        "source": "少数派",
+        "desc": "Mangata 应用评测"
+      },
+      {
+        "num": 22,
+        "title": "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具",
+        "url": "https://sspai.com/post/115688",
+        "source": "少数派",
+        "desc": "跨平台书摘管理工具分享"
+      },
+      {
+        "num": 23,
+        "title": "My self-hosted infrastructure with Incus OS",
+        "url": "https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html",
+        "source": "Lobsters",
+        "desc": "基于 Incus OS 的自托管基础设施分享"
+      },
+      {
+        "num": 24,
+        "title": "JPEG XL vs AVIF for web use-cases",
+        "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+        "source": "Lobsters",
+        "desc": "JPEG XL 与 AVIF 在 Web 场景下的对比"
+      },
+      {
+        "num": 25,
+        "title": "行李箱减重反思：这次长假出门，你带了哪些「全程没掏出来」的数码装备？",
+        "url": "https://sspai.com/bullet/1791445045",
+        "source": "少数派",
+        "desc": "关于数码产品使用率的投票"
+      },
+      {
+        "num": 26,
+        "title": "The Decoherence Trap: When AI slop drowns out the signal in an endless sea of noise",
+        "url": "https://maevyn.codes/decoherence",
+        "source": "Lobsters",
+        "desc": "探讨 AI 生成内容淹没真实信号的现象"
+      },
+      {
+        "num": 27,
+        "title": "顺应变化，重申标准：《少数派创作手册》修订说明",
+        "url": "https://sspai.com/post/116181",
+        "source": "少数派",
+        "desc": "少数派创作手册修订说明"
+      },
+      {
+        "num": 28,
+        "title": "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
+        "url": "https://sspai.com/post/114836",
+        "source": "少数派",
+        "desc": "赛车入门知识分享"
+      }
+    ],
+    "stats": {
+      "total_items": 28,
+      "total_categories": 4,
+      "total_sources": 3
+    }
+  }
+}
