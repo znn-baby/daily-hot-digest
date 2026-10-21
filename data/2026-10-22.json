@@ -1,0 +1,730 @@
+{
+  "github_trending": [],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Upcoming Critical PHP Security Release",
+      "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
+      "source_url": "https://www.php.net/archive/2026.php#2026-10-20-1",
+      "tags": [
+        "php",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "pushcx"
+    },
+    {
+      "rank": 2,
+      "title": "Unikernels in OCaml",
+      "url": "https://uniker.nl/",
+      "source_url": "https://uniker.nl/",
+      "tags": [
+        "ml",
+        "osdev"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "xvw"
+    },
+    {
+      "rank": 3,
+      "title": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "source_url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "tags": [
+        "css"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "typesanitizer"
+    },
+    {
+      "rank": 4,
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "source_url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "tags": [
+        "cryptography",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "pims"
+    },
+    {
+      "rank": 5,
+      "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+      "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
+      "source_url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "freddyb"
+    },
+    {
+      "rank": 6,
+      "title": "zls 0.17.0",
+      "url": "https://zigtools.org/zls/releases/0.17.0/",
+      "source_url": "https://zigtools.org/zls/releases/0.17.0/",
+      "tags": [
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "FedericoSchonborn"
+    },
+    {
+      "rank": 7,
+      "title": "Firefox Local Mode",
+      "url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
+      "source_url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
+      "tags": [
+        "browsers"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "lim"
+    },
+    {
+      "rank": 8,
+      "title": "Vector Graphics in Lil",
+      "url": "https://beyondloom.com/blog/vectorgraphics.html",
+      "source_url": "https://beyondloom.com/blog/vectorgraphics.html",
+      "tags": [
+        "apl",
+        "graphics"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "veqq"
+    },
+    {
+      "rank": 9,
+      "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
+      "url": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
+      "source_url": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
+      "tags": [
+        "c",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "dzwdz"
+    },
+    {
+      "rank": 10,
+      "title": "Lobsters NYC Meetup on the 28th of October",
+      "url": "https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october",
+      "source_url": "https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october",
+      "tags": [
+        "event"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "veqq"
+    },
+    {
+      "rank": 11,
+      "title": "Setting up SSH keys on macOS with Touch ID",
+      "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+      "source_url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+      "tags": [
+        "cryptography",
+        "mac",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "nmattia"
+    },
+    {
+      "rank": 12,
+      "title": "Mastodon 5.0: A closer look",
+      "url": "https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/",
+      "source_url": "https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/",
+      "tags": [
+        "design",
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "dgv"
+    },
+    {
+      "rank": 13,
+      "title": "Node.js — Wednesday, October 21, 2026 Security Releases",
+      "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+      "source_url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+      "tags": [
+        "javascript",
+        "nodejs",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "easrng"
+    },
+    {
+      "rank": 14,
+      "title": "NixOS is making me less afraid",
+      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "source_url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "tags": [
+        "nix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "LolPython"
+    },
+    {
+      "rank": 15,
+      "title": "How I got over 300 Tor exit nodes removed",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "source_url": "https://kaba.cx/posts/20261020_Tor/",
+      "tags": [
+        "privacy",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "atmosx"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备Matrix机器人昨天 17:00",
+      "url": "https://sspai.com/post/116820",
+      "author": "Matrix机器人",
+      "summary": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备"
+    },
+    {
+      "rank": 2,
+      "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用ElijahLee昨天 15:00",
+      "url": "https://sspai.com/post/116445",
+      "author": "ElijahLee",
+      "summary": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用"
+    },
+    {
+      "rank": 3,
+      "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？随便好啦昨天 10:23Matrix精选",
+      "url": "https://sspai.com/post/115107",
+      "author": "随便好啦",
+      "summary": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等少数派编辑部昨天 08:07派早报",
+      "url": "https://sspai.com/post/116887",
+      "author": "少数派编辑部",
+      "summary": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等"
+    },
+    {
+      "rank": 5,
+      "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁少数派编辑部前天 18:01会员内容",
+      "url": "https://sspai.com/prime/story/inside-release-notes-261020",
+      "author": "少数派编辑部",
+      "summary": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁"
+    },
+    {
+      "rank": 6,
+      "title": "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验KingTsui前天 17:30",
+      "url": "https://sspai.com/post/115475",
+      "author": "KingTsui",
+      "summary": "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验"
+    },
+    {
+      "rank": 7,
+      "title": "双十一买自己不懂的品类，你会让 AI 替你做决策吗？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1792398838",
+      "author": "一派投票",
+      "summary": "双十一买自己不懂的品类，你会让 AI 替你做决策吗？"
+    },
+    {
+      "rank": 8,
+      "title": "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面原厂屏幕之外最省心的搭档。Microhoo前天 15:07",
+      "url": "https://sspai.com/post/116661",
+      "author": "Microhoo",
+      "summary": "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面"
+    },
+    {
+      "rank": 9,
+      "title": "App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法Hare前天 10:34Matrix精选",
+      "url": "https://sspai.com/post/116430",
+      "author": "Hare",
+      "summary": "App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法"
+    },
+    {
+      "rank": 10,
+      "title": "派评 | 近期值得关注的 App少数派编辑部10/19",
+      "url": "https://sspai.com/post/116705",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 11,
+      "title": "与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长waychane10/19",
+      "url": "https://sspai.com/post/116585",
+      "author": "waychane",
+      "summary": "与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "AG 退役",
+      "url": "https://s.weibo.com/weibo?q=AG+%E9%80%80%E5%BD%B9",
+      "hot_value": 990000
+    },
+    {
+      "rank": 2,
+      "title": "长征硬核知识点十问十答",
+      "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E5%BE%81%E7%A1%AC%E6%A0%B8%E7%9F%A5%E8%AF%86%E7%82%B9%E5%8D%81%E9%97%AE%E5%8D%81%E7%AD%94",
+      "hot_value": 550000
+    },
+    {
+      "rank": 3,
+      "title": "拼着买嚼着香 买绿箭山茶花上拼多多",
+      "url": "https://s.weibo.com/weibo?q=%E6%8B%BC%E7%9D%80%E4%B9%B0%E5%9A%BC%E7%9D%80%E9%A6%99+%E4%B9%B0%E7%BB%BF%E7%AE%AD%E5%B1%B1%E8%8C%B6%E8%8A%B1%E4%B8%8A%E6%8B%BC%E5%A4%9A%E5%A4%9A",
+      "hot_value": 500000
+    },
+    {
+      "rank": 4,
+      "title": "泽连斯基愿保留75%领土以达和平",
+      "url": "https://s.weibo.com/weibo?q=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%84%BF%E4%BF%9D%E7%95%9975%25%E9%A2%86%E5%9C%9F%E4%BB%A5%E8%BE%BE%E5%92%8C%E5%B9%B3",
+      "hot_value": 380000
+    },
+    {
+      "rank": 5,
+      "title": "肖战刘铮亮当群演了",
+      "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%88%98%E9%93%AE%E4%BA%AE%E5%BD%93%E7%BE%A4%E6%BC%94%E4%BA%86",
+      "hot_value": 370000
+    },
+    {
+      "rank": 6,
+      "title": "嫁金钗",
+      "url": "https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97",
+      "hot_value": 330000
+    },
+    {
+      "rank": 7,
+      "title": "妈妈染上AI短剧后无法自拔",
+      "url": "https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E6%9F%93%E4%B8%8AAI%E7%9F%AD%E5%89%A7%E5%90%8E%E6%97%A0%E6%B3%95%E8%87%AA%E6%8B%94",
+      "hot_value": 330000
+    },
+    {
+      "rank": 8,
+      "title": "钟意长生拥抱",
+      "url": "https://s.weibo.com/weibo?q=%E9%92%9F%E6%84%8F%E9%95%BF%E7%94%9F%E6%8B%A5%E6%8A%B1",
+      "hot_value": 330000
+    },
+    {
+      "rank": 9,
+      "title": "小城良方收视冲顶",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E6%94%B6%E8%A7%86%E5%86%B2%E9%A1%B6",
+      "hot_value": 320000
+    },
+    {
+      "rank": 10,
+      "title": "男子身中17刀身亡17岁少年被刑拘",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E8%BA%AB%E4%B8%AD17%E5%88%80%E8%BA%AB%E4%BA%A117%E5%B2%81%E5%B0%91%E5%B9%B4%E8%A2%AB%E5%88%91%E6%8B%98",
+      "hot_value": 320000
+    },
+    {
+      "rank": 11,
+      "title": "张小斐 救场",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90+%E6%95%91%E5%9C%BA",
+      "hot_value": 320000
+    },
+    {
+      "rank": 12,
+      "title": "曝自费高定艺人名字",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%87%AA%E8%B4%B9%E9%AB%98%E5%AE%9A%E8%89%BA%E4%BA%BA%E5%90%8D%E5%AD%97",
+      "hot_value": 320000
+    },
+    {
+      "rank": 13,
+      "title": "芭莎 有人在后台不出来",
+      "url": "https://s.weibo.com/weibo?q=%E8%8A%AD%E8%8E%8E+%E6%9C%89%E4%BA%BA%E5%9C%A8%E5%90%8E%E5%8F%B0%E4%B8%8D%E5%87%BA%E6%9D%A5",
+      "hot_value": 320000
+    },
+    {
+      "rank": 14,
+      "title": "影视飓风iPhoneDuo评测",
+      "url": "https://s.weibo.com/weibo?q=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8EiPhoneDuo%E8%AF%84%E6%B5%8B",
+      "hot_value": 320000
+    },
+    {
+      "rank": 15,
+      "title": "蔡文静在张小斐之前走完红毯了",
+      "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E6%96%87%E9%9D%99%E5%9C%A8%E5%BC%A0%E5%B0%8F%E6%96%90%E4%B9%8B%E5%89%8D%E8%B5%B0%E5%AE%8C%E7%BA%A2%E6%AF%AF%E4%BA%86",
+      "hot_value": 320000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "樊振东发文称不管啥心态，都无法改变偷拍不尊重人的本质，如何看待以爱为名的侵扰？怎样算真正支持运动员",
+      "url": "https://www.zhihu.com/question/2096173845665117950",
+      "hot_value": 4490000
+    },
+    {
+      "rank": 2,
+      "title": "一家三口被困酒店卫生间超 4 小时，其间消防喷淋失控致婴儿险失温，当事人索赔 15 万，从法律角度如何解读",
+      "url": "https://www.zhihu.com/question/2095917714824853457",
+      "hot_value": 4410000
+    },
+    {
+      "rank": 3,
+      "title": "两部门发布公告，对盾构机、挖泥船、高端无人机等实施出口管制，释放了哪些信号",
+      "url": "https://www.zhihu.com/question/2095840965227561820",
+      "hot_value": 3940000
+    },
+    {
+      "rank": 4,
+      "title": "《红楼梦》中的「茄鲞」是一道杜撰的菜吗",
+      "url": "https://www.zhihu.com/question/25353387",
+      "hot_value": 3030000
+    },
+    {
+      "rank": 5,
+      "title": "泽连斯基表示，乌克兰愿在保留至少 75% 领土控制权的基础上达成和平协议，你怎么看",
+      "url": "https://www.zhihu.com/question/2096328160241633097",
+      "hot_value": 2900000
+    },
+    {
+      "rank": 6,
+      "title": "印度 CA 机构 eMudhra 私钥存严重缺陷遭各大厂商阻断，将带来哪些影响",
+      "url": "https://www.zhihu.com/question/2096267545154172328",
+      "hot_value": 2760000
+    },
+    {
+      "rank": 7,
+      "title": "连英伟达都承认消费级显卡已超出其控制，AI 显卡内存涨价狂潮何时结束",
+      "url": "https://www.zhihu.com/question/2095674841978488596",
+      "hot_value": 2330000
+    },
+    {
+      "rank": 8,
+      "title": "为啥这几年双十一、双十二活动周期被拉长、玩法不断改进，反而热度好像还不如以前了？你今年有「剁手」吗",
+      "url": "https://www.zhihu.com/question/2095972167292643045",
+      "hot_value": 1540000
+    },
+    {
+      "rank": 9,
+      "title": "如何看待乘客错过高铁检票后情绪崩溃跪求工作人员，12306 回应无论是否发车不会例外放行",
+      "url": "https://www.zhihu.com/question/2096332490944110660",
+      "hot_value": 1510000
+    },
+    {
+      "rank": 10,
+      "title": "如何看待 52 岁刘恺威与 32 岁黎纪君恋情公开，两人因匹克球互生情愫，已秘密恋爱两个月",
+      "url": "https://www.zhihu.com/question/2095834533178208627",
+      "hot_value": 1470000
+    },
+    {
+      "rank": 11,
+      "title": "如何看待人民锐评发表文章「特斯拉能飞，我们就被甩开了？」，中国汽车行业未来该如何发展",
+      "url": "https://www.zhihu.com/question/2096169041811478462",
+      "hot_value": 1430000
+    },
+    {
+      "rank": 12,
+      "title": "宁德时代 A 股盘中跌超 10％，本轮大跌有哪些诱因？动力电池行业增长逻辑要变了吗",
+      "url": "https://www.zhihu.com/question/2096182082548523173",
+      "hot_value": 1360000
+    },
+    {
+      "rank": 13,
+      "title": "土耳其人其实大部分是希腊人后裔，是真的吗？为什么现在的土耳其人大部分都不认同",
+      "url": "https://www.zhihu.com/question/2096313313864803989",
+      "hot_value": 1200000
+    },
+    {
+      "rank": 14,
+      "title": "丹麦男子卖中国包子一天赚 5 万元，中式面食在海外有多受欢迎？还有哪些中国传统小吃最有可能在海外走红",
+      "url": "https://www.zhihu.com/question/2095237911004145500",
+      "hot_value": 1070000
+    },
+    {
+      "rank": 15,
+      "title": "如何评价山东「仙人跳」犯罪团伙作案 38 起，其中 3 名受害者拒不付款被采取强制措施，有哪些细节值得关注",
+      "url": "https://www.zhihu.com/question/2095821509633774542",
+      "hot_value": 1040000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "PHP 8.2.35",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "score": 818,
+      "author": "tuyuri",
+      "comments": 466,
+      "hn_url": "https://news.ycombinator.com/item?id=50180873"
+    },
+    {
+      "rank": 2,
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "score": 277,
+      "author": "ejohnso49",
+      "comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=50182987"
+    },
+    {
+      "rank": 3,
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "score": 221,
+      "author": "abhisek",
+      "comments": 88,
+      "hn_url": "https://news.ycombinator.com/item?id=50181114"
+    },
+    {
+      "rank": 4,
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "score": 255,
+      "author": "nnx",
+      "comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=50181136"
+    },
+    {
+      "rank": 5,
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "score": 677,
+      "author": "hkc",
+      "comments": 321,
+      "hn_url": "https://news.ycombinator.com/item?id=50177916"
+    },
+    {
+      "rank": 6,
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "score": 169,
+      "author": "nr378",
+      "comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=50181175"
+    },
+    {
+      "rank": 7,
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+      "score": 68,
+      "author": "bryanrasmussen",
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=50162044"
+    },
+    {
+      "rank": 8,
+      "title": "EA is shutting down BioWare",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "score": 95,
+      "author": "aaronbrethorst",
+      "comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=50184586"
+    },
+    {
+      "rank": 9,
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "score": 108,
+      "author": "armcat",
+      "comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=50180079"
+    },
+    {
+      "rank": 10,
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "score": 87,
+      "author": "raahelb",
+      "comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=50180752"
+    },
+    {
+      "rank": 11,
+      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+      "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+      "score": 22,
+      "author": "giuliomagnifico",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=50183512"
+    },
+    {
+      "rank": 12,
+      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "score": 95,
+      "author": "surprisetalk",
+      "comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=50182526"
+    },
+    {
+      "rank": 13,
+      "title": "Drupal is now light-years ahead of its reputation",
+      "url": "https://dri.es/state-of-drupal-presentation-september-2026",
+      "score": 68,
+      "author": "scottfalconer",
+      "comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=50158408"
+    },
+    {
+      "rank": 14,
+      "title": "Rust off Rails: The opinionated web stack for the AI era",
+      "url": "https://rustoffrails.org/",
+      "score": 55,
+      "author": "mike1o1",
+      "comments": 48,
+      "hn_url": "https://news.ycombinator.com/item?id=50183727"
+    },
+    {
+      "rank": 15,
+      "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
+      "url": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+      "score": 25,
+      "author": "hasheddan",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=50183280"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "系统与底层技术",
+        "color": "os",
+        "summary": "今天系统和安全这块真是有点“重口味”。Zig 的 LSP 工具 zls 0.17.0 更新了，支持更多 Zig 语言特性，搞底层开发的朋友可以试试 [1]。不过更值得关注的是安全动态，eMudhra 的 CA 私钥被瞬间破解，导致 Firefox 用户需要紧急更新来防护中间证书 [2]，这提醒我们加密信任链其实很脆弱。另外，Node.js 也发布了 10 月安全补丁，搞 Node 的后端一定要赶紧升级 [3]。Lobsters 上还有个挺硬核的讨论，关于如何用 OCaml 写 Unikernel 单内核系统，这对追求极致性能和部署简化的运维老哥来说绝对是个新思路 [4]。"
+      },
+      {
+        "name": "数码产品/效率工具",
+        "color": "productivity",
+        "summary": "生产力工具这块最近动静不小。Mac 用户有个神器叫 Vitals，比自带的活动监视器更直观地展示什么在拖慢你的机器 [5]。还有那个 App+1 推荐的紫毫输入法，基于 Rime 引擎支持双拼纠错，中文输入党可能会很心动 [6]。怀旧党也不能错过，有人复盘了三星 Q1 这台世界上首台 UMPC，看看它和现在平板的传承关系 [7]。至于双十一想偷懒的朋友，少数派发起个投票，问问大家会不会让 AI 替自己决定买啥数码产品，挺有意思的，反正我自己是怕被算法牵着鼻子走 [8]。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "最近的大事件是科技圈都在谈 DeepSeek，美国政府直接发话让各机构停用，这波操作影响很大 [9]。与此同时，理想汽车宣布搞自研的「连山」三电体系，看来车企都在卷底层了。在隐私方面，有个大神分享了他如何彻底清理 Tor 出口节点的经历，结果 300+ 节点被移除，这反映出隐私工具在现实监管下的生存空间其实挺受限的 [10]。"
+      },
+      {
+        "name": "前端与界面设计",
+        "color": "frontend",
+        "summary": "前端这块，Josh W Comeau 写了一篇关于 CSS 未来的深度文章，聊了聊 2027 年的互操作性问题，感觉作者对 Web 标准的走向看得比较透 [11]。Mozilla 那边也有动作，Firefox 的本地模式（Local Mode）文档更新了，这对做本地调试和自动化测试的开发者是个好消息 [12]。"
+      },
+      {
+        "name": "社区动态",
+        "color": "community",
+        "summary": "Lobsters 社区下个月（10 月 28 日）要在纽约办 Meetup，搞技术社交的朋友可以定个闹钟 [13]。另外，Mastodon 5.0 版本也发布了，官方专门写了篇博文回顾这次更新的设计细节，看来开源社交网络也在不断迭代 [14]。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "zls 0.17.0 Released",
+        "url": "https://zigtools.org/zls/releases/0.17.0/",
+        "source": "Lobsters",
+        "desc": "Zig Language Server 版本更新"
+      },
+      {
+        "num": 2,
+        "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+        "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+        "source": "Lobsters",
+        "desc": "关于 eMudhra CA 私钥被破解的安全分析"
+      },
+      {
+        "num": 3,
+        "title": "Node.js — Wednesday, October 21, 2026 Security Releases",
+        "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+        "source": "Lobsters",
+        "desc": "Node.js 10 月安全更新日志"
+      },
+      {
+        "num": 4,
+        "title": "Unikernels in OCaml",
+        "url": "https://uniker.nl/",
+        "source": "Lobsters",
+        "desc": "基于 OCaml 构建单内核系统的探讨"
+      },
+      {
+        "num": 5,
+        "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
+        "url": "https://sspai.com/post/116445",
+        "source": "少数派",
+        "desc": "Mac 性能监控新工具推荐"
+      },
+      {
+        "num": 6,
+        "title": "App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法",
+        "url": "https://sspai.com/post/116430",
+        "source": "少数派",
+        "desc": "iOS 输入法新发现"
+      },
+      {
+        "num": 7,
+        "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
+        "url": "https://sspai.com/post/115107",
+        "source": "少数派",
+        "desc": "三星 Q1 UMPC 历史回顾"
+      },
+      {
+        "num": 8,
+        "title": "双十一买自己不懂的品类，你会让 AI 替你做决策吗？",
+        "url": "https://sspai.com/bullet/1792398838",
+        "source": "少数派",
+        "desc": "双十一消费决策投票"
+      },
+      {
+        "num": 9,
+        "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
+        "url": "https://sspai.com/post/116887",
+        "source": "少数派",
+        "desc": "每日科技早报汇总"
+      },
+      {
+        "num": 10,
+        "title": "How I got over 300 Tor exit nodes removed",
+        "url": "https://kaba.cx/posts/20261020_Tor/",
+        "source": "Lobsters",
+        "desc": "关于 Tor 出口节点被移除的隐私讨论"
+      },
+      {
+        "num": 11,
+        "title": "The Future of CSS",
+        "url": "https://www.joshwcomeau.com/css/interop-2027/",
+        "source": "Lobsters",
+        "desc": "CSS 未来互操作性展望"
+      },
+      {
+        "num": 12,
+        "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+        "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-eMudhra-intermediate-certificates/",
+        "source": "Lobsters",
+        "desc": "Mozilla 关于 Firefox 证书安全更新公告"
+      },
+      {
+        "num": 13,
+        "title": "Lobsters NYC Meetup on the 28th of October",
+        "url": "https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october",
+        "source": "Lobsters",
+        "desc": "Lobsters 纽约线下见面会公告"
+      },
+      {
+        "num": 14,
+        "title": "Mastodon 5.0: A closer look",
+        "url": "https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/",
+        "source": "Lobsters",
+        "desc": "Mastodon 5.0 版本设计回顾"
+      }
+    ],
+    "stats": {
+      "total_items": 14,
+      "total_categories": 5,
+      "total_sources": 14
+    }
+  }
+}
