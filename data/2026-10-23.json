@@ -1,0 +1,853 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "php / php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "stars": "41021",
+      "stars_today": "423 stars today",
+      "language": "C"
+    },
+    {
+      "rank": 2,
+      "title": "anthropics / knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars": "31454",
+      "stars_today": "303 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": "173083",
+      "stars_today": "1,949 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 4,
+      "title": "cloudflare / security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": "38889",
+      "stars_today": "2,979 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 5,
+      "title": "Graphify-Labs / graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": "132700",
+      "stars_today": "1,407 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 6,
+      "title": "supabase / supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars": "113389",
+      "stars_today": "683 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 7,
+      "title": "fastapi / fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "stars": "103594",
+      "stars_today": "96 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "luongnv89 / claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": "42918",
+      "stars_today": "370 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 9,
+      "title": "Meloong-Git / PCL",
+      "url": "https://github.com/Meloong-Git/PCL",
+      "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "stars": "8644",
+      "stars_today": "115 stars today",
+      "language": "Visual Basic .NET"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "examining the macOS gcc binary",
+      "url": "https://zoey-on-github.github.io/blog/macgcc.html",
+      "source_url": "https://zoey-on-github.github.io/blog/macgcc.html",
+      "tags": [
+        "mac",
+        "reversing"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "juliethefoxcoon"
+    },
+    {
+      "rank": 2,
+      "title": "jailbreaking the switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "source_url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "tags": [
+        "hardware",
+        "reversing",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "kwas"
+    },
+    {
+      "rank": 3,
+      "title": "Firefox Local Mode",
+      "url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
+      "source_url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
+      "tags": [
+        "browsers"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "lim"
+    },
+    {
+      "rank": 4,
+      "title": "Tell your network to explain itself and then some",
+      "url": "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html",
+      "source_url": "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html",
+      "tags": [
+        "networking"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "confusedalex"
+    },
+    {
+      "rank": 5,
+      "title": "I built a garbage collector for Rust (2023)",
+      "url": "https://claytonwramsey.com/blog/dumpster/",
+      "source_url": "https://claytonwramsey.com/blog/dumpster/",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "abhin4v"
+    },
+    {
+      "rank": 6,
+      "title": "Using a lookup-table to correct an approximation",
+      "url": "https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation",
+      "source_url": "https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation",
+      "tags": [
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "fanf"
+    },
+    {
+      "rank": 7,
+      "title": "Script dependencies with Nix",
+      "url": "https://entropicthoughts.com/python-dependencies-with-nix",
+      "source_url": "https://entropicthoughts.com/python-dependencies-with-nix",
+      "tags": [
+        "nix"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "abhin4v"
+    },
+    {
+      "rank": 8,
+      "title": "Google's Rust Style Guide",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "source_url": "https://google.github.io/styleguide/rustguide.html",
+      "tags": [
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "kaycebasques"
+    },
+    {
+      "rank": 9,
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "source_url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "tags": [
+        "cryptography",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "pims"
+    },
+    {
+      "rank": 10,
+      "title": "Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200.html",
+      "source_url": "https://duckdb.org/2026/10/21/announcing-duckdb-200.html",
+      "tags": [
+        "databases"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "pgr0ss"
+    },
+    {
+      "rank": 11,
+      "title": "Expose only share links of a private service with caddy",
+      "url": "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html",
+      "source_url": "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html",
+      "tags": [
+        "devops",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "ggpsv"
+    },
+    {
+      "rank": 12,
+      "title": "Railway Security Disclosure: Wednesday October 21st",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "source_url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "tags": [
+        "devops",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "veverkap"
+    },
+    {
+      "rank": 13,
+      "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
+      "url": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
+      "source_url": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
+      "tags": [
+        "c",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "dzwdz"
+    },
+    {
+      "rank": 14,
+      "title": "Garmin Revamps and Opens Up Connect Developer API Program",
+      "url": "https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html",
+      "source_url": "https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html",
+      "tags": [
+        "api"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "pscanf"
+    },
+    {
+      "rank": 15,
+      "title": "zls 0.17.0",
+      "url": "https://zigtools.org/zls/releases/0.17.0/",
+      "source_url": "https://zigtools.org/zls/releases/0.17.0/",
+      "tags": [
+        "release",
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "FedericoSchonborn"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长log昨天 17:10Matrix精选",
+      "url": "https://sspai.com/post/115437",
+      "author": "log",
+      "summary": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长"
+    },
+    {
+      "rank": 2,
+      "title": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本配备触摸屏的 OLED 版 MacBook 型号很可能是这次活动的主角。Vanilla昨天 15:00",
+      "url": "https://sspai.com/post/116923",
+      "author": "Vanilla",
+      "summary": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本"
+    },
+    {
+      "rank": 3,
+      "title": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记LOSSES昨天 11:36Matrix精选",
+      "url": "https://sspai.com/post/115090",
+      "author": "LOSSES",
+      "summary": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等少数派编辑部昨天 08:29派早报",
+      "url": "https://sspai.com/post/116953",
+      "author": "少数派编辑部",
+      "summary": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等"
+    },
+    {
+      "rank": 5,
+      "title": "双十一买自己不懂的品类，你会让 AI 替你做决策吗？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1792398838",
+      "author": "一派投票",
+      "summary": "双十一买自己不懂的品类，你会让 AI 替你做决策吗？"
+    },
+    {
+      "rank": 6,
+      "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备Matrix机器人前天 17:00",
+      "url": "https://sspai.com/post/116820",
+      "author": "Matrix机器人",
+      "summary": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备"
+    },
+    {
+      "rank": 7,
+      "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用ElijahLee前天 15:00",
+      "url": "https://sspai.com/post/116445",
+      "author": "ElijahLee",
+      "summary": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用"
+    },
+    {
+      "rank": 8,
+      "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？随便好啦前天 10:23Matrix精选",
+      "url": "https://sspai.com/post/115107",
+      "author": "随便好啦",
+      "summary": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？"
+    },
+    {
+      "rank": 9,
+      "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等少数派编辑部前天 08:07派早报",
+      "url": "https://sspai.com/post/116887",
+      "author": "少数派编辑部",
+      "summary": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等"
+    },
+    {
+      "rank": 10,
+      "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁少数派编辑部10/20会员内容",
+      "url": "https://sspai.com/prime/story/inside-release-notes-261020",
+      "author": "少数派编辑部",
+      "summary": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁"
+    },
+    {
+      "rank": 11,
+      "title": "行李箱减重反思：这次长假出门，你带了哪些「全程没掏出来」的数码装备？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1791445045",
+      "author": "一派投票",
+      "summary": "行李箱减重反思：这次长假出门，你带了哪些「全程没掏出来」的数码装备？"
+    },
+    {
+      "rank": 12,
+      "title": "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验KingTsui10/20",
+      "url": "https://sspai.com/post/115475",
+      "author": "KingTsui",
+      "summary": "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "国乒女团2比3日本女团",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A22%E6%AF%943%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2",
+      "hot_value": 1280000
+    },
+    {
+      "rank": 2,
+      "title": "向着胜利再出发",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%91%E7%9D%80%E8%83%9C%E5%88%A9%E5%86%8D%E5%87%BA%E5%8F%91",
+      "hot_value": 850000
+    },
+    {
+      "rank": 3,
+      "title": "VOGUE红毯盛典 奔驰",
+      "url": "https://s.weibo.com/weibo?q=VOGUE%E7%BA%A2%E6%AF%AF%E7%9B%9B%E5%85%B8+%E5%A5%94%E9%A9%B0",
+      "hot_value": 700000
+    },
+    {
+      "rank": 4,
+      "title": "后会友期 想请不敢请的都放观察室了",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F+%E6%83%B3%E8%AF%B7%E4%B8%8D%E6%95%A2%E8%AF%B7%E7%9A%84%E9%83%BD%E6%94%BE%E8%A7%82%E5%AF%9F%E5%AE%A4%E4%BA%86",
+      "hot_value": 680000
+    },
+    {
+      "rank": 5,
+      "title": "赵丽颖霍建华 剧播不好别怪妆造",
+      "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%9C%8D%E5%BB%BA%E5%8D%8E+%E5%89%A7%E6%92%AD%E4%B8%8D%E5%A5%BD%E5%88%AB%E6%80%AA%E5%A6%86%E9%80%A0",
+      "hot_value": 640000
+    },
+    {
+      "rank": 6,
+      "title": "那曲本次地震为震中近5年最大地震",
+      "url": "https://s.weibo.com/weibo?q=%E9%82%A3%E6%9B%B2%E6%9C%AC%E6%AC%A1%E5%9C%B0%E9%9C%87%E4%B8%BA%E9%9C%87%E4%B8%AD%E8%BF%915%E5%B9%B4%E6%9C%80%E5%A4%A7%E5%9C%B0%E9%9C%87",
+      "hot_value": 500000
+    },
+    {
+      "rank": 7,
+      "title": "人民日报评张凌赫申请赴台遭拒",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%94%B3%E8%AF%B7%E8%B5%B4%E5%8F%B0%E9%81%AD%E6%8B%92",
+      "hot_value": 450000
+    },
+    {
+      "rank": 8,
+      "title": "在星巴克开会1小时被提醒点单5次",
+      "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E6%98%9F%E5%B7%B4%E5%85%8B%E5%BC%80%E4%BC%9A1%E5%B0%8F%E6%97%B6%E8%A2%AB%E6%8F%90%E9%86%92%E7%82%B9%E5%8D%955%E6%AC%A1",
+      "hot_value": 430000
+    },
+    {
+      "rank": 9,
+      "title": "国乒女团 桥本帆乃香",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2+%E6%A1%A5%E6%9C%AC%E5%B8%86%E4%B9%83%E9%A6%99",
+      "hot_value": 310000
+    },
+    {
+      "rank": 10,
+      "title": "人民日报评医学生盲猜病情",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%8C%BB%E5%AD%A6%E7%94%9F%E7%9B%B2%E7%8C%9C%E7%97%85%E6%83%85",
+      "hot_value": 280000
+    },
+    {
+      "rank": 11,
+      "title": "41岁女子存百万后去世",
+      "url": "https://s.weibo.com/weibo?q=41%E5%B2%81%E5%A5%B3%E5%AD%90%E5%AD%98%E7%99%BE%E4%B8%87%E5%90%8E%E5%8E%BB%E4%B8%96",
+      "hot_value": 280000
+    },
+    {
+      "rank": 12,
+      "title": "白鹿工作室注销",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%B3%A8%E9%94%80",
+      "hot_value": 280000
+    },
+    {
+      "rank": 13,
+      "title": "黄婷婷李艺彤闹掰谁在释怀谁在获利",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%A9%B7%E5%A9%B7%E6%9D%8E%E8%89%BA%E5%BD%A4%E9%97%B9%E6%8E%B0%E8%B0%81%E5%9C%A8%E9%87%8A%E6%80%80%E8%B0%81%E5%9C%A8%E8%8E%B7%E5%88%A9",
+      "hot_value": 270000
+    },
+    {
+      "rank": 14,
+      "title": "美股",
+      "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1",
+      "hot_value": 270000
+    },
+    {
+      "rank": 15,
+      "title": "马天宇低谷期找杨幂谈心",
+      "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%BD%8E%E8%B0%B7%E6%9C%9F%E6%89%BE%E6%9D%A8%E5%B9%82%E8%B0%88%E5%BF%83",
+      "hot_value": 270000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "女子离婚后发现前夫婚内继承 400 多万房款，起诉要求分割这笔钱财，法院判决支持，如何从法律角度解读",
+      "url": "https://www.zhihu.com/question/2096547342124172821",
+      "hot_value": 4370000
+    },
+    {
+      "rank": 2,
+      "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系",
+      "url": "https://www.zhihu.com/question/2096603053763846842",
+      "hot_value": 3860000
+    },
+    {
+      "rank": 3,
+      "title": "医生说现在的鸡都是快速养殖，激素多，吃了对孩子身体不好，是这样吗",
+      "url": "https://www.zhihu.com/question/694420968",
+      "hot_value": 3640000
+    },
+    {
+      "rank": 4,
+      "title": "为什么我国的中学生大部分都不会做引体向上",
+      "url": "https://www.zhihu.com/question/661972031",
+      "hot_value": 2500000
+    },
+    {
+      "rank": 5,
+      "title": "中国拟出台的「AI 出口禁令」会影响使用 AI 产品和中企海外业务吗？将对中美 AI 竞争有何影响",
+      "url": "https://www.zhihu.com/question/2096230307561037909",
+      "hot_value": 2090000
+    },
+    {
+      "rank": 6,
+      "title": "中国古代人民为什么不用煤炭当燃料呢",
+      "url": "https://www.zhihu.com/question/331837590",
+      "hot_value": 1940000
+    },
+    {
+      "rank": 7,
+      "title": "iPhone Duo 测评出炉，折叠 3000 次后，折痕明显加深，高负载下发热明显，还有哪些问题值得关注",
+      "url": "https://www.zhihu.com/question/2096555342171563789",
+      "hot_value": 1780000
+    },
+    {
+      "rank": 8,
+      "title": "儿子逼父母贷款替其还债被拒，欲断绝父子关系被父亲打致轻伤二级，如何理解法院判父亲免予刑事处罚",
+      "url": "https://www.zhihu.com/question/2096553146264674983",
+      "hot_value": 1700000
+    },
+    {
+      "rank": 9,
+      "title": "如何看待 HLE 以「未带多余队服婉拒 TES 交换队服请求」转头 iG 与 Guma 交换成功",
+      "url": "https://www.zhihu.com/question/2096626213141705315",
+      "hot_value": 1600000
+    },
+    {
+      "rank": 10,
+      "title": "腾讯股价跌破 400 港元创新低，市值较高点缩水近四成，问题出在哪？市场对腾讯的估值逻辑发生哪些转变",
+      "url": "https://www.zhihu.com/question/2096284238119228758",
+      "hot_value": 1540000
+    },
+    {
+      "rank": 11,
+      "title": "女子地铁站内看书 5 个小时被扣 15 元，怎么看待地铁超时收费？其中读书空间等消费场景的设置合理吗",
+      "url": "https://www.zhihu.com/question/2096527240208938063",
+      "hot_value": 1490000
+    },
+    {
+      "rank": 12,
+      "title": "曝某明星长期借不到高定，自费购买礼服后引该品牌 PR 暴怒，可能会是谁？为啥自费购买也会引起高奢品牌不满",
+      "url": "https://www.zhihu.com/question/2096378566657012341",
+      "hot_value": 1430000
+    },
+    {
+      "rank": 13,
+      "title": "乒乓亚锦赛女团决赛，中国队 2-3 不敌日本获女团亚军，如何评价本场比赛",
+      "url": "https://www.zhihu.com/question/2096725438974224368",
+      "hot_value": 1370000
+    },
+    {
+      "rank": 14,
+      "title": "如何评价宇树发布全新机器人「H2-X 功夫传奇 守护」，宣称能徒手抬车、勇斗歹徒？在实际生活中会用在哪",
+      "url": "https://www.zhihu.com/question/2096327185309160809",
+      "hot_value": 1220000
+    },
+    {
+      "rank": 15,
+      "title": "日本关键稀土钇储备将耗尽，求助美国敦促中方放宽管制，稀土将耗尽一事将对日方产生多大影响",
+      "url": "https://www.zhihu.com/question/2096043493517013110",
+      "hot_value": 1200000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "score": 456,
+      "author": "farrokhi",
+      "comments": 163,
+      "hn_url": "https://news.ycombinator.com/item?id=50195959"
+    },
+    {
+      "rank": 2,
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "score": 654,
+      "author": "bo0tzz",
+      "comments": 477,
+      "hn_url": "https://news.ycombinator.com/item?id=50195110"
+    },
+    {
+      "rank": 3,
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "url": "https://www.taler.net/en/news/2026-13.html",
+      "score": 71,
+      "author": "dewey",
+      "comments": 28,
+      "hn_url": "https://news.ycombinator.com/item?id=50197404"
+    },
+    {
+      "rank": 4,
+      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "score": 138,
+      "author": "aghuang",
+      "comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=50196718"
+    },
+    {
+      "rank": 5,
+      "title": "Nvidia OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "score": 25,
+      "author": "niemandhier",
+      "comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=50198675"
+    },
+    {
+      "rank": 6,
+      "title": "What's Getting Pwned",
+      "url": "https://pwn.watch/",
+      "score": 220,
+      "author": "mrkd",
+      "comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=50195543"
+    },
+    {
+      "rank": 7,
+      "title": "What Is Gridifcation",
+      "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+      "score": 279,
+      "author": "gumby",
+      "comments": 134,
+      "hn_url": "https://news.ycombinator.com/item?id=50150163"
+    },
+    {
+      "rank": 8,
+      "title": "Jailbreaking the Switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "score": 547,
+      "author": "ledoge",
+      "comments": 201,
+      "hn_url": "https://news.ycombinator.com/item?id=50192536"
+    },
+    {
+      "rank": 9,
+      "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+      "url": "https://github.com/rbartoli/agent-usage-guard",
+      "score": 7,
+      "author": "zzyyxx332211",
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=50198936"
+    },
+    {
+      "rank": 10,
+      "title": "Dungeon Generation in the Gnomish Mines of NetHack",
+      "url": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
+      "score": 57,
+      "author": "ibobev",
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=50154109"
+    },
+    {
+      "rank": 11,
+      "title": "Google cleared 300 hectares of Finnish forest",
+      "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+      "score": 206,
+      "author": "wetwater",
+      "comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=50196837"
+    },
+    {
+      "rank": 12,
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "score": 168,
+      "author": "molind",
+      "comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=50193170"
+    },
+    {
+      "rank": 13,
+      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+      "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+      "score": 11,
+      "author": "brandonb",
+      "comments": 4,
+      "hn_url": "https://news.ycombinator.com/item?id=50198940"
+    },
+    {
+      "rank": 14,
+      "title": "MPs moving to restrict gambling ads in Canada",
+      "url": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+      "score": 125,
+      "author": "Teever",
+      "comments": 48,
+      "hn_url": "https://news.ycombinator.com/item?id=50195873"
+    },
+    {
+      "rank": 15,
+      "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
+      "url": "https://lastmuseum.com/",
+      "score": 65,
+      "author": "surprisetalk",
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=50194522"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 与智能体开发",
+        "color": "ai",
+        "summary": "GitHub 上关于 AI 应用的讨论太热烈了。Anthropic 官方开源了一套 Knowledge Work 插件 [1]，专门帮知识工作者在 Claude Cowork 里干活，这简直是给 AI 打工人的标配。还有那个 Ponytail [2] 很有意思，声称能让你的 AI Agent 像“最懒的资深开发”一样思考，主打一个“最好的代码是你从未写过的”，这种哲学在圈子里很火。Graphify-Labs 的 Graphify [3] 也是个狠角色，能把代码库、文档、SQL 甚至 PDF 直接转成可查询的知识图谱，完全本地运行不用向量库，这对做 RAG 的朋友绝对是福音。\n\nLobsters 那边在讨论 Google 的 Rust 风格指南 [4]，看来大厂对工程规范的要求又严了。不过更值得看的是 Firefox 的 Local Mode [5] 相关文档，这功能让开发者能直接在本地调试网页应用，不用搞复杂的内网穿透，对于前端开发效率提升巨大。少数派上也有一篇关于 Apple 新品的前瞻 [6]，提到 MacBook 可能要出 OLED 触屏版，这要是真出来，硬件生态跟 AI 的结合又能玩出花来，值得关注。"
+      },
+      {
+        "name": "系统与底层安全",
+        "color": "sys",
+        "summary": "搞底层的朋友今天有得聊。GitHub 上 PHP 官方源 [7] 依然稳坐钓鱼台，毕竟它还是 Web 世界的基石。社区里 Lobsters 有个帖子在扒 macOS 的 gcc 二进制文件 [8]，搞逆向的朋友肯定想围观。更有意思的是关于 eMudhra CA 密钥在毫秒级被破解的讨论 [9]，这可是实打实的安全大新闻，密码学社区估计炸锅了，搞安全的朋友务必看看这个案例。\n\n少数派上有一篇关于 Firefox 界面改造被“中途喝止”的文章 [10]，虽然说是界面，但背后涉及到底层的浏览器架构决策，挺有行业观察价值的。另外，关于 Garmin 开放 Connect 开发者 API [11] 的消息，对于做穿戴设备开发的人来说，意味着生态又要更开放了，值得关注。"
+      },
+      {
+        "name": "开发工具与效率",
+        "color": "dev",
+        "summary": "开发工具这块更新不少。FastAPI [12] 依然是高性能框架的首选，不过 GitHub 上有个 luongnv89 的 Claude HowTo [13] 很实用，全是可视化教程和模板，想快速上手 Copilot 或 Claude Code 的人可以直接抄作业。还有 Supabase [14]，作为 Postgres 开发平台，它在 AI 应用构建上的支持越来越强，是后端开发者的必备库。\n\n社区讨论里 Lobsters 提到了 Rust 垃圾回收器的项目 [15]，作者自己写了一个 GC 出来玩，这种硬核实验精神很酷。少数派上有一篇 Vitals 的文章 [16]，说它能比系统自带的活动监视器更直观地分析 Mac 卡顿原因，这对 Mac 用户简直是救命稻草，日常排查性能问题强烈建议试试。"
+      },
+      {
+        "name": "硬件与数码产品",
+        "color": "hw",
+        "summary": "数码产品这块动静不小。GitHub 上有个 Minecraft 启动器 PCL [17] 更新了，对于 Java 玩家来说，能折腾启动器总是开心的。Lobsters 上有人分享了 Switch 2 被破解的教程 [18]，硬件逆向这块永远有惊喜，不过这也意味着游戏生态的边界又在变。\n\n少数派上的内容更贴近生活。有一篇关于把 Muse 装进 ESP-Mosaico 的文章 [19]，证明 Vibe Coding 现在已经蔓延到硬件领域了，这种“做无用之物”的探索精神挺难得。还有一篇怀旧手记 [20]，聊世界首台 UMPC 三星 Q1，把当年的掌上电脑和现在的平板做对比，读起来很有历史感，适合晚上放松看。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "knowledge-work-plugins",
+        "url": "https://github.com/anthropics/knowledge-work-plugins",
+        "source": "GitHub Trending",
+        "desc": "Anthropic 官方开源的知识工作者插件集合"
+      },
+      {
+        "num": 2,
+        "title": "ponytail",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "source": "GitHub Trending",
+        "desc": "让 AI Agent 像最懒的资深开发一样思考的项目"
+      },
+      {
+        "num": 3,
+        "title": "graphify",
+        "url": "https://github.com/Graphify-Labs/graphify",
+        "source": "GitHub Trending",
+        "desc": "将代码库转为可查询知识图谱的本地工具"
+      },
+      {
+        "num": 4,
+        "title": "Google's Rust Style Guide",
+        "url": "https://google.github.io/styleguide/rustguide.html",
+        "source": "Lobsters",
+        "desc": "Google 发布的 Rust 语言风格指南讨论"
+      },
+      {
+        "num": 5,
+        "title": "Firefox Local Mode",
+        "url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
+        "source": "Lobsters",
+        "desc": "Firefox 本地模式开发调试文档"
+      },
+      {
+        "num": 6,
+        "title": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
+        "url": "https://sspai.com/post/116923",
+        "source": "少数派",
+        "desc": "关于 Apple 新品 MacBook 可能配备 OLED 触屏的预测"
+      },
+      {
+        "num": 7,
+        "title": "php-src",
+        "url": "https://github.com/php/php-src",
+        "source": "GitHub Trending",
+        "desc": "PHP 官方解释器源代码仓库"
+      },
+      {
+        "num": 8,
+        "title": "examining the macOS gcc binary",
+        "url": "https://zoey-on-github.github.io/blog/macgcc.html",
+        "source": "Lobsters",
+        "desc": "分析 macOS GCC 二进制文件的逆向工程文章"
+      },
+      {
+        "num": 9,
+        "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+        "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+        "source": "Lobsters",
+        "desc": "eMudhra CA 密钥被毫秒级破解的安全分析"
+      },
+      {
+        "num": 10,
+        "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造",
+        "url": "https://sspai.com/prime/story/inside-release-notes-261020",
+        "source": "少数派",
+        "desc": "关于 Firefox 界面改造受阻的内部消息分析"
+      },
+      {
+        "num": 11,
+        "title": "Garmin Revamps and Opens Up Connect Developer API Program",
+        "url": "https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html",
+        "source": "Lobsters",
+        "desc": "Garmin 更新并开放 Connect 开发者 API 项目"
+      },
+      {
+        "num": 12,
+        "title": "fastapi",
+        "url": "https://github.com/fastapi/fastapi",
+        "source": "GitHub Trending",
+        "desc": "高性能 Web 框架 FastAPI 官方仓库"
+      },
+      {
+        "num": 13,
+        "title": "claude-howto",
+        "url": "https://github.com/luongnv89/claude-howto",
+        "source": "GitHub Trending",
+        "desc": "Claude Code 视觉化教程与模板指南"
+      },
+      {
+        "num": 14,
+        "title": "supabase",
+        "url": "https://github.com/supabase/supabase",
+        "source": "GitHub Trending",
+        "desc": "Postgres 开发平台 Supabase 官方仓库"
+      },
+      {
+        "num": 15,
+        "title": "I built a garbage collector for Rust (2023)",
+        "url": "https://claytonwramsey.com/blog/dumpster/",
+        "source": "Lobsters",
+        "desc": "作者自述为 Rust 编写垃圾回收器的技术博客"
+      },
+      {
+        "num": 16,
+        "title": "Vitals：什么在拖慢你的 Mac？",
+        "url": "https://sspai.com/post/116445",
+        "source": "少数派",
+        "desc": "介绍 Vitals 工具分析 Mac 性能瓶颈的文章"
+      },
+      {
+        "num": 17,
+        "title": "PCL: Minecraft 启动器",
+        "url": "https://github.com/Meloong-Git/PCL",
+        "source": "GitHub Trending",
+        "desc": "Minecraft 启动器 Plain Craft Launcher 开源项目"
+      },
+      {
+        "num": 18,
+        "title": "jailbreaking the switch 2",
+        "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+        "source": "Lobsters",
+        "desc": "Switch 2 越狱教程文章"
+      },
+      {
+        "num": 19,
+        "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西",
+        "url": "https://sspai.com/post/115437",
+        "source": "少数派",
+        "desc": "关于将 Muse 装进 ESP-Mosaico 的硬件折腾文章"
+      },
+      {
+        "num": 20,
+        "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
+        "url": "https://sspai.com/post/115107",
+        "source": "少数派",
+        "desc": "回顾世界首台 UMPC 三星 Q1 的怀旧文章"
+      }
+    ],
+    "stats": {
+      "total_items": 20,
+      "total_categories": 4,
+      "total_sources": 20
+    }
+  }
+}
