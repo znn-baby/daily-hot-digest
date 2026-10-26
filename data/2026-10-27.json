@@ -1,0 +1,867 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "Nutlope / hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": "35865",
+      "stars_today": "2,235 stars today",
+      "language": "CSS"
+    },
+    {
+      "rank": 2,
+      "title": "TauricResearch / TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "115828",
+      "stars_today": "1,376 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "JetBrains / thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "stars": "2696",
+      "stars_today": "1,156 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 4,
+      "title": "makecindy / cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": "6265",
+      "stars_today": "1,268 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 5,
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": "289666",
+      "stars_today": "987 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 6,
+      "title": "pbakaus / impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": "88958",
+      "stars_today": "1,551 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 7,
+      "title": "NVIDIA / SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "stars": "22010",
+      "stars_today": "203 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 8,
+      "title": "pollen-robotics / microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "stars": "12318",
+      "stars_today": "844 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 9,
+      "title": "nightly-labs / openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "stars": "1350",
+      "stars_today": "312 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 10,
+      "title": "Panniantong / Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": "103336",
+      "stars_today": "723 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 11,
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "stars": "88826",
+      "stars_today": "2,292 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 12,
+      "title": "gitroomhq / postiz-app",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "stars": "38304",
+      "stars_today": "146 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 13,
+      "title": "alchaincyf / huashu-design",
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+      "stars": "26662",
+      "stars_today": "409 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 14,
+      "title": "multica-ai / andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": "224461",
+      "stars_today": "702 stars today",
+      "language": ""
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Websites Should Be Printable",
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "source_url": "https://brennenputh.me/blog/printable-websites/",
+      "tags": [
+        "css",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "zk"
+    },
+    {
+      "rank": 2,
+      "title": "Why is it so expensive to send an email?",
+      "url": "https://evancz.dev/why-is-it-so-expensive-to-send-an-email",
+      "source_url": "https://evancz.dev/why-is-it-so-expensive-to-send-an-email",
+      "tags": [
+        "email"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "wolfadex"
+    },
+    {
+      "rank": 3,
+      "title": "About the compromised eMudhra intermediate CAs",
+      "url": "https://support.apple.com/en-us/149555",
+      "source_url": "https://support.apple.com/en-us/149555",
+      "tags": [
+        "mac",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "freddyb"
+    },
+    {
+      "rank": 4,
+      "title": "Gram 3.4.0 released",
+      "url": "https://gram-editor.com/posts/release-3.4.0/",
+      "source_url": "https://gram-editor.com/posts/release-3.4.0/",
+      "tags": [
+        "editors",
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "FedericoSchonborn"
+    },
+    {
+      "rank": 5,
+      "title": "Simple NetBSD webserver",
+      "url": "https://bsandro.tech/posts/simple-netbsd-webserver/",
+      "source_url": "https://bsandro.tech/posts/simple-netbsd-webserver/",
+      "tags": [
+        "netbsd"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "bsandro"
+    },
+    {
+      "rank": 6,
+      "title": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "source_url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "tags": [
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "seb"
+    },
+    {
+      "rank": 7,
+      "title": "POSIX wordexp(3) is dangerous",
+      "url": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
+      "source_url": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
+      "tags": [
+        "c",
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "yossarian"
+    },
+    {
+      "rank": 8,
+      "title": "What are you doing this week?",
+      "url": "https://lobste.rs/s/xxdda9/what_are_you_doing_this_week",
+      "source_url": "https://lobste.rs/s/xxdda9/what_are_you_doing_this_week",
+      "tags": [
+        "ask",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "caius"
+    },
+    {
+      "rank": 9,
+      "title": "A faster way to compute signed 64-bit floor division by constants",
+      "url": "https://www.benjoffe.com/fast-floordiv",
+      "source_url": "https://www.benjoffe.com/fast-floordiv",
+      "tags": [
+        "c++",
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "benjoffe"
+    },
+    {
+      "rank": 10,
+      "title": "Stalwart v1.0: The Fastest Mail Server on the Planet",
+      "url": "https://stalw.art/blog/stalwart-1-0/",
+      "source_url": "https://stalw.art/blog/stalwart-1-0/",
+      "tags": [
+        "email"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "ejri"
+    },
+    {
+      "rank": 11,
+      "title": "“AI Skills” are worthless in 2026",
+      "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+      "source_url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+      "tags": [
+        "ai-tooling",
+        "practices"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "ubernostrum"
+    },
+    {
+      "rank": 12,
+      "title": "Heavenly delights of hashing numbers under EQUALP",
+      "url": "https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html",
+      "source_url": "https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html",
+      "tags": [
+        "lisp",
+        "math",
+        "performance",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jackdaniel"
+    },
+    {
+      "rank": 13,
+      "title": "The Slurptop: A home-built luggable that runs on power tool batteries",
+      "url": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
+      "source_url": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
+      "tags": [
+        "art",
+        "hardware"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "hoistbypetard"
+    },
+    {
+      "rank": 14,
+      "title": "writing about pratt parsing so I remember it",
+      "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+      "source_url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+      "tags": [
+        "c",
+        "plt"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "FedericoSchonborn"
+    },
+    {
+      "rank": 15,
+      "title": "Pharo 14 Released",
+      "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+      "source_url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+      "tags": [
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "fanf"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "派评 | 近期值得关注的 App少数派编辑部昨天 18:17",
+      "url": "https://sspai.com/post/117529",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 2,
+      "title": "秋冬换季护肤买什么，双 11 选购推荐双 11 到来之际的秋冬护肤选购与搭配建议。程天冲昨天 15:00",
+      "url": "https://sspai.com/post/117414",
+      "author": "程天冲",
+      "summary": "秋冬换季护肤买什么，双 11 选购推荐"
+    },
+    {
+      "rank": 3,
+      "title": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告飘雷昨天 11:26Matrix精选",
+      "url": "https://sspai.com/post/115074",
+      "author": "飘雷",
+      "summary": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告"
+    },
+    {
+      "rank": 4,
+      "title": "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地Bluesky昨天 11:00",
+      "url": "https://sspai.com/post/117180",
+      "author": "Bluesky",
+      "summary": "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地"
+    },
+    {
+      "rank": 5,
+      "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患少数派编辑部昨天 07:36派早报",
+      "url": "https://sspai.com/post/117460",
+      "author": "少数派编辑部",
+      "summary": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患"
+    },
+    {
+      "rank": 6,
+      "title": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 proneyham前天 14:30Matrix精选",
+      "url": "https://sspai.com/post/114741",
+      "author": "neyham",
+      "summary": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro"
+    },
+    {
+      "rank": 7,
+      "title": "十月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1792994679",
+      "author": "一派讨论",
+      "summary": "十月买了什么好东西？"
+    },
+    {
+      "rank": 8,
+      "title": "在硅谷，遇见个人计算机历史StephenFang10/24Matrix精选",
+      "url": "https://sspai.com/post/116128",
+      "author": "StephenFang",
+      "summary": "在硅谷，遇见个人计算机历史"
+    },
+    {
+      "rank": 9,
+      "title": "本周看什么 | 最近值得一看的 12 部作品少数派编辑部10/23",
+      "url": "https://sspai.com/post/117169",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 12 部作品"
+    },
+    {
+      "rank": 10,
+      "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题……KingTsui10/23",
+      "url": "https://sspai.com/post/116398",
+      "author": "KingTsui",
+      "summary": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验"
+    },
+    {
+      "rank": 11,
+      "title": "破与立：设计视角下的 iPhone Duo苏志斌SUiTHiNK10/23视频",
+      "url": "https://sspai.com/post/116979",
+      "author": "苏志斌SUiTHiNK",
+      "summary": "破与立：设计视角下的 iPhone Duo"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "被张雪扔下水县委书记拿到大结果",
+      "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E5%BC%A0%E9%9B%AA%E6%89%94%E4%B8%8B%E6%B0%B4%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%BF%E5%88%B0%E5%A4%A7%E7%BB%93%E6%9E%9C",
+      "hot_value": 100000
+    },
+    {
+      "rank": 2,
+      "title": "外媒聚焦二十届五中全会",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%96%E5%AA%92%E8%81%9A%E7%84%A6%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A",
+      "hot_value": 80000
+    },
+    {
+      "rank": 3,
+      "title": "樊振东国家德比观后感",
+      "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%BD%E5%AE%B6%E5%BE%B7%E6%AF%94%E8%A7%82%E5%90%8E%E6%84%9F",
+      "hot_value": 80000
+    },
+    {
+      "rank": 4,
+      "title": "Keria两波完美先手",
+      "url": "https://s.weibo.com/weibo?q=Keria%E4%B8%A4%E6%B3%A2%E5%AE%8C%E7%BE%8E%E5%85%88%E6%89%8B",
+      "hot_value": 80000
+    },
+    {
+      "rank": 5,
+      "title": "内存条有价无市",
+      "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%AD%98%E6%9D%A1%E6%9C%89%E4%BB%B7%E6%97%A0%E5%B8%82",
+      "hot_value": 80000
+    },
+    {
+      "rank": 6,
+      "title": "王俊凯空降不莱玫直播间",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%A9%BA%E9%99%8D%E4%B8%8D%E8%8E%B1%E7%8E%AB%E7%9B%B4%E6%92%AD%E9%97%B4",
+      "hot_value": 80000
+    },
+    {
+      "rank": 7,
+      "title": "2个衣架轻松收纳大衣",
+      "url": "https://s.weibo.com/weibo?q=2%E4%B8%AA%E8%A1%A3%E6%9E%B6%E8%BD%BB%E6%9D%BE%E6%94%B6%E7%BA%B3%E5%A4%A7%E8%A1%A3",
+      "hot_value": 80000
+    },
+    {
+      "rank": 8,
+      "title": "特朗普当众轻佻评论女歌手身材",
+      "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E8%BD%BB%E4%BD%BB%E8%AF%84%E8%AE%BA%E5%A5%B3%E6%AD%8C%E6%89%8B%E8%BA%AB%E6%9D%90",
+      "hot_value": 80000
+    },
+    {
+      "rank": 9,
+      "title": "凯恩造81球本世纪金球得主排第4",
+      "url": "https://s.weibo.com/weibo?q=%E5%87%AF%E6%81%A9%E9%80%A081%E7%90%83%E6%9C%AC%E4%B8%96%E7%BA%AA%E9%87%91%E7%90%83%E5%BE%97%E4%B8%BB%E6%8E%92%E7%AC%AC4",
+      "hot_value": 80000
+    },
+    {
+      "rank": 10,
+      "title": "内存价格出现倒挂",
+      "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E5%87%BA%E7%8E%B0%E5%80%92%E6%8C%82",
+      "hot_value": 80000
+    },
+    {
+      "rank": 11,
+      "title": "老公把我要走了换成出去玩儿啦",
+      "url": "https://s.weibo.com/weibo?q=%E8%80%81%E5%85%AC%E6%8A%8A%E6%88%91%E8%A6%81%E8%B5%B0%E4%BA%86%E6%8D%A2%E6%88%90%E5%87%BA%E5%8E%BB%E7%8E%A9%E5%84%BF%E5%95%A6",
+      "hot_value": 80000
+    },
+    {
+      "rank": 12,
+      "title": "樊振东用荒诞形容首次诺坎普之旅",
+      "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%94%A8%E8%8D%92%E8%AF%9E%E5%BD%A2%E5%AE%B9%E9%A6%96%E6%AC%A1%E8%AF%BA%E5%9D%8E%E6%99%AE%E4%B9%8B%E6%97%85",
+      "hot_value": 80000
+    },
+    {
+      "rank": 13,
+      "title": "后会友期 臭鱼烂虾爱看的节目",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F+%E8%87%AD%E9%B1%BC%E7%83%82%E8%99%BE%E7%88%B1%E7%9C%8B%E7%9A%84%E8%8A%82%E7%9B%AE",
+      "hot_value": 80000
+    },
+    {
+      "rank": 14,
+      "title": "新款iPadmini发布",
+      "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E6%AC%BEiPadmini%E5%8F%91%E5%B8%83",
+      "hot_value": 80000
+    },
+    {
+      "rank": 15,
+      "title": "玉簟秋",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%89%E7%B0%9F%E7%A7%8B",
+      "hot_value": 80000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "如何看待老干妈回应「用 AI 把 600 名工人裁到 48 人」，称是不实信息？品牌能挽回消费者信任吗",
+      "url": "https://www.zhihu.com/question/2098102680065237063",
+      "hot_value": 3480000
+    },
+    {
+      "rank": 2,
+      "title": "家长在大群发问「孩子回家说位置调到最后一排，是哪里得罪您了吗」，班主任直接回应，大家怎么看待这件事",
+      "url": "https://www.zhihu.com/question/2097410474967045543",
+      "hot_value": 2590000
+    },
+    {
+      "rank": 3,
+      "title": "DeepSeek 营收只有几亿，却融资上千亿，这种模式合理吗",
+      "url": "https://www.zhihu.com/question/2095940115537334577",
+      "hot_value": 2350000
+    },
+    {
+      "rank": 4,
+      "title": "既然国家允许重新高考，为什么不少经济条件尚可、没有巨大生存压力的成年人，依然不选择报考",
+      "url": "https://www.zhihu.com/question/2089867471700414788",
+      "hot_value": 1520000
+    },
+    {
+      "rank": 5,
+      "title": "如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变",
+      "url": "https://www.zhihu.com/question/2098146460403615476",
+      "hot_value": 1370000
+    },
+    {
+      "rank": 6,
+      "title": "广西通报地头水柜多只猴子溺亡，系猴群饮水不慎溺亡，目前调查处理进展如何？为什么会出现这种情况",
+      "url": "https://www.zhihu.com/question/2097639793186140261",
+      "hot_value": 1350000
+    },
+    {
+      "rank": 7,
+      "title": "县委书记拒绝张雪为家乡特产打广告，说插播广告会很烦，这番言论为何能出圈？麻阳红糖、冰糖橙产业现状如何",
+      "url": "https://www.zhihu.com/question/2097674829826450512",
+      "hot_value": 1260000
+    },
+    {
+      "rank": 8,
+      "title": "红灯变绿后，为什么总有前车要愣两三秒才起步",
+      "url": "https://www.zhihu.com/question/2090404697324767186",
+      "hot_value": 1190000
+    },
+    {
+      "rank": 9,
+      "title": "如何评价呼和浩特盛乐国际机场将于 2026 年 11 月 26 日正式投入运营",
+      "url": "https://www.zhihu.com/question/2095554256300412947",
+      "hot_value": 1160000
+    },
+    {
+      "rank": 10,
+      "title": "即便真的有人像夏洛一样穿越回 1997 年抄袭了周杰伦的全部歌曲，周杰伦就无法创作出同等水平的歌曲了么",
+      "url": "https://www.zhihu.com/question/46809190",
+      "hot_value": 1140000
+    },
+    {
+      "rank": 11,
+      "title": "如何看待郑州马拉松一男子系绳带 9 岁儿童跑全马被禁赛三年？儿童跑马拉松有哪些健康风险",
+      "url": "https://www.zhihu.com/question/2097127599608804818",
+      "hot_value": 1140000
+    },
+    {
+      "rank": 12,
+      "title": "国家为什么迟迟不肯挖掘秦始皇陵呢",
+      "url": "https://www.zhihu.com/question/640845812",
+      "hot_value": 1100000
+    },
+    {
+      "rank": 13,
+      "title": "哈利波特发现自己继承了父母的巨额遗产后，为什么不分点给姨夫姨妈一家报答养育之恩",
+      "url": "https://www.zhihu.com/question/2089734782263608445",
+      "hot_value": 1090000
+    },
+    {
+      "rank": 14,
+      "title": "《影之刃零》的媒体评分正式解禁，M 站 87 分、 22 家媒体普遍好评，你如何评价这个结果",
+      "url": "https://www.zhihu.com/question/2097962790162059404",
+      "hot_value": 990000
+    },
+    {
+      "rank": 15,
+      "title": "如何看待 iPhone Duo 才开卖一天，网上就很多内屏损坏的案例，而且在同一个位置",
+      "url": "https://www.zhihu.com/question/2097264250158949631",
+      "hot_value": 980000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "score": 83,
+      "author": "adamnemecek",
+      "comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=50248371"
+    },
+    {
+      "rank": 2,
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "score": 392,
+      "author": "sgiannopoulos",
+      "comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=50245138"
+    },
+    {
+      "rank": 3,
+      "title": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "score": 258,
+      "author": "edent",
+      "comments": 59,
+      "hn_url": "https://news.ycombinator.com/item?id=50245831"
+    },
+    {
+      "rank": 4,
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "score": 70,
+      "author": "enlyth",
+      "comments": 24,
+      "hn_url": "https://news.ycombinator.com/item?id=50248055"
+    },
+    {
+      "rank": 5,
+      "title": "GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "score": 252,
+      "author": "meetpateltech",
+      "comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=50248124"
+    },
+    {
+      "rank": 6,
+      "title": "Nietzschian Debugger",
+      "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+      "score": 53,
+      "author": "dilawargopang",
+      "comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=50247493"
+    },
+    {
+      "rank": 7,
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "score": 1247,
+      "author": "SiNTEx",
+      "comments": 1206,
+      "hn_url": "https://news.ycombinator.com/item?id=50242939"
+    },
+    {
+      "rank": 8,
+      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+      "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+      "score": 122,
+      "author": "zdw",
+      "comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=50236681"
+    },
+    {
+      "rank": 9,
+      "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+      "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+      "score": 34,
+      "author": "aray07",
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=50247928"
+    },
+    {
+      "rank": 10,
+      "title": "Diamond Transistor",
+      "url": "https://www.df.com/diamond-transistor",
+      "score": 73,
+      "author": "Gravityloss",
+      "comments": 38,
+      "hn_url": "https://news.ycombinator.com/item?id=50209525"
+    },
+    {
+      "rank": 11,
+      "title": "US designates helium as a critical material",
+      "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
+      "score": 69,
+      "author": "rbanffy",
+      "comments": 24,
+      "hn_url": "https://news.ycombinator.com/item?id=50248665"
+    },
+    {
+      "rank": 12,
+      "title": "GPT 6.1 Terra",
+      "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
+      "score": 22,
+      "author": "pcwelder",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50248075"
+    },
+    {
+      "rank": 13,
+      "title": "Blaise Pascal invented fixed route public transport (2024)",
+      "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+      "score": 229,
+      "author": "skadamat",
+      "comments": 117,
+      "hn_url": "https://news.ycombinator.com/item?id=50200152"
+    },
+    {
+      "rank": 14,
+      "title": "The EPA Is Quietly Killing Its Web Archive",
+      "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+      "score": 43,
+      "author": "robtherobber",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50249275"
+    },
+    {
+      "rank": 15,
+      "title": "Pharo 14",
+      "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+      "score": 189,
+      "author": "xkriva11",
+      "comments": 44,
+      "hn_url": "https://news.ycombinator.com/item?id=50241925"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与工作流",
+        "color": "ai",
+        "summary": "今天 AI Agent 圈又热闹起来了。GitHub Trending 里有个叫 hallmark 的项目 [1]，号称是抵抗“AI 垃圾”的设计技能库，支持 Claude Code 和 Cursor，已经拿了 14k+ star，感觉现在用 AI 写代码的人太多，确实需要点审美过滤器。还有个 thinkrail [2] 挺有意思，这是 JetBrains 自家的，主打一个“随你心情变”，IDE 能根据你的习惯自我定制，这种懂你的工具才值得用。社区讨论里有人比较悲观，说 2026 年所谓的\"AI Skills\"可能都会变得一文不值 [3]，毕竟现在的工具更新太快，是不是反而让人更依赖平台而不是掌握底层逻辑？这点值得搞 AI 开发的朋友深思。"
+      },
+      {
+        "name": "开发与底层技术",
+        "color": "dev",
+        "summary": "底层技术这块今天动静也不小。GitHub 上有个 NVIDIA 出的 SkillSpector [4]，专门扫描 AI Agent 的安全漏洞，比如提示注入或者数据泄露，搞安全的朋友绝对得关注这个，毕竟 Agent 在外面跑，安全问题太大了。另外 Lobsters 上有个帖子炸锅了，说 POSIX 的 wordexp 函数其实很危险 [5]，这种老古董里的坑到现在还在，真让人唏嘘。还有关于 64 位有符号除法优化的 C++ 文章 [6]，虽然硬核，但看看总是能学到点东西。少数派那边也有个有趣的文章，讲用 60 元的小米蓝牙遥控器 2 打造自己的 vibe coding 神器 [7]，低成本搞创意，这个思路很赞。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "tools",
+        "summary": "数码产品这块今天有点“硬核”也有点“生活化”。少数派有一篇关于傲腾 P5800X 测试飘雷的文章 [8]，毕竟那是曾经的速效救心丸，现在看测试报告还是很有参考价值。iFixit 拆解了 iPhone Duo [9]，虽然肯定可维修性，但内屏隐患让人捏把汗，不知道小米的折叠屏会不会也这样。Lobsters 上有个帖子专门讨论发邮件为什么这么贵 [10]，Stalwart 团队还发布了号称最快的邮件服务器 v1.0 [11]，看来大家都想摆脱邮件服务商的控制。少数派还有个秋冬护肤选购 [12]，虽然和编程无关，但看别人怎么选护肤品也是一种放松吧。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天看多了技术，也看看观点。CSS-Tricks 换了新东家 [13]，这可是个大事，不知道以后 Web 前端资源会不会有啥变化。Lobsters 上有个关于哈希函数 EQUALP 的数学讨论 [14]，看标题就觉得很烧脑，不过这种纯粹的数学乐趣有时候挺治愈的。少数派还有一篇关于在硅谷遇见个人计算机历史的文章 [15]，这种回顾性的内容在浮躁的今天很难得。最后，那个名为 The Slurptop 的项目 [16]，居然用电动工具电池做便携电脑，这种 DIY 精神虽然小众，但真的很有创意，支持这种折腾！"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "Hallmark: Anti-AI-slop design skill",
+        "url": "https://github.com/Nutlope/hallmark",
+        "source": "GitHub Trending",
+        "desc": "抵抗 AI 垃圾的设计技能库"
+      },
+      {
+        "num": 2,
+        "title": "Thinkrail: Vibe code with pi",
+        "url": "https://github.com/JetBrains/thinkrail",
+        "source": "GitHub Trending",
+        "desc": "JetBrains 打造的随心情定制的 IDE"
+      },
+      {
+        "num": 3,
+        "title": "AI Skills are worthless in 2026",
+        "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+        "source": "Lobsters",
+        "desc": "社区讨论：2026 年的 AI 技能是否无用"
+      },
+      {
+        "num": 4,
+        "title": "SkillSpector: Security scanner for AI agent skills",
+        "url": "https://github.com/NVIDIA/SkillSpector",
+        "source": "GitHub Trending",
+        "desc": "NVIDIA 发布的 AI Agent 安全扫描器"
+      },
+      {
+        "num": 5,
+        "title": "POSIX wordexp(3) is dangerous",
+        "url": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
+        "source": "Lobsters",
+        "desc": "C 语言安全讨论：POSIX wordexp 的危险性"
+      },
+      {
+        "num": 6,
+        "title": "Faster 64-bit floor division by constants",
+        "url": "https://www.benjoffe.com/fast-floordiv",
+        "source": "Lobsters",
+        "desc": "性能优化：快速计算 64 位有符号除法"
+      },
+      {
+        "num": 7,
+        "title": "60 元打造你的 vibe coding 神器",
+        "url": "https://sspai.com/post/114741",
+        "source": "少数派",
+        "desc": "用小米蓝牙遥控器做编程辅助工具"
+      },
+      {
+        "num": 8,
+        "title": "近期值得关注的 App 少数派编辑部昨天 18:17",
+        "url": "https://sspai.com/post/117529",
+        "source": "少数派",
+        "desc": "App 推荐文章"
+      },
+      {
+        "num": 9,
+        "title": "派早报：iFixit 拆解 iPhone Duo",
+        "url": "https://sspai.com/post/117460",
+        "source": "少数派",
+        "desc": "iPhone Duo 维修性拆解报告"
+      },
+      {
+        "num": 10,
+        "title": "Why is it so expensive to send an email?",
+        "url": "https://evancz.dev/why-is-it-so-expensive-to-send-an-email",
+        "source": "Lobsters",
+        "desc": "为什么发邮件这么贵"
+      },
+      {
+        "num": 11,
+        "title": "Stalwart v1.0: The Fastest Mail Server",
+        "url": "https://stalw.art/blog/stalwart-1-0/",
+        "source": "Lobsters",
+        "desc": "Stalwart v1.0 邮件服务器发布"
+      },
+      {
+        "num": 12,
+        "title": "秋冬换季护肤买什么，双 11 选购推荐",
+        "url": "https://sspai.com/post/117414",
+        "source": "少数派",
+        "desc": "双 11 护肤选购指南"
+      },
+      {
+        "num": 13,
+        "title": "CSS-Tricks has a new owner",
+        "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+        "source": "Lobsters",
+        "desc": "CSS-Tricks 网站易主"
+      },
+      {
+        "num": 14,
+        "title": "Heavenly delights of hashing numbers under EQUALP",
+        "url": "https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html",
+        "source": "Lobsters",
+        "desc": "数学与编程：EQUALP 下的哈希函数"
+      },
+      {
+        "num": 15,
+        "title": "在硅谷，遇见个人计算机历史",
+        "url": "https://sspai.com/post/116128",
+        "source": "少数派",
+        "desc": "硅谷个人计算机历史回顾"
+      },
+      {
+        "num": 16,
+        "title": "The Slurptop: A home-built luggable",
+        "url": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
+        "source": "Lobsters",
+        "desc": "The Slurptop：自制电动工具电池便携电脑"
+      }
+    ],
+    "stats": {
+      "total_items": 16,
+      "total_categories": 4,
+      "total_sources": 16
+    }
+  }
+}
