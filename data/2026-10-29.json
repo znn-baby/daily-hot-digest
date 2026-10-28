@@ -1,0 +1,899 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "JetBrains / thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "stars": "4889",
+      "stars_today": "1,075 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "elayadesign / ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "stars": "10945",
+      "stars_today": "1,395 stars today",
+      "language": ""
+    },
+    {
+      "rank": 3,
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": "307285",
+      "stars_today": "1,096 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 4,
+      "title": "HKUDS / DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "stars": "47758",
+      "stars_today": "2,376 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "macro-inc / macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "stars": "5326",
+      "stars_today": "106 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 6,
+      "title": "Nutlope / hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": "40476",
+      "stars_today": "2,109 stars today",
+      "language": "CSS"
+    },
+    {
+      "rank": 7,
+      "title": "pbakaus / impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "stars": "92293",
+      "stars_today": "1,471 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 8,
+      "title": "makecindy / cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "stars": "7976",
+      "stars_today": "740 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 9,
+      "title": "nightly-labs / openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "stars": "3119",
+      "stars_today": "1,053 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 10,
+      "title": "togg53192-cmd / jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "description": "LIST OF ALL MY JAILBREAKS",
+      "stars": "6882",
+      "stars_today": "1,478 stars today",
+      "language": ""
+    },
+    {
+      "rank": 11,
+      "title": "hmjz100 / LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "stars": "34263",
+      "stars_today": "1,380 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 12,
+      "title": "expo / skills",
+      "url": "https://github.com/expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "stars": "3498",
+      "stars_today": "212 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 13,
+      "title": "ruvnet / RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": "100856",
+      "stars_today": "596 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 14,
+      "title": "xiaolai / the-craft-of-selfteaching",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "description": "One has no future if one couldn't teach themself.",
+      "stars": "18434",
+      "stars_today": "295 stars today",
+      "language": "Jupyter Notebook"
+    }
+  ],
+  "lobsters": [
+    {
+      "rank": 1,
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "source_url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "tags": [
+        "cryptography",
+        "mac"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "galadran"
+    },
+    {
+      "rank": 2,
+      "title": "AlpineBSD",
+      "url": "https://wiki.alpinebsd.org/",
+      "source_url": "https://wiki.alpinebsd.org/",
+      "tags": [
+        "netbsd"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "FedericoSchonborn"
+    },
+    {
+      "rank": 3,
+      "title": "This is not sustainable",
+      "url": "https://www.netmeister.org/blog/defense-ddos.html",
+      "source_url": "https://www.netmeister.org/blog/defense-ddos.html",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "binjip978"
+    },
+    {
+      "rank": 4,
+      "title": "GOTO Considered Totally Sick (for error handling in C)",
+      "url": "https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/",
+      "source_url": "https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/",
+      "tags": [
+        "c"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "eBPF"
+    },
+    {
+      "rank": 5,
+      "title": "A fast and secure tar parser for the Rust ecosystem",
+      "url": "https://astral.sh/blog/tar-codec",
+      "source_url": "https://astral.sh/blog/tar-codec",
+      "tags": [
+        "python",
+        "rust"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "yossarian"
+    },
+    {
+      "rank": 6,
+      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "source_url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "aCaB"
+    },
+    {
+      "rank": 7,
+      "title": "Ghostty 1.4.0",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "source_url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "tags": [
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "BD103"
+    },
+    {
+      "rank": 8,
+      "title": "Four Months of Zig",
+      "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+      "source_url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+      "tags": [
+        "zig"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "Defelo"
+    },
+    {
+      "rank": 9,
+      "title": "Start Doing Graph Theory",
+      "url": "https://vertex.degree/",
+      "source_url": "https://vertex.degree/",
+      "tags": [
+        "book",
+        "math"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "jackdaniel"
+    },
+    {
+      "rank": 10,
+      "title": "Billion-query-per-second lookup tables in C++",
+      "url": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
+      "source_url": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
+      "tags": [
+        "c++",
+        "programming"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "signal-11"
+    },
+    {
+      "rank": 11,
+      "title": "Hoot 0.10.0 released",
+      "url": "https://spritely.institute/news/hoot-0-10-0-released.html",
+      "source_url": "https://spritely.institute/news/hoot-0-10-0-released.html",
+      "tags": [
+        "lisp",
+        "release"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "FedericoSchonborn"
+    },
+    {
+      "rank": 12,
+      "title": "The Benchmarking Crisis",
+      "url": "http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html",
+      "source_url": "http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html",
+      "tags": [
+        "ai",
+        "databases",
+        "performance"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "timschumi"
+    },
+    {
+      "rank": 13,
+      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "source_url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "tags": [
+        "security"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "polywolf"
+    },
+    {
+      "rank": 14,
+      "title": "Scalable Vector Grief",
+      "url": "https://portswigger.net/research/scalable-vector-grief",
+      "source_url": "https://portswigger.net/research/scalable-vector-grief",
+      "tags": [
+        "security",
+        "web"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "buherator"
+    },
+    {
+      "rank": 15,
+      "title": "Raspberry Pi Zero 3 W and Pi 4 Model A on the Way?",
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "source_url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "tags": [
+        "hardware",
+        "linux"
+      ],
+      "score": "",
+      "comments": "",
+      "author": "technetium"
+    }
+  ],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验IGN中国昨天 17:37",
+      "url": "https://sspai.com/post/117725",
+      "author": "IGN中国",
+      "summary": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验"
+    },
+    {
+      "rank": 2,
+      "title": "断舍离只是起点：打造能长期经营的实用主义衣柜只扔不买是没有用的，穿衣服时不多费心神才是目的。鸿苓昨天 15:00",
+      "url": "https://sspai.com/post/116990",
+      "author": "鸿苓",
+      "summary": "断舍离只是起点：打造能长期经营的实用主义衣柜"
+    },
+    {
+      "rank": 3,
+      "title": "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？随便好啦昨天 10:22Matrix精选",
+      "url": "https://sspai.com/post/115533",
+      "author": "随便好啦",
+      "summary": "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等少数派编辑部昨天 08:37派早报",
+      "url": "https://sspai.com/post/117684",
+      "author": "少数派编辑部",
+      "summary": "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等"
+    },
+    {
+      "rank": 5,
+      "title": "十月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1792994679",
+      "author": "一派讨论",
+      "summary": "十月买了什么好东西？"
+    },
+    {
+      "rank": 6,
+      "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单Matrix机器人前天 17:02",
+      "url": "https://sspai.com/post/117633",
+      "author": "Matrix机器人",
+      "summary": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单"
+    },
+    {
+      "rank": 7,
+      "title": "Apple Sports：不看新闻、不聊球，只看我关心的比赛Vanilla前天 15:27",
+      "url": "https://sspai.com/post/117557",
+      "author": "Vanilla",
+      "summary": "Apple Sports：不看新闻、不聊球，只看我关心的比赛"
+    },
+    {
+      "rank": 8,
+      "title": "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机飘雷前天 11:02Matrix精选",
+      "url": "https://sspai.com/post/115855",
+      "author": "飘雷",
+      "summary": "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机"
+    },
+    {
+      "rank": 9,
+      "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等少数派编辑部前天 08:27派早报",
+      "url": "https://sspai.com/post/117600",
+      "author": "少数派编辑部",
+      "summary": "派早报：Apple 发布 iPad mini (A20 Pro) 等"
+    },
+    {
+      "rank": 10,
+      "title": "双十一买自己不懂的品类，你会让 AI 替你做决策吗？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1792398838",
+      "author": "一派投票",
+      "summary": "双十一买自己不懂的品类，你会让 AI 替你做决策吗？"
+    },
+    {
+      "rank": 11,
+      "title": "派评 | 近期值得关注的 App少数派编辑部10/26",
+      "url": "https://sspai.com/post/117529",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 12,
+      "title": "秋冬换季护肤买什么，双 11 选购推荐双 11 到来之际的秋冬护肤选购与搭配建议。程天冲10/26",
+      "url": "https://sspai.com/post/117414",
+      "author": "程天冲",
+      "summary": "秋冬换季护肤买什么，双 11 选购推荐"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "巴基斯坦对台湾航司关闭领空",
+      "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%AF%B9%E5%8F%B0%E6%B9%BE%E8%88%AA%E5%8F%B8%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA",
+      "hot_value": 110000
+    },
+    {
+      "rank": 2,
+      "title": "数说中国经济澎湃动能",
+      "url": "https://s.weibo.com/weibo?q=%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%BE%8E%E6%B9%83%E5%8A%A8%E8%83%BD",
+      "hot_value": 100000
+    },
+    {
+      "rank": 3,
+      "title": "杨洋可口可乐充乐联盟现场",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E5%85%85%E4%B9%90%E8%81%94%E7%9B%9F%E7%8E%B0%E5%9C%BA",
+      "hot_value": 100000
+    },
+    {
+      "rank": 4,
+      "title": "西班牙列车相撞已致68死",
+      "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%B7%B2%E8%87%B468%E6%AD%BB",
+      "hot_value": 90000
+    },
+    {
+      "rank": 5,
+      "title": "开始推理吧官宣第五季",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%80%E5%A7%8B%E6%8E%A8%E7%90%86%E5%90%A7%E5%AE%98%E5%AE%A3%E7%AC%AC%E4%BA%94%E5%AD%A3",
+      "hot_value": 80000
+    },
+    {
+      "rank": 6,
+      "title": "剑来",
+      "url": "https://s.weibo.com/weibo?q=%E5%89%91%E6%9D%A5",
+      "hot_value": 80000
+    },
+    {
+      "rank": 7,
+      "title": "三甲医生回应女子被蜱虫咬伤后瘫痪",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E7%94%B2%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%9C%B1%E8%99%AB%E5%92%AC%E4%BC%A4%E5%90%8E%E7%98%AB%E7%97%AA",
+      "hot_value": 80000
+    },
+    {
+      "rank": 8,
+      "title": "女子被蜱虫咬伤住ICU28天四肢瘫痪",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%9C%B1%E8%99%AB%E5%92%AC%E4%BC%A4%E4%BD%8FICU28%E5%A4%A9%E5%9B%9B%E8%82%A2%E7%98%AB%E7%97%AA",
+      "hot_value": 80000
+    },
+    {
+      "rank": 9,
+      "title": "理想i6首销挤爆APP",
+      "url": "https://s.weibo.com/weibo?q=%E7%90%86%E6%83%B3i6%E9%A6%96%E9%94%80%E6%8C%A4%E7%88%86APP",
+      "hot_value": 80000
+    },
+    {
+      "rank": 10,
+      "title": "刘延东同志逝世",
+      "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%BB%B6%E4%B8%9C%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96",
+      "hot_value": 80000
+    },
+    {
+      "rank": 11,
+      "title": "三丽鸥将与抹黑中国日剧再次联名",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E4%B8%BD%E9%B8%A5%E5%B0%86%E4%B8%8E%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD%E6%97%A5%E5%89%A7%E5%86%8D%E6%AC%A1%E8%81%94%E5%90%8D",
+      "hot_value": 80000
+    },
+    {
+      "rank": 12,
+      "title": "现在就出发5 金晨",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%915+%E9%87%91%E6%99%A8",
+      "hot_value": 80000
+    },
+    {
+      "rank": 13,
+      "title": "劣迹网红换号复活暴露平台监管漏洞",
+      "url": "https://s.weibo.com/weibo?q=%E5%8A%A3%E8%BF%B9%E7%BD%91%E7%BA%A2%E6%8D%A2%E5%8F%B7%E5%A4%8D%E6%B4%BB%E6%9A%B4%E9%9C%B2%E5%B9%B3%E5%8F%B0%E7%9B%91%E7%AE%A1%E6%BC%8F%E6%B4%9E",
+      "hot_value": 80000
+    },
+    {
+      "rank": 14,
+      "title": "坠亡幼童父亲曾两次网购窗户安全锁",
+      "url": "https://s.weibo.com/weibo?q=%E5%9D%A0%E4%BA%A1%E5%B9%BC%E7%AB%A5%E7%88%B6%E4%BA%B2%E6%9B%BE%E4%B8%A4%E6%AC%A1%E7%BD%91%E8%B4%AD%E7%AA%97%E6%88%B7%E5%AE%89%E5%85%A8%E9%94%81",
+      "hot_value": 80000
+    },
+    {
+      "rank": 15,
+      "title": "华为",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA",
+      "hot_value": 70000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "西班牙高铁相撞事故已造成 64 人死亡，有中国公民受伤，初步调查显示事故系人为失误所致，具体情况如何",
+      "url": "https://www.zhihu.com/question/2098832855782482837",
+      "hot_value": 11920000
+    },
+    {
+      "rank": 2,
+      "title": "小米首个住宅小区正式开售，仅面向内部员工销售，为何小米开始卖房了？未来会推出更多楼盘向大众销售吗",
+      "url": "https://www.zhihu.com/question/2098438230131433476",
+      "hot_value": 4950000
+    },
+    {
+      "rank": 3,
+      "title": "「酱油」一词为什么正在被「生抽」和「老抽」替代",
+      "url": "https://www.zhihu.com/question/618083427",
+      "hot_value": 3860000
+    },
+    {
+      "rank": 4,
+      "title": "如何评价秦朔发文《可怕的红果与中国互联网的字节时间》",
+      "url": "https://www.zhihu.com/question/2098759832840794159",
+      "hot_value": 2790000
+    },
+    {
+      "rank": 5,
+      "title": "央媒称不认可皇马表态，此前皇马称姆巴佩仅代表个人，俱乐部和中国赞助商合作照常，皇马为何敢如此「傲慢」",
+      "url": "https://www.zhihu.com/question/2098687138820616288",
+      "hot_value": 2640000
+    },
+    {
+      "rank": 6,
+      "title": "如何评价樊振东首次解说 MLB（美国职业棒球大联盟）比赛",
+      "url": "https://www.zhihu.com/question/2098851131489260284",
+      "hot_value": 2490000
+    },
+    {
+      "rank": 7,
+      "title": "自媒体称澳大利亚每年花费巨额从中国进口屎壳郎，这是真吗？中国的屎壳郎真的如此兢兢业业、不挑食吗",
+      "url": "https://www.zhihu.com/question/626416441",
+      "hot_value": 1950000
+    },
+    {
+      "rank": 8,
+      "title": "如果鸡能长到 100 千克重，那人是不是就有巨大的鸡翅可以吃了",
+      "url": "https://www.zhihu.com/question/2083553210300625403",
+      "hot_value": 1690000
+    },
+    {
+      "rank": 9,
+      "title": "很多年轻人「对工作的容忍度只有两年」，这反映出怎样的职场心态",
+      "url": "https://www.zhihu.com/question/2065927971630855888",
+      "hot_value": 1650000
+    },
+    {
+      "rank": 10,
+      "title": "媒体呼吁「医疗真人秀叫停」，《offer 8》会被整改或停播吗？节目对医患信任的真实影响到底有多严重",
+      "url": "https://www.zhihu.com/question/2098377875137062370",
+      "hot_value": 1620000
+    },
+    {
+      "rank": 11,
+      "title": "安徽女子赴泰失联近 3 个月，家属称被拐至园区 50 万元遭转走，警方已立案，具体情况如何",
+      "url": "https://www.zhihu.com/question/2098549728707178919",
+      "hot_value": 1590000
+    },
+    {
+      "rank": 12,
+      "title": "《影之刃零》的特别鸣谢名单占据游戏界的半壁江山，刘伟、女流、冯骥统统上榜，对此你怎么看",
+      "url": "https://www.zhihu.com/question/2098821087471654398",
+      "hot_value": 1570000
+    },
+    {
+      "rank": 13,
+      "title": "近五年旋转小火锅新增门店超 2 万家，海底捞等巨头争相入局，为啥旋转小火锅又火了？这一次热潮能持续多久",
+      "url": "https://www.zhihu.com/question/2098496213372723326",
+      "hot_value": 1310000
+    },
+    {
+      "rank": 14,
+      "title": "S16 全球总决赛 Faker 及 T1 达成第七冠的概率有多大",
+      "url": "https://www.zhihu.com/question/2098127889073793001",
+      "hot_value": 1070000
+    },
+    {
+      "rank": 15,
+      "title": "为什么我感觉时间过得越来越快",
+      "url": "https://www.zhihu.com/question/50821488",
+      "hot_value": 1020000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "score": 476,
+      "author": "acossta",
+      "comments": 406,
+      "hn_url": "https://news.ycombinator.com/item?id=50276792"
+    },
+    {
+      "rank": 2,
+      "title": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "score": 280,
+      "author": "bschne",
+      "comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=50274409"
+    },
+    {
+      "rank": 3,
+      "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "score": 115,
+      "author": "hazebooth",
+      "comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=50276998"
+    },
+    {
+      "rank": 4,
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "score": 294,
+      "author": "etothet",
+      "comments": 469,
+      "hn_url": "https://news.ycombinator.com/item?id=50276940"
+    },
+    {
+      "rank": 5,
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "score": 107,
+      "author": "landonxi",
+      "comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=50275626"
+    },
+    {
+      "rank": 6,
+      "title": "Rising rates of colorectal cancer found in nearly all age groups",
+      "url": "https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer",
+      "score": 13,
+      "author": "randycupertino",
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=50279308"
+    },
+    {
+      "rank": 7,
+      "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+      "url": "https://slidebyside.com/",
+      "score": 28,
+      "author": "denismenace",
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=50276883"
+    },
+    {
+      "rank": 8,
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "url": "https://www.circuithub.com/post/unveiling-the-grid",
+      "score": 305,
+      "author": "seddona",
+      "comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=50243060"
+    },
+    {
+      "rank": 9,
+      "title": "Start Doing Graph Theory",
+      "url": "https://vertex.degree/",
+      "score": 453,
+      "author": "ibobev",
+      "comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=50208960"
+    },
+    {
+      "rank": 10,
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "score": 881,
+      "author": "galadran",
+      "comments": 340,
+      "hn_url": "https://news.ycombinator.com/item?id=50271640"
+    },
+    {
+      "rank": 11,
+      "title": "Converge (YC S23) Is Hiring a Founding Platform Engineer",
+      "url": "https://www.runconverge.com/careers/founding-platform-engineer",
+      "score": 1,
+      "author": "thomashlvt",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50276779"
+    },
+    {
+      "rank": 12,
+      "title": "The Agent SDK",
+      "url": "https://cursor.com/blog/agent-sdk",
+      "score": 65,
+      "author": "torutofu",
+      "comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=50273731"
+    },
+    {
+      "rank": 13,
+      "title": "AlpineBSD",
+      "url": "https://wiki.alpinebsd.org",
+      "score": 93,
+      "author": "bradley_taunt",
+      "comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=50274251"
+    },
+    {
+      "rank": 14,
+      "title": "Gaussian Splats part 3: There's always a bigger scene",
+      "url": "https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene",
+      "score": 65,
+      "author": "ibobev",
+      "comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=50209269"
+    },
+    {
+      "rank": 15,
+      "title": "Counting Sand Dunes in the Simpson Desert",
+      "url": "https://www.fromtheroad.ford.com/img/en/articles/2026/simpson-desert-ranger-super-duty-counting-dunes",
+      "score": 8,
+      "author": "bryanrasmussen",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50237014"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发效率",
+        "color": "ai",
+        "summary": "GitHub 上的 AI Agent 赛道今天简直太热闹了。JetBrains 直接下场推出了 thinkrail[1]，号称能根据你的工作流自动定制 IDE，这种“懂你”的感觉确实戳中程序员痛点。还有 obra/superpowers[2]，把 Agent 技能框架和开发方法论结合得挺扎实，想搞 Agent 工作流的可以看看。另外有个叫 hallmark[3] 的项目很有意思，专门用来给 Claude Code 和 Cursor 这种 AI 工具“去油”，防止生成垃圾代码，这种做 AI 守门员的思路很实用。\n\nLobsters 那边有个关于 Rust 生态新工具 tar-codec[4] 的讨论，号称是快速且安全的解析器，对于需要处理压缩文件的后端开发来说是个好消息。少数派的文章里，飘雷分享了一篇关于 NAS 作为 UPS 总控的文章[5]，用 NAS 实现局域网断电自动关机，这个思路很巧妙，把闲置的 NAS 变成了家庭电力管家，搞极客家庭自动化的小伙伴可以关注一下。"
+      },
+      {
+        "name": "系统与底层安全",
+        "color": "security",
+        "summary": "今天的安全新闻有点让人后脊背发凉。GitHub 上有个项目直接列出了各种 Jailbreak 技巧[6]，虽然名字直白，但也侧面反映了绕过安全限制的难度在不断下降。Lobsters 上最炸裂的一条是，Apple 的 Git 居然还在信任一个有问题的证书[7]，这对加密领域的从业者来说是个巨大的安全隐患，搞安全的朋友必须得把这条加进待办清单。更离谱的是，有报道指出 UEFI 固件里存在代码执行漏洞，威胁了地球上绝大多数服务器[8]，这范围也太广了，看来底层系统的修补工作任重道远。\n\n少数派这边虽然主要是数码闲聊，但也提到了 Apple 发布了 M6 版 iMac 和 MacBook Pro[9]，还有 iPad mini (A20 Pro)[10] 的消息。虽然不算硬核技术，但作为系统底层的芯片迭代，确实值得关注硬件爱好者。另外，AlpineBSD 的更新也值得一看[11]，轻量级操作系统在服务器领域的应用越来越广。"
+      },
+      {
+        "name": "数码产品与效率生活",
+        "color": "productivity",
+        "summary": "秋天到了，数码圈也没闲着。少数派今天重点报道了《影之刃零》的游玩体验[12]，作为备受期待的国产 3A 大作，IGN 的评分出来后大家讨论挺热烈的，想玩新游戏的朋友可以去瞅瞅。还有两件趣事，一个是关于坚果 Pro2 和 R1 的怀旧手记[13]，聊聊理想和现实的碰撞，读起来挺有感触的。另一个是鸿苓写的“断舍离只是起点”[14]，讲怎么用实用主义打造衣柜，其实道理和整理代码库像极了，只扔不买是没用的，核心是少费心神。\n\nLobsters 上有个关于 Zig 语言四个月回顾的文章[15]，对于想尝试新编译器的朋友是个不错的参考。还有 Ghostty 1.4.0 的发布[16]，这个终端模拟器最近势头很猛，界面和操作体验都做得不错，本地开发者可以试试。"
+      },
+      {
+        "name": "性能优化与数学思考",
+        "color": "devtools",
+        "summary": "今天看到一篇很有意思的技术博客，讨论如何用 C++ 实现每秒十亿次查询的查找表[17]，这种极致的性能优化在高频交易或者数据库底层真的很有用。Lobsters 上还有文章探讨了“基准测试危机”[18]，讨论 AI 和数据库领域的性能测试方法论，这挺有深度的，很多时候我们测出来的数据其实并不真实。\n\nGitHub 上还发现了一个叫 DeepTutor 的项目[19]，主打终身个性化辅导，感觉像是把 AI 变成了私人家教。另外，一个把 WiFi 信号转化为空间智能和生命体征监测的项目 RuView[20] 也很有意思，不用摄像头就能做监控，这对于隐私敏感的场景来说是个很好的替代方案。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "thinkrail - Vibe code with pi in a lightweight, real IDE",
+        "url": "https://github.com/JetBrains/thinkrail",
+        "source": "GitHub Trending",
+        "desc": "JetBrains 推出的轻量级自定义 IDE 项目"
+      },
+      {
+        "num": 2,
+        "title": "superpowers - An agentic skills framework",
+        "url": "https://github.com/obra/superpowers",
+        "source": "GitHub Trending",
+        "desc": "智能体技能框架与开发方法论"
+      },
+      {
+        "num": 3,
+        "title": "hallmark - Anti-AI-slop design skill",
+        "url": "https://github.com/Nutlope/hallmark",
+        "source": "GitHub Trending",
+        "desc": "用于过滤 AI 生成垃圾代码的工具"
+      },
+      {
+        "num": 4,
+        "title": "tar-codec - A fast and secure tar parser",
+        "url": "https://astral.sh/blog/tar-codec",
+        "source": "Lobsters",
+        "desc": "Rust 生态下的快速安全解析器讨论"
+      },
+      {
+        "num": 5,
+        "title": "一日一技｜NAS 作为 UPS 总控",
+        "url": "https://sspai.com/post/115855",
+        "source": "少数派",
+        "desc": "利用 NAS 实现局域网断电自动关机"
+      },
+      {
+        "num": 6,
+        "title": "jailbreaks - LIST OF ALL MY JAILBREAKS",
+        "url": "https://github.com/togg53192-cmd/jailbreaks",
+        "source": "GitHub Trending",
+        "desc": "各种绕过安全限制的搜集列表"
+      },
+      {
+        "num": 7,
+        "title": "Apple's git still trusts the compromised eMudhra certificates",
+        "url": "https://emudhra.we-have-a-problem.com/apple.html",
+        "source": "Lobsters",
+        "desc": "Apple Git 信任受损证书的安全漏洞"
+      },
+      {
+        "num": 8,
+        "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+        "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+        "source": "Lobsters",
+        "desc": "全球服务器普遍存在的 UEFI 固件漏洞"
+      },
+      {
+        "num": 9,
+        "title": "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等",
+        "url": "https://sspai.com/post/117684",
+        "source": "少数派",
+        "desc": "Apple 新硬件发布消息"
+      },
+      {
+        "num": 10,
+        "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
+        "url": "https://sspai.com/post/117600",
+        "source": "少数派",
+        "desc": "Apple iPad mini 新机型发布"
+      },
+      {
+        "num": 11,
+        "title": "AlpineBSD [netbsd]",
+        "url": "https://wiki.alpinebsd.org/",
+        "source": "Lobsters",
+        "desc": "轻量级 BSD 操作系统的讨论"
+      },
+      {
+        "num": 12,
+        "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
+        "url": "https://sspai.com/post/117725",
+        "source": "少数派",
+        "desc": "IGN 对国产游戏《影之刃零》的评测"
+      },
+      {
+        "num": 13,
+        "title": "怀旧手记｜坚果 Pro2 与 R1",
+        "url": "https://sspai.com/post/115533",
+        "source": "少数派",
+        "desc": "坚果手机与 R1 的怀旧回忆文章"
+      },
+      {
+        "num": 14,
+        "title": "断舍离只是起点：打造能长期经营的实用主义衣柜",
+        "url": "https://sspai.com/post/116990",
+        "source": "少数派",
+        "desc": "关于实用主义生活方式的文章"
+      },
+      {
+        "num": 15,
+        "title": "Four Months of Zig [zig]",
+        "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+        "source": "Lobsters",
+        "desc": "Zig 编程语言四个月发展回顾"
+      },
+      {
+        "num": 16,
+        "title": "Ghostty 1.4.0 [release]",
+        "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+        "source": "Lobsters",
+        "desc": "Ghostty 终端模拟器版本发布"
+      },
+      {
+        "num": 17,
+        "title": "Billion-query-per-second lookup tables in C++",
+        "url": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
+        "source": "Lobsters",
+        "desc": "C++ 极致性能优化的技术博客"
+      },
+      {
+        "num": 18,
+        "title": "The Benchmarking Crisis [ai, databases, performance]",
+        "url": "http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html",
+        "source": "Lobsters",
+        "desc": "关于性能基准测试方法论的讨论"
+      },
+      {
+        "num": 19,
+        "title": "DeepTutor: Lifelong Personalized Tutoring",
+        "url": "https://github.com/HKUDS/DeepTutor",
+        "source": "GitHub Trending",
+        "desc": "终身个性化 AI 辅导项目"
+      },
+      {
+        "num": 20,
+        "title": "RuView: π RuView turns commodity WiFi signals into real-time spatial intelligence",
+        "url": "https://github.com/ruvnet/RuView",
+        "source": "GitHub Trending",
+        "desc": "基于 WiFi 信号的空间智能监测项目"
+      }
+    ],
+    "stats": {
+      "total_items": 20,
+      "total_categories": 4,
+      "total_sources": 20
+    }
+  }
+}
