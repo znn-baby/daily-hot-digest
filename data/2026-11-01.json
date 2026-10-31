@@ -1,0 +1,634 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stars": "107492",
+      "stars_today": "1,723 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": "308150",
+      "stars_today": "882 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 3,
+      "title": "Donchitos / Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "stars": "30980",
+      "stars_today": "1,347 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 4,
+      "title": "pingdotgg / t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "stars": "34722",
+      "stars_today": "1,148 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 5,
+      "title": "Renhuai123 / ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "stars": "12207",
+      "stars_today": "1,093 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 6,
+      "title": "milind-soni / OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "stars": "9411",
+      "stars_today": "1,304 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 7,
+      "title": "pbakaus / impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "stars": "98033",
+      "stars_today": "1,339 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 8,
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": "309917",
+      "stars_today": "663 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 9,
+      "title": "lightpanda-io / browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": "39034",
+      "stars_today": "929 stars today",
+      "language": "Zig"
+    },
+    {
+      "rank": 10,
+      "title": "HKUDS / DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+      "stars": "52581",
+      "stars_today": "1,035 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 11,
+      "title": "Orkas-AI / Orkas",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+      "stars": "6022",
+      "stars_today": "1,118 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 12,
+      "title": "THU-MAIC / OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars": "42112",
+      "stars_today": "115 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 13,
+      "title": "bregman-arie / devops-exercises",
+      "url": "https://github.com/bregman-arie/devops-exercises",
+      "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+      "stars": "85786",
+      "stars_today": "341 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 14,
+      "title": "vorssaint / vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "description": "Free and open-source macOS menu bar toolkit.",
+      "stars": "31756",
+      "stars_today": "499 stars today",
+      "language": "Swift"
+    }
+  ],
+  "lobsters": [],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "本月玩什么｜影之刃零、战争机器：事变日等板斧昨天 13:29",
+      "url": "https://sspai.com/post/117960",
+      "author": "板斧",
+      "summary": "本月玩什么｜影之刃零、战争机器：事变日等"
+    },
+    {
+      "rank": 2,
+      "title": "一图流 | 一张图看懂中国版 Apple 智能少数派编辑部昨天 12:10",
+      "url": "https://sspai.com/post/117953",
+      "author": "少数派编辑部",
+      "summary": "一图流 | 一张图看懂中国版 Apple 智能"
+    },
+    {
+      "rank": 3,
+      "title": "本周看什么 | 最近值得一看的 9 部作品少数派编辑部前天 17:57",
+      "url": "https://sspai.com/post/117867",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 9 部作品"
+    },
+    {
+      "rank": 4,
+      "title": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣Roark前天 14:59",
+      "url": "https://sspai.com/post/116047",
+      "author": "Roark",
+      "summary": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣"
+    },
+    {
+      "rank": 5,
+      "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？阿帅的健康笔记前天 11:30会员内容",
+      "url": "https://sspai.com/prime/story/zhuanglesha-261030",
+      "author": "阿帅的健康笔记",
+      "summary": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？"
+    },
+    {
+      "rank": 6,
+      "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践jyf15前天 11:13Matrix精选",
+      "url": "https://sspai.com/post/116435",
+      "author": "jyf15",
+      "summary": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践"
+    },
+    {
+      "rank": 7,
+      "title": "假期出门玩想省钱，你有哪些真正管用的实操技巧？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1793254303",
+      "author": "一派投票",
+      "summary": "假期出门玩想省钱，你有哪些真正管用的实操技巧？"
+    },
+    {
+      "rank": 8,
+      "title": "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等少数派编辑部前天 08:13派早报",
+      "url": "https://sspai.com/post/117827",
+      "author": "少数派编辑部",
+      "summary": "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等"
+    },
+    {
+      "rank": 9,
+      "title": "新玩意 254｜少数派的编辑们最近买了啥？少数派编辑部10/29",
+      "url": "https://sspai.com/post/117791",
+      "author": "少数派编辑部",
+      "summary": "新玩意 254｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 10,
+      "title": "如何成为不吃压力的「大心脏」？乔淼10/29Matrix精选",
+      "url": "https://sspai.com/post/117244",
+      "author": "乔淼",
+      "summary": "如何成为不吃压力的「大心脏」？"
+    },
+    {
+      "rank": 11,
+      "title": "让 Agent 读懂你的身体：数据处理篇叁思Santh10/29会员内容",
+      "url": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
+      "author": "叁思Santh",
+      "summary": "让 Agent 读懂你的身体：数据处理篇"
+    },
+    {
+      "rank": 12,
+      "title": "十月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1792994679",
+      "author": "一派讨论",
+      "summary": "十月买了什么好东西？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "孙颖莎把早田希娜打哭了",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8A%8A%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E6%89%93%E5%93%AD%E4%BA%86",
+      "hot_value": 900000
+    },
+    {
+      "rank": 2,
+      "title": "本周我国硬核成果持续上新",
+      "url": "https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E6%88%91%E5%9B%BD%E7%A1%AC%E6%A0%B8%E6%88%90%E6%9E%9C%E6%8C%81%E7%BB%AD%E4%B8%8A%E6%96%B0",
+      "hot_value": 710000
+    },
+    {
+      "rank": 3,
+      "title": "王子璇 文吉儿",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87+%E6%96%87%E5%90%89%E5%84%BF",
+      "hot_value": 710000
+    },
+    {
+      "rank": 4,
+      "title": "苹果Duo中国版被指偷工减料",
+      "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CDuo%E4%B8%AD%E5%9B%BD%E7%89%88%E8%A2%AB%E6%8C%87%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99",
+      "hot_value": 700000
+    },
+    {
+      "rank": 5,
+      "title": "孟子义看到刘学义躲镜头的表情",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E7%9C%8B%E5%88%B0%E5%88%98%E5%AD%A6%E4%B9%89%E8%BA%B2%E9%95%9C%E5%A4%B4%E7%9A%84%E8%A1%A8%E6%83%85",
+      "hot_value": 390000
+    },
+    {
+      "rank": 6,
+      "title": "蔡磊想通过脑机接口拥抱儿子",
+      "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E7%A3%8A%E6%83%B3%E9%80%9A%E8%BF%87%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E6%8B%A5%E6%8A%B1%E5%84%BF%E5%AD%90",
+      "hot_value": 380000
+    },
+    {
+      "rank": 7,
+      "title": "人民日报评随意恶意举报",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E9%9A%8F%E6%84%8F%E6%81%B6%E6%84%8F%E4%B8%BE%E6%8A%A5",
+      "hot_value": 280000
+    },
+    {
+      "rank": 8,
+      "title": "4AM任 咚咚",
+      "url": "https://s.weibo.com/weibo?q=4AM%E4%BB%BB+%E5%92%9A%E5%92%9A",
+      "hot_value": 260000
+    },
+    {
+      "rank": 9,
+      "title": "4AM任和咚咚和好了",
+      "url": "https://s.weibo.com/weibo?q=4AM%E4%BB%BB%E5%92%8C%E5%92%9A%E5%92%9A%E5%92%8C%E5%A5%BD%E4%BA%86",
+      "hot_value": 250000
+    },
+    {
+      "rank": 10,
+      "title": "侯卓成杨汝晴官宣分手",
+      "url": "https://s.weibo.com/weibo?q=%E4%BE%AF%E5%8D%93%E6%88%90%E6%9D%A8%E6%B1%9D%E6%99%B4%E5%AE%98%E5%AE%A3%E5%88%86%E6%89%8B",
+      "hot_value": 250000
+    },
+    {
+      "rank": 11,
+      "title": "被文吉儿霸凌当事人回应",
+      "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E6%96%87%E5%90%89%E5%84%BF%E9%9C%B8%E5%87%8C%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94",
+      "hot_value": 250000
+    },
+    {
+      "rank": 12,
+      "title": "奔跑吧厉娜",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7%E5%8E%89%E5%A8%9C",
+      "hot_value": 240000
+    },
+    {
+      "rank": 13,
+      "title": "女子注射生长因子脸疯长成畸形",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E6%B3%A8%E5%B0%84%E7%94%9F%E9%95%BF%E5%9B%A0%E5%AD%90%E8%84%B8%E7%96%AF%E9%95%BF%E6%88%90%E7%95%B8%E5%BD%A2",
+      "hot_value": 240000
+    },
+    {
+      "rank": 14,
+      "title": "刘学义躲镜头",
+      "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AD%A6%E4%B9%89%E8%BA%B2%E9%95%9C%E5%A4%B4",
+      "hot_value": 230000
+    },
+    {
+      "rank": 15,
+      "title": "孙颖莎比赛身体不适",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%AF%94%E8%B5%9B%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82",
+      "hot_value": 230000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "红果短剧年营收超 150 亿，为什么有创作者称两个月 11 部剧只赚了 9 块 6",
+      "url": "https://www.zhihu.com/question/2099456582853605372",
+      "hot_value": 5260000
+    },
+    {
+      "rank": 2,
+      "title": "如何评价理想、小米成欣旺达动力第二、第三大股东",
+      "url": "https://www.zhihu.com/question/2099592453800182532",
+      "hot_value": 2470000
+    },
+    {
+      "rank": 3,
+      "title": "西方发达国家那种木头房子，美观成本低、寿命又长，特别是抗震性能好，为何不在我国地震带地区推广呢",
+      "url": "https://www.zhihu.com/question/2098749313132269749",
+      "hot_value": 2340000
+    },
+    {
+      "rank": 4,
+      "title": "双缝干涉实验恐怖在哪？能用通俗易懂语言解释吗",
+      "url": "https://www.zhihu.com/question/329927724",
+      "hot_value": 1950000
+    },
+    {
+      "rank": 5,
+      "title": "黄金跌破 3900 美元、白银失守 50 美元，这一轮从历史高点的回落，是深度调整还是大级别上涨行情已经终结",
+      "url": "https://www.zhihu.com/question/2099634904501842090",
+      "hot_value": 1890000
+    },
+    {
+      "rank": 6,
+      "title": "同级同事在工作群直接指出我的工作错误，我承认自己的疏忽并表示会尽快修正，但对方抓住不放，怎么办",
+      "url": "https://www.zhihu.com/question/2098152098923919088",
+      "hot_value": 1840000
+    },
+    {
+      "rank": 7,
+      "title": "胡辣汤、泡馍这么御寒的食物，为什么没能在寒冷的东北流行起来",
+      "url": "https://www.zhihu.com/question/1973850877744915918",
+      "hot_value": 1750000
+    },
+    {
+      "rank": 8,
+      "title": "如何看待网友提出「初中禁绝游戏和电子产品，培养看云发呆的爱好，长大一天吃一个白面馒头也很开心」的观点",
+      "url": "https://www.zhihu.com/question/2098120639785841357",
+      "hot_value": 1660000
+    },
+    {
+      "rank": 9,
+      "title": "如何看待「三年内，扩散模型将全面替代大语言模型」的说法？这会给 AI Infra 带来哪些变化",
+      "url": "https://www.zhihu.com/question/2098823323752690341",
+      "hot_value": 1510000
+    },
+    {
+      "rank": 10,
+      "title": "国内游戏界的奇耻大辱（事件、现状等等）是什么",
+      "url": "https://www.zhihu.com/question/1932369918818484287",
+      "hot_value": 1470000
+    },
+    {
+      "rank": 11,
+      "title": "古风歌手吾恩已离世，与胃癌抗争近七年，曾有代表作《忘羡》《人间纵我》等，你对他有哪些印象",
+      "url": "https://www.zhihu.com/question/2099784358110257445",
+      "hot_value": 1330000
+    },
+    {
+      "rank": 12,
+      "title": "孙颖莎 4：3 战胜早田希娜，晋级 WTT 蒙彼利埃冠军赛四强，如何评价本场比赛",
+      "url": "https://www.zhihu.com/question/2099997199270782547",
+      "hot_value": 1320000
+    },
+    {
+      "rank": 13,
+      "title": "人民锐评发文驳斥「中国 AI 跑偏论」，如何看待中美在 AI 落地路径上的差异",
+      "url": "https://www.zhihu.com/question/2099418216976102291",
+      "hot_value": 920000
+    },
+    {
+      "rank": 14,
+      "title": "懂球帝做错了吗？为什么要开始指责传播渠道，根源不是在姆巴佩吗",
+      "url": "https://www.zhihu.com/question/2099503804379145478",
+      "hot_value": 890000
+    },
+    {
+      "rank": 15,
+      "title": "今年全国实现生娃基本不花钱，多地密集出台生育支持措施，涉及哪些方面？会带来哪些积极影响",
+      "url": "https://www.zhihu.com/question/2099768069723611876",
+      "hot_value": 870000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "url": "https://piefed.world/post/1503394",
+      "score": 227,
+      "author": "DeepLogin",
+      "comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=50314666"
+    },
+    {
+      "rank": 2,
+      "title": "We Took over ChatGPT Accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "score": 241,
+      "author": "armcat",
+      "comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=50314699"
+    },
+    {
+      "rank": 3,
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "score": 61,
+      "author": "aphyr",
+      "comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=50316100"
+    },
+    {
+      "rank": 4,
+      "title": "Casio Watches of the 1980s",
+      "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+      "score": 109,
+      "author": "karagenit",
+      "comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=50317363"
+    },
+    {
+      "rank": 5,
+      "title": "Redox: Ring Buffers Project Summary",
+      "url": "https://www.redox-os.org/news/nlnet-rb-summary/",
+      "score": 13,
+      "author": "g0xA52A2A",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50274186"
+    },
+    {
+      "rank": 6,
+      "title": "UK Green party drops longstanding opposition to nuclear power",
+      "url": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
+      "score": 43,
+      "author": "mpweiher",
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=50318189"
+    },
+    {
+      "rank": 7,
+      "title": "A/SIDE – Private photo sharing and encrypted messages",
+      "url": "https://a-side.social/",
+      "score": 17,
+      "author": "eustoria",
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=50317484"
+    },
+    {
+      "rank": 8,
+      "title": "Reading and writing are less symmetric than you (probably) think",
+      "url": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
+      "score": 43,
+      "author": "luu",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=50271052"
+    },
+    {
+      "rank": 9,
+      "title": "Switch Lowering in GCC",
+      "url": "https://xoranth.net/gcc-switch/",
+      "score": 166,
+      "author": "signa11",
+      "comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=50314085"
+    },
+    {
+      "rank": 10,
+      "title": "Simple circuits can create complex behaviors",
+      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "score": 136,
+      "author": "aatish",
+      "comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=50261253"
+    },
+    {
+      "rank": 11,
+      "title": "Serbia just elected the world's brainiest parliament",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "score": 678,
+      "author": "input_sh",
+      "comments": 393,
+      "hn_url": "https://news.ycombinator.com/item?id=50314654"
+    },
+    {
+      "rank": 12,
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "score": 179,
+      "author": "khalidkhair",
+      "comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=50316531"
+    },
+    {
+      "rank": 13,
+      "title": "Digital minimalism",
+      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "score": 234,
+      "author": "wilbertliu",
+      "comments": 172,
+      "hn_url": "https://news.ycombinator.com/item?id=50313661"
+    },
+    {
+      "rank": 14,
+      "title": "What is a light-day? The milestone Voyager 1 is closing in on",
+      "url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
+      "score": 43,
+      "author": "geox",
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=50317429"
+    },
+    {
+      "rank": 15,
+      "title": "Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector",
+      "url": "https://github.com/4yk5/Ghostman",
+      "score": 18,
+      "author": "4yk5",
+      "comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=50300902"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发工具",
+        "color": "ai",
+        "summary": "今天的 GitHub Trending 真是被 AI Agent 给刷屏了。最火的是 [1] thedotmack 的 claude-mem，主打一个让智能体拥有长期记忆，能把每个 session 的操作压缩回传，现在已经拿了 13k+ stars[1]。还有那个把 Claude Code 变成完整游戏工作室的 [3] Donchitos/Claude-Code-Game-Studios，直接上了 49 个 AI Agent，这格局确实大[3]。如果你喜欢本地化部署，[11] Orkas-AI 的 Orkas 是个不错的选择，能在本地协调 16 个专家 Agent，不用非得依赖云端 API[11]。\n\n Lobsters 上大家聊得挺热烈的，有人分享了一个有趣的观察：现在很多开发者开始用 [1] claude-mem 这种工具来构建个人知识库了，感觉以后每个程序员都得有自己的“外挂大脑”，不然记不住写过的代码细节。另外，[6] milind-soni 的 OpenMausBot 作为 Grok 的开源替代，居然能自己跑虚拟机，搞安全的朋友肯定会对这种“本地沙箱”模式很感兴趣，毕竟数据不出本地总是让人更安心点。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "在系统和底层这块，[12] HKUDS 的 DeepTutor 项目很有意思，它试图做一个终身个性化导师，不仅仅是做题，而是真的能陪你学一辈子，这概念放在教育领域绝对是革命性的[12]。还有 [13] vorssaint 推出的 macOS 菜单栏工具集，虽然只是个小工具，但对于喜欢折腾桌面体验的 Mac 用户来说，绝对是提升效率的利器，能帮你把系统界面打理得井井有条[13]。\n\n 少数派最近发的文章里，有个关于 [7] “精确到秒的时间记录”的话题让我印象很深。有个作者实践了半年的柳比歇夫法，居然精确到秒地记录时间，这种极客精神在如今碎片化时代挺罕见的。不过说实话，对于大多数人来说，这种精度可能有点太苛刻了，适度记录可能更可持续。"
+      },
+      {
+        "name": "数码产品与效率玩法",
+        "color": "digital",
+        "summary": "数码产品方面，最新的动态是 [5] 全球首款 Android XR 有线眼镜 XREAL AURA 正式发售了，这对 AR/VR 领域的安卓生态来说是个新的里程碑。另外，苹果智能的中国版也有一张图详细解读了[2]，虽然还没完全落地，但能看出苹果在本地化处理上的野心，这对于注重隐私的用户来说是个利好消息。\n\n 说到效率，[4] 有个 App+1 推荐的小工具叫“该吃药了”，一片小药板让吃药提醒变得轻松有趣，这种把枯燥任务游戏化的思路其实很值得借鉴。我们做开发的时候，能不能也设计点这种有趣的机制来激励自己完成那些讨厌的测试用例呢？"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "claude-mem: Persistent Context Across Sessions",
+        "url": "https://github.com/thedotmack/claude-mem",
+        "source": "GitHub Trending",
+        "desc": "让智能体跨会话保持记忆，已获 13k+ stars"
+      },
+      {
+        "num": 2,
+        "title": "一图流 | 一张图看懂中国版 Apple 智能",
+        "url": "https://sspai.com/post/117953",
+        "source": "少数派",
+        "desc": "解读苹果智能中国版的功能与隐私机制"
+      },
+      {
+        "num": 3,
+        "title": "Claude-Code-Game-Studios: Turn Claude Code into a full game dev studio",
+        "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+        "source": "GitHub Trending",
+        "desc": "包含 49 个 AI Agent 的完整游戏开发工作室"
+      },
+      {
+        "num": 4,
+        "title": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
+        "url": "https://sspai.com/post/116047",
+        "source": "少数派",
+        "desc": "Roark 推荐的有趣健康提醒应用"
+      },
+      {
+        "num": 5,
+        "title": "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等",
+        "url": "https://sspai.com/post/117827",
+        "source": "少数派",
+        "desc": "报道 XREAL AURA 正式发布及相关行业动态"
+      },
+      {
+        "num": 6,
+        "title": "OpenMausBot: Open-source Grok Bot alternative with a virtual machine",
+        "url": "https://github.com/milind-soni/OpenMausBot",
+        "source": "GitHub Trending",
+        "desc": "开源的 Grok 替代方案，支持本地虚拟机运行"
+      },
+      {
+        "num": 7,
+        "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
+        "url": "https://sspai.com/post/116435",
+        "source": "少数派",
+        "desc": "用户分享半年时间管理实践笔记"
+      },
+      {
+        "num": 8,
+        "title": "DeepTutor: Lifelong Personalized Tutoring",
+        "url": "https://github.com/HKUDS/DeepTutor",
+        "source": "GitHub Trending",
+        "desc": "终身个性化辅导系统，提供沉浸式学习体验"
+      },
+      {
+        "num": 9,
+        "title": "New Gadgets 254: What did the editors buy recently?",
+        "url": "https://sspai.com/post/117791",
+        "source": "少数派",
+        "desc": "少数派编辑们最近购买的好物分享"
+      },
+      {
+        "num": 10,
+        "title": "vorssaint-utils: Free and open-source macOS menu bar toolkit",
+        "url": "https://github.com/vorssaint/vorssaint-utils",
+        "source": "GitHub Trending",
+        "desc": "免费的 macOS 菜单栏工具集，提升桌面体验"
+      }
+    ],
+    "stats": {
+      "total_items": 10,
+      "total_categories": 3,
+      "total_sources": 3
+    }
+  }
+}
