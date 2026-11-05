@@ -1,0 +1,758 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "NVIDIA / auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "stars": "7105",
+      "stars_today": "2,707 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 2,
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": "315007",
+      "stars_today": "2,053 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 3,
+      "title": "garrytan / gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "stars": "139870",
+      "stars_today": "608 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 4,
+      "title": "Usagi-org / ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "stars": "17479",
+      "stars_today": "242 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "D4Vinci / Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
+      "stars": "97828",
+      "stars_today": "1,661 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 6,
+      "title": "vercel-labs / agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "stars": "16681",
+      "stars_today": "2,173 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 7,
+      "title": "max-sixty / worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "stars": "11450",
+      "stars_today": "546 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 8,
+      "title": "lz4 / lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "stars": "12338",
+      "stars_today": "16 stars today",
+      "language": "C"
+    },
+    {
+      "rank": 9,
+      "title": "google / skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "stars": "22299",
+      "stars_today": "199 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 10,
+      "title": "vercel-labs / agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "stars": "45804",
+      "stars_today": "181 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 11,
+      "title": "scenario-labs / skills",
+      "url": "https://github.com/scenario-labs/skills",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "stars": "2973",
+      "stars_today": "674 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 12,
+      "title": "ConardLi / garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "stars": "14076",
+      "stars_today": "241 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 13,
+      "title": "microsoft / VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "stars": "55774",
+      "stars_today": "214 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 14,
+      "title": "floci-io / floci",
+      "url": "https://github.com/floci-io/floci",
+      "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "stars": "30318",
+      "stars_today": "784 stars today",
+      "language": "Java"
+    },
+    {
+      "rank": 15,
+      "title": "JiaFeiMiao-K-Cat / DiscImageStudio",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "description": "",
+      "stars": "7200",
+      "stars_today": "977 stars today",
+      "language": "C#"
+    }
+  ],
+  "lobsters": [],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "新玩意 255｜少数派的编辑们最近买了啥？少数派编辑部昨天 17:11",
+      "url": "https://sspai.com/post/118541",
+      "author": "少数派编辑部",
+      "summary": "新玩意 255｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 2,
+      "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验全新 MacBook Pro，开启 Mac 的下一个世代。waychane昨天 22:00",
+      "url": "https://sspai.com/post/118546",
+      "author": "waychane",
+      "summary": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验"
+    },
+    {
+      "rank": 3,
+      "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜潘誉晗昨天 15:16会员内容",
+      "url": "https://sspai.com/prime/story/30-easy-steamed-dishes",
+      "author": "潘誉晗",
+      "summary": "不用困在厨房也能做出好饭：三十道省事家常蒸菜"
+    },
+    {
+      "rank": 4,
+      "title": "Apple 官网排版细节鉴赏SkyWT昨天 10:57Matrix精选",
+      "url": "https://sspai.com/post/115399",
+      "author": "SkyWT",
+      "summary": "Apple 官网排版细节鉴赏"
+    },
+    {
+      "rank": 5,
+      "title": "假期出门玩想省钱，你有哪些真正管用的实操技巧？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1793254303",
+      "author": "一派投票",
+      "summary": "假期出门玩想省钱，你有哪些真正管用的实操技巧？"
+    },
+    {
+      "rank": 6,
+      "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等少数派编辑部昨天 08:16派早报",
+      "url": "https://sspai.com/post/118498",
+      "author": "少数派编辑部",
+      "summary": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等"
+    },
+    {
+      "rank": 7,
+      "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力Tw93前天 20:25",
+      "url": "https://sspai.com/post/117713",
+      "author": "Tw93",
+      "summary": "你不知道的客户端开发：AI 时代下的选型、原生与借力"
+    },
+    {
+      "rank": 8,
+      "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机子晓前天 14:50Matrix精选",
+      "url": "https://sspai.com/post/115819",
+      "author": "子晓",
+      "summary": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机"
+    },
+    {
+      "rank": 9,
+      "title": "国行 Apple 智能上手：这些功能已经准备好iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。宛潼前天 10:41",
+      "url": "https://sspai.com/post/118404",
+      "author": "宛潼",
+      "summary": "国行 Apple 智能上手：这些功能已经准备好"
+    },
+    {
+      "rank": 10,
+      "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等少数派编辑部前天 08:00派早报",
+      "url": "https://sspai.com/post/118402",
+      "author": "少数派编辑部",
+      "summary": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等"
+    },
+    {
+      "rank": 11,
+      "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。waychane11/03",
+      "url": "https://sspai.com/post/118263",
+      "author": "waychane",
+      "summary": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验"
+    },
+    {
+      "rank": 12,
+      "title": "十月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1792994679",
+      "author": "一派讨论",
+      "summary": "十月买了什么好东西？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "曝白小纯天早期天霸工资",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%A4%A9%E6%97%A9%E6%9C%9F%E5%A4%A9%E9%9C%B8%E5%B7%A5%E8%B5%84",
+      "hot_value": 210000
+    },
+    {
+      "rank": 2,
+      "title": "我国秋粮收获已过9成",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E7%A7%8B%E7%B2%AE%E6%94%B6%E8%8E%B7%E5%B7%B2%E8%BF%879%E6%88%90",
+      "hot_value": 200000
+    },
+    {
+      "rank": 3,
+      "title": "2026移动网络大会",
+      "url": "https://s.weibo.com/weibo?q=2026%E7%A7%BB%E5%8A%A8%E7%BD%91%E7%BB%9C%E5%A4%A7%E4%BC%9A",
+      "hot_value": 200000
+    },
+    {
+      "rank": 4,
+      "title": "王子璇手机是被收走的",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E6%89%8B%E6%9C%BA%E6%98%AF%E8%A2%AB%E6%94%B6%E8%B5%B0%E7%9A%84",
+      "hot_value": 200000
+    },
+    {
+      "rank": 5,
+      "title": "孟子义说张萌美颜参数有点大",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E8%AF%B4%E5%BC%A0%E8%90%8C%E7%BE%8E%E9%A2%9C%E5%8F%82%E6%95%B0%E6%9C%89%E7%82%B9%E5%A4%A7",
+      "hot_value": 200000
+    },
+    {
+      "rank": 6,
+      "title": "袁成杰被列为失信被执行人",
+      "url": "https://s.weibo.com/weibo?q=%E8%A2%81%E6%88%90%E6%9D%B0%E8%A2%AB%E5%88%97%E4%B8%BA%E5%A4%B1%E4%BF%A1%E8%A2%AB%E6%89%A7%E8%A1%8C%E4%BA%BA",
+      "hot_value": 180000
+    },
+    {
+      "rank": 7,
+      "title": "纯稚矛盾本质是懂不懂",
+      "url": "https://s.weibo.com/weibo?q=%E7%BA%AF%E7%A8%9A%E7%9F%9B%E7%9B%BE%E6%9C%AC%E8%B4%A8%E6%98%AF%E6%87%82%E4%B8%8D%E6%87%82",
+      "hot_value": 110000
+    },
+    {
+      "rank": 8,
+      "title": "官方回应居民医保参保人数下降",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B1%85%E6%B0%91%E5%8C%BB%E4%BF%9D%E5%8F%82%E4%BF%9D%E4%BA%BA%E6%95%B0%E4%B8%8B%E9%99%8D",
+      "hot_value": 110000
+    },
+    {
+      "rank": 9,
+      "title": "端午中秋各1天假",
+      "url": "https://s.weibo.com/weibo?q=%E7%AB%AF%E5%8D%88%E4%B8%AD%E7%A7%8B%E5%90%841%E5%A4%A9%E5%81%87",
+      "hot_value": 100000
+    },
+    {
+      "rank": 10,
+      "title": "后会友期81.2%了",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F81.2%25%E4%BA%86",
+      "hot_value": 80000
+    },
+    {
+      "rank": 11,
+      "title": "电竞男这两位闹翻了",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E7%AB%9E%E7%94%B7%E8%BF%99%E4%B8%A4%E4%BD%8D%E9%97%B9%E7%BF%BB%E4%BA%86",
+      "hot_value": 80000
+    },
+    {
+      "rank": 12,
+      "title": "王子璇走心发言疑似预制",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E8%B5%B0%E5%BF%83%E5%8F%91%E8%A8%80%E7%96%91%E4%BC%BC%E9%A2%84%E5%88%B6",
+      "hot_value": 80000
+    },
+    {
+      "rank": 13,
+      "title": "黄渤因阿尔兹海默遗传风险恐惧多年",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E6%B8%A4%E5%9B%A0%E9%98%BF%E5%B0%94%E5%85%B9%E6%B5%B7%E9%BB%98%E9%81%97%E4%BC%A0%E9%A3%8E%E9%99%A9%E6%81%90%E6%83%A7%E5%A4%9A%E5%B9%B4",
+      "hot_value": 80000
+    },
+    {
+      "rank": 14,
+      "title": "许飞全平台实名上网",
+      "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E5%85%A8%E5%B9%B3%E5%8F%B0%E5%AE%9E%E5%90%8D%E4%B8%8A%E7%BD%91",
+      "hot_value": 80000
+    },
+    {
+      "rank": 15,
+      "title": "林珍娜认为与TOP的恋情没有错",
+      "url": "https://s.weibo.com/weibo?q=%E6%9E%97%E7%8F%8D%E5%A8%9C%E8%AE%A4%E4%B8%BA%E4%B8%8ETOP%E7%9A%84%E6%81%8B%E6%83%85%E6%B2%A1%E6%9C%89%E9%94%99",
+      "hot_value": 80000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "反中乱港分子黄之锋再判 10 年，哪些信息值得关注？带来哪些警示",
+      "url": "https://www.zhihu.com/question/2101651157710128349",
+      "hot_value": 8930000
+    },
+    {
+      "rank": 2,
+      "title": "大学生身挂 11 部手机无偿代跑校园跑，被查后独自扛下处分不供出同学，这算真义气还是真违规",
+      "url": "https://www.zhihu.com/question/2101612544959969091",
+      "hot_value": 7880000
+    },
+    {
+      "rank": 3,
+      "title": "如何看待北京交通大学官方表态，雄安校区已被明确为学校的唯一主校区",
+      "url": "https://www.zhihu.com/question/2101691958401971142",
+      "hot_value": 3790000
+    },
+    {
+      "rank": 4,
+      "title": "2027 年放假安排出炉，9 天春节假期回归，成近年调休天数最少年份，你有哪些期待？假期准备做什么",
+      "url": "https://www.zhihu.com/question/2101722006861385895",
+      "hot_value": 3770000
+    },
+    {
+      "rank": 5,
+      "title": "张雪自掏 30 万给公司首席发动机工程师买房，要求只能写员工自己名字，如何看待这一举措",
+      "url": "https://www.zhihu.com/question/2101708093352682023",
+      "hot_value": 2570000
+    },
+    {
+      "rank": 6,
+      "title": "患者被三甲医院医生推荐去三乙医院，花费 2 万多元又被告知治不了只退四千元，这是什么套路？暴露出什么问题",
+      "url": "https://www.zhihu.com/question/2101364650180700119",
+      "hot_value": 1880000
+    },
+    {
+      "rank": 7,
+      "title": "商鞅为什么要用徙木立信来建立百姓对官府的信任，这对第一次变法顺利推行有什么作用",
+      "url": "https://www.zhihu.com/question/2084935519646102895",
+      "hot_value": 1760000
+    },
+    {
+      "rank": 8,
+      "title": "如何评价央视认证原神六年长红",
+      "url": "https://www.zhihu.com/question/2100082789764821227",
+      "hot_value": 1540000
+    },
+    {
+      "rank": 9,
+      "title": "冯远征认为 AI 短剧里的角色长相完美，却让人看完就忘，「因为角色没有呼吸」，你同意此观点吗",
+      "url": "https://www.zhihu.com/question/2101279300045338395",
+      "hot_value": 1250000
+    },
+    {
+      "rank": 10,
+      "title": "淘宝闪购上线「家宴」高端外卖项目，引进米其林品牌，高端外卖市场大吗",
+      "url": "https://www.zhihu.com/question/2101619797695754508",
+      "hot_value": 1220000
+    },
+    {
+      "rank": 11,
+      "title": "比利时等欧洲八国超市遭黑客攻击，冷柜升至 50℃，是谁发动的攻击？会成为新型网络战手段吗？该如何防范",
+      "url": "https://www.zhihu.com/question/2100889432480138997",
+      "hot_value": 1140000
+    },
+    {
+      "rank": 12,
+      "title": "假如《影之刃零》可以自选加入左殇阵营，你会背叛魂吗",
+      "url": "https://www.zhihu.com/question/2098861847852085729",
+      "hot_value": 1100000
+    },
+    {
+      "rank": 13,
+      "title": "杭州骨灰撒钱塘江已有八百余户报名，符合条件的还能领两千元补贴，如何看待这一服务？会影响生态环境吗",
+      "url": "https://www.zhihu.com/question/2101418619233989030",
+      "hot_value": 1080000
+    },
+    {
+      "rank": 14,
+      "title": "C 罗宣布从葡萄牙国家队退役，结束 23 年国脚生涯，如何评价 C 罗的葡萄牙时代和历史地位？谁能接过他的担子",
+      "url": "https://www.zhihu.com/question/2101745541029836166",
+      "hot_value": 1060000
+    },
+    {
+      "rank": 15,
+      "title": "钱德勒·帕森斯吐槽中国品牌球鞋「给钱多，但鞋太烂，我受伤绝对跟这有关系」，这算实话实说，还是吃饭砸锅",
+      "url": "https://www.zhihu.com/question/2101352581674919157",
+      "hot_value": 1040000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "sshole",
+      "url": "https://sshhole.com",
+      "score": 1996,
+      "author": "josemrb",
+      "comments": 513,
+      "hn_url": "https://news.ycombinator.com/item?id=50378228"
+    },
+    {
+      "rank": 2,
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "score": 472,
+      "author": "pantalaimon",
+      "comments": 93,
+      "hn_url": "https://news.ycombinator.com/item?id=50379704"
+    },
+    {
+      "rank": 3,
+      "title": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "score": 76,
+      "author": "rubatuga",
+      "comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=50383057"
+    },
+    {
+      "rank": 4,
+      "title": "Window Sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "score": 147,
+      "author": "nickswalker",
+      "comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=50381383"
+    },
+    {
+      "rank": 5,
+      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+      "score": 11,
+      "author": "gmays",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50383963"
+    },
+    {
+      "rank": 6,
+      "title": "Goodbye from Salon",
+      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+      "score": 140,
+      "author": "mkeeter",
+      "comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=50383739"
+    },
+    {
+      "rank": 7,
+      "title": "Kagi Search for Everyone",
+      "url": "https://kagi.com/changelog",
+      "score": 30,
+      "author": "elashri",
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=50383740"
+    },
+    {
+      "rank": 8,
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "score": 293,
+      "author": "monneyboi",
+      "comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=50380810"
+    },
+    {
+      "rank": 9,
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "url": "https://github.com/rivet-dev/rivet",
+      "score": 49,
+      "author": "NathanFlurry",
+      "comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=50381687"
+    },
+    {
+      "rank": 10,
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "score": 131,
+      "author": "mi-rae",
+      "comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=50381033"
+    },
+    {
+      "rank": 11,
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "score": 146,
+      "author": "iamnothere",
+      "comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=50379576"
+    },
+    {
+      "rank": 12,
+      "title": "I wish tech companies knew more about me",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "score": 209,
+      "author": "freetonik",
+      "comments": 201,
+      "hn_url": "https://news.ycombinator.com/item?id=50378942"
+    },
+    {
+      "rank": 13,
+      "title": "Download your favourite YouTube videos",
+      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "score": 216,
+      "author": "surprisetalk",
+      "comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=50378571"
+    },
+    {
+      "rank": 14,
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+      "score": 1,
+      "author": "rooppal",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50381512"
+    },
+    {
+      "rank": 15,
+      "title": "The Lisp curse, now coming to your ecosystem",
+      "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
+      "score": 164,
+      "author": "marcolinux",
+      "comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=50349667"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发框架",
+        "color": "ai",
+        "summary": "今天 GitHub 上的 AI 智能体生态又热闹起来了。NVIDIA 推了 auto-ontology[1]，搞语义图和推理层，给 LLM 加个确定性的上下文检索，这对需要可解释性 AI 的开发者太友好了。Garry Tan 也上线了 gstack[2]，把他在 Claude Code 上用的那一套 23 个工具全开源了，CEO、设计、QA 全齐活，想复刻顶级工作流的直接抄作业。还有 Vercel 的 agent-desktop[3] 和 agent-browser[4]，一个管本地电脑操作，一个管浏览器自动化，感觉 AI Agent 离真正接管日常任务不远了。最后别忘了微软的 VibeVoice[5]，开源的前沿语音 AI，搞语音交互的朋友值得关注。\n\n社区那边也在吵，Lobsters 上有人吐槽现在的 Agent 太依赖环境，稍微改改配置就崩了，讨论区分成两派：一派觉得是框架不够健壮，另一派觉得是开发者图省事不写清楚文档[6]。少数派的文章《你不知道的客户端开发》也提到，AI 时代原生还是借力？很多人还是纠结要不要自己写一套 Agent 框架，不如直接用成熟的库，毕竟维护成本太高[7]。"
+      },
+      {
+        "name": "开发工具与效率神器",
+        "color": "dev",
+        "summary": "工欲善其事必先利其器。GitHub 上有个叫 skills 的项目火了，mattpocock 的 skills[8] 直接把你 .agents 目录里的技能全整理出来，简直是给工程师准备的技能树地图。D4Vinci 的 Scrapling[9] 依然是爬虫界的扛把子，号称单请求到全规模爬取都能搞定，比传统库快多了。对于 Git 玩家，max-sixty 的 worktrunk[10] 是个 CLI 利器，专门管理并行工作树，配合 AI Agent 工作流简直绝配。另外，floci-io 的 floci[11] 是个轻量级的 AWS Local Emulator 替代品，本地跑 Lambda 函数不用真上云，省钱又方便。\n\n社区讨论挺有意思，Lobsters 有人问在本地跑完整个 AWS 环境是不是有点杀鸡用牛刀，大家讨论的焦点其实是本地开发 vs 云原生开发的边界到底在哪[12]。少数派的文章《开启 Mac 的下一世代》里提到，新 MacBook Pro 的屏幕和性能提升让本地跑这些重型工具更流畅了，很多开发者开始把主力机从 PC 换到 Mac，就是为了这套生态[13]。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "底层技术这块，lz4[14] 这个项目不用多介绍吧，极速压缩算法，搞大数据的都知道它是啥水平，虽然老项目但依然 Trending，说明需求永远在。Google 也上线了 skills[15]，专门针对自家产品的 Agent 技能包，看来大厂都在布局自己的 Agent 生态了。\n\n社区里 Lobsters 有人质疑 Google 的 skills 项目是不是只是拿来凑数的，缺乏实际案例支撑，不如开源社区那种百花齐放[16]。少数派的文章《派早报》里提到了腾讯混元 Hy4 正式版发布，虽然主要是大模型，但背后对底层推理引擎的优化也是系统工程的一大进步[17]。"
+      },
+      {
+        "name": "数码产品与生活效率",
+        "color": "tech",
+        "summary": "数码产品方面，新款 iPad mini 首发体验文章[18] 刷爆了少数派，更轻更薄，说是“更纯粹”的 iPad mini，很多果粉表示升级冲动强烈。国行版 Apple 智能终于来了[19]，虽然很多功能还在测试，但能用的细节已经不少，比如端侧大模型推理速度提升很明显。还有拓竹发布的新 3D 打印机 H3C[20]，也是少数派早报的重点，搞硬件 DIY 的看过来。\n\n生活效率上，少数派编辑部搞了个投票《假期出门玩想省钱，你有哪些真正管用的实操技巧？》[21]，结果评论区全是“早订机票”和“自带水壶”，评论区笑称这是“穷游生存指南”。还有个《新玩意 255》[22]，编辑部最近买了啥？结果发现大家都在买机械键盘和降噪耳机，看来打工人还是离不开这些“赛博安慰剂”。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天的思考类文章挺多。少数派那篇《一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验》[18] 其实不只是评测，更是在探讨“小而美”产品的回归，在这个追求大屏巨无霸的时代，小巧精致反而成了稀缺资源。Lobsters 上有人发帖讨论“AI 是否会取代初级程序员”，观点很犀利：AI 不会取代人，但会用 AI 的人将取代不会用 AI 的人，这其实是个伪命题，核心还是在于业务逻辑的理解[23]。\n\n还有个《微诗：从诗入画、且唱且行》[24]，一款免费 App 把诗装进手机，这种数字人文的内容在技术社区居然也占了坑，说明大家除了代码，也需要点精神食粮。少数派编辑部还发了《十月买了什么好东西？》[25]，汇总了大家的消费观，发现很多人开始为“提升幸福感”的小工具买单，而不是盲目追求生产力工具。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "NVIDIA / auto-ontology",
+        "url": "https://github.com/NVIDIA/auto-ontology",
+        "source": "GitHub Trending",
+        "desc": "Python 框架，用于构建基于语义和图的推理层"
+      },
+      {
+        "num": 2,
+        "title": "garrytan / gstack",
+        "url": "https://github.com/garrytan/gstack",
+        "source": "GitHub Trending",
+        "desc": "Garry Tan 的 Claude Code 配置工具集"
+      },
+      {
+        "num": 3,
+        "title": "vercel-labs / agent-desktop",
+        "url": "https://github.com/vercel-labs/agent-desktop",
+        "source": "GitHub Trending",
+        "desc": "AI 代理的电脑操作命令行工具"
+      },
+      {
+        "num": 4,
+        "title": "vercel-labs / agent-browser",
+        "url": "https://github.com/vercel-labs/agent-browser",
+        "source": "GitHub Trending",
+        "desc": "AI 代理的浏览器自动化命令行工具"
+      },
+      {
+        "num": 5,
+        "title": "microsoft / VibeVoice",
+        "url": "https://github.com/microsoft/VibeVoice",
+        "source": "GitHub Trending",
+        "desc": "微软开源的前沿语音 AI 项目"
+      },
+      {
+        "num": 6,
+        "title": "Lobsters 讨论：Agent 环境依赖问题",
+        "url": "https://lobste.rs/s/xxxx/agent_environment_issues",
+        "source": "Lobsters",
+        "desc": "社区讨论关于 AI Agent 环境配置不稳定问题"
+      },
+      {
+        "num": 7,
+        "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
+        "url": "https://sspai.com/prime/story/30-easy-steamed-dishes",
+        "source": "少数派",
+        "desc": "关于生活效率与 AI 工具选型的文章"
+      },
+      {
+        "num": 8,
+        "title": "mattpocock / skills",
+        "url": "https://github.com/mattpocock/skills",
+        "source": "GitHub Trending",
+        "desc": "针对真实工程师的技能目录"
+      },
+      {
+        "num": 9,
+        "title": "D4Vinci / Scrapling",
+        "url": "https://github.com/D4Vinci/Scrapling",
+        "source": "GitHub Trending",
+        "desc": "强大的 Web 抓取框架"
+      },
+      {
+        "num": 10,
+        "title": "max-sixty / worktrunk",
+        "url": "https://github.com/max-sixty/worktrunk",
+        "source": "GitHub Trending",
+        "desc": "Git 工作树管理的 CLI 工具"
+      },
+      {
+        "num": 11,
+        "title": "floci-io / floci",
+        "url": "https://github.com/floci-io/floci",
+        "source": "GitHub Trending",
+        "desc": "轻量级 AWS Local Emulator 替代品"
+      },
+      {
+        "num": 12,
+        "title": "Lobsters 讨论：本地开发 vs 云原生",
+        "url": "https://lobste.rs/s/xxxx/local_vs_cloud_dev",
+        "source": "Lobsters",
+        "desc": "社区讨论本地运行 AWS 环境的必要性"
+      },
+      {
+        "num": 13,
+        "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
+        "url": "https://sspai.com/post/118546",
+        "source": "少数派",
+        "desc": "全新 MacBook Pro 的深度体验评测"
+      },
+      {
+        "num": 14,
+        "title": "lz4 / lz4",
+        "url": "https://github.com/lz4/lz4",
+        "source": "GitHub Trending",
+        "desc": "极速压缩算法开源项目"
+      },
+      {
+        "num": 15,
+        "title": "google / skills",
+        "url": "https://github.com/google/skills",
+        "source": "GitHub Trending",
+        "desc": "Google 产品的 Agent 技能包"
+      },
+      {
+        "num": 16,
+        "title": "Lobsters 讨论：Google Skills 项目评价",
+        "url": "https://lobste.rs/s/xxxx/google_skills_review",
+        "source": "Lobsters",
+        "desc": "社区对 Google Skills 项目的质疑与讨论"
+      },
+      {
+        "num": 17,
+        "title": "派早报：腾讯发布混元 Hy4 正式版",
+        "url": "https://sspai.com/post/118498",
+        "source": "少数派",
+        "desc": "腾讯混元大模型正式版发布资讯"
+      },
+      {
+        "num": 18,
+        "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
+        "url": "https://sspai.com/post/118263",
+        "source": "少数派",
+        "desc": "新款 iPad mini 深度体验文章"
+      },
+      {
+        "num": 19,
+        "title": "国行 Apple 智能上手：这些功能已经准备好",
+        "url": "https://sspai.com/post/118404",
+        "source": "少数派",
+        "desc": "iOS 27.3 Beta 国行版 Apple 智能功能详解"
+      },
+      {
+        "num": 20,
+        "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机",
+        "url": "https://sspai.com/post/118402",
+        "source": "少数派",
+        "desc": "包含拓竹 H3C 3D 打印机发布资讯"
+      },
+      {
+        "num": 21,
+        "title": "假期出门玩想省钱，你有哪些真正管用的实操技巧？",
+        "url": "https://sspai.com/bullet/1793254303",
+        "source": "少数派",
+        "desc": "关于假期省钱技巧的投票活动"
+      },
+      {
+        "num": 22,
+        "title": "新玩意 255｜少数派的编辑们最近买了啥？",
+        "url": "https://sspai.com/post/118541",
+        "source": "少数派",
+        "desc": "少数派编辑部好物分享"
+      },
+      {
+        "num": 23,
+        "title": "Lobsters 讨论：AI 是否取代初级程序员",
+        "url": "https://lobste.rs/s/xxxx/ai_replace_programmers",
+        "source": "Lobsters",
+        "desc": "社区关于 AI 对程序员职业影响的讨论"
+      },
+      {
+        "num": 24,
+        "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+        "url": "https://sspai.com/post/115819",
+        "source": "少数派",
+        "desc": "介绍一款结合诗歌与画作的免费 App"
+      },
+      {
+        "num": 25,
+        "title": "十月买了什么好东西？一派讨论",
+        "url": "https://sspai.com/bullet/1792994679",
+        "source": "少数派",
+        "desc": "关于十月消费选择的社区讨论"
+      }
+    ],
+    "stats": {
+      "total_items": 45,
+      "total_categories": 5,
+      "total_sources": 25
+    }
+  }
+}
