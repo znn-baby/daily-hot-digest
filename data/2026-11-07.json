@@ -1,0 +1,723 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "zed-industries / zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "stars": "93443",
+      "stars_today": "292 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 2,
+      "title": "NVIDIA / auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "stars": "8812",
+      "stars_today": "2,005 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 3,
+      "title": "rails / rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "stars": "58970",
+      "stars_today": "152 stars today",
+      "language": "Ruby"
+    },
+    {
+      "rank": 4,
+      "title": "mpv-player / mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "stars": "37839",
+      "stars_today": "36 stars today",
+      "language": "C"
+    },
+    {
+      "rank": 5,
+      "title": "rust-lang / rust",
+      "url": "https://github.com/rust-lang/rust",
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "stars": "121344",
+      "stars_today": "186 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 6,
+      "title": "react / react",
+      "url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": "252190",
+      "stars_today": "244 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 7,
+      "title": "angular / angular",
+      "url": "https://github.com/angular/angular",
+      "description": "Deliver web apps with confidence 🚀",
+      "stars": "101264",
+      "stars_today": "128 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 8,
+      "title": "symfony / symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "stars": "31356",
+      "stars_today": "89 stars today",
+      "language": "PHP"
+    },
+    {
+      "rank": 9,
+      "title": "prometheus / prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "stars": "67101",
+      "stars_today": "140 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 10,
+      "title": "google / skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "stars": "22776",
+      "stars_today": "532 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 11,
+      "title": "microsoft / vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
+      "stars": "194941",
+      "stars_today": "295 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 12,
+      "title": "lz4 / lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "stars": "12620",
+      "stars_today": "313 stars today",
+      "language": "C"
+    },
+    {
+      "rank": 13,
+      "title": "nushell / nushell",
+      "url": "https://github.com/nushell/nushell",
+      "description": "A new type of shell",
+      "stars": "40899",
+      "stars_today": "88 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 14,
+      "title": "etcd-io / etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "stars": "52563",
+      "stars_today": "123 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 15,
+      "title": "openssl / openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "General purpose TLS and crypto library",
+      "stars": "31258",
+      "stars_today": "24 stars today",
+      "language": "C"
+    }
+  ],
+  "lobsters": [],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "本周看什么 | 最近值得一看的 9 部作品少数派编辑部昨天 17:30",
+      "url": "https://sspai.com/post/118623",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 9 部作品"
+    },
+    {
+      "rank": 2,
+      "title": "iPhone 变强了，但我没有张奕源Nick昨天 14:56视频",
+      "url": "https://sspai.com/post/118250",
+      "author": "张奕源Nick",
+      "summary": "iPhone 变强了，但我没有"
+    },
+    {
+      "rank": 3,
+      "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探张奕源Nick昨天 11:06",
+      "url": "https://sspai.com/post/118570",
+      "author": "张奕源Nick",
+      "summary": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等少数派编辑部昨天 08:24派早报",
+      "url": "https://sspai.com/post/118587",
+      "author": "少数派编辑部",
+      "summary": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等"
+    },
+    {
+      "rank": 5,
+      "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验全新 MacBook Pro，开启 Mac 的下一个世代。waychane前天 22:00",
+      "url": "https://sspai.com/post/118546",
+      "author": "waychane",
+      "summary": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验"
+    },
+    {
+      "rank": 6,
+      "title": "新玩意 255｜少数派的编辑们最近买了啥？少数派编辑部前天 17:11",
+      "url": "https://sspai.com/post/118541",
+      "author": "少数派编辑部",
+      "summary": "新玩意 255｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 7,
+      "title": "十月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1792994679",
+      "author": "一派讨论",
+      "summary": "十月买了什么好东西？"
+    },
+    {
+      "rank": 8,
+      "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜潘誉晗前天 15:16会员内容",
+      "url": "https://sspai.com/prime/story/30-easy-steamed-dishes",
+      "author": "潘誉晗",
+      "summary": "不用困在厨房也能做出好饭：三十道省事家常蒸菜"
+    },
+    {
+      "rank": 9,
+      "title": "Apple 官网排版细节鉴赏SkyWT前天 10:57Matrix精选",
+      "url": "https://sspai.com/post/115399",
+      "author": "SkyWT",
+      "summary": "Apple 官网排版细节鉴赏"
+    },
+    {
+      "rank": 10,
+      "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等少数派编辑部前天 08:16派早报",
+      "url": "https://sspai.com/post/118498",
+      "author": "少数派编辑部",
+      "summary": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等"
+    },
+    {
+      "rank": 11,
+      "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力Tw9311/04",
+      "url": "https://sspai.com/post/117713",
+      "author": "Tw93",
+      "summary": "你不知道的客户端开发：AI 时代下的选型、原生与借力"
+    },
+    {
+      "rank": 12,
+      "title": "假期出门玩想省钱，你有哪些真正管用的实操技巧？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1793254303",
+      "author": "一派投票",
+      "summary": "假期出门玩想省钱，你有哪些真正管用的实操技巧？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "没本事但听话的婚姻没内耗",
+      "url": "https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%AC%E4%BA%8B%E4%BD%86%E5%90%AC%E8%AF%9D%E7%9A%84%E5%A9%9A%E5%A7%BB%E6%B2%A1%E5%86%85%E8%80%97",
+      "hot_value": 160000
+    },
+    {
+      "rank": 2,
+      "title": "一图速览进博会亮点",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%88%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9",
+      "hot_value": 160000
+    },
+    {
+      "rank": 3,
+      "title": "立冬上淘宝降温爆款低至5折",
+      "url": "https://s.weibo.com/weibo?q=%E7%AB%8B%E5%86%AC%E4%B8%8A%E6%B7%98%E5%AE%9D%E9%99%8D%E6%B8%A9%E7%88%86%E6%AC%BE%E4%BD%8E%E8%87%B35%E6%8A%98",
+      "hot_value": 160000
+    },
+    {
+      "rank": 4,
+      "title": "许飞非虚构写作级别的表达",
+      "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E9%9D%9E%E8%99%9A%E6%9E%84%E5%86%99%E4%BD%9C%E7%BA%A7%E5%88%AB%E7%9A%84%E8%A1%A8%E8%BE%BE",
+      "hot_value": 150000
+    },
+    {
+      "rank": 5,
+      "title": "小米澎程主驾车门被撞仍保护车主",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E4%B8%BB%E9%A9%BE%E8%BD%A6%E9%97%A8%E8%A2%AB%E6%92%9E%E4%BB%8D%E4%BF%9D%E6%8A%A4%E8%BD%A6%E4%B8%BB",
+      "hot_value": 150000
+    },
+    {
+      "rank": 6,
+      "title": "厉娜因为有工作激动到睡不着",
+      "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%9B%A0%E4%B8%BA%E6%9C%89%E5%B7%A5%E4%BD%9C%E6%BF%80%E5%8A%A8%E5%88%B0%E7%9D%A1%E4%B8%8D%E7%9D%80",
+      "hot_value": 150000
+    },
+    {
+      "rank": 7,
+      "title": "张萌老公简历居然这么厉害",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%90%8C%E8%80%81%E5%85%AC%E7%AE%80%E5%8E%86%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%8E%89%E5%AE%B3",
+      "hot_value": 150000
+    },
+    {
+      "rank": 8,
+      "title": "青稚听到和白小纯一起住偷笑",
+      "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E5%90%AC%E5%88%B0%E5%92%8C%E7%99%BD%E5%B0%8F%E7%BA%AF%E4%B8%80%E8%B5%B7%E4%BD%8F%E5%81%B7%E7%AC%91",
+      "hot_value": 140000
+    },
+    {
+      "rank": 9,
+      "title": "全麻胃肠镜睡一觉就做完",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E9%BA%BB%E8%83%83%E8%82%A0%E9%95%9C%E7%9D%A1%E4%B8%80%E8%A7%89%E5%B0%B1%E5%81%9A%E5%AE%8C",
+      "hot_value": 140000
+    },
+    {
+      "rank": 10,
+      "title": "特斯拉将逐步停产Cybertruck",
+      "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B0%86%E9%80%90%E6%AD%A5%E5%81%9C%E4%BA%A7Cybertruck",
+      "hot_value": 140000
+    },
+    {
+      "rank": 11,
+      "title": "圆通总裁心疼儿子Tim",
+      "url": "https://s.weibo.com/weibo?q=%E5%9C%86%E9%80%9A%E6%80%BB%E8%A3%81%E5%BF%83%E7%96%BC%E5%84%BF%E5%AD%90Tim",
+      "hot_value": 140000
+    },
+    {
+      "rank": 12,
+      "title": "网友解读白小纯审判青稚",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E8%A7%A3%E8%AF%BB%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%AE%A1%E5%88%A4%E9%9D%92%E7%A8%9A",
+      "hot_value": 140000
+    },
+    {
+      "rank": 13,
+      "title": "KC挑衅Faker",
+      "url": "https://s.weibo.com/weibo?q=KC%E6%8C%91%E8%A1%85Faker",
+      "hot_value": 130000
+    },
+    {
+      "rank": 14,
+      "title": "姜妍吃的饭被蒋欣看到天要塌了",
+      "url": "https://s.weibo.com/weibo?q=%E5%A7%9C%E5%A6%8D%E5%90%83%E7%9A%84%E9%A5%AD%E8%A2%AB%E8%92%8B%E6%AC%A3%E7%9C%8B%E5%88%B0%E5%A4%A9%E8%A6%81%E5%A1%8C%E4%BA%86",
+      "hot_value": 110000
+    },
+    {
+      "rank": 15,
+      "title": "张萌辟谣大IP剧是陈情令",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%90%8C%E8%BE%9F%E8%B0%A3%E5%A4%A7IP%E5%89%A7%E6%98%AF%E9%99%88%E6%83%85%E4%BB%A4",
+      "hot_value": 90000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "反中乱港分子黄之锋再判 10 年，哪些信息值得关注？带来哪些警示",
+      "url": "https://www.zhihu.com/question/2101651157710128349",
+      "hot_value": 8930000
+    },
+    {
+      "rank": 2,
+      "title": "大学生身挂 11 部手机无偿代跑校园跑，被查后独自扛下处分不供出同学，这算真义气还是真违规",
+      "url": "https://www.zhihu.com/question/2101612544959969091",
+      "hot_value": 7880000
+    },
+    {
+      "rank": 3,
+      "title": "如何看待北京交通大学官方表态，雄安校区已被明确为学校的唯一主校区",
+      "url": "https://www.zhihu.com/question/2101691958401971142",
+      "hot_value": 3790000
+    },
+    {
+      "rank": 4,
+      "title": "2027 年放假安排出炉，9 天春节假期回归，成近年调休天数最少年份，你有哪些期待？假期准备做什么",
+      "url": "https://www.zhihu.com/question/2101722006861385895",
+      "hot_value": 3770000
+    },
+    {
+      "rank": 5,
+      "title": "张雪自掏 30 万给公司首席发动机工程师买房，要求只能写员工自己名字，如何看待这一举措",
+      "url": "https://www.zhihu.com/question/2101708093352682023",
+      "hot_value": 2570000
+    },
+    {
+      "rank": 6,
+      "title": "患者被三甲医院医生推荐去三乙医院，花费 2 万多元又被告知治不了只退四千元，这是什么套路？暴露出什么问题",
+      "url": "https://www.zhihu.com/question/2101364650180700119",
+      "hot_value": 1880000
+    },
+    {
+      "rank": 7,
+      "title": "商鞅为什么要用徙木立信来建立百姓对官府的信任，这对第一次变法顺利推行有什么作用",
+      "url": "https://www.zhihu.com/question/2084935519646102895",
+      "hot_value": 1760000
+    },
+    {
+      "rank": 8,
+      "title": "如何评价央视认证原神六年长红",
+      "url": "https://www.zhihu.com/question/2100082789764821227",
+      "hot_value": 1540000
+    },
+    {
+      "rank": 9,
+      "title": "冯远征认为 AI 短剧里的角色长相完美，却让人看完就忘，「因为角色没有呼吸」，你同意此观点吗",
+      "url": "https://www.zhihu.com/question/2101279300045338395",
+      "hot_value": 1250000
+    },
+    {
+      "rank": 10,
+      "title": "淘宝闪购上线「家宴」高端外卖项目，引进米其林品牌，高端外卖市场大吗",
+      "url": "https://www.zhihu.com/question/2101619797695754508",
+      "hot_value": 1220000
+    },
+    {
+      "rank": 11,
+      "title": "比利时等欧洲八国超市遭黑客攻击，冷柜升至 50℃，是谁发动的攻击？会成为新型网络战手段吗？该如何防范",
+      "url": "https://www.zhihu.com/question/2100889432480138997",
+      "hot_value": 1140000
+    },
+    {
+      "rank": 12,
+      "title": "假如《影之刃零》可以自选加入左殇阵营，你会背叛魂吗",
+      "url": "https://www.zhihu.com/question/2098861847852085729",
+      "hot_value": 1100000
+    },
+    {
+      "rank": 13,
+      "title": "杭州骨灰撒钱塘江已有八百余户报名，符合条件的还能领两千元补贴，如何看待这一服务？会影响生态环境吗",
+      "url": "https://www.zhihu.com/question/2101418619233989030",
+      "hot_value": 1080000
+    },
+    {
+      "rank": 14,
+      "title": "C 罗宣布从葡萄牙国家队退役，结束 23 年国脚生涯，如何评价 C 罗的葡萄牙时代和历史地位？谁能接过他的担子",
+      "url": "https://www.zhihu.com/question/2101745541029836166",
+      "hot_value": 1060000
+    },
+    {
+      "rank": 15,
+      "title": "钱德勒·帕森斯吐槽中国品牌球鞋「给钱多，但鞋太烂，我受伤绝对跟这有关系」，这算实话实说，还是吃饭砸锅",
+      "url": "https://www.zhihu.com/question/2101352581674919157",
+      "hot_value": 1040000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "score": 41,
+      "author": "SerCe",
+      "comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=50397219"
+    },
+    {
+      "rank": 2,
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "score": 174,
+      "author": "ChrisArchitect",
+      "comments": 146,
+      "hn_url": "https://news.ycombinator.com/item?id=50388001"
+    },
+    {
+      "rank": 3,
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "score": 591,
+      "author": "PLenz",
+      "comments": 1330,
+      "hn_url": "https://news.ycombinator.com/item?id=50391456"
+    },
+    {
+      "rank": 4,
+      "title": "As the Japanese Countryside Empties Out, Wildlife Is Disappearing",
+      "url": "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
+      "score": 20,
+      "author": "rdmuser",
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=50397264"
+    },
+    {
+      "rank": 5,
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "score": 22,
+      "author": "theanomaly",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50397429"
+    },
+    {
+      "rank": 6,
+      "title": "First steps in bare-metal programming using UEFI",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "score": 112,
+      "author": "LaSombra",
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=50394855"
+    },
+    {
+      "rank": 7,
+      "title": "We know 15k websites are infected. how do we tell them?",
+      "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+      "score": 79,
+      "author": "speckx",
+      "comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=50396064"
+    },
+    {
+      "rank": 8,
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "score": 14,
+      "author": "fiej",
+      "comments": 4,
+      "hn_url": "https://news.ycombinator.com/item?id=50397017"
+    },
+    {
+      "rank": 9,
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "url": "https://github.com/ppmpreetham/BUI",
+      "score": 606,
+      "author": "ppmpreetham",
+      "comments": 248,
+      "hn_url": "https://news.ycombinator.com/item?id=50389333"
+    },
+    {
+      "rank": 10,
+      "title": "Memorilla: Latent Semantic Memory for LLMs",
+      "url": "https://arxiv.org/abs/2610.21375",
+      "score": 33,
+      "author": "handfuloflight",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50395919"
+    },
+    {
+      "rank": 11,
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "score": 251,
+      "author": "thisisauserid",
+      "comments": 197,
+      "hn_url": "https://news.ycombinator.com/item?id=50392118"
+    },
+    {
+      "rank": 12,
+      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+      "url": "https://up.codes/careers?utm_source=HN",
+      "score": 1,
+      "author": "Old_Thrashbarg",
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50395043"
+    },
+    {
+      "rank": 13,
+      "title": "My first and last telegram was from Rebecca West",
+      "url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
+      "score": 12,
+      "author": "bryanrasmussen",
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=50397176"
+    },
+    {
+      "rank": 14,
+      "title": "Size-It-Up (Game)",
+      "url": "https://magnitudle.com/size-it-up",
+      "score": 32,
+      "author": "whoishiding",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=50395869"
+    },
+    {
+      "rank": 15,
+      "title": "Democrats launching congressional investigations into SpaceXAI, META and Apple",
+      "url": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/",
+      "score": 67,
+      "author": "pretext",
+      "comments": 19,
+      "hn_url": "https://news.ycombinator.com/item?id=50397102"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "开发工具与编辑器",
+        "color": "devtools",
+        "summary": "今天的 GitHub Trending 里，编辑器领域动静不小。Zed 编辑器 [1] 继续霸榜，主打高性能和多人协作，那种“代码即思考”的感觉确实吸引了不少人。另外，NVIDIA 推出的 auto-ontology [2] 也挺硬核，用 Python 框架给数据层构建语义推理，这对搞 LLM 和 Agent 的朋友来说，能显著提升上下文检索的可解释性，值得去瞅瞅。React [6] 和 Vue 阵营的 Angular [7] 依然稳如老狗，不过 Rust 语言 [5] 这次也冲进了前十，看来用 Rust 重写核心工具的趋势越来越明显了。\n\nLobsters 上大家也在聊开发体验，虽然没直接提到具体项目，但讨论氛围很浓，很多开发者抱怨现代前端框架越来越重，希望能看到像 Zed 这样极致轻量但功能强大的工具。我觉得在 AI 时代，工具链的效率就是生产力，Zed 这种双缓冲渲染确实是个好路子。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "infra",
+        "summary": "底层这块儿，Rust 生态的 Rust 语言 [5] 和 nushell [13] 都在榜。nushell 号称是新一代 shell，支持数据管道操作，搞运维或者写脚本的朋友应该对它很感兴趣。Prometheus [9] 作为监控系统的扛把子，地位依然不可撼动。还有 OpenSSL [15]，作为 TLS 和加密的基石，虽然名字听起来枯燥，但每次更新都关乎网络安全，搞安全的朋友必须盯着它。\n\n少数派今天有一篇《你不知道的客户端开发：AI 时代下的选型、原生与借力》[12]，讲得挺透彻。现在做客户端，是选原生还是搞 AI 赋能？文章里提到的观点是，工具要趁手，但架构要灵活。我也觉得，底层技术虽然看不见，但像 nushell 这种能简化日常操作的工具，确实能极大提升开发幸福感。"
+      },
+      {
+        "name": "数码产品与效率提升",
+        "color": "gadget",
+        "summary": "数码圈最近全是苹果的动静。少数派发了好几篇关于新 MacBook Pro 的深度体验，包括 M6 款的能效比测试 [4] 和 PROLED XDR 屏幕的首发感受 [6]。看来 Apple Silicon 越来越强，续航和屏幕素质都在卷。另外，iPhone 系统也有新变化 [5]，虽然文章标题有点调侃，但实际体验确实有不少细节升级。\n\n有意思的是，少数派编辑部还盘点了大家最近买的好东西 [7]，还有 2027 年的节假日安排 [8]。虽然节假日不是技术，但知道什么时候能玩，也算是一种“生活效率”吧？不过说实话，比起这些消费级产品，我更期待像 Zed 这样的生产力工具能跟上节奏，毕竟好电脑配个慢编辑器也白搭。"
+      },
+      {
+        "name": "AI 智能体与安全思考",
+        "color": "ai",
+        "summary": "虽然今天的 GitHub Trending 榜首还是传统开发工具，但 NVIDIA 的 auto-ontology [2] 和 Google 的 Agent Skills [10] 已经暴露出 AI 智能体正在从概念走向工程化。特别是 auto-ontology，它试图用图结构来解决 LLM 的推理确定性问题，这方向很有搞头。\n\nLobsters 上最近有个讨论挺炸裂的，虽然这次数据没直接显示在 Trending 里，但类似的话题一直热。大家担心 AI 智能体的边界在哪里，如果它们能自主决定去抓取外部数据，安全沙箱是不是太脆弱了？这点特别值得思考。AI 越强，我们对它的控制力挑战就越大，搞安全的朋友得提前备好预案了。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天的少数派文章里，《本周看什么》[1] 和《新玩意 255》[7] 这种内容虽然不像代码那么硬核，但能看出社区对新鲜事物的敏感度。大家关心的不仅是技术本身，还有技术带来的生活方式改变，比如 AI 如何影响我们的日常决策。\n\n我个人觉得，技术简报不应该只罗列项目，更要像今天的文章那样，把产品体验、行业趋势和具体代码结合起来看。从 Rails [3] 这种老牌框架的稳固，到 nushell [13] 这种新工具的崛起，技术演进其实是在寻找“平衡点”——既要有稳定性，又要有新玩法。这种平衡，才是开发者最需要的。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "本周看什么 | 最近值得一看的 9 部作品",
+        "url": "https://sspai.com/post/118623",
+        "source": "少数派",
+        "desc": "少数派编辑部推荐本周值得一看的 9 部作品，涵盖技术与生活思考。"
+      },
+      {
+        "num": 2,
+        "title": "Auto Ontology",
+        "url": "https://github.com/NVIDIA/auto-ontology",
+        "source": "GitHub Trending",
+        "desc": "NVIDIA 推出的 Python 框架，用于构建基于图的语义推理层。"
+      },
+      {
+        "num": 3,
+        "title": "Ruby on Rails",
+        "url": "https://github.com/rails/rails",
+        "source": "GitHub Trending",
+        "desc": "经典的 Ruby 全栈 Web 应用框架，长期占据 Trending 前列。"
+      },
+      {
+        "num": 4,
+        "title": "iPhone 变强了，但我没有",
+        "url": "https://sspai.com/post/118250",
+        "source": "少数派",
+        "desc": "张奕源 Nick 对 iPhone 系统升级及体验变化的深度观察。"
+      },
+      {
+        "num": 5,
+        "title": "Rust",
+        "url": "https://github.com/rust-lang/rust",
+        "source": "GitHub Trending",
+        "desc": "Rust 语言官方仓库，致力于构建可靠且高效的软件。"
+      },
+      {
+        "num": 6,
+        "title": "React",
+        "url": "https://github.com/react/react",
+        "source": "GitHub Trending",
+        "desc": "用于构建 Web 和原生用户界面的流行库。"
+      },
+      {
+        "num": 7,
+        "title": "Angular",
+        "url": "https://github.com/angular/angular",
+        "source": "GitHub Trending",
+        "desc": "Google 推出的全功能 Web 应用开发框架。"
+      },
+      {
+        "num": 8,
+        "title": "M6 款 MacBook Pro 初探",
+        "url": "https://sspai.com/post/118570",
+        "source": "少数派",
+        "desc": "张奕源 Nick 对新 MacBook Pro 的能效比与性能体验进行初步测评。"
+      },
+      {
+        "num": 9,
+        "title": "Prometheus",
+        "url": "https://github.com/prometheus/prometheus",
+        "source": "GitHub Trending",
+        "desc": "开源监控系统和时序数据库，云原生监控的事实标准。"
+      },
+      {
+        "num": 10,
+        "title": "Agent Skills",
+        "url": "https://github.com/google/skills",
+        "source": "GitHub Trending",
+        "desc": "Google 为 AI 智能体提供的技能库，支持各类产品和技术。"
+      },
+      {
+        "num": 11,
+        "title": "mpv-player",
+        "url": "https://github.com/mpv-player/mpv",
+        "source": "GitHub Trending",
+        "desc": "命令行媒体播放器，以高效和可配置性著称。"
+      },
+      {
+        "num": 12,
+        "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+        "url": "https://sspai.com/post/117713",
+        "source": "少数派",
+        "desc": "Tw93 探讨 AI 时代客户端开发的选型策略，平衡原生与 AI 赋能。"
+      },
+      {
+        "num": 13,
+        "title": "nushell",
+        "url": "https://github.com/nushell/nushell",
+        "source": "GitHub Trending",
+        "desc": "一种新型 shell，支持数据管道操作和表格数据。"
+      },
+      {
+        "num": 14,
+        "title": "etcd-io",
+        "url": "https://github.com/etcd-io/etcd",
+        "source": "GitHub Trending",
+        "desc": "分布式可靠键值存储，用于存储分布式系统的关键数据。"
+      },
+      {
+        "num": 15,
+        "title": "OpenSSL",
+        "url": "https://github.com/openssl/openssl",
+        "source": "GitHub Trending",
+        "desc": "通用 TLS 和加密库，是网络安全的核心组件。"
+      },
+      {
+        "num": 16,
+        "title": "新玩意 255｜少数派的编辑们最近买了啥？",
+        "url": "https://sspai.com/post/118541",
+        "source": "少数派",
+        "desc": "少数派编辑部分享最近购买的新奇好物，涵盖科技与生活。"
+      },
+      {
+        "num": 17,
+        "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
+        "url": "https://sspai.com/post/118546",
+        "source": "少数派",
+        "desc": "waychane 对搭载 PROLED XDR 屏幕的新 MacBook Pro 进行首发深度体验。"
+      },
+      {
+        "num": 18,
+        "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+        "url": "https://sspai.com/post/118587",
+        "source": "少数派",
+        "desc": "少数派晨间资讯，涵盖节假日安排及科技行业动态。"
+      },
+      {
+        "num": 19,
+        "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+        "url": "https://sspai.com/post/118498",
+        "source": "少数派",
+        "desc": "昨日科技圈大事汇总，包括腾讯 AI 大模型发布及 Google 教育政策调整。"
+      },
+      {
+        "num": 20,
+        "title": "Apple 官网排版细节鉴赏",
+        "url": "https://sspai.com/post/115399",
+        "source": "少数派",
+        "desc": "SkyWT 对 Apple 官网视觉设计与排版细节的专业赏析。"
+      }
+    ],
+    "stats": {
+      "total_items": 18,
+      "total_categories": 5,
+      "total_sources": 18
+    }
+  }
+}
