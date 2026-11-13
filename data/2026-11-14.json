@@ -1,0 +1,621 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": "50502",
+      "stars_today": "206 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 2,
+      "title": "GoogleChrome / modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "stars": "4668",
+      "stars_today": "1,875 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 3,
+      "title": "openai / codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+      "stars": "13051",
+      "stars_today": "754 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 4,
+      "title": "ZhuLinsen / daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": "71507",
+      "stars_today": "272 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "we-promise / sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "stars": "14640",
+      "stars_today": "944 stars today",
+      "language": "Ruby"
+    },
+    {
+      "rank": 6,
+      "title": "backnotprop / plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "stars": "10390",
+      "stars_today": "100 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 7,
+      "title": "louislam / uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
+      "stars": "93800",
+      "stars_today": "61 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 8,
+      "title": "block / buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "stars": "37270",
+      "stars_today": "95 stars today",
+      "language": "Rust"
+    },
+    {
+      "rank": 9,
+      "title": "tradermonty / claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "stars": "4092",
+      "stars_today": "60 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 10,
+      "title": "tailscale / tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "stars": "9385",
+      "stars_today": "324 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 11,
+      "title": "Likely7 / Veyra-NRVideo",
+      "url": "https://github.com/Likely7/Veyra-NRVideo",
+      "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+      "stars": "1571",
+      "stars_today": "245 stars today",
+      "language": "C++"
+    },
+    {
+      "rank": 12,
+      "title": "ChromeDevTools / chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": "55390",
+      "stars_today": "145 stars today",
+      "language": "TypeScript"
+    }
+  ],
+  "lobsters": [],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "本周看什么 | 最近值得一看的 10 部作品少数派编辑部昨天 17:39",
+      "url": "https://sspai.com/post/118999",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 10 部作品"
+    },
+    {
+      "rank": 2,
+      "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验胡拉图说昨天 15:00Matrix精选",
+      "url": "https://sspai.com/post/118153",
+      "author": "胡拉图说",
+      "summary": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验"
+    },
+    {
+      "rank": 3,
+      "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？Tw93昨天 11:35",
+      "url": "https://sspai.com/post/118512",
+      "author": "Tw93",
+      "summary": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等少数派编辑部昨天 08:48派早报",
+      "url": "https://sspai.com/post/118966",
+      "author": "少数派编辑部",
+      "summary": "派早报：英伟达 CEO 黄仁勋宣布辞职等"
+    },
+    {
+      "rank": 5,
+      "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好Hermanchannn前天 16:37",
+      "url": "https://sspai.com/post/118366",
+      "author": "Hermanchannn",
+      "summary": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好"
+    },
+    {
+      "rank": 6,
+      "title": "Mac 选购指南 2026 冬季版内存、存储涨价但又得换 Mac？记得收下这份选购指南。Kostya前天 14:42",
+      "url": "https://sspai.com/post/85735",
+      "author": "Kostya",
+      "summary": "Mac 选购指南 2026 冬季版"
+    },
+    {
+      "rank": 7,
+      "title": "当主力机与电脑不同系统，如何优雅实现「跨设备协同」？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1794216547",
+      "author": "一派投票",
+      "summary": "当主力机与电脑不同系统，如何优雅实现「跨设备协同」？"
+    },
+    {
+      "rank": 8,
+      "title": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验南桥北桥不是桥前天 11:12",
+      "url": "https://sspai.com/post/118921",
+      "author": "南桥北桥不是桥",
+      "summary": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验"
+    },
+    {
+      "rank": 9,
+      "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等少数派编辑部前天 08:22派早报",
+      "url": "https://sspai.com/post/118935",
+      "author": "少数派编辑部",
+      "summary": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等"
+    },
+    {
+      "rank": 10,
+      "title": "城市漫步指南 | 安特卫普，时尚就在生活中程天冲11/11",
+      "url": "https://sspai.com/post/118781",
+      "author": "程天冲",
+      "summary": "城市漫步指南 | 安特卫普，时尚就在生活中"
+    },
+    {
+      "rank": 11,
+      "title": "从优胜美地到金门大桥：跟着 macOS 游览加州陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？StephenFang11/11",
+      "url": "https://sspai.com/post/118175",
+      "author": "StephenFang",
+      "summary": "从优胜美地到金门大桥：跟着 macOS 游览加州"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "新疆地震",
+      "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87",
+      "hot_value": 160000
+    },
+    {
+      "rank": 2,
+      "title": "APEC时隔12年再次来到中国",
+      "url": "https://s.weibo.com/weibo?q=APEC%E6%97%B6%E9%9A%9412%E5%B9%B4%E5%86%8D%E6%AC%A1%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD",
+      "hot_value": 130000
+    },
+    {
+      "rank": 3,
+      "title": "顾居居拉表让白小纯不要愧疚",
+      "url": "https://s.weibo.com/weibo?q=%E9%A1%BE%E5%B1%85%E5%B1%85%E6%8B%89%E8%A1%A8%E8%AE%A9%E7%99%BD%E5%B0%8F%E7%BA%AF%E4%B8%8D%E8%A6%81%E6%84%A7%E7%96%9A",
+      "hot_value": 130000
+    },
+    {
+      "rank": 4,
+      "title": "主人提醒邻居别给猫按电梯",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%BB%E4%BA%BA%E6%8F%90%E9%86%92%E9%82%BB%E5%B1%85%E5%88%AB%E7%BB%99%E7%8C%AB%E6%8C%89%E7%94%B5%E6%A2%AF",
+      "hot_value": 130000
+    },
+    {
+      "rank": 5,
+      "title": "芒果把这段放出来",
+      "url": "https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E6%8A%8A%E8%BF%99%E6%AE%B5%E6%94%BE%E5%87%BA%E6%9D%A5",
+      "hot_value": 130000
+    },
+    {
+      "rank": 6,
+      "title": "章若楠对接发文",
+      "url": "https://s.weibo.com/weibo?q=%E7%AB%A0%E8%8B%A5%E6%A5%A0%E5%AF%B9%E6%8E%A5%E5%8F%91%E6%96%87",
+      "hot_value": 130000
+    },
+    {
+      "rank": 7,
+      "title": "爽哥心疼大美",
+      "url": "https://s.weibo.com/weibo?q=%E7%88%BD%E5%93%A5%E5%BF%83%E7%96%BC%E5%A4%A7%E7%BE%8E",
+      "hot_value": 120000
+    },
+    {
+      "rank": 8,
+      "title": "春日宴回应番位争议",
+      "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E6%97%A5%E5%AE%B4%E5%9B%9E%E5%BA%94%E7%95%AA%E4%BD%8D%E4%BA%89%E8%AE%AE",
+      "hot_value": 120000
+    },
+    {
+      "rank": 9,
+      "title": "今何在 江南",
+      "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E4%BD%95%E5%9C%A8+%E6%B1%9F%E5%8D%97",
+      "hot_value": 120000
+    },
+    {
+      "rank": 10,
+      "title": "产妇求剖腹产遭拒孩子脑瘫丈夫发声",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%A7%E5%A6%87%E6%B1%82%E5%89%96%E8%85%B9%E4%BA%A7%E9%81%AD%E6%8B%92%E5%AD%A9%E5%AD%90%E8%84%91%E7%98%AB%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0",
+      "hot_value": 120000
+    },
+    {
+      "rank": 11,
+      "title": "深夜徐老师怀孕",
+      "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%A4%9C%E5%BE%90%E8%80%81%E5%B8%88%E6%80%80%E5%AD%95",
+      "hot_value": 120000
+    },
+    {
+      "rank": 12,
+      "title": "父亲动手打孩子路过女子心疼到崩溃",
+      "url": "https://s.weibo.com/weibo?q=%E7%88%B6%E4%BA%B2%E5%8A%A8%E6%89%8B%E6%89%93%E5%AD%A9%E5%AD%90%E8%B7%AF%E8%BF%87%E5%A5%B3%E5%AD%90%E5%BF%83%E7%96%BC%E5%88%B0%E5%B4%A9%E6%BA%83",
+      "hot_value": 110000
+    },
+    {
+      "rank": 13,
+      "title": "曝Tarzan可能离开AL",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9DTarzan%E5%8F%AF%E8%83%BD%E7%A6%BB%E5%BC%80AL",
+      "hot_value": 110000
+    },
+    {
+      "rank": 14,
+      "title": "肖战我不是肖战",
+      "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%88%91%E4%B8%8D%E6%98%AF%E8%82%96%E6%88%98",
+      "hot_value": 110000
+    },
+    {
+      "rank": 15,
+      "title": "曝魏晨被雪藏的原因",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%AD%8F%E6%99%A8%E8%A2%AB%E9%9B%AA%E8%97%8F%E7%9A%84%E5%8E%9F%E5%9B%A0",
+      "hot_value": 110000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "国铁规定 Z 字头列车不再读「直」改用英文字母发音，如何看待这种转变",
+      "url": "https://www.zhihu.com/question/2103584365720744278",
+      "hot_value": 3420000
+    },
+    {
+      "rank": 2,
+      "title": "前字节美团招聘负责人称「给大模型人才开 1 亿年薪不贵」如何看待此观点？给大模型人才开上亿年薪，算天价吗",
+      "url": "https://www.zhihu.com/question/2104296182344426925",
+      "hot_value": 2320000
+    },
+    {
+      "rank": 3,
+      "title": "为什么国内止痛药普遍使用布洛芬而不是阿司匹林",
+      "url": "https://www.zhihu.com/question/316552162",
+      "hot_value": 2220000
+    },
+    {
+      "rank": 4,
+      "title": "如何评价清华大学 2026 年本科生特等奖学金的 15 名候选人",
+      "url": "https://www.zhihu.com/question/2103811077255579353",
+      "hot_value": 2120000
+    },
+    {
+      "rank": 5,
+      "title": "家里的老人总是不间断的给孩子吃零食导致孩子不吃饭，我该怎么沟通",
+      "url": "https://www.zhihu.com/question/1950159878141252658",
+      "hot_value": 1570000
+    },
+    {
+      "rank": 6,
+      "title": "在图书馆里面看闲书而不是刷题 / 工作 / 自习的人，到底是怎么想的",
+      "url": "https://www.zhihu.com/question/2093827089275302310",
+      "hot_value": 1450000
+    },
+    {
+      "rank": 7,
+      "title": "Fable 5.2 生成 FPS 游戏《Saltline》成本约为 550 美元，如果换成人工，大概需要多少钱",
+      "url": "https://www.zhihu.com/question/2103967386147755902",
+      "hot_value": 1340000
+    },
+    {
+      "rank": 8,
+      "title": "重庆通报「帮连吃 7 碗米饭母女放钱」视频系摆拍已立案，这类虚假摆拍该承担哪些法律责任",
+      "url": "https://www.zhihu.com/question/2104310469767054805",
+      "hot_value": 1290000
+    },
+    {
+      "rank": 9,
+      "title": "明明跟梁家辉一起演的《捕风追影》，戏份也不少，为啥成龙没有奖项提名",
+      "url": "https://www.zhihu.com/question/2103623242048956167",
+      "hot_value": 1220000
+    },
+    {
+      "rank": 10,
+      "title": "如何看待央视足球之夜为成都蓉城做的专题片《梦的溃败》",
+      "url": "https://www.zhihu.com/question/2104542523745989474",
+      "hot_value": 1120000
+    },
+    {
+      "rank": 11,
+      "title": "高架上汽车撞上风筝线，车顶、雷达等多处被割坏，为什么一根线能有这么大威力？遇到这种情况该怎么办",
+      "url": "https://www.zhihu.com/question/2104171958761777093",
+      "hot_value": 1090000
+    },
+    {
+      "rank": 12,
+      "title": "李彦宏称公司不会仅用 AI 就更有竞争力，这一说法有何依据",
+      "url": "https://www.zhihu.com/question/2104247609519093199",
+      "hot_value": 1050000
+    },
+    {
+      "rank": 13,
+      "title": "黄仁勋算是美国中期选举的牺牲品吗？为什么偏偏是他",
+      "url": "https://www.zhihu.com/question/2104350711869698691",
+      "hot_value": 1040000
+    },
+    {
+      "rank": 14,
+      "title": "导演白雪认为如果停止思考和阅读，只依靠大脑存量内容和 AI 对话，长期一定会出问题，你碰过类似情况吗",
+      "url": "https://www.zhihu.com/question/2102865309602242713",
+      "hot_value": 1030000
+    },
+    {
+      "rank": 15,
+      "title": "你还记得第一次自己下厨的那天吗？当时为什么决定自己做饭，做出了怎样的一餐",
+      "url": "https://www.zhihu.com/question/2104545207102584756",
+      "hot_value": 810000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "FM-1 Workbench",
+      "url": "https://open.m-vave.com/fm1-workbench",
+      "score": 74,
+      "author": "simonebrunozzi",
+      "comments": 40,
+      "hn_url": "https://news.ycombinator.com/item?id=50488325"
+    },
+    {
+      "rank": 2,
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "url": "https://haddyalchaer.com/jepa",
+      "score": 148,
+      "author": "halcdev",
+      "comments": 28,
+      "hn_url": "https://news.ycombinator.com/item?id=50487185"
+    },
+    {
+      "rank": 3,
+      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+      "score": 58,
+      "author": "crescit_eundo",
+      "comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=50487864"
+    },
+    {
+      "rank": 4,
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "score": 596,
+      "author": "scottjg",
+      "comments": 169,
+      "hn_url": "https://news.ycombinator.com/item?id=50474959"
+    },
+    {
+      "rank": 5,
+      "title": "Big tech is here to let us down",
+      "url": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
+      "score": 13,
+      "author": "speckx",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50489083"
+    },
+    {
+      "rank": 6,
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "score": 31,
+      "author": "gmays",
+      "comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=50488464"
+    },
+    {
+      "rank": 7,
+      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "url": "https://isometricsf.com/",
+      "score": 83,
+      "author": "juscha1",
+      "comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=50487228"
+    },
+    {
+      "rank": 8,
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "score": 395,
+      "author": "voxleone",
+      "comments": 276,
+      "hn_url": "https://news.ycombinator.com/item?id=50482379"
+    },
+    {
+      "rank": 9,
+      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+      "score": 34,
+      "author": "dethmasque",
+      "comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=50487605"
+    },
+    {
+      "rank": 10,
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "url": "https://www.nature.com/articles/d41586-026-03638-3",
+      "score": 22,
+      "author": "gumby",
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=50488470"
+    },
+    {
+      "rank": 11,
+      "title": "A technical vision for the Haskell ecosystem",
+      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+      "score": 144,
+      "author": "cosmic_quanta",
+      "comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=50484235"
+    },
+    {
+      "rank": 12,
+      "title": "Models can now transmit viruses in weight-space",
+      "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+      "score": 98,
+      "author": "mkglees",
+      "comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=50487762"
+    },
+    {
+      "rank": 13,
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "score": 227,
+      "author": "bookofjoe",
+      "comments": 59,
+      "hn_url": "https://news.ycombinator.com/item?id=50486748"
+    },
+    {
+      "rank": 14,
+      "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+      "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+      "score": 147,
+      "author": "BobaFloutist",
+      "comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=50487522"
+    },
+    {
+      "rank": 15,
+      "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+      "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+      "score": 110,
+      "author": "ortuman",
+      "comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=50484007"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发工具",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI 工具类项目又炸了。Alibaba 开源的 open-code-review[1] 是个混合架构代码审查工具，结合了确定性流程和 LLM Agent，支持多语言规则检测，已经拿了 3,000+ star，搞后端的朋友值得关注。Backnotprop 的 plannotator[2] 也是个好用的工作流工具，让你能一键给 Agent 反馈代码、分享团队意见，甚至直接推动 Agent 迭代，这种“人在回路”的设计思路很实用。\n\nLobsters 上大家讨论得最热烈的还是 Chrome DevTools 和 AI Agent 的结合。ChromeDevTools 刚开源了 chrome-devtools-mcp[3]，专门让编码智能体能直接操控调试器、查看 DOM 和运行脚本，这简直是前端开发的“外挂”，以后写复杂页面调试效率能翻倍。不过也有人在吐槽，说如果 Agent 权限过大，可能会在测试中意外突破安全沙箱，甚至去 Hugging Face 抓数据来“作弊”通过测试，这种边界问题确实得警惕。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "系统工具这块动静也不小。OpenAI 发布了 codex-security[4]，提供了 CLI 和 TypeScript SDK 来查找和修复代码漏洞，支持 NPE、SQL 注入等多种检查，这对搞安全的朋友来说简直是及时雨。Tailscale 也推出了 tailcat[5]，就像 netcat 但运行在 Tailscale 的数据平面上，不用经过控制平面就能在内部网络直接通信，这种透传能力在运维排查问题时非常硬核。\n\n少数派上有一篇关于跨设备协同的文章，标题叫《当主力机与电脑不同系统，如何优雅实现「跨设备协同」》[6]。现在大家都混用 iOS 和 macOS，或者 Windows 和 Mac，这篇文章分享了一些实用的同步方案，不用买全套设备也能保持体验流畅。另外，还有一篇关于让老音箱焕发新生的文章，介绍了 Home Assistant Connect AUX-2[7]，通过软件让老式音箱支持网络音频，这种“老物新用”的思路在 DIY 圈一直很火。"
+      },
+      {
+        "name": "数码产品与效率生活",
+        "color": "product",
+        "summary": "数码和效率类内容挺多，尤其是 Mac 相关。Kostya 写了篇《Mac 选购指南 2026 冬季版》[8]，提到内存和存储又要涨价了，但刚需还得换，文章给出了很详细的配置建议，适合正在纠结要不要升级的朋友。Apple 还公布了 Swift Student Challenge 的安排，对学生开发者是个好消息，微软那边也发布了 Auto SR 等新技术，生态一直在推新。\n\n有意思的是，少数派编辑部发了一篇《派早报》[9]，其中提到英伟达 CEO 黄仁勋宣布辞职的消息，这绝对是科技圈的大新闻，虽然具体原因还在发酵，但肯定会影响 AI 硬件的未来走向。另外，Apple 公布 Swift Student Challenge 的安排也是值得关注的动态，对于想转行做开发的同学来说，这是个很好的入门机会。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "深度思考类的文章主要集中在产品哲学和科研方法上。Tw93 写了一篇《在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？》[10]，讲了自己如何在 AI 生成代码泛滥的环境下，坚持做一款注重细节和体验的“慢产品”，这种反直觉的产品观在当下很难得，读完让人对“快与慢”有了新理解。\n\n科研方面，胡拉图说分享了一篇《研究生如何用 AI 辅助完成一篇综述》[11]，详细拆解了从选题、检索到写作的全流程工具链。对于正在读研或者写论文的同学来说，这套方法可以直接复用，能省下不少查文献的时间。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "open-code-review",
+        "url": "https://github.com/alibaba/open-code-review",
+        "source": "GitHub Trending",
+        "desc": "Alibaba 开源的混合架构代码审查工具，结合 LLM Agent 与确定性流程。"
+      },
+      {
+        "num": 2,
+        "title": "plannotator",
+        "url": "https://github.com/backnotprop/plannotator",
+        "source": "GitHub Trending",
+        "desc": "用于与 AI Agent 协作、反馈代码并推动迭代的工作流工具。"
+      },
+      {
+        "num": 3,
+        "title": "chrome-devtools-mcp",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "source": "GitHub Trending",
+        "desc": "让编码智能体能够直接控制 Chrome 调试器的 MCP 工具。"
+      },
+      {
+        "num": 4,
+        "title": "codex-security",
+        "url": "https://github.com/openai/codex-security",
+        "source": "GitHub Trending",
+        "desc": "OpenAI 发布的安全漏洞检测与修复 CLI 及 SDK。"
+      },
+      {
+        "num": 5,
+        "title": "tailcat",
+        "url": "https://github.com/tailscale/tailcat",
+        "source": "GitHub Trending",
+        "desc": "基于 Tailscale 数据平面的网络通信工具，支持内部网络直接通信。"
+      },
+      {
+        "num": 6,
+        "title": "当主力机与电脑不同系统，如何优雅实现「跨设备协同」？",
+        "url": "https://sspai.com/bullet/1794216547",
+        "source": "少数派",
+        "desc": "探讨在不同操作系统间实现流畅跨设备协同的实用方案。"
+      },
+      {
+        "num": 7,
+        "title": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
+        "url": "https://sspai.com/post/118921",
+        "source": "少数派",
+        "desc": "通过 Home Assistant 让传统音箱支持现代网络音频协议。"
+      },
+      {
+        "num": 8,
+        "title": "Mac 选购指南 2026 冬季版",
+        "url": "https://sspai.com/post/85735",
+        "source": "少数派",
+        "desc": "针对内存存储涨价趋势的 Mac 购买配置建议。"
+      },
+      {
+        "num": 9,
+        "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+        "url": "https://sspai.com/post/118966",
+        "source": "少数派",
+        "desc": "包含科技圈重大动态的每日早报，含黄仁勋辞职新闻。"
+      },
+      {
+        "num": 10,
+        "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+        "url": "https://sspai.com/post/118512",
+        "source": "少数派",
+        "desc": "作者分享在 AI 浪潮下坚持打造注重细节的“慢产品”的心路历程。"
+      },
+      {
+        "num": 11,
+        "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+        "url": "https://sspai.com/post/118153",
+        "source": "少数派",
+        "desc": "分享利用 AI 工具链辅助研究生完成学术综述的实战经验。"
+      }
+    ],
+    "stats": {
+      "total_items": 11,
+      "total_categories": 4,
+      "total_sources": 11
+    }
+  }
+}
