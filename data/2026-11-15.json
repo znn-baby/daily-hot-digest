@@ -1,0 +1,721 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "backnotprop / plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "stars": "10930",
+      "stars_today": "412 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "GoogleChrome / modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "stars": "5741",
+      "stars_today": "1,225 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 3,
+      "title": "tradermonty / claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "stars": "4647",
+      "stars_today": "556 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "ChromeDevTools / chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": "56180",
+      "stars_today": "673 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 5,
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": "51287",
+      "stars_today": "897 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 6,
+      "title": "QwenLM / qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "stars": "30254",
+      "stars_today": "116 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 7,
+      "title": "dream-num / univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "stars": "24371",
+      "stars_today": "495 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 8,
+      "title": "ag-ui-protocol / ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "stars": "17278",
+      "stars_today": "9 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 9,
+      "title": "ashhart / TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "stars": "2126",
+      "stars_today": "53 stars today",
+      "language": "Zig"
+    },
+    {
+      "rank": 10,
+      "title": "JuliusBrussee / caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "stars": "119952",
+      "stars_today": "227 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 11,
+      "title": "louislam / uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
+      "stars": "94161",
+      "stars_today": "432 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 12,
+      "title": "we-promise / sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "stars": "15179",
+      "stars_today": "659 stars today",
+      "language": "Ruby"
+    },
+    {
+      "rank": 13,
+      "title": "Tencent / LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "stars": "811",
+      "stars_today": "101 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 14,
+      "title": "Likely7 / Veyra-NRVideo",
+      "url": "https://github.com/Likely7/Veyra-NRVideo",
+      "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+      "stars": "2041",
+      "stars_today": "423 stars today",
+      "language": "C++"
+    },
+    {
+      "rank": 15,
+      "title": "martin-olivier / airgorah",
+      "url": "https://github.com/martin-olivier/airgorah",
+      "description": "A WiFi security auditing software",
+      "stars": "5699",
+      "stars_today": "269 stars today",
+      "language": "Rust"
+    }
+  ],
+  "lobsters": [],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA随便好啦昨天 15:40Matrix精选",
+      "url": "https://sspai.com/post/118276",
+      "author": "随便好啦",
+      "summary": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA"
+    },
+    {
+      "rank": 2,
+      "title": "本周看什么 | 最近值得一看的 10 部作品少数派编辑部前天 17:39",
+      "url": "https://sspai.com/post/118999",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 10 部作品"
+    },
+    {
+      "rank": 3,
+      "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验胡拉图说前天 15:00Matrix精选",
+      "url": "https://sspai.com/post/118153",
+      "author": "胡拉图说",
+      "summary": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验"
+    },
+    {
+      "rank": 4,
+      "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？Tw93前天 11:35",
+      "url": "https://sspai.com/post/118512",
+      "author": "Tw93",
+      "summary": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？"
+    },
+    {
+      "rank": 5,
+      "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等少数派编辑部前天 08:48派早报",
+      "url": "https://sspai.com/post/118966",
+      "author": "少数派编辑部",
+      "summary": "派早报：英伟达 CEO 黄仁勋宣布辞职等"
+    },
+    {
+      "rank": 6,
+      "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好Hermanchannn11/12",
+      "url": "https://sspai.com/post/118366",
+      "author": "Hermanchannn",
+      "summary": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好"
+    },
+    {
+      "rank": 7,
+      "title": "当主力机与电脑不同系统，如何优雅实现「跨设备协同」？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1794216547",
+      "author": "一派投票",
+      "summary": "当主力机与电脑不同系统，如何优雅实现「跨设备协同」？"
+    },
+    {
+      "rank": 8,
+      "title": "Mac 选购指南 2026 冬季版内存、存储涨价但又得换 Mac？记得收下这份选购指南。Kostya11/12",
+      "url": "https://sspai.com/post/85735",
+      "author": "Kostya",
+      "summary": "Mac 选购指南 2026 冬季版"
+    },
+    {
+      "rank": 9,
+      "title": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验南桥北桥不是桥11/12",
+      "url": "https://sspai.com/post/118921",
+      "author": "南桥北桥不是桥",
+      "summary": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验"
+    },
+    {
+      "rank": 10,
+      "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等少数派编辑部11/12派早报",
+      "url": "https://sspai.com/post/118935",
+      "author": "少数派编辑部",
+      "summary": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等"
+    },
+    {
+      "rank": 11,
+      "title": "城市漫步指南 | 安特卫普，时尚就在生活中程天冲11/11",
+      "url": "https://sspai.com/post/118781",
+      "author": "程天冲",
+      "summary": "城市漫步指南 | 安特卫普，时尚就在生活中"
+    },
+    {
+      "rank": 12,
+      "title": "十月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1792994679",
+      "author": "一派讨论",
+      "summary": "十月买了什么好东西？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "小寒梦游",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%AF%92%E6%A2%A6%E6%B8%B8",
+      "hot_value": 560000
+    },
+    {
+      "rank": 2,
+      "title": "数读向新向优向好的中国经济",
+      "url": "https://s.weibo.com/weibo?q=%E6%95%B0%E8%AF%BB%E5%90%91%E6%96%B0%E5%90%91%E4%BC%98%E5%90%91%E5%A5%BD%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E",
+      "hot_value": 450000
+    },
+    {
+      "rank": 3,
+      "title": "白小纯居然是来报恩的",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%B1%85%E7%84%B6%E6%98%AF%E6%9D%A5%E6%8A%A5%E6%81%A9%E7%9A%84",
+      "hot_value": 450000
+    },
+    {
+      "rank": 4,
+      "title": "boss直聘暂停要求带咖啡公司账号权限",
+      "url": "https://s.weibo.com/weibo?q=boss%E7%9B%B4%E8%81%98%E6%9A%82%E5%81%9C%E8%A6%81%E6%B1%82%E5%B8%A6%E5%92%96%E5%95%A1%E5%85%AC%E5%8F%B8%E8%B4%A6%E5%8F%B7%E6%9D%83%E9%99%90",
+      "hot_value": 450000
+    },
+    {
+      "rank": 5,
+      "title": "清融尽力",
+      "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E8%9E%8D%E5%B0%BD%E5%8A%9B",
+      "hot_value": 440000
+    },
+    {
+      "rank": 6,
+      "title": "梓墨FMVP",
+      "url": "https://s.weibo.com/weibo?q=%E6%A2%93%E5%A2%A8FMVP",
+      "hot_value": 430000
+    },
+    {
+      "rank": 7,
+      "title": "中纪委罕见通报高官一把手职权腐败",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BA%AA%E5%A7%94%E7%BD%95%E8%A7%81%E9%80%9A%E6%8A%A5%E9%AB%98%E5%AE%98%E4%B8%80%E6%8A%8A%E6%89%8B%E8%81%8C%E6%9D%83%E8%85%90%E8%B4%A5",
+      "hot_value": 300000
+    },
+    {
+      "rank": 8,
+      "title": "张泉灵直呼马天宇太神奇了",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%B3%89%E7%81%B5%E7%9B%B4%E5%91%BC%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%A4%AA%E7%A5%9E%E5%A5%87%E4%BA%86",
+      "hot_value": 300000
+    },
+    {
+      "rank": 9,
+      "title": "国足马来西亚冲突后续",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%86%B2%E7%AA%81%E5%90%8E%E7%BB%AD",
+      "hot_value": 290000
+    },
+    {
+      "rank": 10,
+      "title": "王乐乐",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B9%90%E4%B9%90",
+      "hot_value": 280000
+    },
+    {
+      "rank": 11,
+      "title": "曝高迪抖音直播权限被永封",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%AB%98%E8%BF%AA%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD%E6%9D%83%E9%99%90%E8%A2%AB%E6%B0%B8%E5%B0%81",
+      "hot_value": 280000
+    },
+    {
+      "rank": 12,
+      "title": "男子欠10元10年不还将债主打骨折",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%AC%A010%E5%85%8310%E5%B9%B4%E4%B8%8D%E8%BF%98%E5%B0%86%E5%80%BA%E4%B8%BB%E6%89%93%E9%AA%A8%E6%8A%98",
+      "hot_value": 280000
+    },
+    {
+      "rank": 13,
+      "title": "曝爱奇艺尖叫之夜座位双C",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%BA%A7%E4%BD%8D%E5%8F%8CC",
+      "hot_value": 280000
+    },
+    {
+      "rank": 14,
+      "title": "许飞直接红温了",
+      "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E7%9B%B4%E6%8E%A5%E7%BA%A2%E6%B8%A9%E4%BA%86",
+      "hot_value": 270000
+    },
+    {
+      "rank": 15,
+      "title": "WB夺冠",
+      "url": "https://s.weibo.com/weibo?q=WB%E5%A4%BA%E5%86%A0",
+      "hot_value": 270000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "马化腾曾坦言腾讯 AI「上了船才发现船漏水」，如今又把员工分成陆军和海军，这释放了什么信号",
+      "url": "https://www.zhihu.com/question/2104265147606889514",
+      "hot_value": 4300000
+    },
+    {
+      "rank": 2,
+      "title": "Faker 采访称「我们不可能一直是冠军，更看好决赛 GEN 能赢」，为什么今年 GEN 评价如此高",
+      "url": "https://www.zhihu.com/question/2104572702581159291",
+      "hot_value": 2490000
+    },
+    {
+      "rank": 3,
+      "title": "美国因出现特殊情况及安全原因，所有航班一度暂停起飞，目前停飞令已解除，具体情况如何？造成影响有多大",
+      "url": "https://www.zhihu.com/question/2104838863910690956",
+      "hot_value": 2190000
+    },
+    {
+      "rank": 4,
+      "title": "《持械入宋》制片人称算力投入超百万且没投流，团队每部短剧都盈利，怎样看待这一高收益性？哪些思路能借鉴",
+      "url": "https://www.zhihu.com/question/2104167693242691717",
+      "hot_value": 1980000
+    },
+    {
+      "rank": 5,
+      "title": "圆周率中可能存在 100 万个连续的 0 吗",
+      "url": "https://www.zhihu.com/question/2049344893462565510",
+      "hot_value": 1810000
+    },
+    {
+      "rank": 6,
+      "title": "工商银行、农业银行、中国人保称合计约 2750 亿元股票定增已经获上交所核准，对此你怎么看",
+      "url": "https://www.zhihu.com/question/2104203733609493479",
+      "hot_value": 1790000
+    },
+    {
+      "rank": 7,
+      "title": "闻着香吃着却不甜的街边烤红薯，真的是用香精浸泡过的吗？这是什么原理？可以如何辨别",
+      "url": "https://www.zhihu.com/question/2100400144176919959",
+      "hot_value": 1550000
+    },
+    {
+      "rank": 8,
+      "title": "《给阿嬷的情书》获金鸡奖最佳编剧时无人响应，《密档》获金鸡奖最佳导演时掌声一片，你怎么看",
+      "url": "https://www.zhihu.com/question/2104243850030204763",
+      "hot_value": 1480000
+    },
+    {
+      "rank": 9,
+      "title": "南京「零元面馆」爆火后被质疑影响周边商家，创始人称如周围有餐饮商家因此受损愿出钱补偿，如何看待此回应",
+      "url": "https://www.zhihu.com/question/2104599557053081171",
+      "hot_value": 1230000
+    },
+    {
+      "rank": 10,
+      "title": "专家称今冬我国大部大概率是暖冬但寒潮偏多，该如何从气象学角度上理解这一结论",
+      "url": "https://www.zhihu.com/question/2094963741066522869",
+      "hot_value": 1220000
+    },
+    {
+      "rank": 11,
+      "title": "CFA 中国之队肇庆国际足球邀请赛，国足 2-0 马来西亚，终结 3 连败进球荒，如何评价这场比赛",
+      "url": "https://www.zhihu.com/question/2105016126656570715",
+      "hot_value": 1220000
+    },
+    {
+      "rank": 12,
+      "title": "为什么要偶尔带孩子去外面吃饭",
+      "url": "https://www.zhihu.com/question/1971822160084439834",
+      "hot_value": 1210000
+    },
+    {
+      "rank": 13,
+      "title": "DeepSeek harness 相比 codex 有什么劣势",
+      "url": "https://www.zhihu.com/question/2072669811511922890",
+      "hot_value": 920000
+    },
+    {
+      "rank": 14,
+      "title": "医学生看医疗剧是一种什么样的体验",
+      "url": "https://www.zhihu.com/question/286205200",
+      "hot_value": 770000
+    },
+    {
+      "rank": 15,
+      "title": "职场里，你的能力、人脉都被同事下属认可，但领导不赞同导致晋升落空，你怎么办",
+      "url": "https://www.zhihu.com/question/2057405691359450045",
+      "hot_value": 720000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "score": 143,
+      "author": "armcat",
+      "comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=50499017"
+    },
+    {
+      "rank": 2,
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "score": 126,
+      "author": "rbanffy",
+      "comments": 45,
+      "hn_url": "https://news.ycombinator.com/item?id=50497892"
+    },
+    {
+      "rank": 3,
+      "title": "A Family Tree of Software Job Titles",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "score": 29,
+      "author": "umerf",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=50499038"
+    },
+    {
+      "rank": 4,
+      "title": "KDE: The documentary [video]",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "score": 225,
+      "author": "mrkn1",
+      "comments": 37,
+      "hn_url": "https://news.ycombinator.com/item?id=50496976"
+    },
+    {
+      "rank": 5,
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "score": 400,
+      "author": "casi",
+      "comments": 242,
+      "hn_url": "https://news.ycombinator.com/item?id=50440709"
+    },
+    {
+      "rank": 6,
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "score": 92,
+      "author": "acossta",
+      "comments": 26,
+      "hn_url": "https://news.ycombinator.com/item?id=50496811"
+    },
+    {
+      "rank": 7,
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "score": 98,
+      "author": "snipedbywifi",
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=50497132"
+    },
+    {
+      "rank": 8,
+      "title": "Reverse engineering a vintage diode-transistor logic chip",
+      "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+      "score": 38,
+      "author": "dverlaeckt80",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50416011"
+    },
+    {
+      "rank": 9,
+      "title": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "score": 122,
+      "author": "DeepLogin",
+      "comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=50441444"
+    },
+    {
+      "rank": 10,
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "score": 45,
+      "author": "VaibhaavTiwari",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50497589"
+    },
+    {
+      "rank": 11,
+      "title": "Will We Put Data Centers in Space?",
+      "url": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
+      "score": 13,
+      "author": "simonebrunozzi",
+      "comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=50498945"
+    },
+    {
+      "rank": 12,
+      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+      "url": "https://github.com/FURSOY/fursoy-cpu",
+      "score": 39,
+      "author": "fursoy",
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=50497137"
+    },
+    {
+      "rank": 13,
+      "title": "Testing a Trash Can Faraday Cage",
+      "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+      "score": 48,
+      "author": "torutofu",
+      "comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=50467278"
+    },
+    {
+      "rank": 14,
+      "title": "Monkey Island: all 13 versions side by side",
+      "url": "https://monkeyisland.pages.dev/",
+      "score": 382,
+      "author": "maximilianburke",
+      "comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=50493904"
+    },
+    {
+      "rank": 15,
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "score": 285,
+      "author": "gslin",
+      "comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=50496602"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI Agent 与开发工具",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关项目又炸了，尤其是跟代码协同和工具链相关的。backnotprop 出的 plannotator[1] 号称让开发者在循环中保持对 Agent 的掌控，能一键反馈给 Agent，这种双向交互模式挺酷。GoogleChrome 的 modern-web-guidance-src[2] 则致力于让编程 Agent 同步最新的 Web 最佳实践，这对自动化开发很实用。还有 alibaba 的 open-code-review[3]，主打安全高效，内置了 NPE、SQL 注入等多种规则检查，大厂级代码审查工具值得关注。另外，QwenLM 的 qwen-code[4] 和 Tencent 的 LoopForge[5] 也都在强化本地化代码 Agent 的落地能力，前者是终端智能体，后者则提供工作流编排，让 Claude 和 CodeBuddy 等人的协作更可控。\n\nLobsters 社区今天讨论最热烈的其实是工具链的边界问题，大家特别关注 Chrome DevTools 如何被改造为专门服务于 Coding Agents 的 MCP 协议[6]。这点很有意思，以前我们手动调试，现在可能是 Agent 自动调试，工具的角色正在从“辅助人类”转向“服务智能体”。搞前端的朋友如果不想被 Agent 带偏节奏，得好好看看这个新动向。",
+        "sources": []
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "system",
+        "summary": "底层技术这块儿也有几个硬核项目。ashhart 的 TensorFold[7] 是个 LLM 推理引擎，支持 Metal、CUDA 和 Vulkan，这对优化端侧推理速度很关键。JuliusBrussee 的 caveman[8] 项目有点搞怪但效果惊人，它用“穴居人”风格的极简沟通方式，据说能帮 Agent 省掉 65% 的 Token，这在 Token 成本这么贵的今天简直是省钱神器。chrome-devtools-mcp[6] 虽然也涉及工具链，但从底层通信协议角度看，它重新定义了调试器与 Agent 的握手方式，技术含金量不低。\n\n少数派上南桥北桥不是桥的文章 [9] 讲让老音箱焕发新生，用了 Home Assistant Connect AUX-2，这种软硬结合让怀旧设备重新接入现代智能家居，技术实现上应该涉及了不少音频协议适配，搞硬件折腾的朋友可以看看。",
+        "sources": []
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "product",
+        "summary": "数码产品和效率工具方面，dream-num 的 univer[10] 是个不错的 AI Office SDK，把编辑、计算、协作这些基础能力开放给产品和 AI Agent，想构建自己的智能办公套件可以参考。louislam 的 uptime-kuma[11] 依然是自托管监控工具里的颜值担当，虽然老项目了但维护得好。Tencent 的 LoopForge[5] 除了做 Agent 编排，其实也隐含了团队协作效率的解决方案，通过脚本和人工审批门控来管理代码交付流程。\n\n少数派编辑部发的派早报 [12] 里提到英伟达 CEO 黄仁勋宣布辞职的消息，虽然主要是新闻，但反映了科技行业高层变动的常态。另外还有关于 Mac 选购指南 2026 冬季版 [13]，提到内存存储涨价但还得换，这对想升级设备的朋友是重要参考。Tw93 的文章 [14] 关于在快 AI 时代做“慢产品”Mole，这种反差思维在效率工具领域特别值得玩味，提醒我们工具的核心还是服务于人，而不是让人成为工具的奴隶。",
+        "sources": []
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "关于 AI 和人类的思考，少数派上胡拉图说分享了一篇研究生如何用 AI 辅助写综述的经验 [15]，这不仅是工具使用，更是一种科研范式的转变。从“寻找资料”变成“验证假设”，AI 在这里的角色更像是一个超级研究助理。而 caveman[8] 项目背后的逻辑其实也是一种思考：既然人类沟通有时候废话多，那机器之间是不是也应该追求极简？这种‘少即是多’的理念在 AI 交互中越来越明显。\n\n值得一提的是，关于跨设备协同的讨论 [16] 也引发了不少共鸣，当主力机是手机电脑系统不同时，如何优雅地打通数据孤岛是个老难题。这类讨论往往没有标准答案，但能激发很多新的技术尝试，比如利用本地网络或特定协议进行桥接。",
+        "sources": []
+      },
+      {
+        "name": "安全与前沿探索",
+        "color": "security",
+        "summary": "安全领域今天有两个值得关注的点。一个是 tradermonty 的 claude-trading-skills[13]，直接把量化交易技能打包给 Claude Code，让 AI 能做市场分析和技术图表解读，这在金融安全上是个双刃剑，搞安全的朋友得警惕 AI 被用于自动化高频交易或欺诈。另一个是 martin-olivier 的 airgorah[14]，一个 WiFi 安全审计软件，适合渗透测试爱好者用来提升网络防御能力。\n\n另外，Likely7 的 Veyra-NRVideo[15] 项目试图用 DLSS 5 和 AI 超分把 PS5 的 GTA6 推流到 120FPS，虽然主要是游戏性能优化，但其中涉及的实时视频增强技术其实在安防监控和流媒体传输领域也有很大应用潜力，算是个前沿探索。",
+        "sources": []
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "plannotator: The workspace to stay in the loop and on top of agents",
+        "url": "https://github.com/backnotprop/plannotator",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，支持一键反馈给 Agent 的协同工作空间"
+      },
+      {
+        "num": 2,
+        "title": "modern-web-guidance-src",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，让编码 Agent 同步最新 Web 最佳实践"
+      },
+      {
+        "num": 3,
+        "title": "open-code-review",
+        "url": "https://github.com/alibaba/open-code-review",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，阿里出品的安全高效代码审查工具"
+      },
+      {
+        "num": 4,
+        "title": "qwen-code",
+        "url": "https://github.com/QwenLM/qwen-code",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，开源的终端 AI 编程智能体"
+      },
+      {
+        "num": 5,
+        "title": "LoopForge",
+        "url": "https://github.com/Tencent/LoopForge",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，腾讯自托管的代码 Agent 交付工作流"
+      },
+      {
+        "num": 6,
+        "title": "chrome-devtools-mcp",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，为编码 Agent 设计的 Chrome 开发者工具协议"
+      },
+      {
+        "num": 7,
+        "title": "TensorFold",
+        "url": "https://github.com/ashhart/TensorFold",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，支持 Metal/CUDA/Vulkan 的 LLM 推理引擎"
+      },
+      {
+        "num": 8,
+        "title": "caveman",
+        "url": "https://github.com/JuliusBrussee/caveman",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，通过极简沟通方式为编码 Agent 节省 65% Token"
+      },
+      {
+        "num": 9,
+        "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+        "url": "https://sspai.com/post/118276",
+        "source": "少数派",
+        "desc": "回顾千禧年高端 PDA 设备，软件与硬件的怀旧之旅"
+      },
+      {
+        "num": 10,
+        "title": "Build your own AI office with Univer Office SDK",
+        "url": "https://github.com/dream-num/univer",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，基于 Univer SDK 构建 AI 办公套件"
+      },
+      {
+        "num": 11,
+        "title": "A fancy self-hosted monitoring tool",
+        "url": "https://github.com/louislam/uptime-kuma",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，颜值高且功能强大的自托管监控工具"
+      },
+      {
+        "num": 12,
+        "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+        "url": "https://sspai.com/post/118966",
+        "source": "少数派",
+        "desc": "科技圈重大新闻汇总，涵盖英伟达高层变动等热点"
+      },
+      {
+        "num": 13,
+        "title": "Mac 选购指南 2026 冬季版",
+        "url": "https://sspai.com/post/85735",
+        "source": "少数派",
+        "desc": "针对内存存储涨价的 Mac 购买建议与配置分析"
+      },
+      {
+        "num": 14,
+        "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+        "url": "https://sspai.com/post/118512",
+        "source": "少数派",
+        "desc": "探讨在 AI 爆发背景下，如何坚持做注重体验的慢产品"
+      },
+      {
+        "num": 15,
+        "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+        "url": "https://sspai.com/post/118153",
+        "source": "少数派",
+        "desc": "分享利用 AI 工具提升科研综述写作效率的实战经验"
+      },
+      {
+        "num": 16,
+        "title": "当主力机与电脑不同系统，如何优雅实现「跨设备协同」？",
+        "url": "https://sspai.com/bullet/1794216547",
+        "source": "少数派",
+        "desc": "关于多系统环境下设备间数据同步与协同的讨论"
+      },
+      {
+        "num": 13,
+        "title": "Claude Code skills for equity investors and traders",
+        "url": "https://github.com/tradermonty/claude-trading-skills",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，为量化交易和投资者定制的 Claude 技能包"
+      },
+      {
+        "num": 14,
+        "title": "A WiFi security auditing software",
+        "url": "https://github.com/martin-olivier/airgorah",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，实用的 WiFi 安全审计工具"
+      },
+      {
+        "num": 15,
+        "title": "Bring PS5 GTA6 to 120FPS with DLSS 5",
+        "url": "https://github.com/Likely7/Veyra-NRVideo",
+        "source": "GitHub",
+        "desc": "GitHub Trending 项目，利用 AI 超分和帧生成技术提升游戏视觉体验"
+      }
+    ],
+    "stats": {
+      "total_items": 18,
+      "total_categories": 5,
+      "total_sources": 18
+    }
+  }
+}
