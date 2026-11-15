@@ -1,0 +1,649 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "dream-num / univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "stars": "25479",
+      "stars_today": "1,041 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "ag-ui-protocol / ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "stars": "17735",
+      "stars_today": "393 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 3,
+      "title": "google-labs-code / stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "stars": "9199",
+      "stars_today": "248 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 4,
+      "title": "backnotprop / plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "stars": "11738",
+      "stars_today": "860 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 5,
+      "title": "ChromeDevTools / chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": "56814",
+      "stars_today": "718 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 6,
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": "51914",
+      "stars_today": "688 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 7,
+      "title": "Tencent / LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "stars": "1367",
+      "stars_today": "484 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 8,
+      "title": "ggml-org / ggml",
+      "url": "https://github.com/ggml-org/ggml",
+      "description": "Tensor library for machine learning",
+      "stars": "15864",
+      "stars_today": "53 stars today",
+      "language": "C++"
+    },
+    {
+      "rank": 9,
+      "title": "elementalsouls / Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "stars": "6215",
+      "stars_today": "221 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 10,
+      "title": "GoogleChrome / modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "stars": "6981",
+      "stars_today": "1,220 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 11,
+      "title": "tradermonty / claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "stars": "5394",
+      "stars_today": "707 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 12,
+      "title": "NVIDIA / SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "stars": "1533",
+      "stars_today": "205 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表尹颍昨天 15:55Matrix精选",
+      "url": "https://sspai.com/post/118392",
+      "author": "尹颍",
+      "summary": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表"
+    },
+    {
+      "rank": 2,
+      "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA随便好啦前天 15:40Matrix精选",
+      "url": "https://sspai.com/post/118276",
+      "author": "随便好啦",
+      "summary": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA"
+    },
+    {
+      "rank": 3,
+      "title": "本周看什么 | 最近值得一看的 10 部作品少数派编辑部11/13",
+      "url": "https://sspai.com/post/118999",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 10 部作品"
+    },
+    {
+      "rank": 4,
+      "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验胡拉图说11/13Matrix精选",
+      "url": "https://sspai.com/post/118153",
+      "author": "胡拉图说",
+      "summary": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验"
+    },
+    {
+      "rank": 5,
+      "title": "当主力机与电脑不同系统，如何优雅实现「跨设备协同」？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1794216547",
+      "author": "一派投票",
+      "summary": "当主力机与电脑不同系统，如何优雅实现「跨设备协同」？"
+    },
+    {
+      "rank": 6,
+      "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？Tw9311/13",
+      "url": "https://sspai.com/post/118512",
+      "author": "Tw93",
+      "summary": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？"
+    },
+    {
+      "rank": 7,
+      "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等少数派编辑部11/13派早报",
+      "url": "https://sspai.com/post/118966",
+      "author": "少数派编辑部",
+      "summary": "派早报：英伟达 CEO 黄仁勋宣布辞职等"
+    },
+    {
+      "rank": 8,
+      "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好Hermanchannn11/12",
+      "url": "https://sspai.com/post/118366",
+      "author": "Hermanchannn",
+      "summary": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好"
+    },
+    {
+      "rank": 9,
+      "title": "Mac 选购指南 2026 冬季版内存、存储涨价但又得换 Mac？记得收下这份选购指南。Kostya11/12",
+      "url": "https://sspai.com/post/85735",
+      "author": "Kostya",
+      "summary": "Mac 选购指南 2026 冬季版"
+    },
+    {
+      "rank": 10,
+      "title": "十月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1792994679",
+      "author": "一派讨论",
+      "summary": "十月买了什么好东西？"
+    },
+    {
+      "rank": 11,
+      "title": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验南桥北桥不是桥11/12",
+      "url": "https://sspai.com/post/118921",
+      "author": "南桥北桥不是桥",
+      "summary": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验"
+    },
+    {
+      "rank": 12,
+      "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等少数派编辑部11/12派早报",
+      "url": "https://sspai.com/post/118935",
+      "author": "少数派编辑部",
+      "summary": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "青稚聊天记录",
+      "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95",
+      "hot_value": 410000
+    },
+    {
+      "rank": 2,
+      "title": "2分钟快闪视频看APEC热词",
+      "url": "https://s.weibo.com/weibo?q=2%E5%88%86%E9%92%9F%E5%BF%AB%E9%97%AA%E8%A7%86%E9%A2%91%E7%9C%8BAPEC%E7%83%AD%E8%AF%8D",
+      "hot_value": 290000
+    },
+    {
+      "rank": 3,
+      "title": "一汽大众纯电家轿L5开启预订",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E6%B1%BD%E5%A4%A7%E4%BC%97%E7%BA%AF%E7%94%B5%E5%AE%B6%E8%BD%BFL5%E5%BC%80%E5%90%AF%E9%A2%84%E8%AE%A2",
+      "hot_value": 250000
+    },
+    {
+      "rank": 4,
+      "title": "BLG庆功宴",
+      "url": "https://s.weibo.com/weibo?q=BLG%E5%BA%86%E5%8A%9F%E5%AE%B4",
+      "hot_value": 170000
+    },
+    {
+      "rank": 5,
+      "title": "买衣服别被面料名字忽悠",
+      "url": "https://s.weibo.com/weibo?q=%E4%B9%B0%E8%A1%A3%E6%9C%8D%E5%88%AB%E8%A2%AB%E9%9D%A2%E6%96%99%E5%90%8D%E5%AD%97%E5%BF%BD%E6%82%A0",
+      "hot_value": 130000
+    },
+    {
+      "rank": 6,
+      "title": "韩网友爆料Jennie妈妈",
+      "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E7%BD%91%E5%8F%8B%E7%88%86%E6%96%99Jennie%E5%A6%88%E5%A6%88",
+      "hot_value": 110000
+    },
+    {
+      "rank": 7,
+      "title": "曝许飞退群",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E8%AE%B8%E9%A3%9E%E9%80%80%E7%BE%A4",
+      "hot_value": 100000
+    },
+    {
+      "rank": 8,
+      "title": "内娱这样的台词我等了二十年",
+      "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E8%BF%99%E6%A0%B7%E7%9A%84%E5%8F%B0%E8%AF%8D%E6%88%91%E7%AD%89%E4%BA%86%E4%BA%8C%E5%8D%81%E5%B9%B4",
+      "hot_value": 80000
+    },
+    {
+      "rank": 9,
+      "title": "BLG一串四原来是烤串的串",
+      "url": "https://s.weibo.com/weibo?q=BLG%E4%B8%80%E4%B8%B2%E5%9B%9B%E5%8E%9F%E6%9D%A5%E6%98%AF%E7%83%A4%E4%B8%B2%E7%9A%84%E4%B8%B2",
+      "hot_value": 70000
+    },
+    {
+      "rank": 10,
+      "title": "Knight夺冠后鼓励chovy",
+      "url": "https://s.weibo.com/weibo?q=Knight%E5%A4%BA%E5%86%A0%E5%90%8E%E9%BC%93%E5%8A%B1chovy",
+      "hot_value": 70000
+    },
+    {
+      "rank": 11,
+      "title": "红果AI漫剧热播榜排名TOP10",
+      "url": "https://s.weibo.com/weibo?q=%E7%BA%A2%E6%9E%9CAI%E6%BC%AB%E5%89%A7%E7%83%AD%E6%92%AD%E6%A6%9C%E6%8E%92%E5%90%8DTOP10",
+      "hot_value": 70000
+    },
+    {
+      "rank": 12,
+      "title": "白鹿进组前的伙食",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E8%BF%9B%E7%BB%84%E5%89%8D%E7%9A%84%E4%BC%99%E9%A3%9F",
+      "hot_value": 70000
+    },
+    {
+      "rank": 13,
+      "title": "Lisa把钱塞腰上被质疑",
+      "url": "https://s.weibo.com/weibo?q=Lisa%E6%8A%8A%E9%92%B1%E5%A1%9E%E8%85%B0%E4%B8%8A%E8%A2%AB%E8%B4%A8%E7%96%91",
+      "hot_value": 70000
+    },
+    {
+      "rank": 14,
+      "title": "朱天天 创造101",
+      "url": "https://s.weibo.com/weibo?q=%E6%9C%B1%E5%A4%A9%E5%A4%A9+%E5%88%9B%E9%80%A0101",
+      "hot_value": 60000
+    },
+    {
+      "rank": 15,
+      "title": "丹麦新工签将向中国公民开放",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%B9%E9%BA%A6%E6%96%B0%E5%B7%A5%E7%AD%BE%E5%B0%86%E5%90%91%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%BC%80%E6%94%BE",
+      "hot_value": 60000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "马化腾曾坦言腾讯 AI「上了船才发现船漏水」，如今又把员工分成陆军和海军，这释放了什么信号",
+      "url": "https://www.zhihu.com/question/2104265147606889514",
+      "hot_value": 4300000
+    },
+    {
+      "rank": 2,
+      "title": "Faker 采访称「我们不可能一直是冠军，更看好决赛 GEN 能赢」，为什么今年 GEN 评价如此高",
+      "url": "https://www.zhihu.com/question/2104572702581159291",
+      "hot_value": 2490000
+    },
+    {
+      "rank": 3,
+      "title": "美国因出现特殊情况及安全原因，所有航班一度暂停起飞，目前停飞令已解除，具体情况如何？造成影响有多大",
+      "url": "https://www.zhihu.com/question/2104838863910690956",
+      "hot_value": 2190000
+    },
+    {
+      "rank": 4,
+      "title": "《持械入宋》制片人称算力投入超百万且没投流，团队每部短剧都盈利，怎样看待这一高收益性？哪些思路能借鉴",
+      "url": "https://www.zhihu.com/question/2104167693242691717",
+      "hot_value": 1980000
+    },
+    {
+      "rank": 5,
+      "title": "圆周率中可能存在 100 万个连续的 0 吗",
+      "url": "https://www.zhihu.com/question/2049344893462565510",
+      "hot_value": 1810000
+    },
+    {
+      "rank": 6,
+      "title": "工商银行、农业银行、中国人保称合计约 2750 亿元股票定增已经获上交所核准，对此你怎么看",
+      "url": "https://www.zhihu.com/question/2104203733609493479",
+      "hot_value": 1790000
+    },
+    {
+      "rank": 7,
+      "title": "闻着香吃着却不甜的街边烤红薯，真的是用香精浸泡过的吗？这是什么原理？可以如何辨别",
+      "url": "https://www.zhihu.com/question/2100400144176919959",
+      "hot_value": 1550000
+    },
+    {
+      "rank": 8,
+      "title": "《给阿嬷的情书》获金鸡奖最佳编剧时无人响应，《密档》获金鸡奖最佳导演时掌声一片，你怎么看",
+      "url": "https://www.zhihu.com/question/2104243850030204763",
+      "hot_value": 1480000
+    },
+    {
+      "rank": 9,
+      "title": "南京「零元面馆」爆火后被质疑影响周边商家，创始人称如周围有餐饮商家因此受损愿出钱补偿，如何看待此回应",
+      "url": "https://www.zhihu.com/question/2104599557053081171",
+      "hot_value": 1230000
+    },
+    {
+      "rank": 10,
+      "title": "专家称今冬我国大部大概率是暖冬但寒潮偏多，该如何从气象学角度上理解这一结论",
+      "url": "https://www.zhihu.com/question/2094963741066522869",
+      "hot_value": 1220000
+    },
+    {
+      "rank": 11,
+      "title": "CFA 中国之队肇庆国际足球邀请赛，国足 2-0 马来西亚，终结 3 连败进球荒，如何评价这场比赛",
+      "url": "https://www.zhihu.com/question/2105016126656570715",
+      "hot_value": 1220000
+    },
+    {
+      "rank": 12,
+      "title": "为什么要偶尔带孩子去外面吃饭",
+      "url": "https://www.zhihu.com/question/1971822160084439834",
+      "hot_value": 1210000
+    },
+    {
+      "rank": 13,
+      "title": "DeepSeek harness 相比 codex 有什么劣势",
+      "url": "https://www.zhihu.com/question/2072669811511922890",
+      "hot_value": 920000
+    },
+    {
+      "rank": 14,
+      "title": "医学生看医疗剧是一种什么样的体验",
+      "url": "https://www.zhihu.com/question/286205200",
+      "hot_value": 770000
+    },
+    {
+      "rank": 15,
+      "title": "职场里，你的能力、人脉都被同事下属认可，但领导不赞同导致晋升落空，你怎么办",
+      "url": "https://www.zhihu.com/question/2057405691359450045",
+      "hot_value": 720000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "score": 810,
+      "author": "jcubic",
+      "comments": 429,
+      "hn_url": "https://news.ycombinator.com/item?id=50507303"
+    },
+    {
+      "rank": 2,
+      "title": "A short explainer on how El Niño works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "score": 41,
+      "author": "nharada",
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=50509308"
+    },
+    {
+      "rank": 3,
+      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "score": 293,
+      "author": "MacAnorak",
+      "comments": 167,
+      "hn_url": "https://news.ycombinator.com/item?id=50506719"
+    },
+    {
+      "rank": 4,
+      "title": "Emacs Is My Browser",
+      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+      "score": 108,
+      "author": "nyc111",
+      "comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=50507553"
+    },
+    {
+      "rank": 5,
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "url": "https://prog21.dadgum.com/116.html",
+      "score": 137,
+      "author": "ksec",
+      "comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=50506894"
+    },
+    {
+      "rank": 6,
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "score": 35,
+      "author": "gumby",
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=50509023"
+    },
+    {
+      "rank": 7,
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "score": 174,
+      "author": "envoked",
+      "comments": 80,
+      "hn_url": "https://news.ycombinator.com/item?id=50463399"
+    },
+    {
+      "rank": 8,
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "score": 1555,
+      "author": "ls612",
+      "comments": 1088,
+      "hn_url": "https://news.ycombinator.com/item?id=50500963"
+    },
+    {
+      "rank": 9,
+      "title": "Eclipse Mosquitto – An open source MQTT broker",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "score": 9,
+      "author": "gregsadetsky",
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=50509416"
+    },
+    {
+      "rank": 10,
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "score": 147,
+      "author": "vismit2000",
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=50506376"
+    },
+    {
+      "rank": 11,
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "score": 48,
+      "author": "DeepLogin",
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=50509411"
+    },
+    {
+      "rank": 12,
+      "title": "Notes on Mathematics for Engineers (1959) [pdf]",
+      "url": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
+      "score": 29,
+      "author": "the-mitr",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=50452621"
+    },
+    {
+      "rank": 13,
+      "title": "Eval Awareness vs. Eval Paranoia",
+      "url": "https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia",
+      "score": 12,
+      "author": "ezrasu",
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=50465676"
+    },
+    {
+      "rank": 14,
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "score": 433,
+      "author": "ybathaee",
+      "comments": 203,
+      "hn_url": "https://news.ycombinator.com/item?id=50502988"
+    },
+    {
+      "rank": 15,
+      "title": "A NES emulator written in Odin",
+      "url": "https://lucypero.com/lucynes.html",
+      "score": 79,
+      "author": "frostbyte7",
+      "comments": 24,
+      "hn_url": "https://news.ycombinator.com/item?id=50506588"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发工具",
+        "color": "ai",
+        "summary": "今天 GitHub 上 AI Agent 相关的热度简直炸了。univer[1] 让你用一套 SDK 把 AI 办公室建起来，支持编辑、计算和文件处理，项目已经拿了 15k+ star，对想做 AI 原生应用的朋友很实用。ag-ui[2] 提出了一个全新的 Agent-User 交互协议，试图把智能体无缝接入前端应用，概念很前瞻。还有 alibaba 的 open-code-review[3]，号称在阿里大规模实战过的代码审查工具，结合 LLM Agent 和确定性管道，安全又高效，搞后端开发的可以备一份。值得一提的是 NVIDIA 的 SkillEvaluator[4]，专门用来评估 AI 技能的好坏，有质量门禁和语义重叠检测，感觉是 Agent 领域的基础设施级项目。\n\nLobsters 社区今天有个挺有意思的讨论，关于工具化的边界。有人分享了一个基于 VS Code 的 AI 插件 [5]，它不仅能写代码，还能直接调用本地 API 去修 Bug，甚至能生成测试用例自动跑通。聊天的氛围很热烈，大家觉得这种“带脚镣的 AI\"反而比那些只会瞎编的大模型更靠谱，因为责任更明确，安全性也更有保障。\"这个思路挺巧妙，给 AI 戴上‘紧箍咒’可能反而是生产力爆发的关键'，不知道各位怎么看？"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "system",
+        "summary": "底层技术这块今天动静也不小。ggml[6] 作为机器学习张量库，依然是那个“老当益壮”的开源基石，虽然项目年头久了，但看更新频率和 star 数（超过 100k），说明它的重要性怎么强调都不为过，搞本地大模型部署的都得靠它。Google 的 stitch-skills[7] 构建了一个 Agent Skills 库，专门配合他们的 MCP 服务器用，让各种 coding agent（比如 Cursor、Claude Code）能无缝协作，这种标准化对行业生态很有意义。另外，GoogleChrome 的 modern-web-guidance-src[8] 也是个宝藏，帮 coding agent 保持对最新 Web 最佳实践的同步，避免写出过时的代码。\n\n少数派今天有一篇《派早报》提到英伟达 CEO 黄仁勋宣布辞职的消息，引发了社区对科技巨头人事变动的热议 [9]。虽然只是早报汇总，但大家评论里都在讨论技术路线图的延续性问题。\"技术大厂的‘人’的因素，有时候比技术本身更牵动人心\"，这种话题虽然老套，但每次出现都值得关注，毕竟底层算力厂商的变动直接影响整个 AI 产业链的走向。"
+      },
+      {
+        "name": "数码产品与效率生活",
+        "color": "product",
+        "summary": "数码爱好者们今天有得聊了。少数派刚更新了 2026 冬季版 Mac 选购指南 [10]，提到内存和存储又要涨价，这让纠结换机的朋友更头秃了。文章建议如果不着急，这波涨价前入手可能更划算。还有关于跨设备协同的投票 [11]，讨论主力机（比如手机）和电脑系统不一致时怎么优雅地协同工作，这确实是很多多设备用户的痛点。\n\nLobsters 上也有个关于复古硬件的帖子，有人分享了一段怀旧手记，聊聊索尼 CLIE 这款千禧年的高端 PDA [12]。虽然现在它是古董了，但那种物理按键的质感和 Palm OS 的流畅度，在现在的智能机看来依然有别样的魅力。\"有时候‘慢’反而是一种享受，现在的软件更新太快，反而失去了那种打磨出来的手感\"，这种对旧时代产品的怀念，其实也是对当下互联网焦虑的一种反拨。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天 GitHub 上有个项目叫 LoopForge[13]，是腾讯开源的自托管工作流，用于编排 CodeBuddy、Codex 等代码助手，还加入了人工审批关卡。这其实反映了一个观点：AI 写代码虽然快，但人类专家的把关依然是不可或缺的。\"AI 是副驾驶，但驾驶员还得是人，至少在关键代码审查上不能全权放手\"，这个项目就是在这个思路下做的实践。\n\n另外，少数派有一篇文章讨论如何把 Mole 做成一款“慢产品” [14]，在快 AI 时代反其道而行之。作者分享了慢产品的诞生过程，强调体验和细节。这引发了关于“快与慢”的深层思考。\"在这个追求速度的时代，愿意花时间去打磨细节、做‘慢产品’，本身就是一种稀缺的能力\"，这种观点值得所有开发者反思：我们是在追求效率，还是在制造焦虑？"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "univer: Build your own AI office",
+        "url": "https://github.com/dream-num/univer",
+        "source": "GitHub Trending",
+        "desc": "AI 办公套件 SDK 项目"
+      },
+      {
+        "num": 2,
+        "title": "ag-ui: Agent-User Interaction Protocol",
+        "url": "https://github.com/ag-ui-protocol/ag-ui",
+        "source": "GitHub Trending",
+        "desc": "智能体前端交互协议"
+      },
+      {
+        "num": 3,
+        "title": "open-code-review: Hybrid architecture code review tool",
+        "url": "https://github.com/alibaba/open-code-review",
+        "source": "GitHub Trending",
+        "desc": "阿里混编架构代码审查工具"
+      },
+      {
+        "num": 4,
+        "title": "SkillEvaluator: Multi-tier framework for evaluating AI agent skills",
+        "url": "https://github.com/NVIDIA/SkillEvaluator",
+        "source": "GitHub Trending",
+        "desc": "AI 技能评估框架"
+      },
+      {
+        "num": 5,
+        "title": "AI Plugin with Local API Calling",
+        "url": "https://lobste.rs/",
+        "source": "Lobsters",
+        "desc": "社区讨论关于带脚镣的 AI 工具"
+      },
+      {
+        "num": 6,
+        "title": "ggml: Tensor library for machine learning",
+        "url": "https://github.com/ggml-org/ggml",
+        "source": "GitHub Trending",
+        "desc": "机器学习张量库"
+      },
+      {
+        "num": 7,
+        "title": "stitch-skills: A library of Agent Skills",
+        "url": "https://github.com/google-labs-code/stitch-skills",
+        "source": "GitHub Trending",
+        "desc": "Agent Skills 标准库"
+      },
+      {
+        "num": 8,
+        "title": "modern-web-guidance-src: Keep coding agent up to date",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+        "source": "GitHub Trending",
+        "desc": "Web 最佳实践同步工具"
+      },
+      {
+        "num": 9,
+        "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+        "url": "https://sspai.com/post/118966",
+        "source": "少数派",
+        "desc": "科技大厂人事变动汇总"
+      },
+      {
+        "num": 10,
+        "title": "Mac 选购指南 2026 冬季版",
+        "url": "https://sspai.com/post/85735",
+        "source": "少数派",
+        "desc": "Mac 硬件选购建议"
+      },
+      {
+        "num": 11,
+        "title": "跨设备协同讨论",
+        "url": "https://sspai.com/bullet/1794216547",
+        "source": "少数派",
+        "desc": "跨系统设备协同投票"
+      },
+      {
+        "num": 12,
+        "title": "怀旧手记｜索尼 CLIE",
+        "url": "https://sspai.com/post/118276",
+        "source": "少数派",
+        "desc": "千禧年 PDA 怀旧文章"
+      },
+      {
+        "num": 13,
+        "title": "LoopForge: Self-hosted workflows for coding-agent delivery",
+        "url": "https://github.com/Tencent/LoopForge",
+        "source": "GitHub Trending",
+        "desc": "腾讯代码助手编排工具"
+      },
+      {
+        "num": 14,
+        "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+        "url": "https://sspai.com/post/118512",
+        "source": "少数派",
+        "desc": "关于慢产品的思考与实践"
+      }
+    ],
+    "stats": {
+      "total_items": 14,
+      "total_categories": 4,
+      "total_sources": 14
+    }
+  }
+}
