@@ -1,0 +1,669 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "ag-ui-protocol / ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "stars": "18918",
+      "stars_today": "790 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 2,
+      "title": "backnotprop / plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "stars": "12517",
+      "stars_today": "689 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 3,
+      "title": "dream-num / univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "stars": "27743",
+      "stars_today": "1,878 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 4,
+      "title": "tradermonty / claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "stars": "6278",
+      "stars_today": "841 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "elementalsouls / Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "stars": "7400",
+      "stars_today": "1,057 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 6,
+      "title": "getarcaneapp / arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "stars": "8676",
+      "stars_today": "31 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 7,
+      "title": "DeanChensj / jiangshan-map",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+      "stars": "6673",
+      "stars_today": "285 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 8,
+      "title": "google-labs-code / stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "stars": "9720",
+      "stars_today": "540 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 9,
+      "title": "mvanhorn / last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": "68090",
+      "stars_today": "122 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 10,
+      "title": "NVIDIA / SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "stars": "2635",
+      "stars_today": "953 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 11,
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": "52904",
+      "stars_today": "946 stars today",
+      "language": "Go"
+    },
+    {
+      "rank": 12,
+      "title": "google-research / paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "stars": "1442",
+      "stars_today": "306 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 13,
+      "title": "ChromeDevTools / chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": "57654",
+      "stars_today": "837 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 14,
+      "title": "sveltejs / svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "stars": "88960",
+      "stars_today": "58 stars today",
+      "language": "JavaScript"
+    },
+    {
+      "rank": 15,
+      "title": "kajisho5 / ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "stars": "6639",
+      "stars_today": "475 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "派评 | 近期值得关注的 App少数派编辑部昨天 18:09",
+      "url": "https://sspai.com/post/119148",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 2,
+      "title": "Rosetta 2 即将退役，Mac 老应用何去何从？化学心情下2昨天 15:37",
+      "url": "https://sspai.com/post/118100",
+      "author": "化学心情下2",
+      "summary": "Rosetta 2 即将退役，Mac 老应用何去何从？"
+    },
+    {
+      "rank": 3,
+      "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味西鸽昨天 10:52Matrix精选",
+      "url": "https://sspai.com/post/119012",
+      "author": "西鸽",
+      "summary": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：逾十万人次联署要求黄仁勋复职少数派编辑部昨天 07:24派早报",
+      "url": "https://sspai.com/post/119119",
+      "author": "少数派编辑部",
+      "summary": "派早报：逾十万人次联署要求黄仁勋复职"
+    },
+    {
+      "rank": 5,
+      "title": "当主力机与电脑不同系统，如何优雅实现「跨设备协同」？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1794216547",
+      "author": "一派投票",
+      "summary": "当主力机与电脑不同系统，如何优雅实现「跨设备协同」？"
+    },
+    {
+      "rank": 6,
+      "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表尹颍前天 15:55Matrix精选",
+      "url": "https://sspai.com/post/118392",
+      "author": "尹颍",
+      "summary": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表"
+    },
+    {
+      "rank": 7,
+      "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA随便好啦11/14Matrix精选",
+      "url": "https://sspai.com/post/118276",
+      "author": "随便好啦",
+      "summary": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA"
+    },
+    {
+      "rank": 8,
+      "title": "本周看什么 | 最近值得一看的 10 部作品少数派编辑部11/13",
+      "url": "https://sspai.com/post/118999",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 10 部作品"
+    },
+    {
+      "rank": 9,
+      "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验胡拉图说11/13Matrix精选",
+      "url": "https://sspai.com/post/118153",
+      "author": "胡拉图说",
+      "summary": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验"
+    },
+    {
+      "rank": 10,
+      "title": "十月买了什么好东西？一派讨论点击了解详情",
+      "url": "https://sspai.com/bullet/1792994679",
+      "author": "一派讨论",
+      "summary": "十月买了什么好东西？"
+    },
+    {
+      "rank": 11,
+      "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？Tw9311/13",
+      "url": "https://sspai.com/post/118512",
+      "author": "Tw93",
+      "summary": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？"
+    },
+    {
+      "rank": 12,
+      "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等少数派编辑部11/13派早报",
+      "url": "https://sspai.com/post/118966",
+      "author": "少数派编辑部",
+      "summary": "派早报：英伟达 CEO 黄仁勋宣布辞职等"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "终于有人说说干发帽了",
+      "url": "https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E8%AF%B4%E8%AF%B4%E5%B9%B2%E5%8F%91%E5%B8%BD%E4%BA%86",
+      "hot_value": 350000
+    },
+    {
+      "rank": 2,
+      "title": "APEC合作成果惠及千家万户",
+      "url": "https://s.weibo.com/weibo?q=APEC%E5%90%88%E4%BD%9C%E6%88%90%E6%9E%9C%E6%83%A0%E5%8F%8A%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
+      "hot_value": 290000
+    },
+    {
+      "rank": 3,
+      "title": "沈奕斐聊养娃如何不焦虑",
+      "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E5%A5%95%E6%96%90%E8%81%8A%E5%85%BB%E5%A8%83%E5%A6%82%E4%BD%95%E4%B8%8D%E7%84%A6%E8%99%91",
+      "hot_value": 270000
+    },
+    {
+      "rank": 4,
+      "title": "6年恋爱因一枚戒指分手",
+      "url": "https://s.weibo.com/weibo?q=6%E5%B9%B4%E6%81%8B%E7%88%B1%E5%9B%A0%E4%B8%80%E6%9E%9A%E6%88%92%E6%8C%87%E5%88%86%E6%89%8B",
+      "hot_value": 210000
+    },
+    {
+      "rank": 5,
+      "title": "华尔街日报必须道歉",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E5%BF%85%E9%A1%BB%E9%81%93%E6%AD%89",
+      "hot_value": 130000
+    },
+    {
+      "rank": 6,
+      "title": "吃了点didi喂",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%83%E4%BA%86%E7%82%B9didi%E5%96%82",
+      "hot_value": 130000
+    },
+    {
+      "rank": 7,
+      "title": "虞书欣围裙 国外博主原图",
+      "url": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%B4%E8%A3%99+%E5%9B%BD%E5%A4%96%E5%8D%9A%E4%B8%BB%E5%8E%9F%E5%9B%BE",
+      "hot_value": 120000
+    },
+    {
+      "rank": 8,
+      "title": "新007是帕丁森",
+      "url": "https://s.weibo.com/weibo?q=%E6%96%B0007%E6%98%AF%E5%B8%95%E4%B8%81%E6%A3%AE",
+      "hot_value": 120000
+    },
+    {
+      "rank": 9,
+      "title": "金子涵称被家人骗到了精神病院",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%E7%A7%B0%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%88%B0%E4%BA%86%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2",
+      "hot_value": 110000
+    },
+    {
+      "rank": 10,
+      "title": "金价创今年以来新低",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%88%9B%E4%BB%8A%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%96%B0%E4%BD%8E",
+      "hot_value": 60000
+    },
+    {
+      "rank": 11,
+      "title": "建议大家不要一直穿同一双鞋",
+      "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E4%B8%80%E7%9B%B4%E7%A9%BF%E5%90%8C%E4%B8%80%E5%8F%8C%E9%9E%8B",
+      "hot_value": 60000
+    },
+    {
+      "rank": 12,
+      "title": "被虞书欣起诉网友发文",
+      "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%B5%B7%E8%AF%89%E7%BD%91%E5%8F%8B%E5%8F%91%E6%96%87",
+      "hot_value": 60000
+    },
+    {
+      "rank": 13,
+      "title": "罗伯特帕丁森五大IP集齐",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E4%BC%AF%E7%89%B9%E5%B8%95%E4%B8%81%E6%A3%AE%E4%BA%94%E5%A4%A7IP%E9%9B%86%E9%BD%90",
+      "hot_value": 60000
+    },
+    {
+      "rank": 14,
+      "title": "过度付出可能换来恶意",
+      "url": "https://s.weibo.com/weibo?q=%E8%BF%87%E5%BA%A6%E4%BB%98%E5%87%BA%E5%8F%AF%E8%83%BD%E6%8D%A2%E6%9D%A5%E6%81%B6%E6%84%8F",
+      "hot_value": 60000
+    },
+    {
+      "rank": 15,
+      "title": "陈砚周没有柏拉图的义务",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%88%E7%A0%9A%E5%91%A8%E6%B2%A1%E6%9C%89%E6%9F%8F%E6%8B%89%E5%9B%BE%E7%9A%84%E4%B9%89%E5%8A%A1",
+      "hot_value": 60000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "中俄美元首将在深圳举行会晤，有哪些信息值得关注",
+      "url": "https://www.zhihu.com/question/2105588251100700718",
+      "hot_value": 1890000
+    },
+    {
+      "rank": 2,
+      "title": "刘欢曾称宁死不背尿袋拒绝切膀胱，这类选择有哪些医疗风险",
+      "url": "https://www.zhihu.com/question/2104345374177628429",
+      "hot_value": 1740000
+    },
+    {
+      "rank": 3,
+      "title": "为什么 AI 生成一条 5 秒钟的视频费用很高，而类似漫剧这样的内容却能大批量生产？​",
+      "url": "https://www.zhihu.com/question/2071378238237053951",
+      "hot_value": 1420000
+    },
+    {
+      "rank": 4,
+      "title": "你怎么看，92% 班主任不愿在岗、年轻教师拒任，为何班主任岗位遇冷？有什么解法吗",
+      "url": "https://www.zhihu.com/question/2094752597341164437",
+      "hot_value": 1260000
+    },
+    {
+      "rank": 5,
+      "title": "五代十国是否被过度妖魔化了，实际上并没有很多互联网博主说的那么黑暗",
+      "url": "https://www.zhihu.com/question/2104551494968161914",
+      "hot_value": 830000
+    },
+    {
+      "rank": 6,
+      "title": "为什么古人的飞檐走壁、轻功、点穴等功夫现在没有了？从哪个朝代开始慢慢消失的",
+      "url": "https://www.zhihu.com/question/2042890260045091767",
+      "hot_value": 820000
+    },
+    {
+      "rank": 7,
+      "title": "西甲向总台澄清，涉亚马尔种族歧视内容系伪造，如何评价？造谣者可能面临什么",
+      "url": "https://www.zhihu.com/question/2105761276563382570",
+      "hot_value": 820000
+    },
+    {
+      "rank": 8,
+      "title": "大象失去一条腿后，都可以存活下来，为什么马腿断了就必须死呢",
+      "url": "https://www.zhihu.com/question/637754522",
+      "hot_value": 820000
+    },
+    {
+      "rank": 9,
+      "title": "如何评价 2026ICPC 区域赛沈阳站",
+      "url": "https://www.zhihu.com/question/2101778407558270995",
+      "hot_value": 820000
+    },
+    {
+      "rank": 10,
+      "title": "怎么看外媒曝 Anthropic IPO 拒绝向中国内地和中国香港的投资者分配股份 ",
+      "url": "https://www.zhihu.com/question/2104954238514230174",
+      "hot_value": 800000
+    },
+    {
+      "rank": 11,
+      "title": "美股芯片股暗盘大涨，英伟达股价直线拉升，涨幅一度超过 4%，怎样解读",
+      "url": "https://www.zhihu.com/question/2105582147801018966",
+      "hot_value": 800000
+    },
+    {
+      "rank": 12,
+      "title": "你在明白什么道理后，你不再焦虑了",
+      "url": "https://www.zhihu.com/question/7694586734",
+      "hot_value": 790000
+    },
+    {
+      "rank": 13,
+      "title": "为什么在 S16 几乎所有人都不看好的情况下，LPL 反而两支队伍跻身四强，最后还爆冷夺冠了",
+      "url": "https://www.zhihu.com/question/2105608935478490215",
+      "hot_value": 790000
+    },
+    {
+      "rank": 14,
+      "title": "字节被曝正研发「中国版 Muse」，Personal Agent 会成为大厂争夺的新方向吗？字节有何优势",
+      "url": "https://www.zhihu.com/question/2104136484013826621",
+      "hot_value": 790000
+    },
+    {
+      "rank": 15,
+      "title": "孩子总是说 ok 镜戴了不舒服，是因为护理有问题吗",
+      "url": "https://www.zhihu.com/question/616630054",
+      "hot_value": 680000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "score": 303,
+      "author": "pcompeau",
+      "comments": 58,
+      "hn_url": "https://news.ycombinator.com/item?id=50522980"
+    },
+    {
+      "rank": 2,
+      "title": "BugMeNot has closed",
+      "url": "https://www.bugmenot.com/",
+      "score": 178,
+      "author": "lode",
+      "comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=50523601"
+    },
+    {
+      "rank": 3,
+      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "score": 44,
+      "author": "ronfriedhaber",
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=50524225"
+    },
+    {
+      "rank": 4,
+      "title": "Rust changed me as a developer",
+      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+      "score": 124,
+      "author": "speckx",
+      "comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=50522563"
+    },
+    {
+      "rank": 5,
+      "title": "OpenCode Browse",
+      "url": "https://opencode.ai/product/browse",
+      "score": 47,
+      "author": "mfiguiere",
+      "comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=50523459"
+    },
+    {
+      "rank": 6,
+      "title": "Spamhaus new email sender requirements in November",
+      "url": "https://www.spamhaus.org/sender-guidelines/",
+      "score": 42,
+      "author": "computer23",
+      "comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=50523784"
+    },
+    {
+      "rank": 7,
+      "title": "Grazing sheep in fields with solar arrays",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "score": 186,
+      "author": "PaulHoule",
+      "comments": 179,
+      "hn_url": "https://news.ycombinator.com/item?id=50520182"
+    },
+    {
+      "rank": 8,
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "url": "https://burntsushi.net/jiff/",
+      "score": 273,
+      "author": "burntsushi",
+      "comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=50519744"
+    },
+    {
+      "rank": 9,
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "score": 667,
+      "author": "samk3nny",
+      "comments": 530,
+      "hn_url": "https://news.ycombinator.com/item?id=50521045"
+    },
+    {
+      "rank": 10,
+      "title": "Frame – 31.5\" color ePaper display",
+      "url": "https://trmnl.com/blog/introducing-frame",
+      "score": 253,
+      "author": "geerlingguy",
+      "comments": 167,
+      "hn_url": "https://news.ycombinator.com/item?id=50519354"
+    },
+    {
+      "rank": 11,
+      "title": "United Airlines experiencing a widespread system outage, airline says",
+      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "score": 106,
+      "author": "bearsyankees",
+      "comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=50524165"
+    },
+    {
+      "rank": 12,
+      "title": "Squircles",
+      "url": "https://linebender.org/wiki/curves/squircle/",
+      "score": 97,
+      "author": "raphlinus",
+      "comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=50515151"
+    },
+    {
+      "rank": 13,
+      "title": "Chemistry is Actually Geometry",
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "score": 43,
+      "author": "sebg",
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=50522643"
+    },
+    {
+      "rank": 14,
+      "title": "Optimizely Compromised",
+      "url": "https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/",
+      "score": 58,
+      "author": "martinald",
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=50523300"
+    },
+    {
+      "rank": 15,
+      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "url": "https://news.ycombinator.com/item?id=50522776",
+      "score": 22,
+      "author": "arshpatankar",
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=50522776"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发技能",
+        "color": "ai",
+        "summary": "今天 GitHub 上的 AI Agent 相关项目又炸了。AG-UI [1] 试图把智能体引入前端应用，定义了一套交互协议；backnotprop 的 plannotator [2] 则是一个让人类保持对 AI 工作流掌控的协作空间。NVIDIA 推出的 SkillEvaluator [3] 框架很有意思，它不仅能评估技能质量，还能生成合成数据集来测技能对 Agent 行为的影响，搞 eval 的朋友值得关注。Google 也没闲着，stitch-skills [4] 专门为了兼容各种 Coding Agents 设计了技能库，而 chrome-devtools-mcp [5] 更是让调试代码像用浏览器一样顺滑。这些项目都在试图解决 Agent 如何更好与人协作的问题。"
+      },
+      {
+        "name": "安全攻防与工具",
+        "color": "security",
+        "summary": "搞安全的朋友必看，GitHub 上有个叫 Claude-BugHunter [6] 的项目，它给 Claude Code 打包了 82 项技能，专门用来做漏洞挖掘和红队测试，里面还收录了 681 个已披露报告的模式，这力度相当大。另外，Alibaba 开源的 open-code-review [7] 也是个硬核工具，它用混合架构（确定性流水线 + LLM Agent）做代码审查，能精准定位 NPE、SQL 注入等漏洞，而且已经在大厂规模下验证过，比纯靠 LLM 瞎蒙要靠谱得多。"
+      },
+      {
+        "name": "效率工具与数码产品",
+        "color": "tools",
+        "summary": "数码圈最近有点动荡，少数派的文章里提到 Rosetta 2 即将退役，Mac 上那些老应用该怎么办成了个大问题 [8]。不过好在也有新工具出现，比如 arcane [9] 这个现代化的 Docker 管理工具，界面友好，适合不想折腾命令行的开发者。在效率协同方面，当主力机和电脑系统不同时，如何实现优雅的跨设备协同是个痛点，目前有一些投票讨论在探索解决方案 [10]。对于喜欢折腾的人，有个怀旧手记推荐了索尼 CLIE 这款千禧年的 Palm OS PDA，虽然年代久远，但那种手感确实独特 [11]。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天看到一条消息挺让人唏嘘的，少数派报道说黄仁勋宣布辞职，引发了超过十万人次的联署要求复职 [12]。这件事在圈内吵翻了，大家不仅是在怀念一位领袖，更是在思考 AI 时代科技公司的动荡逻辑。另一方面，也有人在反思快 AI 时代，Tw93 分享了他如何把 Mole 做成一款“慢产品”的心路历程 [13]，这种在技术狂奔中坚持做“慢”产品的态度，反而让人觉得特别舒服。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "AG-UI: the Agent-User Interaction Protocol",
+        "url": "https://github.com/ag-ui-protocol/ag-ui",
+        "source": "GitHub Trending",
+        "desc": "引入智能体到前端应用的交互协议"
+      },
+      {
+        "num": 2,
+        "title": "plannotator",
+        "url": "https://github.com/backnotprop/plannotator",
+        "source": "GitHub Trending",
+        "desc": "保持对 AI 工作流掌控的协作空间"
+      },
+      {
+        "num": 3,
+        "title": "SkillEvaluator",
+        "url": "https://github.com/NVIDIA/SkillEvaluator",
+        "source": "GitHub Trending",
+        "desc": "多层级 AI 智能体技能评估框架"
+      },
+      {
+        "num": 4,
+        "title": "stitch-skills",
+        "url": "https://github.com/google-labs-code/stitch-skills",
+        "source": "GitHub Trending",
+        "desc": "兼容 Stitch MCP 服务器的智能体技能库"
+      },
+      {
+        "num": 5,
+        "title": "chrome-devtools-mcp",
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "source": "GitHub Trending",
+        "desc": "专为智能体设计的 Chrome DevTools"
+      },
+      {
+        "num": 6,
+        "title": "Claude-BugHunter",
+        "url": "https://github.com/elementalsouls/Claude-BugHunter",
+        "source": "GitHub Trending",
+        "desc": "用于漏洞挖掘和红队测试的 Claude 技能包"
+      },
+      {
+        "num": 7,
+        "title": "open-code-review",
+        "url": "https://github.com/alibaba/open-code-review",
+        "source": "GitHub Trending",
+        "desc": "基于混合架构的高效代码审查工具"
+      },
+      {
+        "num": 8,
+        "title": "Rosetta 2 即将退役，Mac 老应用何去何从？",
+        "url": "https://sspai.com/post/118100",
+        "source": "少数派",
+        "desc": "讨论 Rosetta 2 退役对 Mac 老应用的影响"
+      },
+      {
+        "num": 9,
+        "title": "arcane",
+        "url": "https://github.com/getarcaneapp/arcane",
+        "source": "GitHub Trending",
+        "desc": "现代化的 Docker 管理工具"
+      },
+      {
+        "num": 10,
+        "title": "当主力机与电脑不同系统，如何优雅实现「跨设备协同」？",
+        "url": "https://sspai.com/bullet/1794216547",
+        "source": "少数派",
+        "desc": "关于跨系统设备协同的投票讨论"
+      },
+      {
+        "num": 11,
+        "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+        "url": "https://sspai.com/post/118276",
+        "source": "少数派",
+        "desc": "回顾千禧年索尼 PDA 的怀旧文章"
+      },
+      {
+        "num": 12,
+        "title": "派早报：逾十万人次联署要求黄仁勋复职",
+        "url": "https://sspai.com/post/119119",
+        "source": "少数派",
+        "desc": "报道黄仁勋辞职引发的联署事件"
+      },
+      {
+        "num": 13,
+        "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+        "url": "https://sspai.com/post/118512",
+        "source": "少数派",
+        "desc": "开发者分享在 AI 时代坚持做慢产品的经验"
+      }
+    ],
+    "stats": {
+      "total_items": 13,
+      "total_categories": 4,
+      "total_sources": 13
+    }
+  }
+}
