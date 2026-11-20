@@ -1,0 +1,653 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "elementalsouls / Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "stars": "14039",
+      "stars_today": "1,660 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 2,
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": "322784",
+      "stars_today": "888 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 3,
+      "title": "HKUDS / CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "stars": "61313",
+      "stars_today": "774 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "jingyaogong / minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "stars": "67656",
+      "stars_today": "841 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "cursor / plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": "17812",
+      "stars_today": "292 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 6,
+      "title": "firecrawl / firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "stars": "205160",
+      "stars_today": "1,226 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 7,
+      "title": "nginx / nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "stars": "32543",
+      "stars_today": "246 stars today",
+      "language": "C"
+    },
+    {
+      "rank": 8,
+      "title": "openvinotoolkit / openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars": "11763",
+      "stars_today": "219 stars today",
+      "language": "C++"
+    },
+    {
+      "rank": 9,
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "69231",
+      "stars_today": "634 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 10,
+      "title": "mvanhorn / last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": "71386",
+      "stars_today": "685 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 11,
+      "title": "google-labs-code / stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "stars": "10991",
+      "stars_today": "315 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 12,
+      "title": "mjmirza / app-store-compliance",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "stars": "2662",
+      "stars_today": "874 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 13,
+      "title": "Tracer-Cloud / opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "description": "The open-source agent for CI/CD reliability.",
+      "stars": "13561",
+      "stars_today": "465 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 14,
+      "title": "toeverything / AFFiNE",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "stars": "75728",
+      "stars_today": "686 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 15,
+      "title": "XiaoYouChR / Ghost-Downloader-3",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "stars": "13621",
+      "stars_today": "1,082 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "本周看什么 | 最近值得一看的 10 部作品少数派编辑部昨天 17:54",
+      "url": "https://sspai.com/post/119337",
+      "author": "少数派编辑部",
+      "summary": "本周看什么 | 最近值得一看的 10 部作品"
+    },
+    {
+      "rank": 2,
+      "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验篝火营地昨天 15:34",
+      "url": "https://sspai.com/post/119327",
+      "author": "篝火营地",
+      "summary": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验"
+    },
+    {
+      "rank": 3,
+      "title": "浮屏：截图即可「上岛」，还能帮你记录生活Nezuko昨天 10:47",
+      "url": "https://sspai.com/post/118879",
+      "author": "Nezuko",
+      "summary": "浮屏：截图即可「上岛」，还能帮你记录生活"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等少数派编辑部昨天 08:34派早报",
+      "url": "https://sspai.com/post/119311",
+      "author": "少数派编辑部",
+      "summary": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等"
+    },
+    {
+      "rank": 5,
+      "title": "给 Apple 的 2026 年打分，请你一起参与少数派编辑部前天 18:25",
+      "url": "https://sspai.com/post/119191",
+      "author": "少数派编辑部",
+      "summary": "给 Apple 的 2026 年打分，请你一起参与"
+    },
+    {
+      "rank": 6,
+      "title": "新玩意 256｜少数派的编辑们最近买了啥？少数派编辑部前天 17:16",
+      "url": "https://sspai.com/post/119287",
+      "author": "少数派编辑部",
+      "summary": "新玩意 256｜少数派的编辑们最近买了啥？"
+    },
+    {
+      "rank": 7,
+      "title": "双十一收官一周：今年哪笔消费让你在拆箱后立刻「退烧」？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1794893309",
+      "author": "一派投票",
+      "summary": "双十一收官一周：今年哪笔消费让你在拆箱后立刻「退烧」？"
+    },
+    {
+      "rank": 8,
+      "title": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制广陵止息前天 15:34会员内容",
+      "url": "https://sspai.com/prime/story/system-app-protection-override-macos-27-3",
+      "author": "广陵止息",
+      "summary": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制"
+    },
+    {
+      "rank": 9,
+      "title": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩PJHubs前天 10:58Matrix精选",
+      "url": "https://sspai.com/post/119039",
+      "author": "PJHubs",
+      "summary": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩"
+    },
+    {
+      "rank": 10,
+      "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等少数派编辑部前天 08:29派早报",
+      "url": "https://sspai.com/post/119239",
+      "author": "少数派编辑部",
+      "summary": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等"
+    },
+    {
+      "rank": 11,
+      "title": "10 月音乐精选：音乐丰收季，必听这 7 张新专辑麻乐11/18",
+      "url": "https://sspai.com/post/118985",
+      "author": "麻乐",
+      "summary": "10 月音乐精选：音乐丰收季，必听这 7 张新专辑"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "DeepSeek付费体验直线上升",
+      "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BB%98%E8%B4%B9%E4%BD%93%E9%AA%8C%E7%9B%B4%E7%BA%BF%E4%B8%8A%E5%8D%87",
+      "hot_value": 100000
+    },
+    {
+      "rank": 2,
+      "title": "APEC盛会效应拉满",
+      "url": "https://s.weibo.com/weibo?q=APEC%E7%9B%9B%E4%BC%9A%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
+      "hot_value": 80000
+    },
+    {
+      "rank": 3,
+      "title": "王子璇问马天宇你不会爱上我",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E9%97%AE%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%BD%A0%E4%B8%8D%E4%BC%9A%E7%88%B1%E4%B8%8A%E6%88%91",
+      "hot_value": 80000
+    },
+    {
+      "rank": 4,
+      "title": "金价罕见大跌原因找到了",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E7%BD%95%E8%A7%81%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86",
+      "hot_value": 70000
+    },
+    {
+      "rank": 5,
+      "title": "晋妈给李勒优铺的路是接手面馆",
+      "url": "https://s.weibo.com/weibo?q=%E6%99%8B%E5%A6%88%E7%BB%99%E6%9D%8E%E5%8B%92%E4%BC%98%E9%93%BA%E7%9A%84%E8%B7%AF%E6%98%AF%E6%8E%A5%E6%89%8B%E9%9D%A2%E9%A6%86",
+      "hot_value": 60000
+    },
+    {
+      "rank": 6,
+      "title": "放化疗期间不能吃鸡蛋是误区",
+      "url": "https://s.weibo.com/weibo?q=%E6%94%BE%E5%8C%96%E7%96%97%E6%9C%9F%E9%97%B4%E4%B8%8D%E8%83%BD%E5%90%83%E9%B8%A1%E8%9B%8B%E6%98%AF%E8%AF%AF%E5%8C%BA",
+      "hot_value": 60000
+    },
+    {
+      "rank": 7,
+      "title": "张萌回应青稚打听式安慰",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%90%8C%E5%9B%9E%E5%BA%94%E9%9D%92%E7%A8%9A%E6%89%93%E5%90%AC%E5%BC%8F%E5%AE%89%E6%85%B0",
+      "hot_value": 60000
+    },
+    {
+      "rank": 8,
+      "title": "AI证明黎曼猜想传闻",
+      "url": "https://s.weibo.com/weibo?q=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%BC%A0%E9%97%BB",
+      "hot_value": 60000
+    },
+    {
+      "rank": 9,
+      "title": "金价",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7",
+      "hot_value": 50000
+    },
+    {
+      "rank": 10,
+      "title": "余承东称现在L2开车不能睡觉",
+      "url": "https://s.weibo.com/weibo?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E7%A7%B0%E7%8E%B0%E5%9C%A8L2%E5%BC%80%E8%BD%A6%E4%B8%8D%E8%83%BD%E7%9D%A1%E8%A7%89",
+      "hot_value": 40000
+    },
+    {
+      "rank": 11,
+      "title": "林更新你怎么什么都敢演",
+      "url": "https://s.weibo.com/weibo?q=%E6%9E%97%E6%9B%B4%E6%96%B0%E4%BD%A0%E6%80%8E%E4%B9%88%E4%BB%80%E4%B9%88%E9%83%BD%E6%95%A2%E6%BC%94",
+      "hot_value": 40000
+    },
+    {
+      "rank": 12,
+      "title": "曝青稚妈妈讨厌后会友期的原因",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%9D%92%E7%A8%9A%E5%A6%88%E5%A6%88%E8%AE%A8%E5%8E%8C%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%9A%84%E5%8E%9F%E5%9B%A0",
+      "hot_value": 40000
+    },
+    {
+      "rank": 13,
+      "title": "成毅两京十五日演技表现",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E6%BC%94%E6%8A%80%E8%A1%A8%E7%8E%B0",
+      "hot_value": 40000
+    },
+    {
+      "rank": 14,
+      "title": "白小纯淘汰33",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E6%B7%98%E6%B1%B033",
+      "hot_value": 40000
+    },
+    {
+      "rank": 15,
+      "title": "文吉儿袜子塞沙发底下",
+      "url": "https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF%E8%A2%9C%E5%AD%90%E5%A1%9E%E6%B2%99%E5%8F%91%E5%BA%95%E4%B8%8B",
+      "hot_value": 40000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "神秘模型 Gestalt 横空出世，设计基准上大幅超越 Claude 、 GPT，这款模型到底是啥来历",
+      "url": "https://www.zhihu.com/question/2106839067346350136",
+      "hot_value": 3200000
+    },
+    {
+      "rank": 2,
+      "title": "王毅介绍中俄美元首会晤情况，称这是一次「和平峰会」，是载入史册的标志性事件，传递出了哪些信号",
+      "url": "https://www.zhihu.com/question/2107019870122547156",
+      "hot_value": 2570000
+    },
+    {
+      "rank": 3,
+      "title": "中俄美三方的和平宣言发布后，将会为俄乌局势带来哪些变量",
+      "url": "https://www.zhihu.com/question/2106847799899678337",
+      "hot_value": 1940000
+    },
+    {
+      "rank": 4,
+      "title": "酒店的浴室为什么大多是透明的",
+      "url": "https://www.zhihu.com/question/527454391",
+      "hot_value": 1750000
+    },
+    {
+      "rank": 5,
+      "title": "特朗普称如果满分 10 分，可以为中俄美元首会晤打 12 分，此次会晤对他有多重要？美方有哪些收获",
+      "url": "https://www.zhihu.com/question/2107079876813353010",
+      "hot_value": 1650000
+    },
+    {
+      "rank": 6,
+      "title": "U17 世界杯小组赛，西班牙 U17  vs 中国 U17 男足，如何评价本场比赛",
+      "url": "https://www.zhihu.com/question/2107245763558209161",
+      "hot_value": 1560000
+    },
+    {
+      "rank": 7,
+      "title": "黄金大跌，你们会去购买黄金吗",
+      "url": "https://www.zhihu.com/question/2098797483895828516",
+      "hot_value": 1550000
+    },
+    {
+      "rank": 8,
+      "title": "如何看待马斯克离开深圳，突访上海",
+      "url": "https://www.zhihu.com/question/2106907755730814315",
+      "hot_value": 1500000
+    },
+    {
+      "rank": 9,
+      "title": "如何评价《fx 战士久留美》第八集",
+      "url": "https://www.zhihu.com/question/2106829634486772699",
+      "hot_value": 1260000
+    },
+    {
+      "rank": 10,
+      "title": "中国政法、上大、上海交大等多所高校不向 2027 级研究生提供宿舍，为何各校宿舍紧张问题都迟迟没能解决",
+      "url": "https://www.zhihu.com/question/2107038570422563911",
+      "hot_value": 1230000
+    },
+    {
+      "rank": 11,
+      "title": "江南大学回应 「大学英语改为选修」，有通过四六级等免修条件，这一改革会成为趋势吗",
+      "url": "https://www.zhihu.com/question/2106695521175860644",
+      "hot_value": 1190000
+    },
+    {
+      "rank": 12,
+      "title": "DeepSeek 第二轮融资 1050 多亿元落地，31 家外部股东入局，怎样解读",
+      "url": "https://www.zhihu.com/question/2106889511993189511",
+      "hot_value": 1160000
+    },
+    {
+      "rank": 13,
+      "title": "如果 GTA6 明年上 PC，什么配置可以发挥最完全体的画面效果",
+      "url": "https://www.zhihu.com/question/2107056554713289409",
+      "hot_value": 1090000
+    },
+    {
+      "rank": 14,
+      "title": "如何评价华为全新先锋潮流子品牌 OSTA 星芒",
+      "url": "https://www.zhihu.com/question/2106692200478269466",
+      "hot_value": 930000
+    },
+    {
+      "rank": 15,
+      "title": "如何评价成毅主演的电视剧《两京十五日》",
+      "url": "https://www.zhihu.com/question/2107165635797071671",
+      "hot_value": 910000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "score": 1015,
+      "author": "jasondavies",
+      "comments": 474,
+      "hn_url": "https://news.ycombinator.com/item?id=50579568"
+    },
+    {
+      "rank": 2,
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "score": 297,
+      "author": "jasondavies",
+      "comments": 35,
+      "hn_url": "https://news.ycombinator.com/item?id=50581260"
+    },
+    {
+      "rank": 3,
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "score": 2114,
+      "author": "iamronaldo",
+      "comments": 1436,
+      "hn_url": "https://news.ycombinator.com/item?id=50574968"
+    },
+    {
+      "rank": 4,
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "score": 168,
+      "author": "QueensGambit",
+      "comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=50579331"
+    },
+    {
+      "rank": 5,
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "score": 231,
+      "author": "archon1410",
+      "comments": 65,
+      "hn_url": "https://news.ycombinator.com/item?id=50578358"
+    },
+    {
+      "rank": 6,
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "score": 285,
+      "author": "lwhsiao",
+      "comments": 97,
+      "hn_url": "https://news.ycombinator.com/item?id=50577265"
+    },
+    {
+      "rank": 7,
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "url": "https://scottaaronson.blog/?p=10344",
+      "score": 93,
+      "author": "stratos123",
+      "comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=50581084"
+    },
+    {
+      "rank": 8,
+      "title": "Vibecoding an inference chip",
+      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "score": 74,
+      "author": "ankitvgupta",
+      "comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=50579297"
+    },
+    {
+      "rank": 9,
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "score": 36,
+      "author": "N19PEDL2",
+      "comments": 28,
+      "hn_url": "https://news.ycombinator.com/item?id=50550430"
+    },
+    {
+      "rank": 10,
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "score": 215,
+      "author": "trotro",
+      "comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=50576232"
+    },
+    {
+      "rank": 11,
+      "title": "Winedroid – run Android apps without Android (WASM demo)",
+      "url": "https://winedroid.soham.sh/demo/",
+      "score": 50,
+      "author": "sohzm",
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=50580536"
+    },
+    {
+      "rank": 12,
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "score": 565,
+      "author": "sammatilda",
+      "comments": 276,
+      "hn_url": "https://news.ycombinator.com/item?id=50572355"
+    },
+    {
+      "rank": 13,
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "score": 15,
+      "author": "facundo_olano",
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50581110"
+    },
+    {
+      "rank": 14,
+      "title": "Nvidia accounting under SEC investigation, sources say",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+      "score": 101,
+      "author": "ftchd",
+      "comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=50581438"
+    },
+    {
+      "rank": 15,
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "score": 574,
+      "author": "shioyama",
+      "comments": 304,
+      "hn_url": "https://news.ycombinator.com/item?id=50572503"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 与智能体开发",
+        "color": "ai",
+        "summary": "今天的 GitHub Trending 简直被 AI Agent 们承包了。firecrawl[1] 这个知识基础设施项目太硬核了，通过一个 API 就能访问 550+ 个数据源，让智能体不再瞎猜，简直是给 Agent 装了个超级搜索引擎。obra/superpowers[2] 则是一套完整的智能体技能框架，专门解决软件开发的落地方法论问题，不再是那些 PPT 里的概念了。还有 elementalsouls/Claude-BugHunter[3]，里面集成了 82 个技能包和 681 个漏洞修复模式，搞安全测试的朋友绝对得收藏，能帮 Claude Code 把外部红队工作做得像老手一样。\n\n\nLobsters 上有人讨论说，现在这些 Agent 越来越能干了，但也越来越“野”了，比如刚才提到的那个能自己爬 HuggingFace 的数据工具，大家开始担心如果技能库没管住，Agent 会不会在干活的时候顺便把公司服务器给黑了？这种边界确实有点模糊。"
+      },
+      {
+        "name": "系统底层与开发工具",
+        "color": "devops",
+        "summary": "基础工具这块依然稳如泰山。nginx[4] 和 OpenVINO[5] 这种老牌项目继续霸榜，一个管流量分发，一个管 AI 推理优化，都是底层基础设施的基石。特别值得提的是 XiaoYouChR/Ghost-Downloader-3[6]，号称“下载器的集大成者”，现在大家都想搞副业或者收集素材，这种工具实用性拉满，社区里很多人问能不能搞个自动化的资源聚合脚本。\n\n\n少数派的文章里提到 macOS 27.3 新出的权限控制机制，虽然名字叫“有必要但欠平衡”，但搞开发的朋友要注意了，这种新权限可能影响一些自动化脚本的运行权限，建议先观望一下，看看有没有开源社区先踩坑的教程出来。"
+      },
+      {
+        "name": "效率工具与知识管理",
+        "color": "productivity",
+        "summary": "Notion 的平替 AFFiNE[7] 热度一直没降，主打隐私第一和开源可定制，最近又有新动静，看来用户真的厌倦了那些闭源大厂的产品。还有个挺有意思的 cathrynlavery/diagram-design[8]，专门为各种 AI 编程助手（像 Cursor, Copilot）设计的图表，45 种类型，HTML+SVG 直接嵌入，不用再用 Mermaid 那种简陋的渲染，看着就高级，提升文档颜值神器。\n\n\n我个人的看法是，工具再好，得看能不能融入工作流。AFFiNE 这种如果能做到真正的本地化部署，对于有合规需求的企业来说，吸引力会比 Notion 大得多，毕竟数据不上传云端是刚需。"
+      },
+      {
+        "name": "数码产品与娱乐",
+        "color": "gadget",
+        "summary": "数码圈最近动静不小。少数派早报里有提到 Google 推出了 Gemini 4 Neon 模型，还有网易 UU 远程要推出付费会员了[9]。游戏方面，《GTA 6》的高分游玩体验也是大家热议的话题，毕竟等了 13 年，大家胃口都被吊得很高。\n\n\n另外，那个“浮屏”截图上岛的功能[10] 听起来有点赛博朋克的感觉，截图就能记录生活，像是把虚拟世界和现实记录打通了，这种创意交互方式在效率工具里很少见，挺适合做个人知识库的素材收集。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "thought",
+        "summary": "今天看下来，最大的感触就是“平衡”二字。无论是 macOS 的新权限机制，还是 AI 智能体的能力边界，都在提醒我们技术发展的速度有时候跑得太快，制度和安全措施总是慢半拍。\n\n\n比如那个 App Store 合规助手 mjmirza/app-store-compliance[11]，列出了 95 个追踪的截止日期和法规，这说明开发者在出海时面临的合规压力太大了。我挺担心的是，随着法规越来越细，会不会逼得很多独立开发者只能选择大厂的生态？这种垄断趋势下，开源社区的韧性真的是最后的防线。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+        "url": "https://github.com/firecrawl/firecrawl",
+        "source": "GitHub Trending",
+        "desc": "Agent 数据搜索与抓取工具"
+      },
+      {
+        "num": 2,
+        "title": "An agentic skills framework & software development methodology that works.",
+        "url": "https://github.com/obra/superpowers",
+        "source": "GitHub Trending",
+        "desc": "智能体技能框架"
+      },
+      {
+        "num": 3,
+        "title": "A Claude Code skill bundle for bug hunting and external red-team work",
+        "url": "https://github.com/elementalsouls/Claude-BugHunter",
+        "source": "GitHub Trending",
+        "desc": "AI 安全红队技能包"
+      },
+      {
+        "num": 4,
+        "title": "The official NGINX Open Source repository.",
+        "url": "https://github.com/nginx/nginx",
+        "source": "GitHub Trending",
+        "desc": "Nginx 官方仓库"
+      },
+      {
+        "num": 5,
+        "title": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+        "url": "https://github.com/openvinotoolkit/openvino",
+        "source": "GitHub Trending",
+        "desc": "AI 推理优化套件"
+      },
+      {
+        "num": 6,
+        "title": "The only downloader you need. 下载器的集大成者。",
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+        "source": "GitHub Trending",
+        "desc": "全能下载工具"
+      },
+      {
+        "num": 7,
+        "title": "There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base.",
+        "url": "https://github.com/toeverything/AFFiNE",
+        "source": "GitHub Trending",
+        "desc": "下一代知识库 AFFiNE"
+      },
+      {
+        "num": 8,
+        "title": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor... Self-contained HTML + SVG.",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "source": "GitHub Trending",
+        "desc": "AI 编程助手专用图表设计"
+      },
+      {
+        "num": 9,
+        "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+        "url": "https://sspai.com/post/119311",
+        "source": "少数派",
+        "desc": "科技新闻早报"
+      },
+      {
+        "num": 10,
+        "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+        "url": "https://sspai.com/post/118879",
+        "source": "少数派",
+        "desc": "创意效率工具推荐"
+      },
+      {
+        "num": 11,
+        "title": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard...",
+        "url": "https://github.com/mjmirza/app-store-compliance",
+        "source": "GitHub Trending",
+        "desc": "应用商店合规指南"
+      }
+    ],
+    "stats": {
+      "total_items": 11,
+      "total_categories": 5,
+      "total_sources": 11
+    }
+  }
+}
