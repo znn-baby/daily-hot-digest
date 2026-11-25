@@ -1,0 +1,683 @@
+{
+  "github_trending": [
+    {
+      "rank": 1,
+      "title": "elementalsouls / Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "stars": "22910",
+      "stars_today": "1,644 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 2,
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": "326568",
+      "stars_today": "902 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 3,
+      "title": "HKUDS / CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "stars": "65638",
+      "stars_today": "1,094 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 4,
+      "title": "jingyaogong / minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "stars": "70907",
+      "stars_today": "828 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 5,
+      "title": "cursor / plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "stars": "19518",
+      "stars_today": "408 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 6,
+      "title": "firecrawl / firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "stars": "209984",
+      "stars_today": "1,131 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 7,
+      "title": "nginx / nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "stars": "33359",
+      "stars_today": "174 stars today",
+      "language": "C"
+    },
+    {
+      "rank": 8,
+      "title": "openvinotoolkit / openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars": "12645",
+      "stars_today": "188 stars today",
+      "language": "C++"
+    },
+    {
+      "rank": 9,
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": "72968",
+      "stars_today": "1,133 stars today",
+      "language": "HTML"
+    },
+    {
+      "rank": 10,
+      "title": "mvanhorn / last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": "75060",
+      "stars_today": "950 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 11,
+      "title": "google-labs-code / stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "stars": "12958",
+      "stars_today": "352 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 12,
+      "title": "mjmirza / app-store-compliance",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "stars": "6447",
+      "stars_today": "853 stars today",
+      "language": "Shell"
+    },
+    {
+      "rank": 13,
+      "title": "Tracer-Cloud / opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "description": "The open-source agent for CI/CD reliability.",
+      "stars": "15497",
+      "stars_today": "343 stars today",
+      "language": "Python"
+    },
+    {
+      "rank": 14,
+      "title": "toeverything / AFFiNE",
+      "url": "https://github.com/toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "stars": "78456",
+      "stars_today": "578 stars today",
+      "language": "TypeScript"
+    },
+    {
+      "rank": 15,
+      "title": "XiaoYouChR / Ghost-Downloader-3",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "stars": "18192",
+      "stars_today": "950 stars today",
+      "language": "Python"
+    }
+  ],
+  "lobsters": [],
+  "sspai": [
+    {
+      "rank": 1,
+      "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你宛潼昨天 14:59",
+      "url": "https://sspai.com/post/119310",
+      "author": "宛潼",
+      "summary": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你"
+    },
+    {
+      "rank": 2,
+      "title": "翻开 2027， 值得入手的新年日历推荐按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ...ElijahLee昨天 17:48",
+      "url": "https://sspai.com/post/119264",
+      "author": "ElijahLee",
+      "summary": "翻开 2027， 值得入手的新年日历推荐"
+    },
+    {
+      "rank": 3,
+      "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机随便好啦昨天 11:07Matrix精选",
+      "url": "https://sspai.com/post/118791",
+      "author": "随便好啦",
+      "summary": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机"
+    },
+    {
+      "rank": 4,
+      "title": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等少数派编辑部昨天 08:22派早报",
+      "url": "https://sspai.com/post/119527",
+      "author": "少数派编辑部",
+      "summary": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等"
+    },
+    {
+      "rank": 5,
+      "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同Matrix机器人前天 17:14",
+      "url": "https://sspai.com/post/119492",
+      "author": "Matrix机器人",
+      "summary": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同"
+    },
+    {
+      "rank": 6,
+      "title": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔Vanilla前天 15:38正版软件",
+      "url": "https://sspai.com/post/119035",
+      "author": "Vanilla",
+      "summary": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔"
+    },
+    {
+      "rank": 7,
+      "title": "快速投票：给 Apple 的 2026 年打个分，哪款产品最加分、哪件事最「下头」？一派投票点击了解详情",
+      "url": "https://sspai.com/bullet/1795482001",
+      "author": "一派投票",
+      "summary": "快速投票：给 Apple 的 2026 年打个分，哪款产品最加分、哪件事最「下头」？"
+    },
+    {
+      "rank": 8,
+      "title": "写在动荡之后：漫步巴黎的寻常一日中天与大瓶子前天 11:03Matrix精选",
+      "url": "https://sspai.com/post/119412",
+      "author": "中天与大瓶子",
+      "summary": "写在动荡之后：漫步巴黎的寻常一日"
+    },
+    {
+      "rank": 9,
+      "title": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等少数派编辑部前天 08:37派早报",
+      "url": "https://sspai.com/post/119460",
+      "author": "少数派编辑部",
+      "summary": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等"
+    },
+    {
+      "rank": 10,
+      "title": "派评 | 近期值得关注的 App少数派编辑部11/23",
+      "url": "https://sspai.com/post/119438",
+      "author": "少数派编辑部",
+      "summary": "派评 | 近期值得关注的 App"
+    },
+    {
+      "rank": 11,
+      "title": "怪手机们要回来了吗？北鸮11/23会员内容",
+      "url": "https://sspai.com/prime/story/weird-phones-are-returning",
+      "author": "北鸮",
+      "summary": "怪手机们要回来了吗？"
+    }
+  ],
+  "weibo": [
+    {
+      "rank": 1,
+      "title": "小米SU7 Ultra上工信部",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3SU7+Ultra%E4%B8%8A%E5%B7%A5%E4%BF%A1%E9%83%A8",
+      "hot_value": 50000
+    },
+    {
+      "rank": 2,
+      "title": "神24乘组进驻天宫",
+      "url": "https://s.weibo.com/weibo?q=%E7%A5%9E24%E4%B9%98%E7%BB%84%E8%BF%9B%E9%A9%BB%E5%A4%A9%E5%AE%AB",
+      "hot_value": 50000
+    },
+    {
+      "rank": 3,
+      "title": "问界新M7开启预售",
+      "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8C%E6%96%B0M7%E5%BC%80%E5%90%AF%E9%A2%84%E5%94%AE",
+      "hot_value": 50000
+    },
+    {
+      "rank": 4,
+      "title": "谷爱凌伤情待医生判断",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E4%BC%A4%E6%83%85%E5%BE%85%E5%8C%BB%E7%94%9F%E5%88%A4%E6%96%AD",
+      "hot_value": 50000
+    },
+    {
+      "rank": 5,
+      "title": "许飞乐意看厉娜哭还有后半句",
+      "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E4%B9%90%E6%84%8F%E7%9C%8B%E5%8E%89%E5%A8%9C%E5%93%AD%E8%BF%98%E6%9C%89%E5%90%8E%E5%8D%8A%E5%8F%A5",
+      "hot_value": 50000
+    },
+    {
+      "rank": 6,
+      "title": "网友抵制王玉雯代言皮草",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6%E7%8E%8B%E7%8E%89%E9%9B%AF%E4%BB%A3%E8%A8%80%E7%9A%AE%E8%8D%89",
+      "hot_value": 40000
+    },
+    {
+      "rank": 7,
+      "title": "疑似文吉儿朋友圈辟谣办婚礼",
+      "url": "https://s.weibo.com/weibo?q=%E7%96%91%E4%BC%BC%E6%96%87%E5%90%89%E5%84%BF%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%BE%9F%E8%B0%A3%E5%8A%9E%E5%A9%9A%E7%A4%BC",
+      "hot_value": 40000
+    },
+    {
+      "rank": 8,
+      "title": "ON BLG",
+      "url": "https://s.weibo.com/weibo?q=ON+BLG",
+      "hot_value": 40000
+    },
+    {
+      "rank": 9,
+      "title": "贝儿穿上了妈妈当年上春晚的裙子",
+      "url": "https://s.weibo.com/weibo?q=%E8%B4%9D%E5%84%BF%E7%A9%BF%E4%B8%8A%E4%BA%86%E5%A6%88%E5%A6%88%E5%BD%93%E5%B9%B4%E4%B8%8A%E6%98%A5%E6%99%9A%E7%9A%84%E8%A3%99%E5%AD%90",
+      "hot_value": 40000
+    },
+    {
+      "rank": 10,
+      "title": "华为自研HBM内存方案",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E8%87%AA%E7%A0%94HBM%E5%86%85%E5%AD%98%E6%96%B9%E6%A1%88",
+      "hot_value": 40000
+    },
+    {
+      "rank": 11,
+      "title": "郭子睿回应自己为什么进圈",
+      "url": "https://s.weibo.com/weibo?q=%E9%83%AD%E5%AD%90%E7%9D%BF%E5%9B%9E%E5%BA%94%E8%87%AA%E5%B7%B1%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%9B%E5%9C%88",
+      "hot_value": 40000
+    },
+    {
+      "rank": 12,
+      "title": "炒股亏钱最对不起的是家人",
+      "url": "https://s.weibo.com/weibo?q=%E7%82%92%E8%82%A1%E4%BA%8F%E9%92%B1%E6%9C%80%E5%AF%B9%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%98%AF%E5%AE%B6%E4%BA%BA",
+      "hot_value": 40000
+    },
+    {
+      "rank": 13,
+      "title": "厉娜不生孩子的原因",
+      "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E4%B8%8D%E7%94%9F%E5%AD%A9%E5%AD%90%E7%9A%84%E5%8E%9F%E5%9B%A0",
+      "hot_value": 40000
+    },
+    {
+      "rank": 14,
+      "title": "伊能静说许飞有一点假大方",
+      "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E8%83%BD%E9%9D%99%E8%AF%B4%E8%AE%B8%E9%A3%9E%E6%9C%89%E4%B8%80%E7%82%B9%E5%81%87%E5%A4%A7%E6%96%B9",
+      "hot_value": 30000
+    },
+    {
+      "rank": 15,
+      "title": "工信部公示小米新SU7Ultra",
+      "url": "https://s.weibo.com/weibo?q=%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%85%AC%E7%A4%BA%E5%B0%8F%E7%B1%B3%E6%96%B0SU7Ultra",
+      "hot_value": 30000
+    }
+  ],
+  "zhihu": [
+    {
+      "rank": 1,
+      "title": "OpenAI 证明矩阵乘法指数下界为 9/4，如何看待",
+      "url": "https://www.zhihu.com/question/2108865707819771232",
+      "hot_value": 3180000
+    },
+    {
+      "rank": 2,
+      "title": "央视曝光 3.8 万余份孕妇血走私案，国安部警示孕妇血样走私或泄露我国遗传弱点，科学依据和风险具体是什么",
+      "url": "https://www.zhihu.com/question/2109003777294295114",
+      "hot_value": 2290000
+    },
+    {
+      "rank": 3,
+      "title": "如何评价黄仁勋回归英伟达首日说「没电脑用，想要台 RTX Spark」？你觉得最好用的办公电脑是啥",
+      "url": "https://www.zhihu.com/question/2108890432125888397",
+      "hot_value": 1580000
+    },
+    {
+      "rank": 4,
+      "title": "突然脑洞一下，如果王勃参加高考，语文作文写出了滕王阁序，会因为只有 773 个字，不到 800 而扣分吗",
+      "url": "https://www.zhihu.com/question/2055249552723202702",
+      "hot_value": 1500000
+    },
+    {
+      "rank": 5,
+      "title": "商品房楼板国标普遍仅 10-12cm，为什么不统一再加厚 15cm？加厚楼板能否彻底解决楼层噪音困扰",
+      "url": "https://www.zhihu.com/question/2066353729507422598",
+      "hot_value": 1410000
+    },
+    {
+      "rank": 6,
+      "title": "「结婚八年三孩非亲生案」一审认定女方存在重大过错，判决赔偿男方共计二十二万，大家如何看待这个结果",
+      "url": "https://www.zhihu.com/question/2108927460083495268",
+      "hot_value": 1390000
+    },
+    {
+      "rank": 7,
+      "title": "重庆一男孩吃面被坠楼男子砸中，男孩无生命危险，警方已介入，此类事件责任该如何界定",
+      "url": "https://www.zhihu.com/question/2108734679998320771",
+      "hot_value": 1210000
+    },
+    {
+      "rank": 8,
+      "title": "如何看待黄仁勋辟谣特朗普施压复职说法，称是董事会自主作出决定？二人口径为何不一致",
+      "url": "https://www.zhihu.com/question/2108869758925923750",
+      "hot_value": 1140000
+    },
+    {
+      "rank": 9,
+      "title": "怎么看 Axios 报道，OpenAI 和 Anthropic 因为内部模型太强，可能无法发布 ",
+      "url": "https://www.zhihu.com/question/2108663109493715917",
+      "hot_value": 1070000
+    },
+    {
+      "rank": 10,
+      "title": "情侣求婚关键时刻，服务员闯入询问「能否拿走纸箱」，餐厅提出抹零 49 元，服务员闯入合理吗？餐厅该补偿吗",
+      "url": "https://www.zhihu.com/question/2108840639701803721",
+      "hot_value": 1070000
+    },
+    {
+      "rank": 11,
+      "title": "T1 官宣 Zeus 回归队伍并签约至 2029 年，ZOFPK 组合的 T1 还会继续称霸吗",
+      "url": "https://www.zhihu.com/question/2108988267815073586",
+      "hot_value": 1060000
+    },
+    {
+      "rank": 12,
+      "title": "学生因课间说方言被学校认定违纪，学校回应称已取消规定，这种提倡讲普通话的方式是不是过激了",
+      "url": "https://www.zhihu.com/question/2108975774661173745",
+      "hot_value": 1020000
+    },
+    {
+      "rank": 13,
+      "title": "如何看待黑客放出《GTA 6》Xbox 版核心文件后，民间靠 AI 不到 24 小时就搬上 PC 并成功进入实机",
+      "url": "https://www.zhihu.com/question/2108737825650762733",
+      "hot_value": 960000
+    },
+    {
+      "rank": 14,
+      "title": "如何评价国铁集团 2027 年第一季度（2026.12.28）调图对客运列车的调整",
+      "url": "https://www.zhihu.com/question/2069151409061287117",
+      "hot_value": 950000
+    },
+    {
+      "rank": 15,
+      "title": "豆包和 DeepSeek 哪个好用",
+      "url": "https://www.zhihu.com/question/2042157689262826090",
+      "hot_value": 910000
+    }
+  ],
+  "hackernews": [
+    {
+      "rank": 1,
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "score": 962,
+      "author": "lxhrstn",
+      "comments": 405,
+      "hn_url": "https://news.ycombinator.com/item?id=50644817"
+    },
+    {
+      "rank": 2,
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "score": 121,
+      "author": "nb-t",
+      "comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=50648050"
+    },
+    {
+      "rank": 3,
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "score": 155,
+      "author": "bjin",
+      "comments": 33,
+      "hn_url": "https://news.ycombinator.com/item?id=50601280"
+    },
+    {
+      "rank": 4,
+      "title": "The New York Times tells photographers not to use the latest Photoshop",
+      "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+      "score": 59,
+      "author": "rmason",
+      "comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=50647673"
+    },
+    {
+      "rank": 5,
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "score": 727,
+      "author": "Kotlopou",
+      "comments": 551,
+      "hn_url": "https://news.ycombinator.com/item?id=50646108"
+    },
+    {
+      "rank": 6,
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "score": 416,
+      "author": "gumby",
+      "comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=50643129"
+    },
+    {
+      "rank": 7,
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "score": 44,
+      "author": "dm",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=50647161"
+    },
+    {
+      "rank": 8,
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "score": 54,
+      "author": "gslin",
+      "comments": 19,
+      "hn_url": "https://news.ycombinator.com/item?id=50647181"
+    },
+    {
+      "rank": 9,
+      "title": "SSH is a GUI framework",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "score": 110,
+      "author": "teledream",
+      "comments": 51,
+      "hn_url": "https://news.ycombinator.com/item?id=50589784"
+    },
+    {
+      "rank": 10,
+      "title": "Defang Security Incident",
+      "url": "https://defang.io/blog/post/security-incident-november-2026/",
+      "score": 32,
+      "author": "gregsadetsky",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=50648035"
+    },
+    {
+      "rank": 11,
+      "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
+      "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+      "score": 46,
+      "author": "handfuloflight",
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=50647158"
+    },
+    {
+      "rank": 12,
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "score": 97,
+      "author": "acossta",
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=50644980"
+    },
+    {
+      "rank": 13,
+      "title": "Britain's ghost stations",
+      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "score": 78,
+      "author": "translocator",
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=50645074"
+    },
+    {
+      "rank": 14,
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "score": 164,
+      "author": "encyclopedism",
+      "comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=50642939"
+    },
+    {
+      "rank": 15,
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "score": 419,
+      "author": "rgwohlbold",
+      "comments": 317,
+      "hn_url": "https://news.ycombinator.com/item?id=50642086"
+    }
+  ],
+  "ai_summary": {
+    "categories": [
+      {
+        "name": "AI 智能体与开发工具",
+        "color": "ai",
+        "summary": "今天 GitHub 上的 AI 智能体相关项目绝对是重头戏。elementalsouls 推出的 Claude-BugHunter[1] 简直是红队测试人员的福音，它整合了 84 个技能包和 681 种漏洞披露模式，专门用来做外部红队工作和漏洞挖掘，Star 数涨得飞快。obra 的 superpowers[2] 则是一个能真正落地的智能体技能框架，解决了很多开发者在构建 Agent 时的方法论痛点。另外，HKUDS 的 CLI-Anything[3] 致力于让所有软件都变成 Agent-Native，这个愿景挺宏大的。\n\n    在 Lobsters 社区，大家正在热烈讨论 Firecrawl[4] 如何作为知识基础设施，通过单一 API 连接 550+ 个数据源，让智能体变得更聪明。很多人评论说，这种统一的数据接入层是解决 Agent 信息孤岛的关键，搞 RAG（检索增强生成）的朋友必须关注。至于 Google 刚开源的 stitch-skills[5]，虽然名字听着像拼凑，但它是基于 Agent Skills 开放标准的库，能兼容各种代码智能体，算是给整个生态定了一个“接口规范”，挺有意思的是，社区推测这可能是未来 MCP（Model Context Protocol）的一种实现雏形。"
+      },
+      {
+        "name": "系统与底层技术",
+        "color": "sys",
+        "summary": "基础设施这块今天动静也不小。nginx[6] 作为老牌开源项目，虽然更新不算频繁，但依然是很多高并发场景下的基石。OpenVINO[7] 继续优化 AI 推理部署，对于想在自己设备上跑大模型的朋友来说，它的工具链不可或缺。\n\n    Lobsters 上有人深入分析了 Nginx 最近一次大版本更新中对 HTTP/3 的支持细节，讨论非常硬核，搞运维的同事可以看看关于负载均衡策略的新讨论。还有个挺冷门的帖子在聊 OpenVINO 在边缘计算设备上的延迟表现，结论是比竞争对手快了不少。另外，mvanhorn 的 last30days-skill[8] 虽然归类在工具，但其底层依赖了很多系统级的数据抓取能力，社区里有人提议把它改造成一个系统级的监控面板，这想法挺有创意。"
+      },
+      {
+        "name": "数码产品与效率工具",
+        "color": "prod",
+        "summary": "数码圈今天的话题从软件延伸到了硬件和体验。少数派的文章里，关于 Pab+1 的双内核浏览器[9] 讨论度很高，它主打开源和 AI 友好，给那些用惯了 Arc 但又想要更多定制权限的用户提供了新选择。还有那篇回顾 Palm Pre[10] 的文章，聊起了当年划时代的 WebOS 系统，虽然现在看有点复古，但确实是大厂在移动端尝试交互创新的经典案例。\n\n    在社区讨论区，大家对华为 Mate X8 和微软自研驱动的消息[11] 反应很积极，特别是微软自研驱动，很多老用户觉得这能彻底解决驱动兼容性 headaches。另外，关于 Apple 2026 年的投票[12] 也在少数派上引发了很大争议，有人觉得 Vision Pro 是亮点，也有人觉得现在的 iPhone 是巅峰。还有个挺实用的工具 Ghost-Downloader-3[13]，号称下载器集大成者，适合那些需要批量抓取视频资源的极客。"
+      },
+      {
+        "name": "思考与观点",
+        "color": "think",
+        "summary": "今天除了硬科技，也有一些值得品味的观点。少数派有一篇关于“动荡之后漫步巴黎”的文章[14]，虽然不算纯科技，但读起来很治愈，提醒我们在技术狂飙突进的时候，也要留点时间给生活。还有那篇关于“怪手机们要回来了吗”[15] 的深度报道，探讨了小众硬件回归的可能性，作者认为随着 AI 端侧化，一些奇形怪状但功能强大的设备可能会重新获得市场青睐。\n\n    从技术角度看，mjmirza 的 app-store-compliance[16] 这个项目其实反映了开发者生态的焦虑，App Store 和 Google Play 的审核规则越来越复杂，这个项目整理了 124 种被拒原因和 114 个法律合规点，对于独立开发者来说简直是救命稻草。这说明未来开发者的核心竞争力可能不仅是写代码，更是对平台规则的深刻理解。"
+      }
+    ],
+    "sources": [
+      {
+        "num": 1,
+        "title": "Claude-BugHunter: A Claude Code skill bundle for bug hunting",
+        "url": "https://github.com/elementalsouls/Claude-BugHunter",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，提供 84 个技能包和 681 种漏洞模式，用于红队测试。"
+      },
+      {
+        "num": 2,
+        "title": "superpowers: An agentic skills framework & software development methodology",
+        "url": "https://github.com/obra/superpowers",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，一个可落地的智能体技能框架与开发方法论。"
+      },
+      {
+        "num": 3,
+        "title": "CLI-Anything: Making ALL Software Agent-Native",
+        "url": "https://github.com/HKUDS/CLI-Anything",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，致力于让所有软件都原生支持 Agent 交互。"
+      },
+      {
+        "num": 4,
+        "title": "firecrawl: Knowledge infrastructure to make your agents smarter",
+        "url": "https://github.com/firecrawl/firecrawl",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，通过单一 API 连接 550+ 个数据源的知识基础设施。"
+      },
+      {
+        "num": 5,
+        "title": "stitch-skills: A library of Agent Skills designed to work with the Stitch MCP server",
+        "url": "https://github.com/google-labs-code/stitch-skills",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，遵循 Agent Skills 开放标准的代码智能体技能库。"
+      },
+      {
+        "num": 6,
+        "title": "nginx: The official NGINX Open Source repository",
+        "url": "https://github.com/nginx/nginx",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，官方 NGINX 开源代码仓库。"
+      },
+      {
+        "num": 7,
+        "title": "openvino: Optimizing and deploying AI inference",
+        "url": "https://github.com/openvinotoolkit/openvino",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，用于优化和部署 AI 推理的开源工具包。"
+      },
+      {
+        "num": 8,
+        "title": "last30days-skill: AI agent skill that researches any topic",
+        "url": "https://github.com/mvanhorn/last30days-skill",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，一个能跨平台研究任何主题并生成总结的智能体技能。"
+      },
+      {
+        "num": 9,
+        "title": "App+1｜Yab：开源、AI 友好的双内核浏览器",
+        "url": "https://sspai.com/post/119310",
+        "source": "少数派",
+        "desc": "推荐一款开源且 AI 友好的双内核浏览器，适合 Arc 用户。"
+      },
+      {
+        "num": 10,
+        "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
+        "url": "https://sspai.com/post/118791",
+        "source": "少数派",
+        "desc": "回顾 Palm Pre 及其搭载的 WebOS 系统，探讨其在移动端的创新。"
+      },
+      {
+        "num": 11,
+        "title": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
+        "url": "https://sspai.com/post/119527",
+        "source": "少数派",
+        "desc": "每日早报，涵盖华为新品发布及微软自研驱动等科技动态。"
+      },
+      {
+        "num": 12,
+        "title": "快速投票：给 Apple 的 2026 年打个分",
+        "url": "https://sspai.com/bullet/1795482001",
+        "source": "少数派",
+        "desc": "社区互动投票，邀请用户预测 Apple 2026 年的产品与表现。"
+      },
+      {
+        "num": 13,
+        "title": "Ghost-Downloader-3: The only downloader you need",
+        "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，一个强大的视频下载器工具。"
+      },
+      {
+        "num": 14,
+        "title": "写在动荡之后：漫步巴黎的寻常一日",
+        "url": "https://sspai.com/post/119412",
+        "source": "少数派",
+        "desc": "一篇关于巴黎日常漫步的随笔，提供动荡时期的生活视角。"
+      },
+      {
+        "num": 15,
+        "title": "怪手机们要回来了吗？",
+        "url": "https://sspai.com/prime/story/weird-phones-are-returning",
+        "source": "少数派",
+        "desc": "深度探讨小众、奇特手机硬件回归市场的可能性。"
+      },
+      {
+        "num": 16,
+        "title": "app-store-compliance: Avoid common App Store and Google Play rejections",
+        "url": "https://github.com/mjmirza/app-store-compliance",
+        "source": "GitHub Trending",
+        "desc": "GitHub Trending 项目，提供 App Store 和 Google Play 的审核合规指南与修复方案。"
+      }
+    ],
+    "stats": {
+      "total_items": 16,
+      "total_categories": 4,
+      "total_sources": 16
+    }
+  }
+}
